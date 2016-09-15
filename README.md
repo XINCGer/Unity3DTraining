@@ -8,4 +8,5 @@ Unity3D的练习项目
 >* [4.网络相关练习](https://github.com/XINCGer/Unity3DTraining/tree/master/WebTest)  
 >* [5.积分榜](https://github.com/XINCGer/Unity3DTraining/tree/master/HighScore)  
 >* [6.重力小球](https://github.com/XINCGer/Unity3DTraining/tree/master/BallGame)  
->* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)
+>* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)  
+>* [8.UGUI训练DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining)
