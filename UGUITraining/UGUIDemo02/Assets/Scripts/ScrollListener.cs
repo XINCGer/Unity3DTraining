@@ -6,6 +6,8 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
 
     private ScrollRect scrollRect;
     private float[] pageArray = new float []{ 0, 0.333333f, 0.666666f, 1 };
+    private float targetHorizontalPosition = 0;
+    private bool isDraging = false;
 	// Use this for initialization
 	void Start () {
         scrollRect=this.GetComponent<ScrollRect>();
@@ -13,12 +15,13 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
 	
 	// Update is called once per frame
 	void Update () {
-	
+        if(!isDraging)
+        scrollRect.horizontalNormalizedPosition = Mathf.Lerp(scrollRect.horizontalNormalizedPosition, targetHorizontalPosition, Time.deltaTime*4);
 	}
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        
+        isDraging = true;
     }
 
     /// <summary>
@@ -27,6 +30,7 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
     /// <param name="eventData"></param>
     public void OnEndDrag(PointerEventData eventData)
     {
+        isDraging = false;
         float posX = scrollRect.horizontalNormalizedPosition;
         Debug.Log(posX);
         int index=0;
@@ -43,6 +47,7 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
             }
         }
         Debug.Log(index);
-        scrollRect.horizontalNormalizedPosition = pageArray[index];
+        targetHorizontalPosition = pageArray[index];
+        //scrollRect.horizontalNormalizedPosition = pageArray[index];
     }
 }
