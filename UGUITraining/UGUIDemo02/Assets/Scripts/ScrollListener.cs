@@ -6,6 +6,7 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
 
     private ScrollRect scrollRect;
     private float[] pageArray = new float []{ 0, 0.333333f, 0.666666f, 1 };
+    public Toggle []toggleArray;
     private float targetHorizontalPosition = 0;
     private bool isDraging = false;
 	// Use this for initialization
@@ -48,6 +49,28 @@ public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
         }
         Debug.Log(index);
         targetHorizontalPosition = pageArray[index];
+        toggleArray[index].isOn = true;
         //scrollRect.horizontalNormalizedPosition = pageArray[index];
+    }
+
+    public void MoveToPage1(bool isOn)
+    {
+        if (isOn)
+            targetHorizontalPosition = pageArray[0];
+    }
+    public void MoveToPage2(bool isOn)
+    {
+        if (isOn)
+            targetHorizontalPosition = pageArray[1];
+    }
+    public void MoveToPage3(bool isOn)
+    {
+        if (isOn)
+            targetHorizontalPosition = pageArray[2];
+    }
+    public void MoveToPage4(bool isOn)
+    {
+        if (isOn)
+            targetHorizontalPosition = pageArray[3];
     }
 }
