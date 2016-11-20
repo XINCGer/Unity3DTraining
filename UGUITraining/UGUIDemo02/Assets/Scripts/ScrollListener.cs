@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Runtime.CompilerServices;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 public class ScrollListener : MonoBehaviour,IBeginDragHandler,IEndDragHandler {
