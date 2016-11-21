@@ -10,4 +10,5 @@ Unity3D的练习项目
 >* [6.重力小球](https://github.com/XINCGer/Unity3DTraining/tree/master/BallGame)  
 >* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)  
 >* [8.UGUI训练DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining)  
->* [9.AR小DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/ARTraining)
+>* [9.AR小DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/ARTraining)  
+>* [10.Unity3D中的物理研究](https://github.com/XINCGer/Unity3DTraining/tree/master/PhysicsStudy)  
