@@ -13,4 +13,5 @@ Unity3D的练习项目
 >* [9.AR小DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/ARTraining)  
 >* [10.Unity3D中的物理研究](https://github.com/XINCGer/Unity3DTraining/tree/master/PhysicsStudy)  
 >* [11.一些文档](https://github.com/XINCGer/Unity3DTraining/tree/master/Doc)   
->* [12.一些小测试](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest)
+>* [12.一些小测试](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest)   
+>* [13.DoTween插件练习](https://github.com/XINCGer/Unity3DTraining/tree/master/DoTweenTraining)
