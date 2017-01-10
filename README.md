@@ -15,4 +15,5 @@ Unity3D的练习项目
 >* [11.一些文档](https://github.com/XINCGer/Unity3DTraining/tree/master/Doc)   
 >* [12.一些小测试](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest)   
 >* [13.DoTween插件练习](https://github.com/XINCGer/Unity3DTraining/tree/master/DoTweenTraining)  
->* [14.UNet新功能练习](https://github.com/XINCGer/Unity3DTraining/tree/master/UNetTraining)
+>* [14.UNet新功能练习](https://github.com/XINCGer/Unity3DTraining/tree/master/UNetTraining)  
+>* [15.贝塞尔曲线研究](https://github.com/XINCGer/Unity3DTraining/tree/master/BezierTest)
