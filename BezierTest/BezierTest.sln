@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F9837CE-B5AE-5471-58AC-1BDB44EDCC19}") = "BezierTest", "Assembly-CSharp.csproj", "{4042678A-A7F3-937E-67D3-F249553FB9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4042678A-A7F3-937E-67D3-F249553FB9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4042678A-A7F3-937E-67D3-F249553FB9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4042678A-A7F3-937E-67D3-F249553FB9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4042678A-A7F3-937E-67D3-F249553FB9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
