@@ -17,4 +17,9 @@ public class PlayerController : NetworkBehaviour
         this.transform.Rotate(Vector3.up*h*rotateSpeed*Time.deltaTime);
         this.transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime * v);
 	}
+
+    public override void OnStartLocalPlayer()
+    {
+        GetComponent<MeshRenderer>().material.color=Color.blue;
+    }
 }
