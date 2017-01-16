@@ -21,20 +21,24 @@ public class PlayerController : NetworkBehaviour
 
 	    if (Input.GetKeyDown(KeyCode.Space))
 	    {
-	        Fire();
+	        CmdFire();
 	    }
 	}
 
     public override void OnStartLocalPlayer()
     {
+        //只会在生成本地角色时调用
         GetComponent<MeshRenderer>().material.color=Color.blue;
     }
 
-    private void Fire()
+    [Command]   //called in clint ,run in server
+    private void CmdFire()
     {
-       GameObject _bullet =  Instantiate(BulletPrefab, BulletSpawn.position, BulletSpawn.rotation);
+        //在Server端生成子弹，然后同步到各个客户端
+        GameObject _bullet =  Instantiate(BulletPrefab, BulletSpawn.position, BulletSpawn.rotation);
         _bullet.GetComponent<Rigidbody>().velocity = BulletSpawn.forward*10;
         Destroy(_bullet,2);
+        NetworkServer.Spawn(_bullet);
     }
 
     void OnCollisionEnter(Collision collider)
