@@ -20,11 +20,19 @@ public class Health : NetworkBehaviour
         {
             currentHealth = 0;
             Debug.Log("Dead!");
+            RpcReSpawn();
         }
     }
 
     void OnHealthChanged(int health)
     {
         _slider.value = health / (float)maxHealth;
+    }
+
+    [ClientRpc]
+    void RpcReSpawn()
+    {
+        if(isLocalPlayer == false)return;
+        transform.position=Vector3.zero;
     }
 }
