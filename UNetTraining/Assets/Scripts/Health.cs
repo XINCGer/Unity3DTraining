@@ -11,6 +11,7 @@ public class Health : NetworkBehaviour
     [SyncVar(hook = "OnHealthChanged")]
     public int currentHealth = maxHealth;
     public Slider _slider;
+    public bool DestoryOnDamage = false;
 
     public void TakeDamage(int damage)
     {
@@ -18,6 +19,11 @@ public class Health : NetworkBehaviour
         currentHealth -= damage;
         if (currentHealth < 0)
         {
+            if (DestoryOnDamage)
+            {
+                Destroy(gameObject);
+                return;
+            }
             currentHealth = 100;
             Debug.Log("Dead!");
             RpcReSpawn();
