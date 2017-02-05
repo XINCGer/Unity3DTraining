@@ -18,7 +18,7 @@ public class Health : NetworkBehaviour
         currentHealth -= damage;
         if (currentHealth < 0)
         {
-            currentHealth = 0;
+            currentHealth = 100;
             Debug.Log("Dead!");
             RpcReSpawn();
         }
