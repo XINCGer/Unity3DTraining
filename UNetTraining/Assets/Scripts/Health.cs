@@ -12,7 +12,8 @@ public class Health : NetworkBehaviour
     public int currentHealth = maxHealth;
     public Slider _slider;
     public bool DestoryOnDamage = false;
-
+    private NetworkStartPosition[] spawnPositions;
+    
     public void TakeDamage(int damage)
     {
         if (isServer == false) return;
@@ -30,6 +31,14 @@ public class Health : NetworkBehaviour
         }
     }
 
+    void Start()
+    {
+        if (isLocalPlayer)
+        {
+            spawnPositions = FindObjectsOfType<NetworkStartPosition>();
+        }
+    }
+
     void OnHealthChanged(int health)
     {
         _slider.value = health / (float)maxHealth;
@@ -39,6 +48,11 @@ public class Health : NetworkBehaviour
     void RpcReSpawn()
     {
         if(isLocalPlayer == false)return;
-        transform.position=Vector3.zero;
+        Vector3 spawnPoint = Vector3.zero;
+        if (spawnPositions != null && spawnPositions.Length > 0)
+        {
+            spawnPoint = spawnPositions[Random.Range(0, spawnPositions.Length)].transform.position;
+        }
+        transform.position = spawnPoint;
     }
 }
