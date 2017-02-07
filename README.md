@@ -18,4 +18,4 @@ Unity3D的练习项目
 >* [14.UNet新功能练习](https://github.com/XINCGer/Unity3DTraining/tree/master/UNetTraining)  
 >* [15.贝塞尔曲线研究](https://github.com/XINCGer/Unity3DTraining/tree/master/BezierTest)  
 >* [16.充电侠小游戏](https://github.com/XINCGer/Unity3DTraining/tree/master/BatteryMan)  
->* [17.仿写我的世界](https://github.com/XINCGer/Unity3DTraining/tree/master/Minecraft)
+>* [17.仿写《我的世界》](https://github.com/XINCGer/Unity3DTraining/tree/master/Minecraft)
