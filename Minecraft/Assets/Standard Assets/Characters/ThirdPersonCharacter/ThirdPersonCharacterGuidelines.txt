@@ -1,0 +1,29 @@
+In the ThirdPersonCharacter folder you'll find two ready-made character prefabs, which are used in the ThirdPersonCharacter sample scenes. These prefabs demonstrate how you can use the ThirdPersonCharacters scripts and animations we've included, including an AI-controlled variant which is able to walk towards a specified target, or follow a waypoint-based route.
+
+The simplest way to get started setting up your own character is to take our ThirdPersonCharacter and replace the art with your own model. To do so, make sure you've imported your own rigged model with a Humanoid avatar, then follow these steps:
+
+1) Start with a suitable scene. There ought to be enough flat ground to walk around on.
+
+2) Place the "ThirdPersonCharacter" prefab in the scene.
+
+3) Unfold the ThirdPersonCharacter hierarchy in the hierarchy window, and delete all child of "ThirdPersonController".
+
+4) Place your own character model as a child of the ThirdPersonCharacter.
+
+5) Drop the Avatar of your model (created by model importer, cf documentation) inside the Avatar slot of the Animator component on "ThirdPersonController"
+
+6) Make sure your character model's position in the inspector is set to zero on X and Z, and that it's Y position is appropriately adjusted so that your character's feet are at the same position as the ThirdPersonCharacter GameObject. (if you find it easier, you could add your character first before deleting Ethan, so that you can use Ethan's feet as a guide for where your character's feet should be)
+
+7) Hit play, and try controlling your character!
+
+You'll probably want to add a camera rig so that the camera follows the character as it runs off. See the Camera Rig guidelines for instructions on how to do that.
+
+The ThirdPersonCharacter script exposes a number of properties which determine the jump power, the amount of control while in air, and various other speed and behaviour modifiers. For more detail about each setting, see the comments in the script.
+
+The ThirdPersonUserControl script takes input from the "CrossPlatformInput" class included in the sample assets, however if you're not targeting mobile or prefer to use a different system to read input, you can simply use Unity's built-in Input class in place of CrossPlatformInput. For more information, see the CrossPlatformInput guidelines.
+
+The sample scenes provided works on standalone and also include cross platform touch controls which are set up and ready to publish to mobile.
+
+The ThirdPersonAIControl component can be added instead of the user control component, allowing the character to be AI controlled. This relies on a NavMeshAgent to pathfind the way to the target. The NavMeshAgent should be a child object of the Character, as demonstrated in the AI Character Prefab provided. If you want to create your own AI characters, you can follow the steps above, but start with the AI prefab we provided.
+
+

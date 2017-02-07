@@ -1,0 +1,15 @@
+The RollerBall prefab is a very simple controllable example which is designed to be used as-is. Just drop the prefab into your scene and you're good to go. It's designed as a minimal demonstration of using our Cross Platform Input scripts, and to demonstrate the way we've chosen to separate the input from the mechanics of the controller, so that you're free to swap in other input styles or AI controls.
+
+The ball converts its input to camera-relative motion, so it works fine with any of the camera rigs provided - even the CCTV Camera Rig!
+
+The simplest way to get started with the rolling ball controller is to:
+
+1) Start with a suitable scene. There ought to be enough flat ground to roll around on.
+
+2) Place the "RollerBall" prefab in the scene.
+
+3) Place a camera rig in the scene, from the Cameras folder.
+
+4) If present, delete the "Main Camera" that exists in new scenes by default. The camera rigs contain their own camera, so you don't need the default camera.
+
+There are a number of simple adjustable settings on the Ball allowing you to change the handling and jump power. For more information, see the comments in the script.

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1caf40fc8bebb6b43b2550c05ca791d6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

@@ -1,0 +1,18 @@
+The first-person character is a single prefab which is designed to be used as-is. There's usually no need to create your own from the separate scripts provided. Just drop the prefab into your scene and you're good to go.
+
+
+The simplest way to get started with the First Person Character is to follow these steps:
+
+1) Start with a suitable scene. There ought to be enough flat ground to walk around on.
+
+2) Place the "FirstPersonCharacter" prefab in the scene.
+
+3) If present, delete the "Main Camera" that exists in new scenes by default. The First Person Character prefab contains its own camera, so you don't need the default camera, or any of the camera rigs to use it.
+
+The first-person character is made up of a few components acting together. The FirstPersonCharacter script provides the functionality of moving, strafing and jumping. The SimpleMouseRotator provides the functionality of turning the body of the character left and right, and another copy of the same script on the "FirstPersonCamera" controls the looking-up-and-down effect.
+
+There is also an optional "Head Bob" script which provides a head bobbing effect and optionally also plays footstep sounds in sync with the head bobbing. This script can be disabled or removed if required.
+
+There are a number of simple adjustable settings on each component allowing you to change the movement speed, jump power, head bob style, and more. For more detail about each setting, see the comments in each script.
+
+The Character script also requires references to "zero friction" and "max friction" physics materials. These are provided already set-up for you.

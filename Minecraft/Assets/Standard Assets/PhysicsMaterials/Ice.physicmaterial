@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!134 &13400000
+PhysicMaterial:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ice
+  dynamicFriction: .100000001
+  staticFriction: .100000001
+  bounciness: 0
+  frictionCombine: 2
+  bounceCombine: 2
+  frictionDirection2: {x: 0, y: 0, z: 0}
+  dynamicFriction2: 0
+  staticFriction2: 0
+--- !u!1002 &13400001
+EditorExtensionImpl:
+  serializedVersion: 6
