@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp-firstpass.csproj", "{9F0B7528-384F-CABB-F67A-6E79D00E9438}"
+EndProject
+Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp.csproj", "{6D84558F-D623-0CB4-722B-FC6D96BDFC85}"
+EndProject
+Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp-Editor-firstpass.csproj", "{A72A0A26-2701-5F1F-F45D-A093FF0335EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0B7528-384F-CABB-F67A-6E79D00E9438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0B7528-384F-CABB-F67A-6E79D00E9438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0B7528-384F-CABB-F67A-6E79D00E9438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0B7528-384F-CABB-F67A-6E79D00E9438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D84558F-D623-0CB4-722B-FC6D96BDFC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D84558F-D623-0CB4-722B-FC6D96BDFC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D84558F-D623-0CB4-722B-FC6D96BDFC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D84558F-D623-0CB4-722B-FC6D96BDFC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72A0A26-2701-5F1F-F45D-A093FF0335EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72A0A26-2701-5F1F-F45D-A093FF0335EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72A0A26-2701-5F1F-F45D-A093FF0335EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72A0A26-2701-5F1F-F45D-A093FF0335EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
