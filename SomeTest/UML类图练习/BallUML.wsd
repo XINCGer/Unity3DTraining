@@ -1,0 +1,142 @@
+@startuml
+
+namespace LBSD.KingOfSoccer.SteeringSystem {
+    abstract class Vehicle{
+        - Dictionary<System.Type, Steering> m_steeringDic
+        + void RegisterSteering(Steering steering)
+        + bool UnregisterSteering<T>()
+        + T GetSteering<T>()
+    }
+    abstract class Steering{
+        - System.Type m_steeringType
+        + System.Type SteeringType{ get; }
+        + GameObject gameObject
+        + Transform transform
+        - void Init(System.Type type, GameObject target)
+        + virtual void Init()
+        + {static} T Create<T>(GameObject target)
+    }
+    Steering <.. Vehicle:"depend"
+    note left of Steering:"球员行为控制抽象类"
+    note left of Vehicle:"球员控制抽象类"
+}
+
+namespace UnityEngine {
+    MonoBehaviour <|-- LBSD.KingOfSoccer.SteeringSystem.Vehicle:"extends"
+}
+
+namespace LBSD.KingOfSoccer.MatchScene{
+    enum BallRunType{
+        None
+        Pass
+        Shoot
+    }
+    enum PlayerTeam{
+        HomeTeam
+        AwayTeam
+    }
+    class BallControl{
+        - float _horizontalSpeedMagnitude; 
+        - const float PI = Mathf.PI; 
+        - const float RADIUS = 0.11f;
+        - float _timeScaleDG;
+        - float _timeDG;
+        - BallRunType _ballRunType;
+        - bool _shootSuccess;
+        - Vector3 _targetPosition;
+        - PlayerTeam _team;
+        - PlayerControl _shooter;
+        - Vector3 _shootStartPoint;
+        - Vector3 _shootEndPoint;
+        - float _shootTime;
+        - GroundBallAction _groundBallAction;
+        - BezierShootBallAction _bezierShootBallAction;
+        - Match _match;
+        - MatchLogicDesc _matchLogicDesc;
+        + Vector3 speed;
+        + Transform ballModel;
+        + float multiple; 
+        + Vector3 beHoldPoint;
+        + Vector3 StealPosition;
+        + float TimeScaleDG{ get;set;}
+        + BallRunType BallRunType{ get;set;}
+        + float HorizontalSpeedMagnitude{ get;set;}
+        ==Function==
+         void Start()
+         void Update()
+        - void SetScore()
+        - void RegisterBezierShootBallAction()
+        - void RegisterUnGroundBallAction()
+        - void RegisterGroundBallAction()      
+        - Vector3 GetOffset(Vector3 point)
+        - Vector3 GetControlPoint(Vector3 point)
+        - void ResetBallRotation(Vector3 target)
+        - Vector3 SetPositionY(Vector3 endPosition)                
+        - IEnumerator HitNetAndRollJump(float time,Vector3 endPoint,float duration)  
+        - void LinerPassBall(Vector3 startPosition, Vector3 endPosition, float time, Ease ease)
+        - void BezierPassBall(Vector3 startPosition, Vector3 controlPosition, Vector3 endPosition, float time)        
+        - void LinerShootBall(Vector3 startPosition, Vector3 endPosition, float time, Ease ease, PlayerControl shooter) 
+        - void BezierShootBall(Vector3 startPosition, Vector3 controlPosition, Vector3 endPosition, float time, PlayerControl shooter) 
+        + void StopDoTween()
+        + void ShootSuccess()
+        + float ReturnSurplusTime()
+        + void Initialize(Match match, MatchLogicDesc matchLogicDesc)        
+        + float ReturnSurplusTime(Vector3 gkSavepoint)
+        + void BezierAddForce(Vector3 startPosition, Vector3 endPosition, float time, float controlHeight)
+        + void AddForceToBall(Vector3 startPosition, Vector3 endPosition, float time, Ease ease, bool resetY = true)
+        + void PassBall(Vector3 startPosition, Vector3 controlPosition, Vector3 endPosition, float time, Ease ease)
+        + void ShootBall(Vector3 startPosition, Vector3 controlPosition, Vector3 endPosition, float time, Ease ease, PlayerControl shooter,bool isSuccess)    
+    }
+
+    class PlayerControl{
+
+    }
+    class Match{
+
+    }
+    class MatchLogicDesc{
+
+    }
+    note right of BallControl:"足球控制类"
+    note left of PlayerControl:"球员控制类"
+    LBSD.KingOfSoccer.SteeringSystem.Vehicle <|-- BallControl:"extends"
+    LBSD.KingOfSoccer.SteeringSystem.Vehicle <|-- PlayerControl:"extends"
+    UnityEngine.MonoBehaviour <|-- Match:"extends"
+    UnityEngine.MonoBehaviour <|-- MatchLogicDesc:"extends"
+    BallControl o--> BallRunType
+    BallControl o--> PlayerTeam
+    BallControl O--> Match
+    BallControl O--> MatchLogicDesc
+    PlayerControl "1"--"1" BallControl
+}
+
+class GroundBallAction{
+    - BallControl m_ballController;
+    ==Function==
+    + override void Init()
+    + void AddForceToBallOutQuad(Vector3 startPosition, Vector3 endPosition, float time)
+    + void AddForceToBall(Vector3 startPosition, Vector3 endPosition, float time, Ease ease,float angle,float delay)
+}
+LBSD.KingOfSoccer.SteeringSystem.Steering <|-- GroundBallAction:"extends"
+LBSD.KingOfSoccer.MatchScene.BallControl "1" --- "1" GroundBallAction
+note bottom of GroundBallAction:"地滚球行为类"
+
+class BezierShootBallAction{
+    - BallControl m_ballController;
+    + override void Init()
+    + void BezierShoot(Vector3 startPoint, Vector3 controlPoint, Vector3 endPoint, float time, Ease ease = Ease.Linear,int segmentNum=20)
+    + void BezierPass(Vector3 startPoint, Vector3 controlPoint, Vector3 endPoint, float time, Ease ease = Ease.Linear, int segmentNum = 20)
+}
+LBSD.KingOfSoccer.SteeringSystem.Steering <|-- BezierShootBallAction:"extends"
+LBSD.KingOfSoccer.MatchScene.BallControl "1" --- "1" BezierShootBallAction
+note bottom of BezierShootBallAction:"曲线运动足球行为类"
+
+class BezierUtils{
+    - {static}  Vector3 CalculateCubicBezierPoint(float t, Vector3 p0, Vector3 p1, Vector3 p2)
+    + {static} Vector3 [] GetBeizerList(Vector3 startPoint, Vector3 controlPoint, Vector3 endPoint,int segmentNum)
+}
+
+BezierUtils <.. BezierShootBallAction:"depend"
+BezierUtils <.. GroundBallAction:"depend"
+note bottom of BezierUtils:"贝塞尔曲线计算工具类"
+@enduml
