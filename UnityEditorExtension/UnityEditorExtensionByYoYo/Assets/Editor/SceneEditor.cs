@@ -12,7 +12,7 @@ public class SceneEditor : Editor {
         //得到脚本所挂载的物体
         ChangeObjectInfo changeObjectInfo = (ChangeObjectInfo)target;
         Renderer renderer = changeObjectInfo.GetComponent<Renderer>();
-        Handles.Label(changeObjectInfo.transform.position,changeObjectInfo.name+":"+changeObjectInfo.transform.position.ToString());
+        Handles.Label(changeObjectInfo.transform.position, changeObjectInfo.name + ":" + changeObjectInfo.transform.position.ToString());
         //开始绘制GUI
         Handles.BeginGUI();
         //规定GUI的显示区域
@@ -23,7 +23,7 @@ public class SceneEditor : Editor {
         GUI.color = Color.red;
         if (GUILayout.Button("红色")) {
             Debug.Log("红色");
-            renderer.sharedMaterial.color=Color.red;
+            renderer.sharedMaterial.color = Color.red;
         }
         GUI.color = Color.green;
         if (GUILayout.Button("绿色")) {
