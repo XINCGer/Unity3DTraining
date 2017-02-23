@@ -10,7 +10,7 @@ public class ChangeInspector : MonoBehaviour {
     private string remark;//备注
     private float sliderValue = 0.8f;//进度值
     private bool isOpen = true;
-    private EDirType type=EDirType.up;
+    private EDirType type = EDirType.up;
     private float theValue1 = 0f;
     private float theValue2 = 0f;
     private bool isAdd = false;
@@ -40,26 +40,22 @@ public class ChangeInspector : MonoBehaviour {
         set { isOpen = value; }
     }
 
-    public EDirType Type
-    {
+    public EDirType Type {
         get { return type; }
         set { type = value; }
     }
 
-    public float TheValue1
-    {
+    public float TheValue1 {
         get { return theValue1; }
         set { theValue1 = value; }
     }
 
-    public float TheValue2
-    {
+    public float TheValue2 {
         get { return theValue2; }
         set { theValue2 = value; }
     }
 
-    public bool IsAdd
-    {
+    public bool IsAdd {
         get { return isAdd; }
         set { isAdd = value; }
     }

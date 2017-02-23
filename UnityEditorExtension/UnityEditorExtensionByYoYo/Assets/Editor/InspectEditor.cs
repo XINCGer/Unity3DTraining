@@ -5,8 +5,7 @@ using UnityEngine;
 using Tool;
 
 [CustomEditor(typeof(ChangeInspector))]
-public class InspectEditor : Editor
-{
+public class InspectEditor : Editor {
     private bool groundEnable = false;
     public override void OnInspectorGUI() {
         base.OnInspectorGUI();
@@ -18,7 +17,7 @@ public class InspectEditor : Editor
         //绘制滑动条
         inspector.SliderValue = EditorGUILayout.Slider("进度值", inspector.SliderValue, 0, 1f);
         inspector.IsOpen = EditorGUILayout.Toggle("开启", inspector.IsOpen);
-        inspector.Type = (EDirType) EditorGUILayout.EnumPopup("方向", inspector.Type);
+        inspector.Type = (EDirType)EditorGUILayout.EnumPopup("方向", inspector.Type);
 
         //绘制一个复选框组
         GUILayout.Label("*****以下是附加设置*****");
