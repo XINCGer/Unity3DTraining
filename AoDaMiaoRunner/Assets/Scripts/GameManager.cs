@@ -23,6 +23,7 @@ public class GameManager : MonoBehaviour
 {
 
     public ScreenInfo screenInfo;
+    public GameObject player;
 
     void Awake()
     {
