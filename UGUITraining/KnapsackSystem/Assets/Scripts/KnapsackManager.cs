@@ -32,6 +32,9 @@ public class KnapsackManager : MonoBehaviour {
         itemGameObject.transform.SetParent(emptyGrid);
         itemGameObject.transform.localPosition = Vector3.zero;
         itemGameObject.transform.localScale = Vector3.one;
+
+        //信息存储
+        ItemModel.StoreItem(emptyGrid.name,temp);
     }
 
     //模拟数据加载的过程
