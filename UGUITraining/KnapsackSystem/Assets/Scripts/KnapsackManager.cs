@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Text;
 using UnityEngine;
 
 public class KnapsackManager : MonoBehaviour {
@@ -7,7 +8,8 @@ public class KnapsackManager : MonoBehaviour {
     private Dictionary<int, Item> ItemList;
     private static KnapsackManager _instance;
     public GridPanelUI GridPanelUi;
-
+    public TooltipsUI TooltipsUI;
+    private bool isShow = false;
     public static KnapsackManager Instance {
         get { return _instance; }
     }
@@ -15,8 +17,66 @@ public class KnapsackManager : MonoBehaviour {
     public void Awake() {
         _instance = this;
         Load();
+        //事件注册
+        GridUI.OnEnter += GridUI_OnEnter;
+        GridUI.OnExit += GridUI_OnExit;
     }
 
+    void Update()
+    {
+        Vector2 position;
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(GameObject.Find("Canvas").transform as RectTransform,
+            Input.mousePosition, null, out position);
+        if (isShow)
+        {
+            TooltipsUI.Show();
+            TooltipsUI.SetLocalPosition(position);
+        }
+    }
+
+    #region 事件回调
+    private void GridUI_OnExit() {
+        TooltipsUI.Hide();
+        isShow = false;
+    }
+
+    private void GridUI_OnEnter(Transform gridTransform) {
+        Item item = ItemModel.GetItem(gridTransform.name);
+        if (item == null) return;
+        else
+        {
+            string text = GetTooltipText(item);
+            TooltipsUI.UpdateTooltip(text);
+        }
+        isShow = true;
+    }
+
+
+    #endregion
+    private string GetTooltipText(Item item) {
+        if (item == null)
+            return "";
+        StringBuilder sb = new StringBuilder();
+        sb.AppendFormat("<color=red>{0}</color>\n\n", item.Name);
+        switch (item.ItemType) {
+            case "Armor":
+                Armor armor = item as Armor;
+                sb.AppendFormat("力量:{0}\n防御:{1}\n敏捷:{2}\n\n", armor.Power, armor.Defend, armor.Agility);
+                break;
+            case "Consumable":
+                Consumable consumable = item as Consumable;
+                sb.AppendFormat("HP:{0}\nMP:{1}\n\n", consumable.BackHp, consumable.BackMp);
+                break;
+            case "Weapon":
+                Weapon weapon = item as Weapon;
+                sb.AppendFormat("攻击:{0}\n\n", weapon.Damage);
+                break;
+            default:
+                break;
+        }
+        sb.AppendFormat("<size=25><color=white>购买价格：{0}\n出售价格：{1}</color></size>\n\n<color=yellow><size=20>描述：{2}</size></color>", item.BuyPrice, item.SellPrice, item.Description);
+        return sb.ToString();
+    }
     public void StoreItem(int itemId) {
         if (!ItemList.ContainsKey(itemId))
             return;
@@ -34,7 +94,7 @@ public class KnapsackManager : MonoBehaviour {
         itemGameObject.transform.localScale = Vector3.one;
 
         //信息存储
-        ItemModel.StoreItem(emptyGrid.name,temp);
+        ItemModel.StoreItem(emptyGrid.name, temp);
     }
 
     //模拟数据加载的过程
