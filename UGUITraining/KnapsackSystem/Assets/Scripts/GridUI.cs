@@ -4,8 +4,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class GridUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler {
+public class GridUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IBeginDragHandler, IDragHandler, IEndDragHandler {
 
+    #region Enter And Exit
     public static Action<Transform> OnEnter;
     public static Action OnExit;
     public void OnPointerExit(PointerEventData eventData) {
@@ -23,5 +24,18 @@ public class GridUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler {
                 OnEnter(transform);
             }
         }
+    }
+    #endregion
+
+    public void OnBeginDrag(PointerEventData eventData) {
+        throw new NotImplementedException();
+    }
+
+    public void OnDrag(PointerEventData eventData) {
+        throw new NotImplementedException();
+    }
+
+    public void OnEndDrag(PointerEventData eventData) {
+        throw new NotImplementedException();
     }
 }
