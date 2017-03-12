@@ -27,15 +27,31 @@ public class GridUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, 
     }
     #endregion
 
+
+    public static Action<Transform> OnLeftBeginDrag;
+    public static Action<Transform,Transform> OnLeftEndDrag;
     public void OnBeginDrag(PointerEventData eventData) {
-        throw new NotImplementedException();
+        if (eventData.button == PointerEventData.InputButton.Left) {
+            if (OnLeftBeginDrag != null) {
+                OnLeftBeginDrag(transform);
+            }
+        }
     }
 
     public void OnDrag(PointerEventData eventData) {
-        throw new NotImplementedException();
+
     }
 
     public void OnEndDrag(PointerEventData eventData) {
-        throw new NotImplementedException();
+        if (eventData.button == PointerEventData.InputButton.Left) {
+            if (OnLeftEndDrag != null) {
+                if (eventData.pointerEnter == null)
+                {
+                    OnLeftEndDrag(transform,null);
+                }
+                else
+                OnLeftEndDrag(transform,eventData.pointerEnter.transform);
+            }
+        }
     }
 }
