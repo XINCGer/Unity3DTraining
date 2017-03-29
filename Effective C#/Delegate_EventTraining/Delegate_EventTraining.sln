@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_EventTraining.CSharp", "Delegate_EventTraining.CSharp.csproj", "{CE646709-3D34-09CC-2FA1-DE05D0080715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_EventTraining.CSharp.Editor", "Delegate_EventTraining.CSharp.Editor.csproj", "{3A0066BC-C5CF-0FF3-0485-CE5883C3C04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE646709-3D34-09CC-2FA1-DE05D0080715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE646709-3D34-09CC-2FA1-DE05D0080715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE646709-3D34-09CC-2FA1-DE05D0080715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE646709-3D34-09CC-2FA1-DE05D0080715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0066BC-C5CF-0FF3-0485-CE5883C3C04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0066BC-C5CF-0FF3-0485-CE5883C3C04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0066BC-C5CF-0FF3-0485-CE5883C3C04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0066BC-C5CF-0FF3-0485-CE5883C3C04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

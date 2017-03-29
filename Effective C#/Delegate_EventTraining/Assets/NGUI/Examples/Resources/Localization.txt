@@ -1,0 +1,8 @@
+KEY,English,Français
+Flag,Flag-US,Flag-FR
+Language,English,Français
+Info,Localization example,Par exemple la localisation
+Sound,Sound,Son
+Music,Music,Musique
+Desc,English localization,La localisation française
+Paragraph,"This example shows how to ""implement"" localization using NGUI. In order to localize a widget, simply attach [000000]UILocalize[-] script to it. The script will localize the sprite if it's a [000000]UISprite[-], or the text if it's a [000000]UILabel[-]. If you want to localize something else, just implement the [000000]OnLocalize[-] function. Either way, the actual data is defined via text assets specified on the [000000]Localization[-] script which must be present in the scene.","Cet exemple montre comment implémenter la localisation en utilisant NGUI. Pour localiser un widget, il suffit d'y attacher le script [000000]UILocalize[-]. Ce script localisera le sprite si c'est un [000000]UISprite[-], ou le texte si c'est un [000000]UILabel[-]. Si vous voulez localiser autre chose, il suffit d'implémenter la fonction [000000]OnLocalize[-]. Dans tous les cas, les données sont définies par l'intermédiaire de documents texte spécifiés dans le script [000000]Localization[-] qui doit être présent dans la scène."

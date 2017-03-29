@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: cab912f3009b43843b0a48ac3120c6ad
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 0
+  forceToMono: 1
+  useHardware: 0
+  loopable: 0
