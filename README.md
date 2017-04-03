@@ -23,4 +23,5 @@ Unity3D的练习项目
 >* [19.【山寨】八分音符酱](https://github.com/XINCGer/Unity3DTraining/tree/master/AoDaMiaoRunner)  
 >* [20.Lua语法练习](https://github.com/XINCGer/Unity3DTraining/tree/master/LuaTraining)  
 >* [21.单元测试的艺术](https://github.com/XINCGer/Unity3DTraining/tree/master/Unit4Unity)  
->* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)
+>* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)   
+>* [23.I18N 国际化（本地化）](https://github.com/XINCGer/Unity3DTraining/tree/master/I18N_Localization)
