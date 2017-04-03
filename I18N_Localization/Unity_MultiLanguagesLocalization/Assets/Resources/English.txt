@@ -1,0 +1,4 @@
+﻿welcome:Welcome to my class
+start:Start learning
+continue:Continue learning
+exit:Exit learning

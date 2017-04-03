@@ -1,0 +1,4 @@
+﻿welcome:ようこそ私のレッスンに入ります
+start:勉強を始める
+continue:勉強を続ける
+exit:勉強をする
