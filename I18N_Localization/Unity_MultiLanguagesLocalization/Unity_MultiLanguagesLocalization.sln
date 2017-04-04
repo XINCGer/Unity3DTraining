@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_MultiLanguagesLocalization.CSharp", "Unity_MultiLanguagesLocalization.CSharp.csproj", "{935B5993-1B02-976C-94CA-FC340ED03F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935B5993-1B02-976C-94CA-FC340ED03F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B5993-1B02-976C-94CA-FC340ED03F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B5993-1B02-976C-94CA-FC340ED03F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B5993-1B02-976C-94CA-FC340ED03F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
