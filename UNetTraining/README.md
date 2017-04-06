@@ -1,5 +1,5 @@
-##UNet功能练习  
-##UNet局域网射击小游戏  
+## UNet功能练习  
+## UNet局域网射击小游戏  
 
 >* 开发环境  
 Unity5.5.0f3+vs2013  
@@ -9,9 +9,9 @@ Unity5.5.0f3+vs2013  
 >* Win版下载  
 [点我下载](http://pan.baidu.com/s/1i4ZT2Zz)密码：hoqh   
 
-##Unity3D UNet网络组件详解
+## Unity3D UNet网络组件详解
 
-###UNet常见概念简介
+### UNet常见概念简介
 
 * Spawn:简单来说，把服务器上的GameObject，根据上面的NetworkIdentity组件找到对应监视连接，在监视连接里生成相应的GameObject.
 
@@ -28,7 +28,7 @@ Unity5.5.0f3+vs2013  
 　　上面的大部分特性都会转化成相应的MsgType,其中服务器调用，客户端执行对应MsgType有如Spawn,ClientRpc,SyncVar对应的MsgType分别为ObjectSpawn,Rpc,UpdateVars,这些都是NetworkServer调用，客户端得到相应消息，执行相应方法。客户端调用，服务器执行的MsgType有如Command,客户端发送，服务器检测到相应消息后执行。
 　　
 
-###UNet主要类介绍
+### UNet主要类介绍
 
 * NetworkIdentity组件介绍：网络物体最基本的组件，客户端与服务器确认是否是一个物体(netID)，也用来表示各个状态，如是否是服务器，是否是客户端，是否有权限，是否是本地玩家等。一个简单例子，A是Host(又是服务器，又是客户端），B是一个Client,A与B分别有一个玩家PlayA与PlayB.在机器A上，playA与playB isServer为true,isClent为true,其中playA有权限，是本地玩家，B没权限，也不是本地玩家。在机器B上，playA与playB isServer为false,isClent为true,其中playB有权限，是本地玩家，A没权限，也不是本地玩家。A与B上的PlayA的netID相同，A与B上的PlayB的netID也相同，其中netID用来表示他们是同一网络物体在不同的机器上。在下面用网络物体来表示带有NetworkIdentity组件的GameObject.
 * NetworkConnection:定义一个客户端与服务器的连接，包含当前客户端监视那些服务器上的网络物体，以及封装发送和接收到服务器的消息。
@@ -43,7 +43,7 @@ Unity5.5.0f3+vs2013  
 
 * ClientScene:主要持有一个静态NetworkScene对象，用于注册网络物体的prefab列表,以及客户端场景上已经有的网络物体列表，处理SyncVar,Rpc,SyncEvent特性等，还有以及ObjectSpawn,objectDestroy,objectHide消息等。
 
-###UNet用时想到的问题
+### UNet用时想到的问题
 
 * 问题1 spawn发生了什么，客户端为什么要注册相应的prefab.  
   当服务器spawn一个网络物体时,网络物体调用OnStartServer,分配netID.并注册到相应服务器上的的NetworkScene的网络物体列表中，更新如isServer为true等信息。   
