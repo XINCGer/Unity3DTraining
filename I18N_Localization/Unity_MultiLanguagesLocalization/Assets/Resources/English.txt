@@ -1,4 +1,4 @@
-﻿welcome:Welcome to my class
+﻿welcome:Unity Internationalization Tutorial
 start:Start learning
 continue:Continue learning
 exit:Exit learning

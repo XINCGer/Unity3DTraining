@@ -1,4 +1,4 @@
-﻿welcome:欢迎大家加入我的课程
+﻿welcome:Unity国际化学习
 start:开始学习
 continue:继续学习
 exit:退出学习
