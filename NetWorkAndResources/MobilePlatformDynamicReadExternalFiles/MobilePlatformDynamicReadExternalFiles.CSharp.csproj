@@ -75,10 +75,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AssetBunbleReader.cs" />
     <Compile Include="Assets\Scripts\XMLReader.cs" />
+    <Compile Include="Assets\Scripts\XMLReaderStreaming.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Test.xml" />
+    <None Include="Assets\StreamingAssets\Test.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2012\UnityVS.CSharp.targets" />
 </Project>
