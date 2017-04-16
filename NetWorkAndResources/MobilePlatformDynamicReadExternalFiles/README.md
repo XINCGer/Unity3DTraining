@@ -2,3 +2,5 @@
 * [教程地址](http://www.cnblogs.com/murongxiaopifu/p/4199541.html)  
 * 预览  
 > ![](https://github.com/XINCGer/Unity3DTraining/blob/master/NetWorkAndResources/MobilePlatformDynamicReadExternalFiles/Previews/1.png)  
+> ![](https://github.com/XINCGer/Unity3DTraining/blob/master/NetWorkAndResources/MobilePlatformDynamicReadExternalFiles/Previews/2.png)   
+
