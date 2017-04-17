@@ -26,4 +26,5 @@
 >* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)   
 >* [23.I18N 国际化（本地化）](https://github.com/XINCGer/Unity3DTraining/tree/master/I18N_Localization)  
 >* [24.内存池和对象池](https://github.com/XINCGer/Unity3DTraining/tree/master/MemoryPool_ObjectPool)  
+>* [25.Unity游戏开发之常用设计模式](https://github.com/XINCGer/Unity3DTraining/tree/master/DesignPatterns)  
 
