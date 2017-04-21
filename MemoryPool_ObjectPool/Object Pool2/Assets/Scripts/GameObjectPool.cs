@@ -18,16 +18,37 @@ public class GameObjectPool : MonoBehaviour
         return _instance;
     }
 
-    private static Dictionary<string,List<Object>> pool = new Dictionary<string, List<Object>>();
+    private static Dictionary<string,List<GameObject>> pool = new Dictionary<string, List<GameObject>>();
 
     public void Awake()
     {
         _instance = this;
     }
 
-    public static Object Get(string prefabName, Vector3 position, Quaternion ratation)
+    public static Object Get(string prefabName, Vector3 position, Quaternion rotation)
     {
         //拼接制作dic的key名，因为instantiate出的gameobject都会自动命名为gameobject(Clone),这里是为了通下面store方法里给key的命名匹配
         string key = prefabName + "(Clone)";
+        GameObject go;
+        //如果字典里有这个key 并且key对应的数组不为空（有该种类子弹，且该种类子弹中有已经创建过的（未激活）的子弹
+        if (pool.ContainsKey(key) && pool[key].Count > 0)
+        {
+            //从gameobjectname这个key位置取出数组
+            List<GameObject> list = pool[key];
+            //取出一号位的子弹
+            go = list[0] as GameObject;
+            //从列表中去除这个子弹（拿出来用）
+            list.RemoveAt(0);
+            //初始化状态
+            go.SetActive(true);
+            go.transform.position = position;
+            go.transform.rotation = rotation;
+        }
+        //如果对象池中没有对象
+        else
+        {
+            go = Instantiate(Resources.Load(prefabName), position, rotation) as GameObject;
+        }
+        return go;
     }
 }
