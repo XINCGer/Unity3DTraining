@@ -18,14 +18,15 @@ public class GameObjectPool : MonoBehaviour
         return _instance;
     }
 
-    private static Dictionary<string,List<GameObject>> pool = new Dictionary<string, List<GameObject>>();
+    private static Dictionary<string, List<GameObject>> pool = new Dictionary<string, List<GameObject>>();
 
     public void Awake()
     {
         _instance = this;
     }
 
-    public static Object Get(string prefabName, Vector3 position, Quaternion rotation)
+
+    public static GameObject Get(string prefabName, Vector3 position, Quaternion rotation)
     {
         //拼接制作dic的key名，因为instantiate出的gameobject都会自动命名为gameobject(Clone),这里是为了通下面store方法里给key的命名匹配
         string key = prefabName + "(Clone)";
@@ -36,7 +37,7 @@ public class GameObjectPool : MonoBehaviour
             //从gameobjectname这个key位置取出数组
             List<GameObject> list = pool[key];
             //取出一号位的子弹
-            go = list[0] as GameObject;
+            go = list[0];
             //从列表中去除这个子弹（拿出来用）
             list.RemoveAt(0);
             //初始化状态
@@ -49,6 +50,25 @@ public class GameObjectPool : MonoBehaviour
         {
             go = Instantiate(Resources.Load(prefabName), position, rotation) as GameObject;
         }
+        return go;
+    }
+
+    public static GameObject Store(GameObject go)
+    {
+        //获取gameobject的名字，会是一个在上面get方法里创建的（预设体的）gameobject，名字会是gameobject(Clone)
+        string key = go.name;
+        if (pool.ContainsKey(key))
+        {
+            //就在这个key所对应的数组中加入这个g  （这个g就是已经用完的子弹，放到这个数组里的gameobjet都是不销毁只是取消激活等待再次利用的gameobject）
+            pool[key].Add(go);
+
+        }
+        else
+        {
+            //建立一个这个key的arraylist 并把g加进去
+            pool[key] = new List<GameObject>() { go };
+        }
+        go.SetActive(false);
         return go;
     }
 }
