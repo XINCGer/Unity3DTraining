@@ -1,0 +1,18 @@
+[
+    {
+      "key": "welcome",
+      "value": "Unity Internationalization Tutorial"
+    },
+    {
+      "key": "start",
+      "value": "Start learning"
+    },
+    {
+      "key": "continue",
+      "value": "Continue learning"
+    },
+    {
+      "key": "exit",
+      "value": "Exit learning"
+    }
+]

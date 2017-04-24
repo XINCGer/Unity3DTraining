@@ -1,0 +1,18 @@
+[
+    {
+      "key": "welcome",
+      "value": "Unity国際化のチュートリアル"
+    },
+    {
+      "key": "start",
+      "value": "勉強を始める"
+    },
+    {
+      "key": "continue",
+      "value": "勉強を続ける"
+    },
+    {
+      "key": "exit",
+      "value": "勉強をする"
+    }
+]

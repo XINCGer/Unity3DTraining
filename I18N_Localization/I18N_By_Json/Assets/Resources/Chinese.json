@@ -1,0 +1,18 @@
+[
+    {
+      "key": "welcome",
+      "value": "Unity国际化学习"
+    },
+    {
+      "key": "start",
+      "value": "开始学习"
+    },
+    {
+      "key": "continue",
+      "value": "继续学习"
+    },
+    {
+      "key": "exit",
+      "value": "退出学习"
+    }
+]
