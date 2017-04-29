@@ -15,7 +15,7 @@ namespace SimpleFactory
         {
             BreadMaker breadMaker = null;
             breadMaker = BreadFactory.MakeBread(BreadType.BlackBread);
-            breadMaker.GetBread(); 
+            breadMaker.GetBread();
             breadMaker = BreadFactory.MakeBread(BreadType.HoneyBread);
             breadMaker.GetBread();
             breadMaker = BreadFactory.MakeBread(BreadType.WhiteBread);
@@ -94,17 +94,17 @@ namespace SimpleFactory
             BreadMaker breadMaker = null;
             switch (breadType)
             {
-                    case BreadType.BlackBread:
-                    breadMaker=new BlackBread();
+                case BreadType.BlackBread:
+                    breadMaker = new BlackBread();
                     break;
-                    case BreadType.HoneyBread:
-                    breadMaker=new HoneyBread();
+                case BreadType.HoneyBread:
+                    breadMaker = new HoneyBread();
                     break;
-                    case BreadType.WhiteBread:
-                    breadMaker=new WhiteBread();
+                case BreadType.WhiteBread:
+                    breadMaker = new WhiteBread();
                     break;
-                    case BreadType.HoneyWhiteBread:
-                    breadMaker=new HoneyWhiteBread();
+                case BreadType.HoneyWhiteBread:
+                    breadMaker = new HoneyWhiteBread();
                     break;
 
             }
