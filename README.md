@@ -27,4 +27,5 @@
 >* [23.I18N 国际化（本地化）](https://github.com/XINCGer/Unity3DTraining/tree/master/I18N_Localization)  
 >* [24.内存池和对象池](https://github.com/XINCGer/Unity3DTraining/tree/master/MemoryPool_ObjectPool)  
 >* [25.Unity游戏开发之常用设计模式](https://github.com/XINCGer/Unity3DTraining/tree/master/DesignPatterns)  
+>* [26.切水果游戏](https://github.com/XINCGer/Unity3DTraining/tree/master/Fruit_Ninja)  
 
