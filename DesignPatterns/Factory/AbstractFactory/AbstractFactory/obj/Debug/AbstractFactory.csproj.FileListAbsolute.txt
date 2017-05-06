@@ -1,6 +1,0 @@
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
-E:\GitProject\Unity3DTraining\DesignPatterns\Factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
