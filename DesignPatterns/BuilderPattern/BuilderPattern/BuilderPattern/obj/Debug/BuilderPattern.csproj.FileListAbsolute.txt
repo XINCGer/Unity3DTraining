@@ -1,0 +1,1 @@
+E:\GitProject\Unity3DTraining\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
