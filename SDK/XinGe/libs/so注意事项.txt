@@ -1,0 +1,22 @@
+﻿1.信鸽的.so支持所有的android平台，但考虑到平时接入一般只需要armeabi平台，因此libs目录只提供该平台的.so，其它平台可在上层目录的All-Platform-SO找到。
+2.嵌入.so可能存在的问题：
+	a.so文件与jar包不匹配。
+	解决办法：在更新jar时同时更新对应的so文件；
+	b.当前工程已有某些平台的so，如只有armeabi平台，却添加信鸽所有平台导致打包时异常。
+	解决办法：只添加当前工程已有的平台的信鸽so文件。具体可参考网上或以下示例：
+		armeabi	   ！此平台既有当前存在so又有信鸽，正常！
+			--libCurrent.so			当前工程已有so
+			--libtpnsSecurity.so	信鸽
+			--libtpnsWatchdog.so	信鸽
+		armeabi-v7a	！此平台既有当前存在so又有信鸽，正常！
+			--libCurrent.so			当前工程已有so
+			--libtpnsSecurity.so	信鸽
+			--libtpnsWatchdog.so	信鸽			
+		mips	！！！错误，由于此平台只有信鸽，必须删掉mips目录！！！
+			--libtpnsSecurity.so	信鸽
+			--libtpnsWatchdog.so	信鸽
+		x86		！！！错误，由于此平台只有信鸽，必须删掉x86目录！！！
+			--libtpnsSecurity.so	信鸽
+			--libtpnsWatchdog.so	信鸽
+	c.若当前工程不存在so文件。
+	解决办法：可复制所有信鸽平台或只复制armeabi平台
