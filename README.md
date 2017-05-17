@@ -28,4 +28,5 @@
 >* [24.内存池和对象池](https://github.com/XINCGer/Unity3DTraining/tree/master/MemoryPool_ObjectPool)  
 >* [25.Unity游戏开发之常用设计模式](https://github.com/XINCGer/Unity3DTraining/tree/master/DesignPatterns)  
 >* [26.切水果游戏](https://github.com/XINCGer/Unity3DTraining/tree/master/Fruit_Ninja)  
+>* [27.SDK接入研究](https://github.com/XINCGer/Unity3DTraining/tree/master/SDK)   
 
