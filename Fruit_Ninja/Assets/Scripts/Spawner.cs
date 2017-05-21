@@ -15,15 +15,15 @@ public class Spawner : MonoBehaviour
 
     [Tooltip("是否生成")]
     public bool isSpawning = true;
-    
+
     [Tooltip("伸缩因子")]
     public float xMinScaleFactor = 0.2f;
     [Tooltip("伸缩因子")]
     public float xMaxScaleFactor = 0.8f;
     [Tooltip("伸缩因子")]
-    public float yMinScaleFactor = 5.0f;
+    public float yMinScaleFactor = 1.2f;
     [Tooltip("伸缩因子")]
-    public float yMaxScaleFactor = 6.0f;
+    public float yMaxScaleFactor = 1.8f;
 
     public void Start()
     {
@@ -38,7 +38,20 @@ public class Spawner : MonoBehaviour
 
         if (countTime >= spawnTime)
         {
-            SwapnObject(SpwanType.Fruits);
+            //生成随机数量的水果
+            int randCount = Random.Range(1, 5);
+            for (int i = 0; i < randCount; i++)
+            {
+                SpawnObject(SpwanType.Fruits);
+            }
+
+            //随机生成炸弹
+            int randRatio = Random.Range(1, 100);
+            if (randRatio > 70)
+            {
+                SpawnObject(SpwanType.Bomb);
+            }
+            
             countTime = 0f;
         }
     }
@@ -47,23 +60,23 @@ public class Spawner : MonoBehaviour
     /// 产生obj
     /// </summary>
     /// <param name="type"></param>
-    private void SwapnObject(SpwanType type)
+    private void SpawnObject(SpwanType type)
     {
         float x = Random.Range(-7.5f, 7.5f);
         float y = transform.position.y;
-        GameObject go = null;
+        GameObject prefab = null;
         switch (type)
         {
             case SpwanType.Fruits:
-                go = fruits[Random.Range(0, fruits.Length)];
+                prefab = fruits[Random.Range(0, fruits.Length)];
                 break;
             case SpwanType.Bomb:
-                go = bomb;
+                prefab = bomb;
                 break;
         }
-        Instantiate(go, new Vector3(x, y, 0), Random.rotation);
-        Vector3 velocity = new Vector3(-x*Random.Range(xMinScaleFactor,xMaxScaleFactor),-Physics.gravity.y*Random.Range(yMinScaleFactor,yMaxScaleFactor),0);
-        go.GetComponent<Rigidbody>().velocity = velocity;
+        GameObject obj = Instantiate(prefab, new Vector3(x, y, 0), Random.rotation);
+        Vector3 velocity = new Vector3(-x * Random.Range(xMinScaleFactor, xMaxScaleFactor), -Physics.gravity.y * Random.Range(yMinScaleFactor, yMaxScaleFactor), 0);
+        obj.GetComponent<Rigidbody>().velocity = velocity;
     }
 
 
