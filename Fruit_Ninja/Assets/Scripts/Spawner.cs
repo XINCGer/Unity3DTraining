@@ -25,6 +25,8 @@ public class Spawner : MonoBehaviour
     [Tooltip("伸缩因子")]
     public float yMaxScaleFactor = 1.8f;
 
+    private int offsetZ = 0;
+
     public void Start()
     {
 
@@ -51,7 +53,7 @@ public class Spawner : MonoBehaviour
             {
                 SpawnObject(SpwanType.Bomb);
             }
-            
+
             countTime = 0f;
         }
     }
@@ -64,6 +66,13 @@ public class Spawner : MonoBehaviour
     {
         float x = Random.Range(-7.5f, 7.5f);
         float y = transform.position.y;
+        //避免生成在同一个平面上
+        offsetZ -= 2;
+        if (offsetZ <= -10)
+        {
+            offsetZ = 0;
+        }
+
         GameObject prefab = null;
         switch (type)
         {
@@ -74,10 +83,16 @@ public class Spawner : MonoBehaviour
                 prefab = bomb;
                 break;
         }
-        GameObject obj = Instantiate(prefab, new Vector3(x, y, 0), Random.rotation);
+        GameObject obj = Instantiate(prefab, new Vector3(x, y, offsetZ), Random.rotation);
         Vector3 velocity = new Vector3(-x * Random.Range(xMinScaleFactor, xMaxScaleFactor), -Physics.gravity.y * Random.Range(yMinScaleFactor, yMaxScaleFactor), 0);
         obj.GetComponent<Rigidbody>().velocity = velocity;
     }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        Destroy(collision.gameObject);
+    }
+
 
 
 
