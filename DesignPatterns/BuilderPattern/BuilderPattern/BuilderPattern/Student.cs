@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BuilderPattern
+﻿namespace BuilderPattern
 {
     /// <summary>
     /// 定义一个抽象的学生基类，使不同的学生类继承该基类，以保证统一的“组件”不会在实现时丢失
