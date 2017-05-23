@@ -14,8 +14,8 @@ public class JsonDeserialize : MonoBehaviour {
 	{
         /*********************** 使用自定义结构类读取Json ******************************/
         //获取Json文件
-        TextAsset jsonData = Resources.Load<TextAsset>("JsonData");
-        JsonObjectModel jsonObject = JsonMapper.ToObject<JsonObjectModel>(jsonData.text);
+        TextAsset jsonText = Resources.Load<TextAsset>("JsonData");
+        JsonObjectModel jsonObject = JsonMapper.ToObject<JsonObjectModel>(jsonText.text);
         foreach (var info in jsonObject.infoList)
         {
             Debug.Log(info.panelTypeString+" : "+info.path);
@@ -39,12 +39,12 @@ public class JsonDeserialize : MonoBehaviour {
         /*********************** 使用JsonData读取Json ******************************/
 
         /*********************** 使用JsonData生成json ******************************/
-        JsonData jsonData = new JsonData();
-        jsonData["name"] = "马三小伙儿";
-        jsonData["age"] = 22;
-        jsonData["local"] = "Beijing";
-        string jsonString = jsonData.ToJson();
-        Debug.Log("Object to json: "+jsonString);
+        //JsonData jsonData = new JsonData();
+        //jsonData["name"] = "马三小伙儿";
+        //jsonData["age"] = 22;
+        //jsonData["local"] = "Beijing";
+        //string jsonString = jsonData.ToJson();
+        //Debug.Log("Object to json: "+jsonString);
 
         //对象中嵌套对象
         JsonData data2 = new JsonData();
@@ -57,14 +57,14 @@ public class JsonDeserialize : MonoBehaviour {
         /*********************** 使用JsonData读取Json ******************************/
 
 	    /*********************** 使用JsonReader ******************************/
-        TextAsset jsonData = Resources.Load<TextAsset>("JsonData");
-        JsonReader reader = new JsonReader(jsonData.text);
-        while (reader.Read())
-        {
-            string type = reader.Value != null ? reader.Value.GetType().ToString() : "None";
-            Debug.Log(reader.Token + " " + reader.Value + " " + type);
-        }
-        reader.Close();
+        //TextAsset jsonData = Resources.Load<TextAsset>("JsonData");
+        //JsonReader reader = new JsonReader(jsonData.text);
+        //while (reader.Read())
+        //{
+        //    string type = reader.Value != null ? reader.Value.GetType().ToString() : "None";
+        //    Debug.Log(reader.Token + " " + reader.Value + " " + type);
+        //}
+        //reader.Close();
 	    /*********************** 使用JsonReader ******************************/
 
 	    /*********************** 使用JsonWriter ******************************/
