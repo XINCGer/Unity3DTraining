@@ -50,6 +50,7 @@
     <Compile Include="Student.cs" />
     <Compile Include="StudentA.cs" />
     <Compile Include="StudentB.cs" />
+    <Compile Include="Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
