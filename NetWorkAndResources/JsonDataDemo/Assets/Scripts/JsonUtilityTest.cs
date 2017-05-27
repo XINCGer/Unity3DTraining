@@ -21,7 +21,7 @@ public class JsonUtilityTest : MonoBehaviour
     void Start()
     {
 
-
+        //序列化
         Person person = new Person();
         person.name = "Jack";
         person.age = 12;
@@ -33,12 +33,16 @@ public class JsonUtilityTest : MonoBehaviour
         person2.name = "Mark";
         person2.age = 24;
 
-        PersonList pList = new PersonList();
-        Person[] p = new Person[] { person, person2 };
-        pList.Persons = p;
+        //PersonList pList = new PersonList();
+        //Person[] p = new Person[] { person, person2 };
+        //pList.Persons = p;
 
-        jsonString = JsonUtility.ToJson(pList);
-        Debug.Log(jsonString);
+        //jsonString = JsonUtility.ToJson(pList);
+        //Debug.Log(jsonString);
+
+        //反序列化
+        Person p1= JsonUtility.FromJson<Person>(jsonString);
+        Debug.Log(p1.name+":"+p1.age);
     }
 
 
