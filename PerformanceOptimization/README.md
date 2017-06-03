@@ -1,0 +1,6 @@
+## 性能优化相关专题  
+
+### 目录  
+>* [1.浅谈Unity中的GC以及优化](http://www.cnblogs.com/msxh/p/6531725.html)  
+>* [2.GC预览图](https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/Unity%20GC.png)  
+>* [3.Unity Profiler分析器使用](https://github.com/XINCGer/Unity3DTraining/tree/master/PerformanceOptimization/ProfilerExample)  
