@@ -18,6 +18,21 @@ namespace Prototype
             Console.WriteLine("p2: " + p2.Id);
             //原型模式测试1 END
 
+
+            //原型模式举例说明1
+            Console.WriteLine("报名面点师");
+            RestrationInfo restrationInfo1 = new RestrationInfo("小面");
+            restrationInfo1.Birthday = "1992-2-2";
+            restrationInfo1.School = "清华大学";
+            restrationInfo1.Id = "001";
+
+            //展示报名信息
+            restrationInfo1.Show();
+            //报名厨师
+            Console.WriteLine("报名一级厨师");
+            RestrationInfo restartion2 = restrationInfo1.Clone() as RestrationInfo;
+            restartion2.Show();
+
         }
     }
 
