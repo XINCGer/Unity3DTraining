@@ -32,7 +32,24 @@ namespace Prototype
             Console.WriteLine("报名一级厨师");
             RestrationInfo restartion2 = restrationInfo1.Clone() as RestrationInfo;
             restartion2.Show();
+            //原型模式举例说明End
 
+
+            //原型模式举例说明2
+            Console.WriteLine("报名面点师");
+            DeepRestrationInfo deepRestrationInfo1 = new DeepRestrationInfo("小面");
+            deepRestrationInfo1.Birthday = "1992-2-2";
+            deepRestrationInfo1.School = "清华大学";
+            deepRestrationInfo1.Id = "001";
+            deepRestrationInfo1.SetNation("美国");
+
+            //报名厨师
+            Console.WriteLine("报名一级厨师");
+            DeepRestrationInfo deepRestartion2 = deepRestrationInfo1.DeepClone() as DeepRestrationInfo;
+            deepRestartion2.SetNation("中国");
+            deepRestrationInfo1.Show();
+            deepRestartion2.Show();
+            //原型模式举例说明End
         }
     }
 
