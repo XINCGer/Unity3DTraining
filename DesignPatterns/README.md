@@ -3,5 +3,8 @@
 * [单例模式](./Singleton)  
 * [工厂模式](./Factory)  
 * [建造者模式](./BuilderPattern)  
-* [原型模式](./Prototype)
+* [原型模式](./Prototype)  
+* [【特】游戏编程模式](./GameProgrammingPatterns)   
+
+
 
