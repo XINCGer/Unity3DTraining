@@ -23,8 +23,8 @@ public class MouseController : MonoBehaviour
     /// <summary>
     /// 鼠标的位置信息
     /// </summary>
-    private Vector3[] mousePositions=new Vector3[10];
-   
+    private Vector3[] mousePositions = new Vector3[10];
+
     /// <summary>
     /// 位置计数器
     /// </summary>
@@ -86,16 +86,40 @@ public class MouseController : MonoBehaviour
             head = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
             //如果距离比较远就采样
-            if (Vector3.Distance(head, last)>0.01f)
+            if (Vector3.Distance(head, last) > 0.01f)
             {
                 SavePosition(head);
                 posCounter++;
             }
             last = head;
         }
+        else
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                mousePositions[i] = Vector3.zero;
+            }
+        }
+        this.SetPositions(mousePositions);
     }
 
     private void SavePosition(Vector3 pos)
     {
+        pos.z = 0;
+        if (posCounter <= 9)
+        {
+            for (int i = posCounter; i < 10; i++)
+            {
+                mousePositions[i] = pos;
+            }
+        }
+        else
+        {
+            for (int i = 0; i < 9; i++)
+            {
+                mousePositions[i] = mousePositions[i + 1];
+            }
+            mousePositions[9] = pos;
+        }
     }
 }
