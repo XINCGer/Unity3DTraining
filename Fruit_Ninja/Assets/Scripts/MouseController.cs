@@ -90,6 +90,9 @@ public class MouseController : MonoBehaviour
             {
                 SavePosition(head);
                 posCounter++;
+
+                //发射一条射线
+                OnRayCast(head);
             }
             last = head;
         }
@@ -120,6 +123,20 @@ public class MouseController : MonoBehaviour
                 mousePositions[i] = mousePositions[i + 1];
             }
             mousePositions[9] = pos;
+        }
+    }
+
+    private void OnRayCast(Vector3 worldPos)
+    {
+        Vector3 screenPos = Camera.main.WorldToScreenPoint(worldPos);
+
+        Ray ray = Camera.main.ScreenPointToRay(screenPos);
+
+        RaycastHit[] hits = Physics.RaycastAll(ray);
+        for (int i = 0; i < hits.Length; i++)
+        {
+            Debug.Log(hits[i].collider.name);
+            hits[i].collider.gameObject.SendMessage("",SendMessageOptions.DontRequireReceiver);
         }
     }
 }
