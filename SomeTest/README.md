@@ -4,4 +4,4 @@
 * [PlantUML工具练习](./UML类图练习)   
 * [ 脚本定义符号使用 ](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest/Scripting%20Define%20Symbols)   
 * [使用C#执行外部exe和bat](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest/ProcessBat)
-
+* [基于NGUI的一个摇杆](./NGUI-Joystick)
