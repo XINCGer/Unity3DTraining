@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Actor.cs" />
+    <Compile Include="Component.cs" />
+    <Compile Include="Decorator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stylist.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

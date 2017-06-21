@@ -24,6 +24,18 @@ namespace DecoratorPattern
             concreteDecoratorA.Operation();
             Console.WriteLine("经过装饰器B装饰后的操作：");
             concreteDecoratorB.Operation();
+
+            //演员与化妆师举例
+            Actor actor = new Actor();
+            ModernStyList modernStylist = new ModernStyList();
+            AncientStylist ancientStylist = new AncientStylist();
+
+            //给演员进行现代剧化妆
+            modernStylist.MakeUp(actor);
+            modernStylist.Act();
+            //给演员进行古装剧化妆
+            ancientStylist.MakeUp(actor);
+            ancientStylist.Act();
         }
     }
 }
