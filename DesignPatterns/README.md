@@ -7,6 +7,7 @@
 * [桥接模式](./BridgePattern)  
 * [适配器模式](./AdapterPattern)  
 * [装饰模式](./DecoratorPattern)  
+* [组合模式](./CompositePattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
