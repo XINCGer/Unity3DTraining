@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Component.cs" />
     <Compile Include="Composite.cs" />
+    <Compile Include="Leaf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
