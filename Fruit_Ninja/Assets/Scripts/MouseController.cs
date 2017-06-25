@@ -40,7 +40,7 @@ public class MouseController : MonoBehaviour
     /// </summary>
     private Vector3 last;
 
-
+    private AudioSource audioSource;
     /// <summary>
     /// 设置LineRender位置
     /// </summary>
@@ -53,7 +53,7 @@ public class MouseController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        audioSource = this.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -63,6 +63,8 @@ public class MouseController : MonoBehaviour
         {
             isFirstMouseDown = true;
             isMouseDown = true;
+
+            audioSource.Play();
         }
         if (Input.GetMouseButtonUp(0))
         {

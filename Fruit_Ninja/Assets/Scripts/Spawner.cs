@@ -27,9 +27,10 @@ public class Spawner : MonoBehaviour
 
     private int offsetZ = 0;
 
+    private AudioSource audioSource;
     public void Start()
     {
-
+        audioSource = this.GetComponent<AudioSource>();
     }
 
     public void Update()
@@ -64,6 +65,8 @@ public class Spawner : MonoBehaviour
     /// <param name="type"></param>
     private void SpawnObject(SpwanType type)
     {
+        audioSource.Play();
+
         float x = Random.Range(-7.5f, 7.5f);
         float y = transform.position.y;
         //避免生成在同一个平面上
