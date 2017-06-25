@@ -8,7 +8,6 @@ public class UIMenu : MonoBehaviour
     private Button btnPlay;
     private Button btnSound;
 
-    private AudioSource audioSourceBG;
     private Image imgSound;
 
     public Sprite[] spriteSound;
@@ -26,7 +25,6 @@ public class UIMenu : MonoBehaviour
     {
         btnPlay = transform.Find("Btn_Play").GetComponent<Button>();
         btnSound = transform.Find("Btn_Sound").GetComponent<Button>();
-        audioSourceBG = transform.Find("Btn_Sound").GetComponent<AudioSource>();
         imgSound = transform.Find("Btn_Sound").GetComponent<Image>();
     }
 
@@ -37,16 +35,18 @@ public class UIMenu : MonoBehaviour
 
     private void OnBtnSoundClick()
     {
-        if (audioSourceBG.isPlaying)
+        if (GameManager.GetInstance().IsAudioPlaying())
         {
-            audioSourceBG.Pause();
+            GameManager.GetInstance().PauseSound();
             imgSound.sprite = spriteSound[1];
         }
         else
         {
-            audioSourceBG.Play();
+            GameManager.GetInstance().PlaySound();
             imgSound.sprite = spriteSound[0];
         }
+
+
     }
 
     public void OnDestroy()
