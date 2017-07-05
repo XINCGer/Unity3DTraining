@@ -8,6 +8,7 @@
 * [适配器模式](./AdapterPattern)  
 * [装饰模式](./DecoratorPattern)  
 * [组合模式](./CompositePattern)  
+* [享元模式](./FlyweightPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
