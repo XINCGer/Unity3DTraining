@@ -17,7 +17,8 @@ public class ObjectController : MonoBehaviour {
 
         for (int i = 0; i < 2; i++)
         {
-            GameObject go= Instantiate<GameObject>(halfGameObject);
+            if (halfGameObject == null) return;
+            GameObject go= Instantiate<GameObject>(halfGameObject,transform.position,Random.rotation);
             go.GetComponent<Rigidbody>().AddForce(Random.onUnitSphere * radio, ForceMode.Impulse);
         }
         isDead = true;
