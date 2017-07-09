@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Flyweight.cs" />
     <Compile Include="FlyweightFactory.cs" />
+    <Compile Include="ImageNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
