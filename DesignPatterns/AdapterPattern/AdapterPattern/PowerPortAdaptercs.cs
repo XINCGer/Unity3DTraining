@@ -29,7 +29,7 @@ namespace AdapterPattern
         }
     }
 
-    class Adapter220C: PowerPort220V, PowerPortAdapter
+    class Adapter220V: PowerPort220V, PowerPortAdapter
     {
         NoteBook noteBook = new NoteBook();
 

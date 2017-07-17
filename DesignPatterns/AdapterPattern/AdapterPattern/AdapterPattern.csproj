@@ -46,6 +46,8 @@
     <Compile Include="Adaptee.cs" />
     <Compile Include="Adapter.cs" />
     <Compile Include="NoteBook.cs" />
+    <Compile Include="PowerPort220V.cs" />
+    <Compile Include="PowerPortAdaptercs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Target.cs" />
