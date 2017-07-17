@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Facade.cs" />
+    <Compile Include="Factory.cs" />
+    <Compile Include="FactoryFacade.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sub.cs" />

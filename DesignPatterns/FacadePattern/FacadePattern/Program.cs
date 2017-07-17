@@ -14,6 +14,12 @@ namespace FacadePattern
             Facade facade = new Facade();
             facade.MethodOne();
             facade.MethodTwo();
+
+            //举例说明
+            FactoryFacade factoryFacade= new FactoryFacade();
+            //使用办事处管理工作
+            factoryFacade.FactoryDelivery();
+            factoryFacade.FactoryReport();
         }
     }
 }
