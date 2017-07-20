@@ -10,6 +10,7 @@
 * [组合模式](./CompositePattern)  
 * [享元模式](./FlyweightPattern)  
 * [外观模式](./FacadePattern)  
+* [代理模式](./ProxyPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
