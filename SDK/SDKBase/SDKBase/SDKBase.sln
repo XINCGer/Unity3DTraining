@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDKBase.CSharp", "SDKBase.CSharp.csproj", "{511CE435-E3DC-43E9-6C08-3225B18C2DE0}"
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDKBase", "SDKBase.csproj", "{52F79CD5-97A5-8DE0-A6A8-5006609BA60E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{511CE435-E3DC-43E9-6C08-3225B18C2DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{511CE435-E3DC-43E9-6C08-3225B18C2DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{511CE435-E3DC-43E9-6C08-3225B18C2DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{511CE435-E3DC-43E9-6C08-3225B18C2DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F79CD5-97A5-8DE0-A6A8-5006609BA60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F79CD5-97A5-8DE0-A6A8-5006609BA60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F79CD5-97A5-8DE0-A6A8-5006609BA60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F79CD5-97A5-8DE0-A6A8-5006609BA60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
