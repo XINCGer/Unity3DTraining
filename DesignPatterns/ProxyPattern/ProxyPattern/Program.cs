@@ -12,6 +12,12 @@ namespace ProxyPattern
         {
             Proxy proxy = new Proxy();
             proxy.Request();
+
+
+            WebsiteProxy websiteProxy = new WebsiteProxy("马三");
+            websiteProxy.Register();
+            websiteProxy.Login();
+            websiteProxy.Browse();
         }
     }
 }

@@ -28,4 +28,52 @@ namespace ProxyPattern
         /// </summary>
         public abstract void Browse();
     }
+
+    /// <summary>
+    /// 某社交网站
+    /// </summary>
+    class SNS : WebSite
+    {
+        public override void Register()
+        {
+            Console.WriteLine(userName+"注册了社交网站");
+        }
+
+        public override void Login()
+        {
+            Console.WriteLine(userName + "登录了社交网站");
+        }
+
+        public override void Browse()
+        {
+            Console.WriteLine(userName + "浏览了社交网站");
+        }
+    }
+
+    class WebsiteProxy : WebSite
+    {
+        private SNS sns;
+
+
+        public WebsiteProxy(string name)
+        {
+            sns = new SNS();
+            sns.userName = name;
+        }
+
+        public override void Register()
+        {
+            sns.Register();
+        }
+
+        public override void Login()
+        {
+            sns.Login();
+        }
+
+        public override void Browse()
+        {
+           sns.Browse();
+        }
+    }
 }
