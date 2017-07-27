@@ -8,19 +8,40 @@ using UnityEngine;
 public class ObjectController : MonoBehaviour {
 
     public GameObject halfGameObject;
+    public GameObject spalsh;
+    public GameObject spalshFlat;
+
     private bool isDead = false;
     public float radio;
 
     public void OnCut()
     {
+        //防止重复调用
         if (isDead) return;
 
-        for (int i = 0; i < 2; i++)
+        //如果是炸弹
+        if (gameObject.name.Contains("Bomb"))
         {
-            if (halfGameObject == null) return;
-            GameObject go= Instantiate<GameObject>(halfGameObject,transform.position,Random.rotation);
-            go.GetComponent<Rigidbody>().AddForce(Random.onUnitSphere * radio, ForceMode.Impulse);
+            //生成特效
+            Instantiate(spalsh, transform.position, Quaternion.identity);
         }
+        //如果是水果
+        else
+        {
+            //生成分瓣水果
+            for (int i = 0; i < 2; i++)
+            {
+                if (halfGameObject == null) return;
+                GameObject go = Instantiate<GameObject>(halfGameObject, transform.position, Random.rotation);
+                go.GetComponent<Rigidbody>().AddForce(Random.onUnitSphere * radio, ForceMode.Impulse);
+            }
+
+            //生成特效
+            Instantiate(spalsh, transform.position, Quaternion.identity);
+            Instantiate(spalshFlat, transform.position, Quaternion.identity);
+        }
+
+        Destroy(gameObject);
         isDead = true;
     }
 }
