@@ -137,7 +137,7 @@ public class MouseController : MonoBehaviour
         RaycastHit[] hits = Physics.RaycastAll(ray);
         for (int i = 0; i < hits.Length; i++)
         {
-            Debug.Log(hits[i].collider.name);
+            //Debug.Log(hits[i].collider.name);
             hits[i].collider.gameObject.SendMessage("OnCut",SendMessageOptions.DontRequireReceiver);
         }
     }
