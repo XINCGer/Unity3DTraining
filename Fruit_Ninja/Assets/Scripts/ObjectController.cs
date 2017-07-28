@@ -13,6 +13,7 @@ public class ObjectController : MonoBehaviour {
 
     private bool isDead = false;
     public float radio;
+    public AudioClip audioClip;
 
     public void OnCut()
     {
@@ -40,6 +41,7 @@ public class ObjectController : MonoBehaviour {
             Instantiate(spalsh, transform.position, Quaternion.identity);
             Instantiate(spalshFlat, transform.position, Quaternion.identity);
         }
+        AudioSource.PlayClipAtPoint(audioClip,transform.position);
 
         Destroy(gameObject);
         isDead = true;
