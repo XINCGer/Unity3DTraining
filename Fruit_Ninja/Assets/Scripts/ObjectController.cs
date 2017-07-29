@@ -25,6 +25,8 @@ public class ObjectController : MonoBehaviour {
         {
             //生成特效
             Instantiate(spalsh, transform.position, Quaternion.identity);
+
+            UIScore.Instance.RemoveScore(20);
         }
         //如果是水果
         else
@@ -40,6 +42,8 @@ public class ObjectController : MonoBehaviour {
             //生成特效
             Instantiate(spalsh, transform.position, Quaternion.identity);
             Instantiate(spalshFlat, transform.position, Quaternion.identity);
+
+            UIScore.Instance.AddScore(10);
         }
         AudioSource.PlayClipAtPoint(audioClip,transform.position);
 
