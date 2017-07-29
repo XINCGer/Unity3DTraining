@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class UIScore : MonoBehaviour
@@ -26,6 +27,11 @@ public class UIScore : MonoBehaviour
     public void RemoveScore(int score)
     {
         this.score -= score;
+        if (this.score < 0)
+        {
+            SceneManager.LoadScene("GameOver");
+            return;
+        }
         scoreValue.text = this.score.ToString();
     }
 }

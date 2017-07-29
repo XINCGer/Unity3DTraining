@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+
         DontDestroyOnLoad(this.gameObject);
         audioSource = this.GetComponent<AudioSource>();
     }

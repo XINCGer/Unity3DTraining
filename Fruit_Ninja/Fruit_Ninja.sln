@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit_Ninja.CSharp", "Fruit_Ninja.CSharp.csproj", "{CCA98257-AD36-825E-7B73-20EEF49A6D11}"
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit_Ninja", "Fruit_Ninja.csproj", "{1AD9810C-73B3-E2A8-8C9D-F76047C83AD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCA98257-AD36-825E-7B73-20EEF49A6D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCA98257-AD36-825E-7B73-20EEF49A6D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCA98257-AD36-825E-7B73-20EEF49A6D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCA98257-AD36-825E-7B73-20EEF49A6D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD9810C-73B3-E2A8-8C9D-F76047C83AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD9810C-73B3-E2A8-8C9D-F76047C83AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD9810C-73B3-E2A8-8C9D-F76047C83AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD9810C-73B3-E2A8-8C9D-F76047C83AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
