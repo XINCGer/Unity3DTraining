@@ -11,6 +11,7 @@
 * [享元模式](./FlyweightPattern)  
 * [外观模式](./FacadePattern)  
 * [代理模式](./ProxyPattern)  
+* [模版模式](./TemplatePattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
