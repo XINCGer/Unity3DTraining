@@ -21,6 +21,12 @@ namespace TemplatePattern
             mobilePhoneB.DialUp();
             mobilePhoneB.about();
             mobilePhoneB.PowerOff();
+
+            AbstractClass abstractClass;
+            abstractClass= new ConcreteClassA();
+            abstractClass.TemplateMethod();
+            abstractClass = new ConcreteClassB();
+            abstractClass.TemplateMethod();
         }
     }
 }
