@@ -27,6 +27,8 @@ namespace TemplatePattern
             abstractClass.TemplateMethod();
             abstractClass = new ConcreteClassB();
             abstractClass.TemplateMethod();
+            
+
         }
     }
 }

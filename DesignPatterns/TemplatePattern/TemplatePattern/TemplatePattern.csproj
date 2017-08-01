@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AbstractClass.cs" />
     <Compile Include="MobilePhone.cs" />
+    <Compile Include="NewMobilePhone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
