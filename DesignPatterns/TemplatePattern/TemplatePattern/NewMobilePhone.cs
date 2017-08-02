@@ -46,4 +46,21 @@ namespace TemplatePattern
             return "秘书";
         }
     }
+
+
+    class AndroidMobilePhone : NewMobilePhone 
+    {
+        protected override string User()
+        {
+            return "Android系统手机";
+        }
+    }
+
+    class WPMobilePhone:NewMobilePhone 
+    {
+        protected override string User()
+        {
+            return "WP系统手机";
+        }
+    }
 }
