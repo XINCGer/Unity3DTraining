@@ -31,4 +31,29 @@ namespace StrategyPattern
             this.strategy.Algorithm();
         }
     }
+
+
+    class ConcreteStrategyA : Strategy
+    {
+        public override void Algorithm()
+        {
+            Console.WriteLine("算法A");
+        }
+    }
+
+    class ConcreteStrategyB : Strategy
+    {
+        public override void Algorithm()
+        {
+            Console.WriteLine("算法B");
+        }
+    }
+
+    class ConcreteStrategyC : Strategy
+    {
+        public override void Algorithm()
+        {
+            Console.WriteLine("算法C");
+        }
+    }
 }

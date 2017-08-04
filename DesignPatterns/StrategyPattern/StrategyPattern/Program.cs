@@ -10,6 +10,16 @@ namespace StrategyPattern
     {
         static void Main(string[] args)
         {
+            Context context;
+            context = new Context(new ConcreteStrategyA());
+            context.ContextOperation();
+
+            context= new Context(new ConcreteStrategyB());
+            context.ContextOperation();
+
+            context= new Context(new ConcreteStrategyC());
+            context.ContextOperation();
+
         }
     }
 }
