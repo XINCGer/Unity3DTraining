@@ -12,6 +12,7 @@
 * [外观模式](./FacadePattern)  
 * [代理模式](./ProxyPattern)  
 * [模版模式](./TemplatePattern)  
+* [策略模式](./StrategyPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
