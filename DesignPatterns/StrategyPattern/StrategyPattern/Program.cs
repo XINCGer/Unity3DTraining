@@ -20,6 +20,12 @@ namespace StrategyPattern
             context= new Context(new ConcreteStrategyC());
             context.ContextOperation();
 
+
+            ProduceContext produceContext = new ProduceContext(new ProduceStrategySummer());
+            produceContext.GetDecision(1);
+
+            produceContext = new ProduceContext(new ProduceStrategyWinter());
+            produceContext.GetDecision(1);
         }
     }
 }
