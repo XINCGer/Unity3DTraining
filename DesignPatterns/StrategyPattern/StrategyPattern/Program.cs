@@ -26,6 +26,13 @@ namespace StrategyPattern
 
             produceContext = new ProduceContext(new ProduceStrategyWinter());
             produceContext.GetDecision(1);
+
+            ProduceContext ps = new ProduceContext(1);
+            ps.GetDecision(1);
+
+            ps = new ProduceContext(2);
+            ps.GetDecision(1);
+
         }
     }
 }

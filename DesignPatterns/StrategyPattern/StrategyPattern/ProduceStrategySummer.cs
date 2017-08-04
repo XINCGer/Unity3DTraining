@@ -41,6 +41,26 @@ namespace StrategyPattern
             this.produceStrategy = ps;
         }
 
+        /// <summary>
+        /// 加入简单工厂模式
+        /// </summary>
+        /// <param name="i"></param>
+        public ProduceContext(int i)
+        {
+            switch (i)
+            {
+                case 1:
+                    produceStrategy= new ProduceStrategySummer();
+                    break;
+                case 2:
+                    produceStrategy = new ProduceStrategyWinter();
+                    break;
+                default:
+                    Console.WriteLine("没有此种策略");
+                    break;
+            }
+        }
+
         public void GetDecision(int cap)
         {
             produceStrategy.Decision(cap);
