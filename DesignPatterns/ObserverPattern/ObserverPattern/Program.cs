@@ -10,7 +10,7 @@ namespace ObserverPattern
     {
         static void Main(string[] args)
         {
-            Spy spy = new Spy();
+            Spy spy = new Spy007("007");
             
             CountryA countryA = new CountryA("A",spy);
             CountryB countryB = new CountryB("B",spy);

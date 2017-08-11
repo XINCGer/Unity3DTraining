@@ -31,7 +31,7 @@ namespace ObserverPattern
 
         public override void Update()
         {
-           Console.WriteLine(countryName+"得到情报"+spy.GetIntelligence()+"建交");
+           Console.WriteLine(countryName+"得到情报"+spy.spyName+"的情报"+spy.GetIntelligence()+"建交");
         }
     }
 
@@ -43,7 +43,7 @@ namespace ObserverPattern
 
         public override void Update()
         {
-            Console.WriteLine(countryName+"得到情报"+spy.GetIntelligence()+"开战");
+            Console.WriteLine(countryName + "得到情报" + spy.spyName + "的情报" + spy.GetIntelligence() + "建交");
         }
     }
 }

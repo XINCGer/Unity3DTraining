@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace ObserverPattern
 {
-    class Spy
+    abstract class Spy
     {
         private List<Country> listener= new List<Country>();
         private string intelligence;
+        public string spyName;
+
+        public Spy(string name)
+        {
+            this.spyName = name;
+        }
 
         /// <summary>
         /// 添加监听，进入国家
@@ -47,6 +53,21 @@ namespace ObserverPattern
         public string GetIntelligence()
         {
             return this.intelligence;
+        }
+    }
+
+
+    class Spy007 : Spy
+    {
+        public Spy007(string name) : base(name)
+        {
+        }
+    }
+
+    class Mole : Spy
+    {
+        public Mole(string name) : base(name)
+        {
         }
     }
 }
