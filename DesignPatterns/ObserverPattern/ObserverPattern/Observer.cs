@@ -39,7 +39,8 @@ namespace ObserverPattern
 
         public override void Update()
         {
-            throw new NotImplementedException();
+            State = subject.GetState();
+            Console.WriteLine(observerName+"观察到的状态:"+State);
         }
     }
 }

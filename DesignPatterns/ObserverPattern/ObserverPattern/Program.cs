@@ -21,6 +21,13 @@ namespace ObserverPattern
             spy.SetIntelligence("研制武器！");
 
             spy.Notify();
+
+            Subject subject = new ConcreteSubject();
+            subject.Attach(new ConcreteObserver(subject,"1号观察者"));
+            subject.Attach(new ConcreteObserver(subject,"2号观察者"));
+            subject.Attach(new ConcreteObserver(subject,"3号观察者"));
+            subject.SetState("Talking");
+            subject.Notify();
         }
     }
 }
