@@ -54,5 +54,14 @@ namespace MementoPattern
             get { return MP; }
             set { MP = value; }
         }
+
+        public GameState(int level, int coor, int chapter, int hp, int mp)
+        {
+            this.Level = level;
+            this.Coordinate = coor;
+            this.Chapter = chapter;
+            this.HP = hp;
+            this.MP = mp;
+        }
     }
 }

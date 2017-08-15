@@ -24,7 +24,20 @@ namespace MementoPattern
             originator.SetMemento(caretaker.GetMemento());
             originator.Show();
 
+            GameRole gameRole = new GameRole();
+            gameRole.Init();
+            Console.WriteLine("===========");
+            gameRole.ShowState();
 
+            GameStateCaretaker caretakerA = new GameStateCaretaker();
+            caretakerA.SetGameState(gameRole.SaveState());
+
+            Console.WriteLine("===========");
+            gameRole.DoTask();
+            gameRole.ShowState();
+
+            gameRole.Recover(caretakerA.GetGameState());
+            gameRole.ShowState();
         }
     }
 }

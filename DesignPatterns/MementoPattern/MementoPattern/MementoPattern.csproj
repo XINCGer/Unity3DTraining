@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="GameRole.cs" />
     <Compile Include="GameState.cs" />
+    <Compile Include="GameStateCaretaker.cs" />
     <Compile Include="Originator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

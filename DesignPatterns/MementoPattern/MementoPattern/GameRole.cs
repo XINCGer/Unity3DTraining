@@ -27,6 +27,46 @@ namespace MementoPattern
         private int HP;
         private int MP;
 
-        public 
+        public GameState SaveState()
+        {
+            return new GameState(Level,Coordinate,Chapter,HP,MP);
+        }
+
+        public void Recover(GameState gameState)
+        {
+            this.Level = gameState.Level;
+            this.Coordinate = gameState.Coordinate;
+            this.Chapter = gameState.Chapter;
+            this.HP = gameState.Hp;
+            this.MP = gameState.Mp;
+        }
+
+        public void ShowState()
+        {
+            Console.WriteLine("进度信息如下：");
+            Console.WriteLine("级别："+this.Level);
+            Console.WriteLine("坐标："+this.Coordinate);
+            Console.WriteLine("生命："+this.HP);
+            Console.WriteLine("魔力："+this.MP);
+            Console.WriteLine("进度："+this.Chapter);
+        }
+
+        public void Init()
+        {
+            this.Level = 100;
+            this.Chapter = 10;
+            this.Coordinate = 999;
+            this.HP = 8000;
+            this.MP = 999;
+        }
+
+        public void DoTask()
+        {
+            this.Level = 101;
+            this.Chapter = 11;
+            this.Coordinate = 666;
+            this.HP = 0;
+            this.MP = 0;
+        }
     }
 }
