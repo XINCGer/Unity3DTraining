@@ -10,6 +10,16 @@ namespace MediatorPattern
     {
         static void Main(string[] args)
         {
+            ConcreteMediator mediator = new ConcreteMediator();
+
+            ColleagueA colleagueA = new ColleagueA(mediator);
+            ColleagueB colleagueB = new ColleagueB(mediator);
+
+            mediator.SetColleagueA(colleagueA);
+            mediator.SetColleagueB(colleagueB);
+
+            colleagueB.Send("Hello A");
+            colleagueA.Send("Hello B");
         }
     }
 }
