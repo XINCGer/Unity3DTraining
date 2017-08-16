@@ -15,7 +15,8 @@
 * [策略模式](./StrategyPattern)  
 * [状态模式](./StatePattern)  
 * [观察者模式](./ObserverPattern)  
-* [备忘录模式](./MementoPattern)  
+* [备忘录模式](./MementoPattern)  
+* [中介者模式](./MediatorPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
