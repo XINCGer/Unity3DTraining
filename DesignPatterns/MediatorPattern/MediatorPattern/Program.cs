@@ -20,6 +20,17 @@ namespace MediatorPattern
 
             colleagueB.Send("Hello A");
             colleagueA.Send("Hello B");
+
+
+            CustomerServericeMM customerMM = new CustomerServericeMM();
+            Customer customer = new Customer(customerMM);
+            Techician techician = new Techician(customerMM);
+
+            customerMM.SetCustomer(customer);
+            customerMM.SetTechicain(techician);
+
+            customer.Ask("客户提问");
+            techician.Answer("技术支持解答");
         }
     }
 }

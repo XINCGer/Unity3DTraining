@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Colleague.cs" />
+    <Compile Include="Communicator.cs" />
+    <Compile Include="CustomerServer.cs" />
     <Compile Include="Mediator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
