@@ -30,7 +30,11 @@ namespace CommandPattern
             herald.SetCommand(cableBoatCommand);
             herald.Notify();
 
-
+            Reciver reciver = new Reciver();
+            AbsCommand command = new ConcreteCommand(reciver);
+            Invoker invoker = new Invoker();
+            invoker.SetCommand(command);
+            invoker.ExecuteCommand();
         }
     }
 }
