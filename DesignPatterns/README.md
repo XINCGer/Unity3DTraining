@@ -17,6 +17,7 @@
 * [观察者模式](./ObserverPattern)  
 * [备忘录模式](./MementoPattern)  
 * [中介者模式](./MediatorPattern)  
+* [命令模式](./CommandPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
