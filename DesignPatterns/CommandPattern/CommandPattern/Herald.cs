@@ -11,15 +11,16 @@ namespace CommandPattern
     /// </summary>
     class Herald
     {
-        private Command command;
-
+        //private Command command;
+        private List<Command> commands = new List<Command>();
         /// <summary>
         /// 接受命令
         /// </summary>
         /// <param name="command"></param>
         public void SetCommand(Command command)
         {
-            this.command = command;
+            //this.command = command;
+            this.commands.Add(command);
         }
 
         /// <summary>
@@ -27,7 +28,16 @@ namespace CommandPattern
         /// </summary>
         public void Notify()
         {
-            command.ExcuteCommand();
+            //command.ExcuteCommand();
+            foreach (var command in commands)
+            {
+                command.ExcuteCommand();
+            }
+        }
+
+        public void CancelCommand(Command command)
+        {
+            this.commands.Remove(command);
         }
     }
 }

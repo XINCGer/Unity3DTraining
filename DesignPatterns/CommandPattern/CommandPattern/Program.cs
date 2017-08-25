@@ -20,14 +20,19 @@ namespace CommandPattern
 
             //集合
             herald.SetCommand(combinateCommand);
-            herald.Notify();
+            //herald.Notify();
 
             //战斗
             herald.SetCommand(fightCommand);
-            herald.Notify();
+            herald.SetCommand(fightCommand);
+           // herald.Notify();
 
             //铁索连舟
             herald.SetCommand(cableBoatCommand);
+            //herald.Notify();
+            herald.Notify();
+            Console.WriteLine("取消命令！");
+            herald.CancelCommand(cableBoatCommand);
             herald.Notify();
 
             Reciver reciver = new Reciver();
