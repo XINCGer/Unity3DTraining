@@ -10,6 +10,12 @@ namespace VisitorPattern
     {
         static void Main(string[] args)
         {
+
+            ObjectStructure obj = new ObjectStructure();
+            obj.Attach(new ConcreteElementA());
+            obj.Attach(new ConcreteElementB());
+            ConcreteVisitor visitor = new ConcreteVisitor();
+            obj.Accept(visitor);
         }
     }
 }
