@@ -43,9 +43,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Element.cs" />
+    <Compile Include="Leader.cs" />
     <Compile Include="ObjectStructure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reporter.cs" />
     <Compile Include="Visitor.cs" />
   </ItemGroup>
   <ItemGroup>
