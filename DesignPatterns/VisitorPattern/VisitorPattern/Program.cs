@@ -16,6 +16,16 @@ namespace VisitorPattern
             obj.Attach(new ConcreteElementB());
             ConcreteVisitor visitor = new ConcreteVisitor();
             obj.Accept(visitor);
+
+            ReportManager reportManager = new ReportManager();
+            reportManager.Attach(new FinancialReport());
+            reportManager.Attach(new LogisticsReport());
+
+            FinanceDirector financeDirector = new FinanceDirector();
+            SaleDirector saleDirector = new SaleDirector();
+
+            reportManager.Accept(financeDirector);
+            reportManager.Accept(saleDirector);
         }
     }
 }
