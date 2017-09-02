@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbsVisitor.cs" />
+    <Compile Include="Corporation.cs" />
     <Compile Include="Element.cs" />
     <Compile Include="Leader.cs" />
     <Compile Include="ObjectStructure.cs" />
