@@ -10,6 +10,18 @@ namespace ChainofResponsibilityPattern
     {
         static void Main(string[] args)
         {
+
+            Handler ha = new ConcreteHandlerA();
+            Handler hb = new ConcreteHandlerB();
+            Handler hc = new ConcreteHandlerC();
+
+            ha.SetSuccesor(hb);
+            hb.SetSuccesor(hc);
+
+            for (int i = 1; i < 4; i++)
+            {
+                ha.HandleRequest(i);
+            }
         }
     }
 }
