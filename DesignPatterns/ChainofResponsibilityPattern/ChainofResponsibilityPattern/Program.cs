@@ -22,6 +22,17 @@ namespace ChainofResponsibilityPattern
             {
                 ha.HandleRequest(i);
             }
+
+
+            OfficeHandler prefects = new Prefects();
+            OfficeHandler emperor = new Emperor();
+
+            prefects.SetHandler(emperor);
+
+            for (int i = 3; i < 8; i++)
+            {
+                prefects.HandlerReqest(i);
+            }
         }
     }
 }
