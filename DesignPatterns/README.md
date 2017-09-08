@@ -20,6 +20,7 @@
 * [命令模式](./CommandPattern)  
 * [访问者模式](./VisitorPattern)  
 * [职责链模式](./ChainofResponsibilityPattern)  
+* [迭代器模式](./IteratorPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
