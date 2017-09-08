@@ -20,7 +20,7 @@ namespace IteratorPattern
 
         public override Iterator CreateIterator()
         {
-            
+            return new ConcreteIterator(this);
         }
 
         public int Size()
@@ -35,7 +35,7 @@ namespace IteratorPattern
 
         public void SetItems(int i,Object obj)
         {
-            items[i] = obj;
+            items.Add(obj);
         }
     }
 }
