@@ -21,6 +21,7 @@
 * [访问者模式](./VisitorPattern)  
 * [职责链模式](./ChainofResponsibilityPattern)  
 * [迭代器模式](./IteratorPattern)  
+* [解释器模式](./InterpreterPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 
 
