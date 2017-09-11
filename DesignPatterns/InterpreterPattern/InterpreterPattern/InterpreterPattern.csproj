@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="AbstractExpression.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="Expression.cs" />
+    <Compile Include="Message.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
