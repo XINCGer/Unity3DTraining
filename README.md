@@ -35,4 +35,5 @@
 >* [31.【外链】Unity3d客户端与C#分布式服务端游戏框架](https://github.com/egametang/Egametang)  
 >* [32.ProtoBuf练习](./ProtoBufDemo)  
 >* [33.NavMesh网格寻路练习](./Navmesh)  
+>* [34.学习OpenGL](https://github.com/XINCGer/Unity3DTraining/tree/master/LearningOpenGL)  
 
