@@ -1,0 +1,26 @@
+import "common.proto";
+
+message Person 
+{  
+  required Header header = 1;
+  required int64 id = 2;
+  required string name = 3;  
+  optional int32 age = 4 [default = 18];
+  optional string email = 5 [default = "topameng@qq.com"];
+  repeated int32 array = 6;  
+
+  extensions 10 to max;
+}
+
+message Phone 
+{
+    extend Person { repeated Phone phones = 10;}
+
+    enum PHONE_TYPE
+    {
+        MOBILE = 1;
+        HOME = 2;
+    }
+    optional string num = 1;
+    optional PHONE_TYPE type = 2;
+}

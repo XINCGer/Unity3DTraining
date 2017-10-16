@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uLuaDemo", "uLuaDemo.csproj", "{14F77610-4502-F5FF-91A6-11F145C4DA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uLuaDemo.Editor", "uLuaDemo.Editor.csproj", "{C209EF1E-C39A-6899-F4F4-05B1DCA76B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F77610-4502-F5FF-91A6-11F145C4DA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F77610-4502-F5FF-91A6-11F145C4DA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F77610-4502-F5FF-91A6-11F145C4DA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F77610-4502-F5FF-91A6-11F145C4DA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C209EF1E-C39A-6899-F4F4-05B1DCA76B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C209EF1E-C39A-6899-F4F4-05B1DCA76B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C209EF1E-C39A-6899-F4F4-05B1DCA76B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C209EF1E-C39A-6899-F4F4-05B1DCA76B11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

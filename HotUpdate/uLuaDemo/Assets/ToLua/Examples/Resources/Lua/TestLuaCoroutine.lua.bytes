@@ -1,0 +1,50 @@
+function fib(n)
+    local a, b = 0, 1
+    while n > 0 do
+        a, b = b, a + b
+        n = n - 1
+    end
+
+    return a
+end
+
+function CoFunc()
+    print('Coroutine started')    
+    for i = 0, 10, 1 do
+        print(fib(i))                    
+        coroutine.wait(0.1)						
+    end	
+	print("current frameCount: "..Time.frameCount)
+	coroutine.step()
+	print("yield frameCount: "..Time.frameCount)
+
+	local www = UnityEngine.WWW("http://www.baidu.com")
+	coroutine.www(www)
+	local s = tolua.tolstring(www.bytes)
+	print(s:sub(1, 128))
+    print('Coroutine ended')
+end
+
+function TestCortinue()	
+    coroutine.start(CoFunc)
+end
+
+local coDelay = nil
+
+function Delay()
+	local c = 1
+
+	while true do
+		coroutine.wait(1) 
+		print("Count: "..c)
+		c = c + 1
+	end
+end
+
+function StartDelay()
+	coDelay = coroutine.start(Delay)
+end
+
+function StopDelay()
+	coroutine.stop(coDelay)
+end
