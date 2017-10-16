@@ -37,4 +37,6 @@
 >* [33.NavMesh网格寻路练习](./Navmesh)  
 >* [34.学习OpenGL](https://github.com/XINCGer/Unity3DTraining/tree/master/LearningOpenGL)  
 >* [35.仿写FC上的马戏团](./CircusGameOnFC)  
+>* [36.热更新专题](./HotUpdate)  
+
 
