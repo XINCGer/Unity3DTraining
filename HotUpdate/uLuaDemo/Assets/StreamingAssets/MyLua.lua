@@ -1,3 +1,3 @@
 function LuaFunction(name)
-	CSLuaTest:CSFunction(name)
+	CSLuaTest.CSFunction(name)
 end

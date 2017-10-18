@@ -52,8 +52,8 @@ public static class CustomSettings
         //_GT(typeof(Dictionary<int, TestAccount>.ValueCollection)),
         //_GT(typeof(TestExport)),
         //_GT(typeof(TestExport.Space)),
-        //-------------------------------------------------------------------        
-        _GT(typeof(CSLuaTest)),                
+        //-------------------------------------------------------------------       
+        _GT(typeof(CSFunctionTest)),
         _GT(typeof(Debugger)).SetNameSpace(null),          
 
 #if USING_DOTWEENING

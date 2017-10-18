@@ -81,8 +81,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CSFunctionTest.cs" />
     <Compile Include="Assets\Scripts\CSLuaTest.cs" />
-    <Compile Include="Assets\Source\Generate\CSLuaTestWrap.cs" />
+    <Compile Include="Assets\Scripts\CSLuaTest2.cs" />
+    <Compile Include="Assets\Source\Generate\CSFunctionTestWrap.cs" />
     <Compile Include="Assets\Source\Generate\DelegateFactory.cs" />
     <Compile Include="Assets\Source\Generate\LuaBinder.cs" />
     <Compile Include="Assets\Source\Generate\LuaInterface_DebuggerWrap.cs" />
