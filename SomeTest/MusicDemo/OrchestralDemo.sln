@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchestralDemo", "OrchestralDemo.csproj", "{F8B674B4-1330-81C2-1C5B-9BA2D3BD19E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B674B4-1330-81C2-1C5B-9BA2D3BD19E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B674B4-1330-81C2-1C5B-9BA2D3BD19E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B674B4-1330-81C2-1C5B-9BA2D3BD19E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B674B4-1330-81C2-1C5B-9BA2D3BD19E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
