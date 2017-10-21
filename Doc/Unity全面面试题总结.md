@@ -118,6 +118,37 @@
 ### 射线检测碰撞物的原理是？  
 > 射线是3D世界中一个点向一个方向发射的一条无终点的线，在发射轨迹中与其他物体发生碰撞时，它将停止发射   
 
+### Unity中，照相机的Clipping Planes的作用是什么？调整Near、Fare两个值时，应该注意什么？  
+> 剪裁平面 。从相机到开始渲染和停止渲染之间的距离  
+
+### 如何让已经存在的GameObject在LoadLevel后不被卸载掉？  
+> DontDestroyOnLoad(transform.gameObject);  
+
+### 请简述GC（垃圾回收）产生的原因，并描述如何避免？  
+> GC回收堆上的内存  
+  避免：1.减少new产生对象的次数  
+  2.使用公用的对象（静态成员）  
+  3.将String换为StringBuilder  
+  
+### 反射的实现原理？  
+
+> 审查元数据并收集关于它的类型信息的能力。实现原理：在运行时根据程序集及其中的类型得到元数据。下面是实现步骤：
+
+导入using System.Reflection;
+
+Assembly.Load(“程序集”)加载程序集,返回类型是一个Assembly
+
+得到程序集中所有类的名称
+
+foreach (Type type in assembly.GetTypes()) { string t = type.Name; } 
+Type type = assembly.GetType(“程序集.类名”);获取当前类的类型
+
+Activator.CreateInstance(type); 创建此类型实例
+
+MethodInfo mInfo = type.GetMethod(“方法名”);获取当前方法
+
+m.Info.Invoke(null,方法参数);
+
 
 
 
