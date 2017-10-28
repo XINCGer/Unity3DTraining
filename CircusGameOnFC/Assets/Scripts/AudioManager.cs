@@ -5,7 +5,7 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
 
-    private AudioManager audioManager = null;
+    private static AudioManager audioManager = null;
     private AudioSource audioSource;
 
     [SerializeField]
@@ -19,6 +19,11 @@ public class AudioManager : MonoBehaviour
     {
         audioManager = this;
         audioSource = this.GetComponent<AudioSource>();
+    }
+
+    public static AudioManager GetInstance()
+    {
+        return audioManager;
     }
 
     public void PlayJumpEffect()
@@ -35,7 +40,7 @@ public class AudioManager : MonoBehaviour
         {
             audioSource.Stop();
             audioSource.PlayOneShot(audioDieA);
-            Invoke("PlayDieEffectB",1.0f);
+            Invoke("PlayDieEffectB", 1.0f);
         }
     }
 
