@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\BgController.cs" />
     <Compile Include="Assets\Scripts\FireCircleController.cs" />
+    <Compile Include="Assets\Scripts\FireCircleFactory.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
