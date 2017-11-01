@@ -59,5 +59,16 @@ function Awake() {
   #endif
 }
 ```
+
+另外我们也能够自定义宏定义，在PlayerSetting中定义：  
+![](./image/1.png)  
+在上面的代码中加入：  
+``` C#  
+#if CUSTOM_ITF  
+        customMsg = "我自己定义了预编译";  
+#endif  
+        Debug.Log(customMsg);  
+``` 
+然后我们执行看下，你就能在控制台看见我们输出的信息了。  
 * [Unity宏定义官方文档](https://docs.unity3d.com/Manual/PlatformDependentCompilation.html)
 
