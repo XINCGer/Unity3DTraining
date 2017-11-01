@@ -60,8 +60,8 @@ function Awake() {
 }
 ```
 
-另外我们也能够自定义宏定义，在PlayerSetting中定义：  
-![](./image/1.png)  
+另外我们也能够自定义宏定义，在PlayerSetting中定义:  
+![](./images/1.png)  
 在上面的代码中加入：  
 ``` C#  
 #if CUSTOM_ITF  
