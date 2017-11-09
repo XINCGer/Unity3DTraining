@@ -23,7 +23,8 @@ public class CSLuaTest : MonoBehaviour
         //在lua虚拟机(全局)中注册自定义函数
         luaState.BeginModule(null);
         luaState.BeginClass(typeof(CSLuaTest), typeof(System.Object));
-        this.luaState.RegFunction("CSFunction", CSFunction);
+        this.luaState.RegFunction("CSHello", CSHello);
+        this.luaState.RegFunction("CSGoodbye",CSGoodbye);
         luaState.EndClass();
         luaState.EndModule();
 
@@ -48,13 +49,20 @@ public class CSLuaTest : MonoBehaviour
     /// </summary>
     /// <returns></returns>
     [MonoPInvokeCallback(typeof(LuaCSFunction))]
-    public static int CSFunction(IntPtr L)
+    public static int CSHello(IntPtr L)
     {
         string name = LuaDLL.lua_tostring(L, -1);
         Debug.Log("Hello," + name);
         return 1;
     }
 
+    [MonoPInvokeCallback(typeof(LuaCSFunction))]
+    public int CSGoodbye(IntPtr L)
+    {
+        string name = LuaDLL.lua_tostring(L, -1);
+        Debug.Log("Goodbye," + name);
+        return 1;
+    }
     // Update is called once per frame
     void Update()
     {

@@ -1,3 +1,4 @@
 function LuaFunction(name)
-	CSLuaTest.CSFunction(name)
+	CSLuaTest.CSHello(name)
+	CSLuaTest.CSGoodbye(name)
 end
