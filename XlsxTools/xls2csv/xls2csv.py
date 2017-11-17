@@ -7,9 +7,9 @@ import xdrlib,xlrd
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-#分割符
+# 分割符
 C_SPACE = ","
-#结束符
+# 结束符
 C_END = "\n"
 # 输入路径(存放xls文件的路径）
 IN_PATH = ""
@@ -34,18 +34,21 @@ def cur_file_dir(path):
     print path
     return os.path.abspath(path)
 
-#搜索指定文件夹下面的文件
+# 搜索指定文件夹下面的文件
 def find_file_by_pattern(pattern='.*', base=".", circle=True):  
-    # 查找给定文件夹下面所有
+    # 查找给定文件夹下面所有xls文件
     re_file = re.compile(pattern)
+    # 第一次搜索的时候过滤下路径，递归之后直接搜索base路径即可
     if base == ".":
         base = cur_file_dir(IN_PATH)
     print u"开始搜索文件夹：",base
 
+    # 存储xls文件的列表
     final_file_list = []
+    # 遍历指定路径下的文件
     cur_list = os.listdir(base)  
     for item in cur_list:
-        # print item
+        # 忽略一些干扰的文件，如果你还有其他需要忽略的文件，直接在后面继续添加即可
         if item == ".svn":
             continue
         # 拼接路径
@@ -67,7 +70,7 @@ def find_file_by_pattern(pattern='.*', base=".", circle=True):
     return final_file_list
 
 
-#打开excel
+# 打开excel
 def open_excel(file= 'file.xls'):
     try:
         data = xlrd.open_workbook(file)
