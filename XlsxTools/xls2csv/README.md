@@ -10,4 +10,7 @@
 
 使用方法：
 * 打开 config.ini 配置文件，配置输入路径以及输出路径  
-* 执行 xlsx2csv.py 脚本进行自动导表
+* 执行 xlsx2csv.py 脚本进行自动导表  
+
+教程地址  
+* [点我点我](http://www.cnblogs.com/msxh/p/7858346.html)
