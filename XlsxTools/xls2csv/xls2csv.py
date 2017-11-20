@@ -26,6 +26,7 @@ def read_config():
     cur_line = config_file.readline().rstrip("\r\n").split(',')
     global OUT_PATH 
     OUT_PATH = cur_line[1]
+    config_file.close()
 
 # 过滤路径
 def cur_file_dir(path):
