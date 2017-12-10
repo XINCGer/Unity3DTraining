@@ -70,4 +70,5 @@
 * [IntelliJ Idea 2017 注册码 免费激活方法](http://blog.csdn.net/gaokao2011/article/details/75213008)   
 * [在Unity中调试Lua：IntelliJ IDEA + EmmyLua](http://blog.csdn.net/David_Dai_1108/article/details/74279111)  
 * [IntelliJ Idea 常用快捷键列表](http://www.cnblogs.com/zhangpengshou/p/5366413.html)    
-* [IntelliJ Idea 集成svn 和使用](http://www.cnblogs.com/zhanghaoliang/p/6206948.html)
+* [IntelliJ Idea 集成svn 和使用](http://www.cnblogs.com/zhanghaoliang/p/6206948.html)  
+* [IntelliJ Idea 常用快捷键](http://www.cnblogs.com/jajian/p/8012603.html)  
