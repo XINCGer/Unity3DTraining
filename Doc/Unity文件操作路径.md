@@ -1,30 +1,30 @@
 ## Unity文件操作路径  
-IOS:
+IOS:  
 Application.dataPath :               Application/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/xxx.app/Data  
 Application.streamingAssetsPath :   Application/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/xxx.app/Data/Raw  
 Application.persistentDataPath :      Application/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/Documents  
 Application.temporaryCachePath :   Application/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/Library/Caches  
 
-Android:
+Android:  
 Application.dataPath :                         /data/app/xxx.xxx.xxx.apk  
 Application.streamingAssetsPath :      jar:file:///data/app/xxx.xxx.xxx.apk/!/assets  
 Application.persistentDataPath :         /data/data/xxx.xxx.xxx/files  
 Application.temporaryCachePath :      /data/data/xxx.xxx.xxx/cache  
 
-Windows:
+Windows:  
 Application.dataPath :                         /Assets  
 Application.streamingAssetsPath :      /Assets/StreamingAssets  
 Application.persistentDataPath :         C:/Users/xxxx/AppData/LocalLow/CompanyName/ProductName  
 Application.temporaryCachePath :      C:/Users/xxxx/AppData/Local/Temp/CompanyName/ProductName  
 
-Mac:
+Mac:  
 Application.dataPath :                         /Assets  
 Application.streamingAssetsPath :      /Assets/StreamingAssets  
 Application.persistentDataPath :         /Users/xxxx/Library/Caches/CompanyName/Product Name  
 Application.temporaryCachePath :     /var/folders/57/6b4_9w8113x2fsmzx_yhrhvh0000gn/T/CompanyName/Product Name  
 
 
-Windows Web Player:
+Windows Web Player:  
 Application.dataPath :             file:///D:/MyGame/WebPlayer (即导包后保存的文件夹，html文件所在文件夹)  
 Application.streamingAssetsPath : --  
 Application.persistentDataPath : --  
