@@ -72,7 +72,7 @@ else
 根目录：StreamingAssets文件夹  
 ```C#
 #if UNITY_EDITOR
-string filepath = Application.dataPath +"/StreamingAssets"+"/my.xml";
+ string filepath = Application.dataPath +"/StreamingAssets"+"/my.xml";
 #elif UNITY_IPHONE
  string filepath = Application.dataPath +"/Raw"+"/my.xml";
 #elif UNITY_ANDROID
@@ -89,4 +89,34 @@ Application.dataPath： 只可读不可写，放置一些资源数据
 Application.persistentDataPath  
 IOS与android平台都可以使用这个目录下进行读写操作，可以存放各种配置文件进行修改之类的。  
 在PC上的地址是：C:\Users\用户名 \AppData\LocalLow\DefaultCompany\test  
+
+### 总结：  
+一.在项目根目录中创建Resources文件夹来保存文件。  
+可以使用Resources.Load("文件名字，注：不包括文件后缀名");把文件夹中的对象加载出来。  
+注：此方可实现对文件实施“增删查改”等操作，但打包后不可以更改了。  
+
+二.直接放在项目根路径下来保存文件  
+在直接使用Application.dataPath来读取文件进行操作。   
+注：移动端是没有访问权限的。  
+
+三.在项目根目录中创建StreamingAssets文件夹来保存文件。  
+1.可使用Application.dataPath来读取文件进行操作：  
+```C#
+#if UNITY_EDITOR
+ string filepath = Application.dataPath +"/StreamingAssets"+"/my.xml";
+#elif UNITY_IPHONE
+ string filepath = Application.dataPath +"/Raw"+"/my.xml";
+#elif UNITY_ANDROID
+ string filepath = "jar:file://" + Application.dataPath + "!/assets/"+"/my.xml;
+#endif
+```
+2.直接使用Application.streamingAssetsPath来读取文件进行操作。  
+注：此方法在pc/Mac电脑中可实现对文件实施“增删查改”等操作，但在移动端只支持读取操作。  
+
+四.使用Application.persistentDataPath来操作文件（荐）  
+该文件存在手机沙盒中，因此不能直接存放文件。  
+1.通过服务器直接下载保存到该位置，也可以通过Md5码比对下载更新新的资源  
+2.没有服务器的，只有间接通过文件流的方式从本地读取并写入Application.persistentDataPath文件下，然后再通过Application.persistentDataPath来读取操作。  
+注：在Pc/Mac电脑 以及Android跟Ipad、ipone都可对文件进行任意操作，另外在IOS上该目录下的东西可以被iCloud自动备份。  
+
 
