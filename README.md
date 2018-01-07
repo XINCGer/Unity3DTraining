@@ -40,5 +40,6 @@
 >* [36.热更新专题](./HotUpdate)  
 >* [37.马三毕设-天天萌泡泡](https://github.com/XINCGer/BubbleShooter)  
 >* [38.转表工具](https://github.com/XINCGer/Unity3DTraining/tree/master/XlsxTools)  
+>* [39.仿写FC上的吃豆人](./PacMan)  
 
 
