@@ -296,3 +296,5 @@ __pycache__/
 # Unity AutoBuild
 Library/
 \.vscode/
+
+PacMan/Temp/
