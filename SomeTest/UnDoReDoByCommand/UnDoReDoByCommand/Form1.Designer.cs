@@ -41,6 +41,7 @@
             this.undoBtn.TabIndex = 0;
             this.undoBtn.Text = "撤销";
             this.undoBtn.UseVisualStyleBackColor = true;
+            this.undoBtn.Click += new System.EventHandler(this.undoBtn_Click);
             // 
             // redoBtn
             // 
@@ -50,6 +51,7 @@
             this.redoBtn.TabIndex = 1;
             this.redoBtn.Text = "重做";
             this.redoBtn.UseVisualStyleBackColor = true;
+            this.redoBtn.Click += new System.EventHandler(this.redoBtn_Click);
             // 
             // textBox1
             // 
@@ -57,6 +59,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(202, 21);
             this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
             // 
