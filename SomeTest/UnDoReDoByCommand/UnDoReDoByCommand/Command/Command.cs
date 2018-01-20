@@ -25,23 +25,31 @@ namespace UnDoReDoByCommand.Command
         private TextBox textbox;
         private string newStr;
         private string oldStr;
+        private EventHandler textEvent;
 
-        public TextChangedCommand(TextBox textBox, string newStr, string oldStr)
+        public TextChangedCommand(TextBox textBox, string newStr, string oldStr,EventHandler textEvent)
         {
             this.textbox = textBox;
             this.newStr = newStr;
             this.oldStr = oldStr;
+            this.textEvent = textEvent;
         }
 
         public void Execute()
         {
-            this.textbox.Text = newStr;
-            this.textbox.SelectionStart = this.textbox.TextLength;
+            SetText(newStr);
         }
 
         public void Undo()
         {
-            this.textbox.Text = oldStr;
+            SetText(oldStr);
+        }
+
+        private void SetText(string text)
+        {
+            this.textbox.TextChanged -= textEvent;
+            this.textbox.Text = text;
+            this.textbox.TextChanged += textEvent;
             this.textbox.SelectionStart = this.textbox.TextLength;
         }
     }
