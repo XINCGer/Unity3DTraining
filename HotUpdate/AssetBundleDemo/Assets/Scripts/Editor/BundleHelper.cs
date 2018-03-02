@@ -52,6 +52,13 @@ public class BundleHelper
         }
     }
 
+    [MenuItem("Assets/BuildAssetBundlesAuto")]
+    private static void BuildAssetBundlesAuto()
+    {
+        SetBundleNameAuto();
+        BuildAllAssetBundlesManual();
+    }
+
     /// <summary>
     /// 清除所有的AssetBundleName，由于打包方法会将所有设置过AssetBundleName的资源打包，所以自动打包前需要清理
     /// </summary>

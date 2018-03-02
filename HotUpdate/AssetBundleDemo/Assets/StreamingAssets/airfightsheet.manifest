@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2730316391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 417ec1d638ec8f3d5698e21232faf2e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/airfightSheet.png
+Dependencies: []
