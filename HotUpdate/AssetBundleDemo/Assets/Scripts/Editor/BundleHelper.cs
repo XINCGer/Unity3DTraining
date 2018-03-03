@@ -52,11 +52,46 @@ public class BundleHelper
         }
     }
 
+    /// <summary>
+    /// 自动给指定目录中的资源设置bundlename并打出bundle
+    /// </summary>
     [MenuItem("Assets/BuildAssetBundlesAuto")]
     private static void BuildAssetBundlesAuto()
     {
         SetBundleNameAuto();
         BuildAllAssetBundlesManual();
+    }
+
+    /// <summary>
+    /// 对选中的资源分别打bundle
+    /// </summary>
+    [MenuItem("Assets/BuildOneBundleFromSelection")]
+    private static void BuildOneBundleFromSelection()
+    {
+        Object[] targets = Selection.GetFiltered(typeof(Object), SelectionMode.DeepAssets);
+
+        for (int i = 0; i < targets.Length; i++)
+        {
+            if (null == targets[i])
+            {
+                continue;
+            }
+            string assetPath = AssetDatabase.GetAssetPath(targets[i]);
+            if (null != assetPath)
+            {
+                //跳过文件夹
+                if (!File.Exists(assetPath)) continue;
+                //跳过脚本文件和meta文件
+                if (assetPath.EndsWith(".cs") || assetPath.EndsWith(".meta")) continue;
+                AssetBundleBuild abb = new AssetBundleBuild();
+                abb.assetBundleName = Path.GetFileNameWithoutExtension(assetPath);
+                //abb.assetBundleVariant = "hd";
+                abb.assetNames = new[] { assetPath };
+                BuildPipeline.BuildAssetBundles(abOutputPath, new AssetBundleBuild[1] { abb },
+                    BuildAssetBundleOptions.ChunkBasedCompression, EditorUserBuildSettings.activeBuildTarget);
+            }
+        }
+        AssetDatabase.Refresh();
     }
 
     /// <summary>
