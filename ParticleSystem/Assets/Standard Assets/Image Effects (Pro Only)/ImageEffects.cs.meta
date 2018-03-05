@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89a037199d11087f1100e2b844295342
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blitCopyShader: {fileID: 4800000, guid: 3338b5ea2f3cb594698fae65cf060346, type: 3}
+  - blitMultiplyShader: {fileID: 4800000, guid: 7034c801b78acab448cdcf845f7c352d,
+      type: 3}
+  - blitMultiply2XShader: {fileID: 4800000, guid: cde82987e0a884c4788c65f7b54390e8,
+      type: 3}
+  - blitAddShader: {fileID: 4800000, guid: c7515f214a63bdb42b6ae6335a00a8a4, type: 3}
+  - blitAddSmoothShader: {fileID: 4800000, guid: 7741a77a7c455d0418bc429bd508dc87,
+      type: 3}
+  - blitBlendShader: {fileID: 4800000, guid: f1cf7e9c98754c4429ff0f7cc1d9dd7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
