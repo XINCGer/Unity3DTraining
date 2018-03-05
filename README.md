@@ -43,5 +43,6 @@
 >* [39.仿写FC上的吃豆人](./PacMan)  
 >* [40.【外链】Unity手游自动化测试探索](https://github.com/Tencent/GAutomator)  
 >* [41.新手引导功能](./GuideSystem)  
+>* [42.粒子系统研究](.ParticleSystem)  
 
 
