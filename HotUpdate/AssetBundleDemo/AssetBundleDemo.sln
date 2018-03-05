@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleDemo", "AssetBundleDemo.csproj", "{F5D9407C-E449-2D74-8C93-461490718AB9}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleDemo.Editor", "AssetBundleDemo.Editor.csproj", "{190156F2-0489-2691-0B59-BE5B146A1809}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D9407C-E449-2D74-8C93-461490718AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D9407C-E449-2D74-8C93-461490718AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D9407C-E449-2D74-8C93-461490718AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D9407C-E449-2D74-8C93-461490718AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{190156F2-0489-2691-0B59-BE5B146A1809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{190156F2-0489-2691-0B59-BE5B146A1809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190156F2-0489-2691-0B59-BE5B146A1809}.Release|Any CPU.ActiveCfg = Release|Any CPU
