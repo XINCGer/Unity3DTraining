@@ -40,6 +40,18 @@ public class AssetBundleMgr
     }
 
     /// <summary>
+    /// 通过资源名获取所在bundle的名称
+    /// </summary>
+    /// <param name="assetName"></param>
+    /// <returns></returns>
+    string GetBundleName(string assetName)
+    {
+        return assetName;
+    }
+
+    #region AssetBundle加载
+
+    /// <summary>
     /// 从StreamingAssetPath加载(同步)
     /// </summary>
     /// <param name="bundleName"></param>
@@ -116,4 +128,37 @@ public class AssetBundleMgr
     {
         assetBundleLoader.LoadAssetBundleAsync(url, callback, BundleLoadType.WebRequest, version);
     }
+
+    #endregion
+
+    #region 资源加载
+
+    /// <summary>
+    /// 从StreamingAsset中加载资源(同步)
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <param name="assetName"></param>
+    /// <returns></returns>
+    public T LoadAssetFromStreamingAsset<T>(string assetName) where T : UnityEngine.Object
+    {
+        AssetBundle assetBundle = LoadFromStreamingAssetPath(GetBundleName(assetName));
+        T obj = assetBundle.LoadAsset<T>(assetName);
+        assetBundle.Unload(false);
+        return obj;
+    }
+
+    /// <summary>
+    /// 从PersistantData中加载资源(同步)
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <param name="assetName"></param>
+    /// <returns></returns>
+    public T LoadAssetFromPersistant<T>(string assetName) where T : UnityEngine.Object
+    {
+        AssetBundle assetBundle = LoadFromPersistantDataPath(GetBundleName(assetName));
+        T obj = assetBundle.LoadAsset<T>(assetName);
+        assetBundle.Unload(false);
+        return obj;
+    }
+    #endregion
 }
