@@ -1,0 +1,23 @@
+[repository]
+native = LF
+[eol]
+only-consistent = False
+[patterns]
+**.cs = LF
+**.md = LF
+**.txt = LF
+.editorconfig = LF
+LICENSE = LF
+
+## keep CRLF's in sync with .editorconfig
+
+# vs can handle these as lf, but really wants them as crlf
+**.vcproj = CRLF
+**.vcxproj = CRLF
+**.vcxproj.filters = CRLF
+**.csproj = CRLF
+**.sln = CRLF
+**.sln.template = CRLF
+**.bat = CRLF
+**.cmd = CRLF
+**.xaml = CRLF

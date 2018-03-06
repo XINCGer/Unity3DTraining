@@ -1,0 +1,37 @@
+# see http://editorconfig.org/ for docs on this file
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf                    ; help with sharing files across os's (i.e. network share or through local vm)
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# trailing whitespace is significant in markdown (bad choice, bad!)
+[*.{md,markdown}]
+trim_trailing_whitespace = false
+
+# keep these and the VS stuff below in sync with .hgeol's CRLF extensions
+[*.{vcproj,bat,cmd,xaml,tt,t4,ttinclude}]
+end_of_line = crlf
+
+# this VS-specific stuff is based on experiments to see how VS will modify a file after it has been manually edited.
+# the settings are meant to closely match what VS does to minimize unnecessary diffs. this duplicates settings in *
+# but let's be explicit here to be safe (in case someone wants to copy-paste this out to another .editorconfig).
+[*.{vcxproj,vcxproj.filters,csproj}]
+indent_style = space
+indent_size = 2
+end_of_line = crlf
+charset = utf-8-bom
+trim_trailing_whitespace = true
+insert_final_newline = false
+[*.{sln,sln.template}]
+indent_style = tab
+indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false

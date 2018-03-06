@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!303 &1
+UnityAnalyticsManager:
+  m_ObjectHideFlags: 0
+  m_Enabled: 0
+  m_InitializeOnStartup: 1
+  m_TestMode: 0
+  m_TestEventUrl: 
+  m_TestConfigUrl: 

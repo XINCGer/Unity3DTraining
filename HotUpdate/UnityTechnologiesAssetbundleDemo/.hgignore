@@ -1,0 +1,18 @@
+# This section is full of shell-style glob patterns
+syntax:glob
+
+demo/Assets/AssetStoreTools
+demo/Assets/AssetStoreTools.meta
+demo/Build
+Temp
+Library
+AssetBundles
+Assets/AssetBundleManager/Resources/AssetBundleServerURL.bytes.meta
+Assets/AssetBundleManager/Resources/AssetBundleServerURL.bytes
+output
+.DS_Store
+*.csproj*
+*.pdb
+*.sln
+*.suo
+*.userprefs
