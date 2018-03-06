@@ -11,6 +11,12 @@ public class AssetBundleMgr
 {
     private static readonly string streamingAssetPath = Application.streamingAssetsPath;
     private static readonly string persistentDataPath = Application.persistentDataPath;
+    private static readonly string wwwStreamingAssetPath =
+#if UNITY_ANDROID
+        Application.streamingAssetsPath;
+#else
+        "file://" + Application.streamingAssetsPath;
+#endif
     private static AssetBundleMgr instance;
     private static AssetBundleLoader assetBundleLoader;
 
@@ -71,5 +77,43 @@ public class AssetBundleMgr
     public static void LoadFromPersistantDataPathAsync(string bundleName, Action<AssetBundle> callback)
     {
         assetBundleLoader.LoadAssetBundleAsync(Path.Combine(persistentDataPath, bundleName), callback);
+    }
+
+    /// <summary>
+    /// 使用WWW从本地加载bundle(异步)
+    /// </summary>
+    /// <param name="bundleName"></param>
+    /// <param name="callback"></param>
+    /// <param name="version"></param>
+    public static void LoadFromWWWLocalAsync(string bundleName, Action<AssetBundle> callback, int version)
+    {
+        assetBundleLoader.LoadAssetBundleAsync(Path.Combine(wwwStreamingAssetPath, bundleName), callback, BundleLoadType.WWW, version);
+    }
+
+    /// <summary>
+    /// 使用WWW从网络URL地址加载bundle(异步)
+    /// </summary>
+    /// <param name="url"></param>
+    /// <param name="callback"></param>
+    /// <param name="version"></param>
+    public static void LoadFromWWWUrlAsync(string url, Action<AssetBundle> callback, int version)
+    {
+        assetBundleLoader.LoadAssetBundleAsync(url, callback, BundleLoadType.WWW, version);
+    }
+
+    /// <summary>
+    /// 使用WWWCacheOrDownload从网络URL加载bundle(异步)
+    /// </summary>
+    /// <param name="url"></param>
+    /// <param name="callback"></param>
+    /// <param name="version"></param>
+    public static void LoadFromWWWCacheOrDownloadAsync(string url, Action<AssetBundle> callback, int version)
+    {
+        assetBundleLoader.LoadAssetBundleAsync(url, callback, BundleLoadType.LoadFromCacheOrDownload, version);
+    }
+
+    public static void LoadFromWebRequestAsync(string url, Action<AssetBundle> callback, int version)
+    {
+        assetBundleLoader.LoadAssetBundleAsync(url, callback, BundleLoadType.WebRequest, version);
     }
 }
