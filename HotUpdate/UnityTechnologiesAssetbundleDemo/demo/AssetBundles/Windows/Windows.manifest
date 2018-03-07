@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3504008769
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene-bundle
+      Dependencies:
+        Dependency_0: material-bundle
+    Info_1:
+      Name: variants/myassets.hd
+      Dependencies: {}
+    Info_2:
+      Name: variants/variant-scene
+      Dependencies:
+        Dependency_0: variants/myassets.hd
+    Info_3:
+      Name: variants/myassets.sd
+      Dependencies: {}
+    Info_4:
+      Name: tanks-scene-bundle
+      Dependencies:
+        Dependency_0: tanks-albedo.normal-hd
+    Info_5:
+      Name: tanks-albedo.desert-hd
+      Dependencies: {}
+    Info_6:
+      Name: tanks-albedo.normal-sd
+      Dependencies: {}
+    Info_7:
+      Name: tanks-albedo.normal-hd
+      Dependencies: {}
+    Info_8:
+      Name: tanks-albedo.desert-sd
+      Dependencies: {}
+    Info_9:
+      Name: banner.english
+      Dependencies: {}
+    Info_10:
+      Name: banner.danish
+      Dependencies: {}
+    Info_11:
+      Name: cube-bundle
+      Dependencies:
+        Dependency_0: material-bundle
+    Info_12:
+      Name: material-bundle
+      Dependencies: {}

@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 #if UNITY_5_3 || UNITY_5_4
 using UnityEngine.SceneManagement;
 #endif
@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.iOS;
 #endif
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 namespace AssetBundles
 {
@@ -221,11 +222,11 @@ namespace AssetBundles
 
     public class AssetBundleLoadLevelOperation : AssetBundleLoadOperation
     {
-        protected string                m_AssetBundleName;
-        protected string                m_LevelName;
-        protected bool                  m_IsAdditive;
-        protected string                m_DownloadingError;
-        protected AsyncOperation        m_Request;
+        protected string m_AssetBundleName;
+        protected string m_LevelName;
+        protected bool m_IsAdditive;
+        protected string m_DownloadingError;
+        protected AsyncOperation m_Request;
 
         public AssetBundleLoadLevelOperation(string assetbundleName, string levelName, bool isAdditive)
         {
@@ -246,9 +247,9 @@ namespace AssetBundles
                 m_Request = SceneManager.LoadSceneAsync(m_LevelName, m_IsAdditive ? LoadSceneMode.Additive : LoadSceneMode.Single);
 #else
                 if (m_IsAdditive)
-                    m_Request = Application.LoadLevelAdditiveAsync(m_LevelName);
+                    m_Request = SceneManager.LoadSceneAsync(m_LevelName, LoadSceneMode.Additive);
                 else
-                    m_Request = Application.LoadLevelAsync(m_LevelName);
+                    m_Request = SceneManager.LoadSceneAsync(m_LevelName);
 #endif
                 return false;
             }
@@ -272,12 +273,12 @@ namespace AssetBundles
 
     public abstract class AssetBundleLoadAssetOperation : AssetBundleLoadOperation
     {
-        public abstract T GetAsset<T>() where T: UnityEngine.Object;
+        public abstract T GetAsset<T>() where T : UnityEngine.Object;
     }
 
     public class AssetBundleLoadAssetOperationSimulation : AssetBundleLoadAssetOperation
     {
-        Object                          m_SimulatedObject;
+        Object m_SimulatedObject;
 
         public AssetBundleLoadAssetOperationSimulation(Object simulatedObject)
         {
@@ -302,11 +303,11 @@ namespace AssetBundles
 
     public class AssetBundleLoadAssetOperationFull : AssetBundleLoadAssetOperation
     {
-        protected string                m_AssetBundleName;
-        protected string                m_AssetName;
-        protected string                m_DownloadingError;
-        protected System.Type           m_Type;
-        protected AssetBundleRequest    m_Request = null;
+        protected string m_AssetBundleName;
+        protected string m_AssetName;
+        protected string m_DownloadingError;
+        protected System.Type m_Type;
+        protected AssetBundleRequest m_Request = null;
 
         public AssetBundleLoadAssetOperationFull(string bundleName, string assetName, System.Type type)
         {

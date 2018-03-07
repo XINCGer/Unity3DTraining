@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3011216058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd37f01b9d25cd7f608bfc380d3a9011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81b714be16cd75b68482cce7ed08aed1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/Assets/Tanks/Variants/Language/English/Canvas.prefab
+Dependencies: []

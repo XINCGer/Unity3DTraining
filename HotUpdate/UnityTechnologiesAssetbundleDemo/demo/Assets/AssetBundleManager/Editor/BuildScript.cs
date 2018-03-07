@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEditor;
 using UnityEditor.Callbacks;
 using System.Collections;
@@ -171,12 +171,8 @@ namespace AssetBundles
                 case BuildTarget.StandaloneWindows:
                 case BuildTarget.StandaloneWindows64:
                     return "/test.exe";
-                case BuildTarget.StandaloneOSXIntel:
-                case BuildTarget.StandaloneOSXIntel64:
-                case BuildTarget.StandaloneOSXUniversal:
+                case BuildTarget.StandaloneOSX:
                     return "/test.app";
-                case BuildTarget.WebPlayer:
-                case BuildTarget.WebPlayerStreamed:
                 case BuildTarget.WebGL:
                 case BuildTarget.iOS:
                     return "";

@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 237167069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 567d422487c62f12f62adba0bb331394
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/Assets/Tanks/Scenes/TanksExample.unity
+Dependencies:
+- E:/GitProject/Unity3DTraining/HotUpdate/UnityTechnologiesAssetbundleDemo/demo/AssetBundles/Windows/tanks-albedo.normal-hd
