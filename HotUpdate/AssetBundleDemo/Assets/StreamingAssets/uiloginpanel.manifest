@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4215529942
+CRC: 3833022071
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 58d2287bc7dbfde7d4ed8281e7923588
+    Hash: b35d64d15263e00ef0ff99d4ab24abbf
   TypeTreeHash:
     serializedVersion: 2
     Hash: c93b272035f72342ca7b63099a87fd64
@@ -37,4 +37,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefabs/uiLoginPanel.prefab
-Dependencies: []
+Dependencies:
+- E:/GitProject/Unity3DTraining/HotUpdate/AssetBundleDemo/Assets/StreamingAssets/airfightsheet

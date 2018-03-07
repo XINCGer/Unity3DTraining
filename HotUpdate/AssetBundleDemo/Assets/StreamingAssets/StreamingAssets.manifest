@@ -1,7 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1967260968
+CRC: 1908203124
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: uiloginpanel
+      Dependencies:
+        Dependency_0: airfightsheet
+    Info_1:
+      Name: main
+      Dependencies: {}
+    Info_2:
+      Name: start
+      Dependencies: {}
+    Info_3:
+      Name: airfightsheet
       Dependencies: {}
