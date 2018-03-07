@@ -19,6 +19,8 @@ public class AssetBundleMgr
 #endif
     private static AssetBundleMgr instance;
     private static AssetBundleLoader assetBundleLoader;
+    private AssetBundleManifest mainManifest;
+    private List<AssetBundle> depsBundles;
 
     private AssetBundleMgr()
     {
@@ -27,6 +29,7 @@ public class AssetBundleMgr
             GameObject go = new GameObject("AssetBundleLoader");
             GameObject.DontDestroyOnLoad(go);
             assetBundleLoader = go.AddComponent<AssetBundleLoader>();
+            depsBundles = new List<AssetBundle>();
         }
     }
 
@@ -46,7 +49,11 @@ public class AssetBundleMgr
     /// <returns></returns>
     string GetBundleName(string assetName)
     {
-        return assetName;
+        if (assetName == "AssetBundleManifest")
+        {
+            return "StreamingAssets";
+        }
+        return assetName.ToLower();
     }
 
     #region AssetBundle加载
@@ -141,9 +148,11 @@ public class AssetBundleMgr
     /// <returns></returns>
     public T LoadAssetFromStreamingAsset<T>(string assetName) where T : UnityEngine.Object
     {
+        GetDependenciesByName(assetName);
         AssetBundle assetBundle = LoadFromStreamingAssetPath(GetBundleName(assetName));
         T obj = assetBundle.LoadAsset<T>(assetName);
         assetBundle.Unload(false);
+        ReleaseAllDependencies();
         return obj;
     }
 
@@ -155,10 +164,37 @@ public class AssetBundleMgr
     /// <returns></returns>
     public T LoadAssetFromPersistant<T>(string assetName) where T : UnityEngine.Object
     {
+        GetDependenciesByName(assetName);
         AssetBundle assetBundle = LoadFromPersistantDataPath(GetBundleName(assetName));
         T obj = assetBundle.LoadAsset<T>(assetName);
         assetBundle.Unload(false);
+        ReleaseAllDependencies();
         return obj;
     }
+
+    public void LoadMainManifest()
+    {
+        mainManifest = LoadAssetFromStreamingAsset<AssetBundleManifest>("AssetBundleManifest");
+    }
+
+    private void GetDependenciesByName(string assetName)
+    {
+        string[] deps = mainManifest.GetAllDependencies(GetBundleName(assetName));
+        depsBundles.Clear();
+        for (int i = 0; i < deps.Length; i++)
+        {
+            AssetBundle assetBundle = LoadFromStreamingAssetPath(GetBundleName(deps[i]));
+            depsBundles.Add(assetBundle);
+        }
+    }
+
+    private void ReleaseAllDependencies()
+    {
+        for (int i = 0; i < depsBundles.Count; i++)
+        {
+            depsBundles[i].Unload(false);
+        }
+    }
+
     #endregion
 }
