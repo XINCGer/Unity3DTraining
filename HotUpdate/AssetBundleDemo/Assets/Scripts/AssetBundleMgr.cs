@@ -30,6 +30,7 @@ public class AssetBundleMgr
             GameObject.DontDestroyOnLoad(go);
             assetBundleLoader = go.AddComponent<AssetBundleLoader>();
             depsBundles = new List<AssetBundle>();
+            LoadMainManifest();
         }
     }
 
@@ -152,7 +153,7 @@ public class AssetBundleMgr
         AssetBundle assetBundle = LoadFromStreamingAssetPath(GetBundleName(assetName));
         T obj = assetBundle.LoadAsset<T>(assetName);
         assetBundle.Unload(false);
-        ReleaseAllDependencies();
+        //ReleaseAllDependencies();
         return obj;
     }
 
@@ -168,7 +169,7 @@ public class AssetBundleMgr
         AssetBundle assetBundle = LoadFromPersistantDataPath(GetBundleName(assetName));
         T obj = assetBundle.LoadAsset<T>(assetName);
         assetBundle.Unload(false);
-        ReleaseAllDependencies();
+        //ReleaseAllDependencies();
         return obj;
     }
 
@@ -179,6 +180,7 @@ public class AssetBundleMgr
 
     private void GetDependenciesByName(string assetName)
     {
+        if("AssetBundleManifest" == assetName)return;
         string[] deps = mainManifest.GetAllDependencies(GetBundleName(assetName));
         depsBundles.Clear();
         for (int i = 0; i < deps.Length; i++)

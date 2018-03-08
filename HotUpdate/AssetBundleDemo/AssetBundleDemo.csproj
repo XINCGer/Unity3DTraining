@@ -287,6 +287,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AssetBundleLoader.cs" />
     <Compile Include="Assets\Scripts\AssetBundleMgr.cs" />
+    <Compile Include="Assets\Scripts\MainLoop.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
