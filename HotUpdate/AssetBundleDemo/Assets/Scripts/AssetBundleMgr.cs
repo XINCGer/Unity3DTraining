@@ -180,7 +180,7 @@ public class AssetBundleMgr
 
     private void GetDependenciesByName(string assetName)
     {
-        if("AssetBundleManifest" == assetName)return;
+        if ("AssetBundleManifest" == assetName) return;
         string[] deps = mainManifest.GetAllDependencies(GetBundleName(assetName));
         depsBundles.Clear();
         for (int i = 0; i < deps.Length; i++)
@@ -190,7 +190,7 @@ public class AssetBundleMgr
         }
     }
 
-    private void ReleaseAllDependencies()
+    public void ReleaseAllDependencies()
     {
         for (int i = 0; i < depsBundles.Count; i++)
         {
