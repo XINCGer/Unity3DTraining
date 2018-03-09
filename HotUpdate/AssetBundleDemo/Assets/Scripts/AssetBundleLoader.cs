@@ -82,7 +82,7 @@ public class AssetBundleLoader : MonoBehaviour
 
     public static IEnumerator LoadFromWebRequest(string path, Action<AssetBundle> callback, int version)
     {
-        UnityWebRequest request = UnityWebRequest.GetAssetBundle(path);
+        UnityWebRequest request = UnityWebRequest.GetAssetBundle(path, (uint)version, 0);
         yield return request.SendWebRequest();
         AssetBundle bundle = DownloadHandlerAssetBundle.GetContent(request);
         callback(bundle);
