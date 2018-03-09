@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -26,8 +27,20 @@ public class MainLoop : MonoBehaviour
             AssetBundleMgr.LoadFromWWWLocalAsync("uiLoginPanel", (obj) =>
             {
                 GameObject go = obj.LoadAsset<GameObject>("uiLoginPanel");
+                obj.Unload(false);
             }, 1);
 
+            AssetBundleMgr.LoadFromWWWCacheOrDownloadAsync(Path.Combine(AssetBundleMgr.wwwStreamingAssetPath, "uiLoginPanel"), (obj) =>
+            {
+                GameObject go = obj.LoadAsset<GameObject>("uiLoginPanel");
+                obj.Unload(false);
+            }, 2);
+
+            AssetBundleMgr.LoadFromWebRequestAsync(Path.Combine(AssetBundleMgr.wwwStreamingAssetPath, "uiLoginPanel"), (obj) =>
+            {
+                GameObject go = obj.LoadAsset<GameObject>("uiLoginPanel");
+                obj.Unload(false);
+            },1);
         });
     }
 

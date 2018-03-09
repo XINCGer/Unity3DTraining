@@ -9,9 +9,9 @@ using UnityEngine;
 /// </summary>
 public class AssetBundleMgr
 {
-    private static readonly string streamingAssetPath = Application.streamingAssetsPath;
-    private static readonly string persistentDataPath = Application.persistentDataPath;
-    private static readonly string wwwStreamingAssetPath =
+    public static readonly string streamingAssetPath = Application.streamingAssetsPath;
+    public static readonly string persistentDataPath = Application.persistentDataPath;
+    public static readonly string wwwStreamingAssetPath =
 #if UNITY_ANDROID
         Application.streamingAssetsPath;
 #else
