@@ -19,6 +19,9 @@ public class MainLoop : MonoBehaviour
             GameObject uiLoginPanl = AssetBundleMgr.GetInstance().LoadAssetFromStreamingAsset<GameObject>("uiLoginPanel");
             GameObject uiLoginObj = GameObject.Instantiate(uiLoginPanl);
             uiLoginObj.transform.SetParent(uiRoot.transform, false);
+
+            var bundle = AssetBundleMgr.LoadFromStreamingAssetPath("Main");
+            SceneManager.LoadScene("Main");
         });
     }
 
