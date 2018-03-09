@@ -22,6 +22,12 @@ public class MainLoop : MonoBehaviour
 
             var bundle = AssetBundleMgr.LoadFromStreamingAssetPath("Main");
             SceneManager.LoadScene("Main");
+
+            AssetBundleMgr.LoadFromWWWLocalAsync("uiLoginPanel", (obj) =>
+            {
+                GameObject go = obj.LoadAsset<GameObject>("uiLoginPanel");
+            }, 1);
+
         });
     }
 
