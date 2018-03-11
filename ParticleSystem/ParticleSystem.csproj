@@ -299,6 +299,8 @@
     <Compile Include="Assets\_Scripts\Fire.cs" />
     <Compile Include="Assets\_Scripts\ParticleHelper.cs" />
     <Compile Include="Assets\_Scripts\Sprinkler.cs" />
+    <Compile Include="Assets\TestScene\ScriptOnCollider.cs" />
+    <Compile Include="Assets\TestScene\ScriptOnParticle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
