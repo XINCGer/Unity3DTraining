@@ -41,7 +41,7 @@
 >* [37.马三毕设-天天萌泡泡](https://github.com/XINCGer/BubbleShooter)  
 >* [38.转表工具](https://github.com/XINCGer/Unity3DTraining/tree/master/XlsxTools)  
 >* [39.仿写FC上的吃豆人](./PacMan)  
->* [40.Unity手游自动化测试探索](./Automation Testing)  
+>* [40.Unity手游自动化测试探索](./AutomationTesting)  
 >* [41.新手引导功能](./GuideSystem)  
 >* [42.粒子系统研究](./ParticleSystem)  
 >* [43.Macanim动画系统](./MacanimSystem)  
