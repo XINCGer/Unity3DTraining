@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 7e212db0aa2c00b448aa511ece336f20
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: minebot_front_upperleg 1
+    100002: minebot_left_lowerleg
+    100004: minebot_left_upperleg
+    100006: minebot_back_lowerleg
+    100008: minebot_front_upperleg
+    100010: minebot_right_lowerleg
+    100012: minebot_right_upperleg
+    100014: //RootNode
+    100016: minebot_main
+    100018: minebot_head
+    100020: minebot_front_lowerleg
+    400000: minebot_front_upperleg 1
+    400002: minebot_left_lowerleg
+    400004: minebot_left_upperleg
+    400006: minebot_back_lowerleg
+    400008: minebot_front_upperleg
+    400010: minebot_right_lowerleg
+    400012: minebot_right_upperleg
+    400014: //RootNode
+    400016: minebot_main
+    400018: minebot_head
+    400020: minebot_front_lowerleg
+    2300000: minebot_front_upperleg 1
+    2300002: minebot_left_lowerleg
+    2300004: minebot_left_upperleg
+    2300006: minebot_back_lowerleg
+    2300008: minebot_front_upperleg
+    2300010: minebot_right_lowerleg
+    2300012: minebot_right_upperleg
+    2300014: minebot_main
+    2300016: minebot_head
+    2300018: minebot_front_lowerleg
+    3300000: minebot_front_upperleg 1
+    3300002: minebot_left_lowerleg
+    3300004: minebot_left_upperleg
+    3300006: minebot_back_lowerleg
+    3300008: minebot_front_upperleg
+    3300010: minebot_right_lowerleg
+    3300012: minebot_right_upperleg
+    3300014: minebot_main
+    3300016: minebot_head
+    3300018: minebot_front_lowerleg
+    4300000: minebot_main
+    4300002: minebot_right_upperleg
+    4300004: minebot_right_lowerleg
+    4300006: minebot_head
+    4300008: minebot_front_upperleg
+    4300010: minebot_back_lowerleg
+    4300012: minebot_left_upperleg
+    4300014: minebot_left_lowerleg
+    4300016: minebot_front_upperleg
+    4300018: minebot_front_lowerleg
+    7400002: awake
+    7400004: __preview__Take 001
+    7400006: awake
+    9500000: //RootNode
+    11100000: //RootNode
+    100100000: DataTemplate __Singleton__
+  materials:
+    importMaterials: 0
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 8
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: awake
+      takeName: Take 001
+      firstFrame: 8
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0130000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: mine_bot@awake
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.707106709, y: 0, z: -0, w: .707106709}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_main
+      position: {x: -0, y: -1.82145552e-08, z: .370719969}
+      rotation: {x: .50000006, y: -.49999994, z: -.499999791, w: .50000006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_front_upperleg
+      position: {x: -9.29832211e-08, y: -.103399031, z: -.365942448}
+      rotation: {x: 5.37802589e-05, y: .708478689, z: .705732048, w: 2.7028058e-05}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_back_lowerleg
+      position: {x: -1.85921092e-08, y: -.120806783, z: .397892535}
+      rotation: {x: -.0084320493, y: 2.43190207e-05, z: 2.83394547e-05, w: .999964416}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: minebot_front_upperleg 1
+      position: {x: -1.54972057e-07, y: -.103399031, z: .365942597}
+      rotation: {x: -.705732822, y: 6.32889205e-05, z: -.000114930277, w: .708477974}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_front_lowerleg
+      position: {x: -1.85905957e-08, y: -.120806783, z: .397892624}
+      rotation: {x: -.00842680689, y: -6.99920201e-05, z: -3.09093884e-05, w: .999964356}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_head
+      position: {x: 8.90992169e-08, y: .450823158, z: -5.69545975e-08}
+      rotation: {x: 4.37113634e-08, y: -5.88945778e-15, z: -7.54979013e-08, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: minebot_left_upperleg
+      position: {x: -.365942627, y: -.103399009, z: 5.40309593e-08}
+      rotation: {x: -.489921629, y: -.509468853, z: -.489697844, w: .510503709}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: minebot_left_lowerleg
+      position: {x: -1.85966496e-08, y: -.120806739, z: .397892594}
+      rotation: {x: -.00377263338, y: -.000301108143, z: .000265656301, w: .999992669}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: minebot_right_upperleg
+      position: {x: .365942359, y: -.103398986, z: 1.351506e-07}
+      rotation: {x: -.493853569, y: .504906476, z: .495442063, w: .505682766}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: minebot_right_lowerleg
+      position: {x: -1.84029343e-08, y: -.120806739, z: .397892565}
+      rotation: {x: -.00374556752, y: .000477853318, z: .000557070191, w: .999992669}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
