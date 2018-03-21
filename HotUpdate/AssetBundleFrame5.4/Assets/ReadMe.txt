@@ -1,0 +1,17 @@
+工程总包含完整的打包和加载AssetBundle流程。
+
+打包的操作是：
+	1、每次重新打包前，先点击AssetBundle菜单下的Clear All Assetbundle Name来清除所有的Assetbundle名称。
+	2、然后分别点击AssetBundle菜单下的Set Main Assetbundle Name和Set Total Assetbundle Name，
+	分别将AssetBundle目录下MainAssets文件夹和TotalAssets文件夹下的所有资源打包到StreamingAssets文件夹中。
+	（其中打包时，MainAsset文件夹下的资源会分离出依赖资源，并将依赖资源设置Assetbundle名称；而TotalAssets文件夹下的资源会整体打包）
+	3、然后点击AssetBundle菜单下的Create All AssetBundles，将所有设置了Assetbundle名称的资源进行打包处理，打包到StreamingAssets文件夹中。
+
+下载和加载流程：
+	1、先判断外部路径是否存在总的AssetbundleManifest文件，若不存在就将StreamingAssets文件夹中的所有资源导出到应用的外部路径中（第一次运行时必须要把所有资源包导出）
+	2、然后将外部路径总的AssetbundleManifest文件与StreamingAssets文件夹中的AssetbundleManifest文件进行对比，对比的内容是所有打包的资源：1、是否存在；2、存在的话检查资源包的HashID值是否一致。
+	然后将所有检查出不存在或者HashID值不一致的资源包名称写入更新文本updateFilelist.txt中。
+	3、检查完Manifest文件中的所有资源包信息后，根据updateFilelist.txt中的信息进行更新资源包，即将新的资源包从新导出到外部路径中。
+	4、更新完资源后开始加载数据，从程序集中加载脚本，开始运行应用。
+
+PS：真正项目中更新操作时，Manifest文件对比是服务器上的Manifest文件路径，即将StreamingAssets路径换成服务器上的路径即可。

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1502116279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8f5694d8c3ca3bd5a8d6ff38fa6400e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texture/Z-logo.png
+Dependencies: []

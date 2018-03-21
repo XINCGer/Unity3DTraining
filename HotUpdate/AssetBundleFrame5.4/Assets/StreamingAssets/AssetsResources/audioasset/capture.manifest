@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2890484440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2786c6f7fb91c77cd50673cccf84e200
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/TotalAssets/AudioAsset/Capture.mp3
+Dependencies: []

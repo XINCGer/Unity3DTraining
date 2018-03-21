@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2294728769
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audioasset/capture
+      Dependencies: {}
+    Info_1:
+      Name: audioasset/monkey
+      Dependencies: {}
+    Info_2:
+      Name: uiasset/loading
+      Dependencies: {}
+    Info_3:
+      Name: uiasset/menuui
+      Dependencies:
+        Dependency_0: alldependencies/044f4ceafbac22c478a7cdca30911043
+    Info_4:
+      Name: alldependencies/044f4ceafbac22c478a7cdca30911043
+      Dependencies: {}

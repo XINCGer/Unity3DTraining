@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1095600590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb4b9c85d072a7b88133da1d97dfba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/TotalAssets/AudioAsset/Monkey.mp3
+Dependencies: []

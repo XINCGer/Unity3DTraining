@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3213695980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c606a244fd5f53fedd253fcf3696d50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b56b16f9dc75865fc7fec09af1a5e130
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/MainAssets/UIAsset/Loading.prefab
+Dependencies: []

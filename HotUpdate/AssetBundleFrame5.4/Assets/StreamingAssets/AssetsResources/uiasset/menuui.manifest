@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1436761250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f14b8fea574146d8149750a8c1ae54de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a81bd0d9ce4b57dbd9e3e04d8ec7dc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/MainAssets/UIAsset/MenuUI.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/AssetBundleFrame/Assets/StreamingAssets/AssetsResources/alldependencies/044f4ceafbac22c478a7cdca30911043
