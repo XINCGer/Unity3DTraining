@@ -1,0 +1,198 @@
+GUIDELINE : http://unity-chan.com/download/guideline_en.html  
+LICENSE : http://unity-chan.com/download/license_en.html
+
+#License
+
+The terms and conditions of the “Unity-Chan” license stated herein (“License”) stipulate the scope of use of the characters to which the rights are held by Unity Technologies Japan G.K. (“Company”), said scope exceeding the scope permitted under the current Copyright Act, and the terms and conditions of such use of the Character, in relation to users who wish to conduct secondary creative activities using such character regardless of whether or not compensation is received.  
+Regardless of whether or not compensation is received, users who wish to conduct secondary creative activities by using our characters shall be deemed to have consented to and agreed to be bound by this License without any reservation or adding other incidental conditions by starting to use the our characters.  
+All users who wish to publish any secondary work of our characters or any secondary work of the digital asset data of our characters are requested to indicate the licensed logo determined separately in a reasonable manner that can be easily seen (e.g., by indicating it on such secondary Work or attaching an explanation thereof to such secondary work).
+
+##Article 1. Definition
+
+1.1 As used in this License, the following terms shall have the meanings set forth below:  
+(1)“Character” means a work of art that is created to embody an abstract idea that is named and otherwise characterized by voice, appearance, personality, world view, and others.  
+(2)	“Unity Character(s)” means each Character or all of the Characters, the rights in and to which are owned by the Company, and which are the subject matters of this License. In addition to Unity-Chan (Kohaku Ootori), the Unity Characters include the Characters published in the booklet “Unity-Chan! Art Log” and the Characters to be published in the “unity-chan! Official HP (http://unity-chan.com)”.  
+(3)“Digital Asset Data of Unity Characters” means a set of model data of Unity Characters (including 3D models, material data with a shader, animation data, and voice data) and each or all of the digital data including pictures of images of the Unity Character, designs, logos, and others, which are the subject of this License.  
+(4)“Derivative Work” means any work that is created by translating, arranging, or transforming, or dramatizing, making a movie version of, or otherwise adapting a pre-existing work.  
+(5)	“Modified Work” means any work created by changing, cutting, or otherwise modifying a pre-existing work, which does not fall under a Derivative Work.
+(6)“Secondary Work” collectively means any Modified Work, Derivative Work, and other work created based on a pre-existing work.  
+(7)	“User” means any person who uses the whole or a part of the Unity Characters and the Digital Asset Data of Unity Characters (including the Secondary Creations thereof).  
+1.2 The Copyright Act (Act No. 48 of 1970) shall apply to the meaning and interpretation of other terms, unless otherwise provided for in this License.
+1.3 In addition to the terms and conditions of this License, other matters necessary for use of the Unity Characters are provided for in the Character Use Guidelines established separately (“Guidelines”) and both this License and the Guidelines shall apply to the use of the Unity Characters. If there is a conflict between any provision of this License and the Guidelines, the provision of the latter shall prevail.  
+
+##Article 2. Relationship between the Copyright Act and Other Applicable Laws
+
+2.1The Unity Characters and the Digital Asset Data of Unity Characters are protected by the Copyright Act and other applicable laws and regulations.  
+2.2None of the provisions of this License prevent Users from using the Unity Characters as generally approved under the Copyright Act and other applicable laws and regulations.  
+2.3The Company exclusively owns copyrights in and to the Modified Work of the Unity Characters.  
+2.4With regard to use of the Derivative Work of the Unity Characters, the Company exclusively owns the same kind of rights specified in Articles 21 through 27 of the Copyright Act as owned by the author of such Derivative Work, pursuant to Article 28 of the same Act.  
+
+##Article 3. Grant of License; Conditions of Use
+
+3.1 The Company grants to each User a non-exclusive license to conduct the following by such User him/herself, utilizing the Unity Character and the Digital Asset Data of Unity Characters, in accordance with each provision of this License and the Guidelines:  
+(1) Creation of the Derivative Work of the Unity Characters; Creation of the Secondary Work utilizing the Digital Asset Data of Unity Characters, including without limitation, games and interactive contents.  
+(2) Stage Performance, screen presentation, public transmission, exhibition, or distribution by Users of the Secondary Work of the Unity Characters created by such Users (“Distribution, etc.”).  
+(3) Distribution, etc. of the Digital Asset Data of Unity Characters and the Secondary Work thereof by a User him/herself, on condition that third parties who receive the same agree to be bound by this License.  
+(4) Using all or part of the names of the Unity Characters in the titles, explanations, etc. of the Secondary Work set forth in Items (2) and (3) above created by the User himself/herself, or giving a unique title to such Secondary Work using a part of the name of the Unity Characters.  
+3.2 With regard to the use set forth in Article 3.1 above, Users shall comply with each of the following conditions of use:  
+(1) In conducting the Distribution, etc. of the Digital Asset Data of Unity Characters and the Secondary Work thereof to third parties, a User shall cause such third parties to be bound by this License.  
+(2) Users may not use the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof for any act or purpose against public policy or for any antisocial act or purpose, or for any remark that is prejudiced religiously or politically.  
+(3) Users may not harm the honor and dignity of the Unity Characters, the Secondary Work thereof, the Company, and the products and services provided by the Company.  
+(4) Users may neither conduct any act that impairs the intellectual property rights of a third party, nor use the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof for the purpose of impairing such rights.  
+(5) Users may not use the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof as adult contents or services for commercial purposes, or for advertising and promotion.  
+(6) Unless otherwise approved by the Company, Users may not indicate or use any of their work in a manner that may mislead the public to believe that such work is an official product of the Company.    
+(7) Users shall comply with the conditions provided for in the Guidelines.  
+(8) In addition to the above, Users may not use the Unity Characters, the Digital Asset Data of Unity Characters and the Secondary Work thereof in a manner that the Company deems inappropriate.  
+3.3 When Users utilize the Unity Characters and the Digital Asset Data of Unity Characters as approved in Paragraph 3.1 above, Users are requested to indicate the licensed logo determined separately on the Secondary Work in a reasonable manner that can be easily seen (e.g., by indicating it on the Secondary Work or attaching an explanation thereof to the Secondary Work).  
+3.4 Users may not exercise their moral rights against the Company or its licensees.  
+
+##Article 4. Disclaimer of Warranty
+
+4.1 The Unity Characters and the Digital Asset Data of Unity Characters shall be provided “as is” and the Company makes no warranty, including without limitation, any warranty of fitness for a particular purpose or non-infringement of a third party’s right.  
+4.2 The Company will not indemnify Users for damage and harm suffered by Users as a result of use of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof by Users. If any third party suffers damage as a result of use of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof by any User, such User shall be responsible for such damage and liable for the compensation thereof, and the Company will not be liable for such damage.  
+##Article 5. Amendment of this License
+
+The Company may update this License if it determines it is necessary and will post the updated License as well as other information on the Company’s website or at other places. Users are requested to periodically visit the Company’s website and check as to whether there is a modification in any of the provisions of this License. Regardless of whether Users have confirmed any modification, a User shall be deemed to have agreed to the modified License when such User starts or continues to use the Unity Characters, the Digital Asset Data of Unity Characters, or the Secondary Work thereof.  
+##Article 6. Termination of License
+
+6.1 If a User of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof is in violation of any of the provisions of this License, then, the license granted to such User shall automatically terminate.  
+6.2 The Company may, at its sole discretion, discontinue the use of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof by the Users at any time. The Company may also at any time discontinue the use of the Digital Asset Data of Unity Characters or the Secondary Work thereof which are already downloaded.  
+6.3 Upon receipt of notice of termination of the License or that the use of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof must be discontinued, Users shall be obligated and liable to (i) promptly discontinue the Distribution, etc. of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof, (ii) immediately delete the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work thereof from the computer and any other media storing the same, and (iii) at their expense, collect or cause third parties to delete the Unity Characters, the Digital Asset Data of Unity Characters and the Secondary Work which Distribution, etc. have already been conducted.  
+6.4 The Company shall not be liable for any damage suffered by Users as a result of discontinuation of use of the Unity Characters, the Digital Asset Data of Unity Characters, and the Secondary Work under this License.  
+##Article 7. Governing Law
+
+7.1 This License shall be governed by the laws of Japan and the application of the United Nations Convention on Contracts for the International Sale of Goods is expressly disclaimed, even though the goods are sold in relation to this License.  
+7.2 Even if any provision or a part of such provision is held to be invalid or unenforceable pursuant to the Consumer Contract Act or other laws or regulations, the other provisions of this License or the remainder of the provision, when a part thereof is held to be invalid or unenforceable, shall continue in full force and effect and any provision that is held to be invalid or unenforceable shall be amended so that it will have the closest legitimate meaning to the original provision.  
+##Article 8. Jurisdiction
+
+8.1 The Tokyo District Court shall have exclusive jurisdiction over any dispute arising out of or in connection with this License.  
+8.2 Notwithstanding the above, Users agree that the Company is entitled to injunctive relief (or equivalent urgent legal relief) in any jurisdiction.
+##Article 9. Miscellaneous
+
+9.1 This License is prepared in Japanese. Any translation of this License into other languages is for the purposes of reference only and the Japanese version shall prevail over any translation thereof if there is a conflict between the Japanese version and such translation.  
+9.2 The Company reserves all rights not expressly granted to Users hereunder.  
+9.3 If it is likely that a User is in violation of this License or is infringing on any right, which is reserved by the Company pursuant to Article 9.2 above and is not granted to such User by this License, the Company may warn the User about such violation by e-mail or other communication means. If the Company receives no answer from such User within fifteen (15) days from the receipt of such notice, then, the User shall be deemed to be in violation of this License.  
+9.4 In cases where the Company gives a User the approval to use the Unity Characters, the Digital Asset Data of Unity Characters or any Secondary Work thereof beyond the scope of use specified in this License and the Guidelines, the Company shall separately prepare and provide a document granting such approval to such User, which shall be signed by the Company’s Business Execution Partner (shokumu shikkousha).  
+
+---
+
+#Guidline
+
+##[Character Use Guidelines]
+
+These Guidelines describe, by giving examples, what users who wish to conduct their secondary creative activities with or without compensation “can do” and “cannot do” with regard to the characters (“Unity Characters”) in and to which the rights are owned by Unity Technologies Japan G.K. (“Company”) in accordance with the separately determined Unity-Chan License Terms and Conditions (“License”).  
+Please read these Guidelines without fail before publishing any secondary work that
+uses the Unity Characters.  
+##[Characters subject to these Guidelines]
+
+The Unity Characters include “Unity-Chan” (Kohaku Ootori) as well as the group of characters published in the booklet “Unity-Chan! Art Log,” and the group of characters to be published in the “unity-chan! Official Website”(http://unity-chan.com).  
+##[Unity-Chan License Terms and Conditions]
+
+We, Unity Technologies, are an organization established to democratize the “game development know-how,” which has been accumulated only by leading studios until recently. We are most motivated by a desire to “allow every user to enjoy the fun and the magnificence of game making”, and now, we expand the scope, with regard only to the Unity Characters, beyond game development and have established new license terms and conditions in order to expand the scope of secondary use of work, which is principally allowed but in a very limited scope under the current Copyright Act of Japan, so that “Unity-Chan” may be published to the users who are usually devoted in creative activities other than game development . The License is established for such purposes.  
+The License is established to declare that we will grant widely to users a license to use the Unity Characters and the digital asset data of Unity Characters for users’ secondary creative activities.  
+By using the Unity Characters, any user who wishes to conduct secondary creative activities using the Unity Characters with or without compensation shall be deemed to have consented to and agreed to be bound by the License and these Guidelines without any reservation or adding other incidental conditions.  
+
+“Unity-Chan” License Terms and Conditions (http://unity-chan.com/download/license_en.html)  
+“Unity-Chan” License Terms and Conditions Summary Version (http://unity-chan.com/download/license_sum_en.html)
+##[License notice]
+
+All users who wish to publish any secondary work are requested to indicate the licensed logo below in a reasonable manner that can be easily seen (e.g., by indicating it on or attaching an explanation thereof to such secondary work).
+  
+About License (http://unity-chan.com/download/license_sig_en.html)  
+About License Logo (http://unity-chan.com/download/pdf/LUUL_logo-guideline_en.pdf)  
+* You can download License Logo images from Data Download page.
+
+for example,
+
+```
+<div><img src="http://unity-chan.com/images/imageLicenseLogo.png" alt="Unity-Chan License"><p>These contents are licensed under the <a href="http://unity-chan.com/download/license_en.html" target="_blank">“Unity-Chan” License Terms and Conditions</a>. You are allowed to use these contents only if you follow the <a href="http://unity-chan.com/download/guideline_en.html" target="_blank">Character Use Guidelines</a> set by Unity Technologies Japan G.K., for the usage of its characters.</p></div>
+```
+
+Please note that, if a user publishes any secondary work without the above license notice, such user shall be deemed to be in violation of the License in principle.
+If a user wishes to display any notice of their rights other than the license notice in accordance with this License on such secondary work, whether for-profit or not-for-profit, such user is requested to obtain approval to indicate that the secondary work is an “official product using the Unity Characters”. In such event, please contact the Company for details. The Company will examine in detail and determine as to whether it is possible to grant a license in each case, and may conclude another agreement, if necessary.
+
+##[Use permitted and not permitted under the License]
+
+###A.Use not permitted in principle
+
+Users may not use the Unity Characters for the following purposes, whether for- profit or not-for-profit:
+Use of the Unity Characters for any act or purpose against public policy or for any antisocial act or purpose, or for any remark that is prejudiced religiously or politically;
+Use of the Unity Characters for harming the honor and dignity of the Unity Characters, the Company, and products and services provided by the Company;
+Any act impairing the intellectual property rights or any other rights of a third party, or use for the purpose of impairing such rights;
+Unauthorized use of the Unity Characters in adult contents or services for commercial purposes, or for advertisement or promotion, etc.;
+Use in a manner that may mislead the public to believe that they are the official products of the Company, unless otherwise approved by the Company; or
+Users are strictly prohibited from the creation or any act beyond the scope of a small-scaled stage performance, screen presentation, public transmission, exhibit, or distribution ( “Distribution, etc.”) of the contents using the Unity Characters for the above acts or purposes.
+If such violation is verified, the Company will immediately instruct the user to cease using the Unity Characters. Upon the request by the Company, the user and the publisher or seller of the user shall be obliged to immediately cease the use, publishing, and selling, etc. of the relevant content. In addition, the Company will not be liable for any damage arising out of such requests.
+###B.Use by small-scaled fan (doujin) circles, etc.
+
+The following examples of use shall be deemed as a use by a small-scaled fan circles, etc. within the scope of hobby use:
+Small-scaled exhibition and sale of fan magazines, games, figures, goods, and others ( “Fan Contents”) at a comic market, wonder festival, or each fan circle sale events held by the user himself/herself as an individual or a small-scaled fan circle ( “Fan Circle(s)”)of which such user is a member;
+Costume playing and photo session thereof, and exhibition and sale of costumes for non-profit purpose, at each fan event held by the Fan Circle itself; and
+Exhibition and sale of the Fan Contents by the Fan Circle itself through the Internet, mail order, auction, rental showcase, and others.
+If the contents do not fall under “A. Use not permitted in principle,” and if the user’s dignity as “creator” is maintained, the then applicable social norms shall be considered, and if the expressions are not extremely offensive to third parties, the Company shall give approval, pursuant to the License, to use the Unity Characters for the Fan Contents at the user’s own responsibility, and to publish and sell such contents at events and other occasions.
+In cases where a user uses the Unity Characters in the Fan Contents, such user as the author of the secondary work is requested to display the license notice determined separately by the Company in a reasonable manner that can be easily seen. The user as the author of the secondary work warrants that he/she will not exercise his/her moral rights against the Company or any person who is granted a license by the Company.
+Even if a user has complied with the above conditions, the Company may immediately order such user to cease using the Unity Character at its sole discretion. In such event, the user shall be obliged to immediately cease any and all acts upon request from the Company, including without limitation, publishing and sale of the relevant contents. The Company is not liable for any damage arising out of such request.
+The term Fan Circles, etc. used above means an individual or a circle, the annual sales for the previous year of which are equal to or less than ten (10) million yen. If any individual or circle having annual sales of more than ten (10) million yen wishes to use the Unity Characters, or if any secondary work using the Unity Character has gone beyond the scope or scale of hobby use or it is expected that the it will grow beyond such scope or scale, the user is requested to promptly notify the Company to that effect and obtain a license separately.
+###C.Reuse of the digital asset data included in the 3D model distribution archive of the Unity Characters
+
+All of the digital asset data, including the mesh and texture, materials, shader, animation, and voice data, etc. included in the 3D model distribution archive of the Unity Characters is protected by the Copyright Act of Japan.
+The Company authorizes the following use based on the License for the purpose of personal amusement, research, and hobby use :
+Data outputting of the Unity Characters by means of remodeling, alteration, or 3D printing, etc.; or
+The user himself/herself creating and adding new digital asset data to his/her own games or digital contents by using a part of the digital asset data.
+In order for a user him/herself to conduct the Distribution, etc. of such digital asset data beyond the above purpose, such user is requested to give a third party who is going to use such digital asset data a notice clearly describing the distributor’s (user’s) contact information and that it is available on the condition that such third party agrees to be bound by this License, in a manner that can be easily seen by third parties, along with the explanation of the digital asset data subject to Distribution, etc. Please note that Distribution, etc. will not be allowed unless a third party agrees to be bound by this License. The user, as the author of the secondary work, warrants that he/she will not exercise his/her moral right against the Company or any person who is granted a license by the Company with regard to their use of such secondary work.
+###D.Use of the Unity Character data on Unity
+
+Users may develop and create various applications on the game engine Unity ( “Unity”), using the 3D model data of the Unity Characters subject to Distribution, etc. in .unitypackage archive format and the 2D illustrations of the same published on the official website or otherwise.  
+Users may conduct Distribution, etc. of the applications created on Unity pursuant to the License and applicable license terms and conditions, regardless of whether the purpose is for commercial use or profit. Users may also conduct Distribution, etc. of the digital asset data of the Unity Characters or the secondary work thereof, if such secondary work is incorporated in the application created on Unity.  
+In cases where the digital asset data of the Unity Characters or the secondary work thereof are used on Unity at events such as game jams and seminars for educational purpose, users are allowed to publish or present the same in the state that it is incorporated in the Unity project, as well as in the application created on Unity.  
+When users conduct the Distribution, etc. of the digital asset data of the Unity Characters or the secondary work thereof in a state that it is incorporated in the Unity project, users are requested to attach the license notice file at a location in the project folder where it can be easily seen.  
+If a user applies to obtain an approval for an official product using the Unity Characters, such user is requested to contact the Company. The Company will examine in detail and determine as to whether it is possible to grant a license, and may conclude an agreement separately, if necessary.  
+* If a user wishes to display any notice of its rights other than the license notice in accordance with the License on such secondary work, such user is requested to obtain approval for an “official product using the Unity Characters.”  
+###E.Use and Distribution, etc. of new digital assets created from the official design materials
+
+Users of the Unity Characters may independently create, use on his/her own Unity project, or conduct Distribution, etc. in the .unitypackage archive format the digital asset data created based on or referring to the official design materials published in the booklet “Unity-Chan! Art Log” and the “unity-chan!   official website” (http://unity-chan.com) under the License.  
+These digital asset data includes the following:  
+3D models (including all of the characters, gadgets, and scenes);  
+2D images including character illustrations and textures;  
+Motion or animation data;  
+Effects;  
+Voice data including music and sound effects (SE); and
+Scene data.  
+When users conduct the Distribution, etc. of the above digital asset data created by themselves, users are requested to include the license notice in accordance with the License in the archive of such data and also post it at a location on the download site where it can be easily seen.  
+Users may also conduct the Distribution, etc. of the digital asset data created by themselves at the Asset Store provided by the Company. In such event, users are requested to agree to the latest “Asset Store Use Terms and Conditions and End User License Agreement” and “Asset Store Provider Agreement,” in addition to the indication of the license notice in accordance with the License.  
+Any third party other than the Company or any person to whom the Company granted a license is prohibited from the Distribution, etc. of the digital asset data created by another user, whether with or without compensation.  
+###F.Use and reproduction of the official images of the Unity Characters and publishing thereof on the Internet or otherwise
+
+Users of the Characters may use the official images published on the “unity-chan! official website” (http://unity-chan.com) for the purposes of personal amusement and hobby use, make reproductions thereof, and publish the same on the Internet or otherwise under the License.  
+In such event, users are requested as much as possible to post the license notice, at a location within the image or close to the image so that it can be easily seen.
+###G.Placing an order or request to create products or digital asset data using the Unity Characters with a third party
+
+It is not necessary for users to report to or obtain approval of the Company before placing an order or request to create products or digital asset data using the Unity Characters with a third party such as another creator or a professional vendor for the following purposes under the License:  
+◯Placing an order or request to create products using the Unity Characters with a third party professional vendor for the purpose of use by the user him/herself, his/her family and friends.  
+Examples are as follows:  
+Request for outputting the official 3D data of the Unity Characters by a 3D printer;  
+Request for printing the official 2D illustration of the Unity Characters on stickers and stamps or otherwise; or  
+Request for creating clothing based on the official design of the Unity Characters for costume playing.  
+◯Placing an order for a production agency service to create digital asset data based on the official data and official design of the Unity Characters with another creator or a professional vendor for the purpose of using the same for games and digital contents created by the user him/herself.
+Examples are as follows:  
+Request for creating additional motion and animation data based on the official 3D data of the Unity Characters (including the motion retarget service on the Internet);  
+Request for creating new illustrations and pixel graphics or otherwise based on the official design of the Unity Characters for incorporating in games; or
+Request for creating new 3D model data of the Unity Characters or the model data of 3D SD characters based on the official design of the Unity Characters for incorporating in games.  
+When users publish the contents including such digital asset data or the digital asset data, users are requested to appropriately indicate the license notice in accordance with the License.  
+In addition, in placing an order, users are requested to pay attention to the following:  
+When placing an order for the purpose of making products or otherwise, in particular, if a user intends to use the illustrations of the Unity Characters that are not created by such user, it is necessary that the user asks for and obtains approval from the author of such illustrations without fail.
+If any malfunction or disadvantage occurs to the user and/or third parties involved as a result of placing an order, the Company shall not be liable for any such malfunction or disadvantage.
+###H.Matters that require the Company’s official supervision
+
+If a company or organization exceeding the size of a Fan Circle wishes to sell the secondary work of the Unity Characters or use the same for advertising and promotion for commercial purposes or for a fee, such use requires a license from the Company, independently from the License, as well as an official supervision by the Company. Please contact the Company at the contact address below for details.  
+Even in the case of use by a company, if the scale of use by such company is generally accepted as the same as a small-scaled Fan Circle (production of prototypes, technology demonstration models, and others), the company may use the Unity Characters under the License. In such event, the company is requested to display the logo of the License so that it can be easily seen.  
+“Fan Circles” means any circle, the annual sales for the previous year of which are equal to or less than ten (10) million yen.  
+###I.Other use of the Unity Characters
+
+If a user has inquiries about any use of the Unity Characters not included in A through H above or is not sure about the case under which his/her use falls, please contact the Company. The Company will examine in detail and determine as to whether it is possible to grant a license in each case, and may conclude an agreement, if necessary.
+###J.Others
+
+The Company may revise these Guidelines from time to time. Users are requested to confirm these Guidelines and to use the Unity Character within the scope specified in the latest Guidelines. The Company shall not be liable for any damage resulting from the revision of these Guidelines.  
+Contact Address for inquiries regarding the License and these Guidelines: 
+Unity Technologies Japan G.K.  
+unity-chan@unity3d.co.jp
