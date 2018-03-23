@@ -14,6 +14,8 @@ namespace MultiDelegateException
         //定义一个委托
         private static Action multiDelegate;
 
+        private static GetResult getResultDelegate;
+
         static void Main(string[] args)
         {
 #if UseDelegate
@@ -84,9 +86,32 @@ namespace MultiDelegateException
                 }
             }
 #endif
+            Console.WriteLine("---------------------------分割线------------------------------");
+            getResultDelegate = MultiDelegate.GetOne;
+            getResultDelegate += MultiDelegate.GetTwo;
 
+            Console.WriteLine("直接调用委托返回的一般是最后一个方法的返回值：" + getResultDelegate());
+
+            //手动迭代委托方法列表，可以获取并处理每个委托的返回值
+            //定义方法列表数组，使用GetInvocationList()  
+            //注意使用的是Delegate类，不是delegate关键字 
+            int sum = 0;
+            Delegate[] resultDelegates = getResultDelegate.GetInvocationList();
+            foreach (var @delegate in resultDelegates)
+            {
+                var delegateItem = @delegate as GetResult;
+                sum += delegateItem();
+                Console.WriteLine("获取单个委托的返回值:" + delegateItem());
+            }
+            Console.WriteLine("多个委托的返回值总和：" + sum);
         }
     }
+
+    /// <summary>
+    /// 带有返回值的委托
+    /// </summary>
+    /// <returns></returns>
+    public delegate int GetResult();
 
     class MultiDelegate
     {
@@ -105,6 +130,24 @@ namespace MultiDelegateException
         public static void Func2()
         {
             Console.WriteLine("方法2");
+        }
+
+        /// <summary>
+        /// 带有返回值的函数
+        /// </summary>
+        /// <returns></returns>
+        public static int GetOne()
+        {
+            return 1;
+        }
+
+        /// <summary>
+        /// 带有返回值的函数
+        /// </summary>
+        /// <returns></returns>
+        public static int GetTwo()
+        {
+            return 2;
         }
     }
 
