@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CSharpJExcel">
+      <HintPath>libs\CSharpJExcel.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,8 +46,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FileExporter.cs" />
+    <Compile Include="GloablDef.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XlsTransfer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
