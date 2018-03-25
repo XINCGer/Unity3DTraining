@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2075bc476c69d36468191b87d1e13f8e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Play: {fileID: 2800000, guid: beb24041c580a6a48b83dfad80de24c2, type: 3}
+  - Next: {fileID: 2800000, guid: 355ea32b8fe8d3444b111c7b909d0775, type: 3}
+  - Prev: {fileID: 2800000, guid: a67a804edf0795d4eabefc5ee4a824ab, type: 3}
+  - Pause: {fileID: 2800000, guid: 6d76830bbf4f7f345ac9735473080b92, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
