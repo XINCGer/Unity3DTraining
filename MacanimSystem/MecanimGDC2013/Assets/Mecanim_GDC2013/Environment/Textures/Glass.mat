@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Glass
+  m_Shader: {fileID: 4800000, guid: 706f35475039b2c48933851bf0486512, type: 3}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 074dec031c8a4ae4fa43e6aecac1720f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 2695d5b82cf7c62449e924d5f080d38f, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Reflection
+        second: .244833529
+      data:
+        first:
+          name: _Shininess
+        second: 1.37300181
+      data:
+        first:
+          name: _Gloss
+        second: 1
+      data:
+        first:
+          name: _FrezPow
+        second: 1.55769229
+      data:
+        first:
+          name: _FrezFalloff
+        second: 4
+      data:
+        first:
+          name: _EdgeAlpha
+        second: .5
+      data:
+        first:
+          name: _Metalics
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .68779242, g: .851677835, b: .970149279, a: .619607866}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .895522356, g: .895522356, b: .895522356, a: 1}
