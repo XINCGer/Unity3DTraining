@@ -9,7 +9,7 @@ namespace Xls2Lua
     /// <summary>
     /// 表格字段类型的枚举
     /// </summary>
-    public enum FieldType:byte
+    public enum FieldType : byte
     {
         c_unknown,
         c_int32,
@@ -24,5 +24,16 @@ namespace Xls2Lua
         c_fixed64,
         c_enum,
         c_struct
+    }
+
+    /// <summary>
+    /// 表头字段描述
+    /// </summary>
+    public class ColoumnDesc
+    {
+        public int index = -1;
+        public string comment = "";
+        public string typeStr = "";
+        public string name = "";
     }
 }

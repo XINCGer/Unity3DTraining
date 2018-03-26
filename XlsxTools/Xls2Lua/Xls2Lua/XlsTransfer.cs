@@ -114,5 +114,89 @@ namespace Xls2Lua
             }
             return coloum;
         }
+
+        /// <summary>
+        /// 获取表格行数，行开头是空白直接中断
+        /// </summary>
+        /// <param name="sheet"></param>
+        /// <returns></returns>
+        public static int GetSheetRows(Sheet sheet)
+        {
+            int rows = sheet.getRows();
+            for (int i = 0; i < sheet.getRows(); i++)
+            {
+                if (i >= 5)
+                {
+                    if (string.IsNullOrEmpty(sheet.getCell(0, i).getContents()))
+                    {
+                        return i;
+                    }
+                }
+            }
+            return rows;
+        }
+
+        /// <summary>
+        /// 获取当前Sheet切页的表头信息
+        /// </summary>
+        /// <param name="sheet"></param>
+        /// <returns></returns>
+        public static List<ColoumnDesc> GetColoumnDesc(Sheet sheet)
+        {
+            int coloumnCount = GetSheetColoumns(sheet);
+            List<ColoumnDesc> coloumnDescList = new List<ColoumnDesc>();
+            for (int i = 0; i < coloumnCount; i++)
+            {
+                string comment = sheet.getCell(i, 0).getContents().Trim();
+                comment = string.IsNullOrWhiteSpace(comment) ? comment : comment.Split('\n')[0];
+                string typeStr = sheet.getCell(i, 1).getContents().Trim();
+                string nameStr = sheet.getCell(i, 2).getContents().Trim();
+
+                bool isArray = typeStr.Contains("[]");
+                typeStr = typeStr.Replace("[]", "");
+                FieldType fieldType;
+                if (typeStr.ToLower().StartsWith("struct-"))
+                {
+                    typeStr = typeStr.Remove(0, 7);
+                    fieldType = FieldType.c_struct;
+                }
+                else if (typeStr.ToLower().StartsWith("enum-"))
+                {
+                    typeStr.Remove(0, 5);
+                    fieldType = FieldType.c_enum;
+                }
+                else
+                {
+                    fieldType = StringToFieldType(typeStr);
+                }
+                ColoumnDesc coloumnDesc = new ColoumnDesc();
+                coloumnDesc.index = i;
+                coloumnDesc.comment = comment;
+                coloumnDesc.typeStr = typeStr;
+                coloumnDesc.name = nameStr;
+                coloumnDesc.type = fieldType;
+                coloumnDescList.Add(coloumnDesc);
+            }
+            return coloumnDescList;
+        }
+
+        /// <summary>
+        /// 生成最后的lua文件
+        /// </summary>
+        /// <param name="coloumnDesc"></param>
+        /// <param name="sheet"></param>
+        /// <returns></returns>
+        private static string GenLuaFile(List<ColoumnDesc> coloumnDesc, Sheet sheet)
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append("--[[Notice:This lua config file is auto generate by Xls2Lua Tools，don't modify it manually! --]]");
+            if (null == coloumnDesc || coloumnDesc.Count <= 0)
+            {
+                return stringBuilder.ToString();
+            }
+            //创建索引
+            Dictionary<string, int> fieldIndexMap = new Dictionary<string, int>();
+
+        }
     }
 }
