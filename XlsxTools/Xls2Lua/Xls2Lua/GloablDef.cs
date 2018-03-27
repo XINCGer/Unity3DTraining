@@ -35,5 +35,7 @@ namespace Xls2Lua
         public string comment = "";
         public string typeStr = "";
         public string name = "";
+        public FieldType type;
+        public bool isArray = false;
     }
 }
