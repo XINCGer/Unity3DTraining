@@ -13,6 +13,10 @@ namespace Xls2Lua
     /// </summary>
     public class XlsTransfer
     {
+        /// <summary>
+        /// 分割字符串的依据
+        /// </summary>
+        private static readonly char[] splitSymbol = { '|' };
 
         /// <summary>
         /// 根据字符串返回对应字段类型
@@ -175,6 +179,7 @@ namespace Xls2Lua
                 coloumnDesc.typeStr = typeStr;
                 coloumnDesc.name = nameStr;
                 coloumnDesc.type = fieldType;
+                coloumnDesc.isArray = isArray;
                 coloumnDescList.Add(coloumnDesc);
             }
             return coloumnDescList;
@@ -196,7 +201,160 @@ namespace Xls2Lua
             }
             //创建索引
             Dictionary<string, int> fieldIndexMap = new Dictionary<string, int>();
+            for (int i = 0; i < coloumnDesc.Count; i++)
+            {
+                fieldIndexMap[coloumnDesc[i].name] = i + 1;
+            }
+            //创建数据块的索引表
+            stringBuilder.Append("local fieldIdx = {}\n");
+            foreach (var cur in fieldIndexMap)
+            {
+                stringBuilder.Append(string.Format("fieldIdx.{0} = {1}\n", cur.Key, cur.Value));
+            }
 
+            //创建数据块
+            stringBuilder.Append("local data = {");
+            int rows = GetSheetRows(sheet);
+            int validRowIdx = 4;
+            //逐行读取并处理
+            for (int i = validRowIdx; i < rows; i++)
+            {
+                StringBuilder oneRowBuilder = new StringBuilder();
+                oneRowBuilder.Append("{");
+                //对应处理每一列
+                for (int j = 0; j < coloumnDesc.Count; j++)
+                {
+                    ColoumnDesc curColoumn = coloumnDesc[j];
+                    var curCell = sheet.getCell(curColoumn.index, i);
+                    string content = curCell.getContents();
+
+                    if (FieldType.c_struct != curColoumn.type)
+                    {
+                        FieldType fieldType = curColoumn.type;
+                        //如果不是数组类型的话
+                        if (!curColoumn.isArray)
+                        {
+                            content = GetLuaValue(fieldType, content);
+                            oneRowBuilder.Append(content);
+                        }
+                        else
+                        {
+                            StringBuilder tmpBuilder = new StringBuilder("{");
+                            var tmpStringList = content.Split(splitSymbol, StringSplitOptions.RemoveEmptyEntries);
+                            for (int k = 0; k < tmpStringList.Length; k++)
+                            {
+                                tmpStringList[k] = GetLuaValue(fieldType, tmpStringList[k]);
+                                tmpBuilder.Append(tmpStringList[k]);
+                                if (k != tmpStringList.Length - 1)
+                                {
+                                    tmpBuilder.Append(",");
+                                }
+                            }
+
+                            oneRowBuilder.Append(tmpBuilder);
+                            oneRowBuilder.Append("}");
+                        }
+                    }
+                    else
+                    {
+                        //todo:可以处理结构体类型的字段
+                        throw new Exception("暂不支持结构体类型的字段！");
+                    }
+
+                    if (j != coloumnDesc.Count - 1)
+                    {
+                        oneRowBuilder.Append(",");
+                    }
+                }
+
+                oneRowBuilder.Append("},");
+                stringBuilder.Append(string.Format("\n{0}", oneRowBuilder));
+            }
+            //当所有的行都处理完成之后
+            stringBuilder.Append("}\n");
+            //设置元表
+            string str =
+                "local mt = {}\n" +
+                "mt.__index = function(a,b)\n" +
+                "\tif _fidx[b] then\n" +
+                "\t\treturn a[_fidx[b]]\n" +
+                "\tend\n" +
+                "\treturn nil\n" +
+                "end\n" +
+                "mt.__newindex = function(t,k,v)\n" +
+                "\terror('do not edit config')\n" +
+                "end\n" +
+                "mt.__metatable = false\n" +
+                "for _,v in ipairs(_data) do\n\t" +
+                "setmetatable(v,mt)\n" +
+                "end\n" +
+                "return _data";
+            stringBuilder.Append(str);
+            return stringBuilder.ToString();
+        }
+
+        /// <summary>
+        /// 处理字符串，输出标准的lua格式
+        /// </summary>
+        /// <param name="fieldType"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        private static string GetLuaValue(FieldType fieldType, string value)
+        {
+            if (FieldType.c_string == fieldType)
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    return "\"\"";
+                }
+
+                return string.Format("[[{0}]]", value);
+            }
+            else if (FieldType.c_enum == fieldType)
+            {
+                //todo:可以具体地相应去处理枚举型变量
+                string enumKey = value.Trim();
+                return enumKey;
+            }
+            else if (FieldType.c_bool == fieldType)
+            {
+                bool isOk = StringToBoolean(value);
+                return isOk ? "true" : "false";
+            }
+            else
+            {
+                return string.IsNullOrEmpty(value.Trim()) ? "0" : value.Trim();
+            }
+        }
+
+        /// <summary>
+        /// 字符串转为bool型，非0和false即为真
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        private static bool StringToBoolean(string value)
+        {
+            value = value.ToLower().Trim();
+            if (string.IsNullOrEmpty(value))
+            {
+                return true;
+            }
+
+            if ("false" == value)
+            {
+                return false;
+            }
+
+            int num = -1;
+            if (int.TryParse(value, out num))
+            {
+                if (0 == num)
+                {
+                    return false;
+                }
+            }
+
+            return true;
         }
     }
 }
