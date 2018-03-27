@@ -191,10 +191,12 @@ namespace Xls2Lua
         /// <param name="coloumnDesc"></param>
         /// <param name="sheet"></param>
         /// <returns></returns>
-        private static string GenLuaFile(List<ColoumnDesc> coloumnDesc, Sheet sheet)
+        public static string GenLuaFile(Sheet sheet)
         {
+            List<ColoumnDesc> coloumnDesc = GetColoumnDesc(sheet);
+
             StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.Append("--[[Notice:This lua config file is auto generate by Xls2Lua Tools，don't modify it manually! --]]");
+            stringBuilder.Append("--[[Notice:This lua config file is auto generate by Xls2Lua Tools，don't modify it manually! --]]\n");
             if (null == coloumnDesc || coloumnDesc.Count <= 0)
             {
                 return stringBuilder.ToString();
@@ -276,8 +278,8 @@ namespace Xls2Lua
             string str =
                 "local mt = {}\n" +
                 "mt.__index = function(a,b)\n" +
-                "\tif _fidx[b] then\n" +
-                "\t\treturn a[_fidx[b]]\n" +
+                "\tif fieldIdx[b] then\n" +
+                "\t\treturn a[fieldIdx[b]]\n" +
                 "\tend\n" +
                 "\treturn nil\n" +
                 "end\n" +
@@ -285,10 +287,10 @@ namespace Xls2Lua
                 "\terror('do not edit config')\n" +
                 "end\n" +
                 "mt.__metatable = false\n" +
-                "for _,v in ipairs(_data) do\n\t" +
+                "for _,v in ipairs(data) do\n\t" +
                 "setmetatable(v,mt)\n" +
                 "end\n" +
-                "return _data";
+                "return data";
             stringBuilder.Append(str);
             return stringBuilder.ToString();
         }
@@ -355,6 +357,38 @@ namespace Xls2Lua
             }
 
             return true;
+        }
+
+        /// <summary>
+        /// 获取当前sheet的合法名称
+        /// </summary>
+        /// <param name="sheet"></param>
+        /// <returns></returns>
+        public static string GetSheetName(Sheet sheet)
+        {
+            var sheetName = sheet.getName();
+            return ParseSheetName(sheetName);
+        }
+
+        /// <summary>
+        /// 检测Sheet的名称是否合法,并返回合法的sheet名称
+        /// </summary>
+        /// <param name="sheetName"></param>
+        /// <returns></returns>
+        private static string ParseSheetName(string sheetName)
+        {
+            sheetName = sheetName.Trim();
+            if (string.IsNullOrEmpty(sheetName))
+            {
+                return null;
+            }
+            //只有以#为起始的sheet才会被转表
+            if (!sheetName.StartsWith("#"))
+            {
+                return null;
+            }
+
+            return sheetName;
         }
     }
 }
