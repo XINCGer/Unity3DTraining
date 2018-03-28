@@ -108,10 +108,9 @@ namespace Xls2Lua
             int coloum = sheet.getColumns();
             for (int i = 0; i < coloum; i++)
             {
-                string temp1 = sheet.getCell(i, 2).getContents();
-                string temp2 = sheet.getCell(i, 3).getContents();
-                string temp3 = sheet.getCell(i, 4).getContents();
-                if (string.IsNullOrWhiteSpace(temp1) || string.IsNullOrWhiteSpace(temp2) || string.IsNullOrWhiteSpace(temp3))
+                string temp1 = sheet.getCell(i, 1).getContents();
+                string temp2 = sheet.getCell(i, 2).getContents();
+                if (string.IsNullOrWhiteSpace(temp1) || string.IsNullOrWhiteSpace(temp2))
                 {
                     return i;
                 }
