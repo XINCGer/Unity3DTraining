@@ -64,7 +64,7 @@ public class CreateAssetBundles
 		
 		Object characterBasePrefab = GetPrefab(characterClone, "characterbase");
 		string path = AssetbundlePath + name + "_characterbase.assetbundle";
-		BuildPipeline.BuildAssetBundle(characterBasePrefab, null, path, BuildAssetBundleOptions.CollectDependencies);
+		BuildPipeline.BuildAssetBundle(characterBasePrefab, null, path, BuildAssetBundleOptions.CollectDependencies,BuildTarget.StandaloneWindows);
 		AssetDatabase.DeleteAsset(AssetDatabase.GetAssetPath(characterBasePrefab));
 	}
 
@@ -102,7 +102,7 @@ public class CreateAssetBundles
 			
 			string bundleName = name + "_" + smr.name.ToLower();
 			string path = AssetbundlePath + bundleName + ".assetbundle";
-			BuildPipeline.BuildAssetBundle(null, toinclude.ToArray(), path, BuildAssetBundleOptions.CollectDependencies);
+			BuildPipeline.BuildAssetBundle(null, toinclude.ToArray(), path, BuildAssetBundleOptions.CollectDependencies,BuildTarget.StandaloneWindows);
 			
 			AssetDatabase.DeleteAsset(AssetDatabase.GetAssetPath(rendererPrefab));
 			AssetDatabase.DeleteAsset(stringholderpath);
@@ -150,7 +150,7 @@ public class CreateAssetBundles
 		AssetDatabase.CreateAsset(t, p);
 		Object o = AssetDatabase.LoadAssetAtPath(p, typeof(CharacterElementHolder));
 		
-		BuildPipeline.BuildAssetBundle(o, null, AssetbundlePath + "CharacterElementDatabase.assetbundle");
+		BuildPipeline.BuildAssetBundle(o, null, AssetbundlePath + "CharacterElementDatabase.assetbundle",BuildAssetBundleOptions.CollectDependencies,BuildTarget.StandaloneWindows);
 		AssetDatabase.DeleteAsset(p);
 	}
 }
