@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Editor\Unity.exe" -batchmode -quit -nographics -executeMethod "Batchmode.AndroidBuildTaiGuoWithGM" -logFile "d:\buildLog.txt" -projectPath "E:\HL_1.0.10Thailand"
