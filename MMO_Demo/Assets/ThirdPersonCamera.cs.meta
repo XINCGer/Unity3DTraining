@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21e0a0b3d1f7945fd8fdab7d4e2eef15
+labels:
+- mmo
+- mmorpg
+- control
+- controller
+- character
+- camera
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

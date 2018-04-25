@@ -1,0 +1,28 @@
+
+	READ ME FIRST
+
+	Third Person MMO Controller demo
+	
+	----
+	
+	As specified in the ThirdPersonController inspector, a custom axis
+	and a custom button needs to be defined before use. This applies
+	to the demo as well.
+	
+	You can access the input definitions of your projects in:
+	
+		Edit -> Project Settings -> Input
+	
+	The needed additional input is as follows:
+	
+		"ToggleWalk"
+		Set up precisely as the "Jump" button - only with the positive
+		button set to '+' or whichever button you find appropriate.
+		
+		"Sidestep"
+		Set up precisely as the "Horizontal" axis - only with the
+		negative and positive buttons changed to 'q' and 'e' and the
+		alt negative and positive buttons cleared.
+	
+	With these modifications to your input settings, you will be able
+	to play the demo and use the third person controller component.
