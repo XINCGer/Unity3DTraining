@@ -1,3 +1,4 @@
+require "timespan"
 print("=================os.time test===============")
 print(os.time())
 print(os.time({day=26,month=4,year=2018}))
@@ -17,3 +18,5 @@ print(os.date("%Y"))
 print(os.date("%U"))
 -- 组合格式化时间
 print(os.date("%Y-%m-%d, %H:%M:%S",os.time()))
+
+print(getRemainTime("24:00:00"))
