@@ -19,4 +19,5 @@ print(os.date("%U"))
 -- 组合格式化时间
 print(os.date("%Y-%m-%d, %H:%M:%S",os.time()))
 
-print(getRemainTime("24:00:00"))
+print(getRemainTime(openTime))
+local openTime = "20:30:00"
