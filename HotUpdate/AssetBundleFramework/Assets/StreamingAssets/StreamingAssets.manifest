@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 979583188
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materials/mat1.bytes
+      Dependencies:
+        Dependency_0: images/1151.bytes
+    Info_1:
+      Name: images/1151.bytes
+      Dependencies: {}
+    Info_2:
+      Name: prefabs/cube.bytes
+      Dependencies:
+        Dependency_0: materials/mat1.bytes

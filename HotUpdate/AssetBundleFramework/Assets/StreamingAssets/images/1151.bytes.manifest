@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 265925012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 249097c8989ce8049161fefad2b28bbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/1151.jpg
+Dependencies: []

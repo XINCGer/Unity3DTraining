@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4285631514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 585cad4a2b6e9d4aaa4ead0b86b0f69d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f49f05f36a566d50434f7d9f3fb347da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cube.prefab
+Dependencies:
+- E:/Unity3Dproject/ManniuBlog/Assets/StreamingAssets/materials/mat1.bytes
