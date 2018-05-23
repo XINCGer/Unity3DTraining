@@ -13,7 +13,7 @@ Xls转lua小工具
 配置bin目录下的config.ini文件，指定Excel输入目录和Lua输出目录，然后执行编译出来的exe文件即可。  
 
 ### 教程地址  
-[未完待续]()  
+[【游戏开发】Excel表格批量转换成lua的转表工具](https://www.cnblogs.com/msxh/p/8539108.html)  
 
 
 
