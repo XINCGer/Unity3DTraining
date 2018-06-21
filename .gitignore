@@ -297,3 +297,7 @@ __pycache__/
 Library/
 \.vscode/
 Temp/
+
+*.csproj
+
+*.sln
