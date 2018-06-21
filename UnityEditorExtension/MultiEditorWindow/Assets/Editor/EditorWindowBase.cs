@@ -15,6 +15,7 @@ public class EditorWindowBase : EditorWindow
 
     private void OnFocus()
     {
+        //重写OnFocus方法，让EditorWindowMgr去自动排序汇聚焦点
         EditorWindowMgr.FoucusWindow();
     }
 }
