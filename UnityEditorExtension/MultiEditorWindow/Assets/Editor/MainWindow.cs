@@ -52,7 +52,7 @@ public class MainWindow : EditorWindowBase
         EditorGUILayout.LabelField("点击下面的按钮创建重复弹出窗口", labelStyle, GUILayout.Width(220));
         if (GUILayout.Button("创建窗口", GUILayout.Width(80)))
         {
-            RepeateWindow.Popup();
+            RepeateWindow.Popup(window.position.position);
         }
         GUILayout.EndVertical();
         GUILayout.EndArea();
@@ -61,7 +61,7 @@ public class MainWindow : EditorWindowBase
     private void OnDestroy()
     {
         //主界面销毁的时候，附带销毁创建出来的子界面
-        EditorWindowMgr.RemoveEditorWindow(this);
+        EditorWindowMgr.RemoveEditorWindow(window);
         EditorWindowMgr.DestoryAllWindow();
     }
 
