@@ -22,6 +22,7 @@ public class MainWindow : EditorWindowBase
         window = EditorWindow.GetWindow(typeof(MainWindow), true, "多重窗口编辑器") as MainWindow;
         window.minSize = minResolution;
         window.Init();
+        EditorWindowMgr.AddEditorWindow(window);
         window.Show();
     }
 
@@ -30,6 +31,8 @@ public class MainWindow : EditorWindowBase
     /// </summary>
     private void Init()
     {
+        Priority = 1;
+
         labelStyle = new GUIStyle();
         labelStyle.normal.textColor = Color.red;
         labelStyle.alignment = TextAnchor.MiddleCenter;
