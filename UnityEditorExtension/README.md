@@ -4,3 +4,4 @@
 >* [Unity3D编辑器插件扩展和组件扩展](http://www.cnblogs.com/rond/p/7652624.html)  
 >* [开发unity插件——一次搞定unity编辑器常用功能](https://yq.aliyun.com/articles/69190)  
 >* [节点编辑器](.//NodeEditor)  
+>* [多重弹出窗口编辑器与界面层级管理](./MultiEditorWindow)  
