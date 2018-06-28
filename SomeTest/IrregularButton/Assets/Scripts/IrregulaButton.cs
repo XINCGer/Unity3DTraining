@@ -4,8 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 不规则Button
+/// 不规则区域Button
 /// </summary>
+[RequireComponent(typeof(RectTransform))]
+[RequireComponent(typeof(Image))]
 public class IrregulaButton : MonoBehaviour
 {
 
