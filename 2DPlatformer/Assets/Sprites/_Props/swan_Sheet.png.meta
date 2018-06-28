@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: e50f4af9499e24ac9b08e30acc337ee9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Swan_Sheet 1_0
+    21300002: Swan_Sheet 1_1
+    21300004: Swan_Sheet 1_2
+    21300006: Swan_Sheet 1_3
+    21300008: Swan_Sheet 1_4
+    21300010: Swan_Sheet 1_5
+    21300012: Swan_Sheet 1_6
+    21300014: Swan_Sheet 1_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Swan_Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 219
+        width: 231
+        height: 101
+      alignment: 9
+      pivot: {x: .641912043, y: .58738482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 252
+        width: 230
+        height: 76
+      alignment: 9
+      pivot: {x: .648011208, y: .383870572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 427
+        width: 241
+        height: 125
+      alignment: 9
+      pivot: {x: .662182271, y: .227659419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 427
+        width: 236
+        height: 166
+      alignment: 9
+      pivot: {x: .649590552, y: .158207163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 427
+        width: 236
+        height: 121
+      alignment: 9
+      pivot: {x: .649590433, y: .229076296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 607
+        width: 230
+        height: 153
+      alignment: 9
+      pivot: {x: .648011029, y: .763703763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 663
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: .660957754, y: .629982233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swan_Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 692
+        width: 240
+        height: 80
+      alignment: 9
+      pivot: {x: .636589825, y: .373915851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 

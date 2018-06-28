@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c73e86781a6314e5e9da831a05776ed6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pickupClip: {fileID: 8300000, guid: 0f0f1f98eb73543f6af74d3b8fb23f1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

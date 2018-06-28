@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Crate
+  - Enemy
+  - Wall
+  - Obstacle
+  - Bullet
+  - BombPickup
+  - ExplosionFX
+  - HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bombs
+  - Player
+  - Enemies
+  - Pickups
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Default
+    userID: 1
+    uniqueID: 3363470833
+    locked: 0
+  - name: Background
+    userID: 2
+    uniqueID: 1535931219
+    locked: 0
+  - name: Character
+    userID: 4
+    uniqueID: 2511236001
+    locked: 0
+  - name: Char
+    userID: 6
+    uniqueID: 3559592753
+    locked: 0
+  - name: Foreground
+    userID: 3
+    uniqueID: 1024582385
+    locked: 0
+  - name: UI
+    userID: 5
+    uniqueID: 149272721
+    locked: 0
