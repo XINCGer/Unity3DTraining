@@ -49,5 +49,6 @@
 >* [45.StarTrooper重力感应飞行游戏](./StarTrooper)  
 >* [46.人物换装系统](./ChangeCharacter)  
 >* [47.简单MMO Demo](./MMO_Demo)  
+>* [48.2D原生平台游戏](./2DPlatformer)  
 
 
