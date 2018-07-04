@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: c236aa7ad6dcabe47abc7d2cf903ae71
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ctrl_Grp
+    100002: Head
+    100004: HeadEnd
+    100006: Hips
+    100008: LeftEar
+    100010: LeftEarEnd
+    100012: LeftFoot
+    100014: LeftFootEnd
+    100016: LeftLeg
+    100018: LeftLowerArm
+    100020: LeftLowerArmFK
+    100022: LeftLowerArmIK
+    100024: LeftUpperArm
+    100026: LeftUpperArmFK
+    100028: LeftUpperArmIK
+    100030: LeftWrist
+    100032: LeftWristEnd
+    100034: LeftWristFK
+    100036: LeftWristIK
+    100038: RightEar
+    100040: RightEarEnd
+    100042: RightFoot
+    100044: RightFootEnd
+    100046: RightLeg
+    100048: RightLowerArm
+    100050: RightLowerArmFK
+    100052: RightLowerArmIK
+    100054: RightUpperArm
+    100056: RightUpperArmFK
+    100058: RightUpperArmIK
+    100060: RightWrist
+    100062: RightWristEnd
+    100064: RightWristFK
+    100066: RightWristIK
+    100068: Root
+    100070: Spine
+    100072: Zombear
+    100074: //RootNode
+    400000: Ctrl_Grp
+    400002: Head
+    400004: HeadEnd
+    400006: Hips
+    400008: LeftEar
+    400010: LeftEarEnd
+    400012: LeftFoot
+    400014: LeftFootEnd
+    400016: LeftLeg
+    400018: LeftLowerArm
+    400020: LeftLowerArmFK
+    400022: LeftLowerArmIK
+    400024: LeftUpperArm
+    400026: LeftUpperArmFK
+    400028: LeftUpperArmIK
+    400030: LeftWrist
+    400032: LeftWristEnd
+    400034: LeftWristFK
+    400036: LeftWristIK
+    400038: RightEar
+    400040: RightEarEnd
+    400042: RightFoot
+    400044: RightFootEnd
+    400046: RightLeg
+    400048: RightLowerArm
+    400050: RightLowerArmFK
+    400052: RightLowerArmIK
+    400054: RightUpperArm
+    400056: RightUpperArmFK
+    400058: RightUpperArmIK
+    400060: RightWrist
+    400062: RightWristEnd
+    400064: RightWristFK
+    400066: RightWristIK
+    400068: Root
+    400070: Spine
+    400072: Zombear
+    400074: //RootNode
+    4300000: Zombear
+    9500000: //RootNode
+    13700000: Zombear
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 

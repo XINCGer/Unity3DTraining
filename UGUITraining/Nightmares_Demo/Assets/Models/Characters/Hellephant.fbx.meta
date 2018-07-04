@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: b77f122f451a2394898a24191c26107c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ctrl_Grp
+    100002: Hellephant
+    100004: //RootNode
+    100006: Hips
+    100008: LeftEar1
+    100010: LeftEar2
+    100012: LeftEarEnd
+    100014: LeftFoot
+    100016: LeftFootEnd
+    100018: LeftLeg
+    100020: RightEar1
+    100022: RightEar2
+    100024: RightEarEnd
+    100026: RightFoot
+    100028: RightFootEnd
+    100030: RightLeg
+    100032: Root
+    100034: Spine1
+    100036: Spine2
+    100038: SpineEnd
+    100040: Trunk1
+    100042: Trunk2
+    100044: Trunk3
+    100046: TrunkEnd
+    400000: Ctrl_Grp
+    400002: Hellephant
+    400004: //RootNode
+    400006: Hips
+    400008: LeftEar1
+    400010: LeftEar2
+    400012: LeftEarEnd
+    400014: LeftFoot
+    400016: LeftFootEnd
+    400018: LeftLeg
+    400020: RightEar1
+    400022: RightEar2
+    400024: RightEarEnd
+    400026: RightFoot
+    400028: RightFootEnd
+    400030: RightLeg
+    400032: Root
+    400034: Spine1
+    400036: Spine2
+    400038: SpineEnd
+    400040: Trunk1
+    400042: Trunk2
+    400044: Trunk3
+    400046: TrunkEnd
+    4300000: Hellephant
+    7400000: Move
+    7400002: Idle
+    7400004: Death
+    9500000: //RootNode
+    13700000: Hellephant
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_Grp
+        weight: 1
+      - path: Ctrl_Grp/Root
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2/LeftEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2/RightEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/SpineEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3/TrunkEnd
+        weight: 1
+      - path: Hellephant
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_Grp
+        weight: 1
+      - path: Ctrl_Grp/Root
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2/LeftEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2/RightEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/SpineEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3/TrunkEnd
+        weight: 1
+      - path: Hellephant
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .378486067
+        functionName: StartSinking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_Grp
+        weight: 1
+      - path: Ctrl_Grp/Root
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2/LeftEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/RightEar1/RightEar2/RightEarEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Spine2/SpineEnd
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3
+        weight: 1
+      - path: Ctrl_Grp/Root/Hips/Spine1/Trunk1/Trunk2/Trunk3/TrunkEnd
+        weight: 1
+      - path: Hellephant
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
