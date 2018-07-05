@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: 
+  User Layer 9: 
+  User Layer 10: 
+  User Layer 11: 
+  User Layer 12: 
+  User Layer 13: 
+  User Layer 14: 
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0

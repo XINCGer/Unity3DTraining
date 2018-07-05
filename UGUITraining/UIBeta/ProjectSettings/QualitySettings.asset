@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!47 &1
+QualitySettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 5
+  m_CurrentQuality: 0
+  m_QualitySettings:
+  - serializedVersion: 2
+    name: Normal
+    pixelLightCount: 8
+    shadows: 2
+    shadowResolution: 2
+    shadowProjection: 0
+    shadowCascades: 2
+    shadowDistance: 40
+    blendWeights: 4
+    textureQuality: 0
+    anisotropicTextures: 1
+    antiAliasing: 0
+    softParticles: 0
+    softVegetation: 1
+    vSyncCount: 0
+    lodBias: 1
+    maximumLODLevel: 0
+    particleRaycastBudget: 4096
+    excludedTargetPlatforms: []
+  m_PerPlatformDefaultQuality: {}

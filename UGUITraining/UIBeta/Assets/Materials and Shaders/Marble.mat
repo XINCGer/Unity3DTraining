@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Marble
+  m_Shader: {fileID: 4800000, guid: d89afde2149bca443b9ecb142a1e3682, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: d2158019f313f1246a6d11b2629f9305, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: ed5532b9c22e3d84290a7d79d7691a62, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Side
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d627b38561138245a6f7d6acade5256, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Top
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d627b38561138245a6f7d6acade5256, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Bottom
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TexTop
+        second:
+          m_Texture: {fileID: 2800000, guid: aa42cb0bcd3d0c440a12befb5dec4b31, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpTop
+        second:
+          m_Texture: {fileID: 2800000, guid: d1885e150c146e643b2848b0e3614020, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _TilingMain
+        second: 2
+      data:
+        first:
+          name: _SideScale
+        second: 2
+      data:
+        first:
+          name: _TopScale
+        second: 2
+      data:
+        first:
+          name: _BottomScale
+        second: 2
+      data:
+        first:
+          name: _Tiling
+        second: 21.4500008
+      data:
+        first:
+          name: _TilingBump
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .5}

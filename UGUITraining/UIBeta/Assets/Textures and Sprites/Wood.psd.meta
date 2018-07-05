@@ -1,0 +1,60 @@
+fileFormatVersion: 2
+guid: 9d627b38561138245a6f7d6acade5256
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  autoDetectMinSpriteSize: 4
+  gridPadding: 0
+  gridOffsetX: 0
+  gridOffsetY: 0
+  gridSizeX: 64
+  gridSizeY: 64
+  spriteExtrude: 1
+  alignment: 0
+  pivotOffset: {x: 0, y: 0}
+  spriteAtlasHint: 0
+  spriteScaleFactor: 1
+  alphaIsTransparency: 0
+  textureType: 0
+  buildTargetSettings: []
+  spriteSheet:
+    spriteFrames:
+    - name: Wooden Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivotOffset: {x: 0, y: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
+  userData: 
