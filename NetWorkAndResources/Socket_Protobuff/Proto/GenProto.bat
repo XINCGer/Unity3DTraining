@@ -1,0 +1,1 @@
+protoc --proto_path=./src  --csharp_out=../Assets/Scripts/Socket/Proto ./src/*.proto

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package com.shapejoy.remotecontrol.proto;
+
+enum Event {
+    NULL = 0;
+	HEART = 1;
+	RECONNECTION = 3;
+	
+    DEVICE_CHECK = 10001;
+	USER_LOGOUT = 10004;
+}
+
+message Message {
+    Event event = 1;
+    string deviceNumber = 2;
+}
