@@ -4,3 +4,4 @@
 >* [3.UGUI系统应用案例Nightmares(噩梦)](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining/Nightmares_Demo)  
 >* [4.UGUI背包系统](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining/KnapsackSystem)  
 >* [5.UGUI常用控件组件练习](./UIBeta)  
+>* [6.UGUI内核大探究（九）Image与RawImage](https://blog.csdn.net/ecidevilin/article/details/52556724?t=1502292525013)  
