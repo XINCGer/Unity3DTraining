@@ -6,3 +6,7 @@
 >* [3.Unity Profiler分析器使用](https://github.com/XINCGer/Unity3DTraining/tree/master/PerformanceOptimization/ProfilerExample)  
 >* [4.C#内存管理解析](http://www.cnblogs.com/yejianyong/p/7396154.html)  
 >* [5.Android性能优化来龙去脉总结](https://www.cnblogs.com/wetest/p/9153213.html)  
+>* [6.Unity GUI(uGUI)使用心得与性能总结](https://www.jianshu.com/p/061e67308e5f)  
+>* [7.深入浅出聊优化：从Draw Calls到GC](https://www.cnblogs.com/murongxiaopifu/p/4284988.html)  
+>* [8.Unity 绘图性能优化 - Draw Call Batching](http://www.cnblogs.com/fly-100/p/5422734.html)  
+>* [9.UGUI batch 规则和性能优化](https://www.cnblogs.com/fly-100/p/5488757.html)  
