@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 /// <summary>
-/// 不规则区域图形的射线检测Mask组件
+/// 不规则区域图形检测组件
 /// </summary>
 [RequireComponent(typeof(RectTransform))]
 [RequireComponent(typeof(Image))]
@@ -10,6 +10,10 @@ public class IrregularRaycastMask : MonoBehaviour, ICanvasRaycastFilter
 {
     private Image _image;
     private Sprite _sprite;
+
+    [Tooltip("设定Sprite响应的Alpha阈值")]
+    [Range(0, 0.5f)]
+    public float alpahThreshold = 0.5f;
 
     void Start()
     {
@@ -93,7 +97,7 @@ public class IrregularRaycastMask : MonoBehaviour, ICanvasRaycastFilter
         // 如果texture导入过程报错，则删除组件
         try
         {
-            return _sprite.texture.GetPixel(x, y).a > 0;
+            return _sprite.texture.GetPixel(x, y).a > alpahThreshold;
         }
         catch (UnityException e)
         {

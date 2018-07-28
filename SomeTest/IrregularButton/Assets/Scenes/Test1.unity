@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -503,11 +503,11 @@ RectTransform:
   m_Father: {fileID: 822333544}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -32}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 12.331482, y: 0}
   m_SizeDelta: {x: 180, y: 160}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &776088972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -615,6 +615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c4ffe2e3ac62e42856e5e6ce3c766c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  alpahThreshold: 0.2
 --- !u!1 &822333540
 GameObject:
   m_ObjectHideFlags: 0
@@ -813,11 +814,11 @@ RectTransform:
   m_Father: {fileID: 822333544}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3, y: 142}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 3, y: -27.5}
   m_SizeDelta: {x: 174, y: 60}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1044457764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -925,3 +926,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c4ffe2e3ac62e42856e5e6ce3c766c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  alpahThreshold: 0.2
