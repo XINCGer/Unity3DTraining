@@ -3,18 +3,18 @@ local bit = require "bit"
 
 EventMgr = {
     --实例对象
-    _instance = nil
+    _instance = nil,
     --观察值列表
     _listeners = nil
 }
 EventMgr.__index = EventMgr
-setmetatable(EventMgr,Class)
+setmetatable(EventMgr, Class)
 
 -- 构造器
 function EventMgr:new()
     local t = {}
     t = Class:new()
-    setmetatable(t,EventMgr)
+    setmetatable(t, EventMgr)
     return t
 end
 
@@ -27,23 +27,25 @@ function EventMgr:Instance()
     return EventMgr._instance
 end
 
-function EventMgr:RegisterEvent(moduleId,eventId,func)
+function EventMgr:RegisterEvent(moduleId, eventId, func)
     local key = bit.lshift(moduleId, 16) + eventId
-    self:AddEventListener(key,func,nil)
+    self:AddEventListener(key, func, nil)
 end
 
-function EventMgr:UnRegisterEvent(moduleId,eventId,func)
+function EventMgr:UnRegisterEvent(moduleId, eventId, func)
     local key = bit.lshift(moduleId, 16) + eventId
-    self:RemoveEventListener(key,func)
+    self:RemoveEventListener(key, func)
 end
 
 function EventMgr:DispatchEvent(moduleId, eventId, param)
     local key = bit.lshift(moduleId, 16) + eventId
     local listeners = self._listeners[key]
-    if nil == listeners then return end
-    for _,v in ipairs(listeners) do
+    if nil == listeners then
+        return
+    end
+    for _, v in ipairs(listeners) do
         if v.p then
-            v.f(v.p,param)
+            v.f(v.p, param)
         else
             v.f(param)
         end
@@ -58,21 +60,26 @@ function EventMgr:AddEventListener(eventId, func, param)
         self._listeners[eventId] = listeners -- 保存监听者
     end
     --过滤掉已经注册过的消息，防止重复注册
-    for _,v in pairs(listeners) do
-        if(v and v.f == func) then
+    for _, v in pairs(listeners) do
+        if (v and v.f == func) then
             return
         end
     end
+    --if func == nil then
+    --    print("func is nil!")
+    --end
     --加入监听者的回调和参数
-    table.insert(listeners,{f=func,p=param})
+    table.insert(listeners, { f = func, p = param })
 end
 
 function EventMgr:RemoveEventListener(eventId, func)
     local listeners = self._listeners[eventId]
-    if nil == listeners then return end
-    for k,v in pairs(listeners) do
-        if(v and v.f == func) then
-            table.remove(listeners,k)
+    if nil == listeners then
+        return
+    end
+    for k, v in pairs(listeners) do
+        if (v and v.f == func) then
+            table.remove(listeners, k)
             return
         end
     end
