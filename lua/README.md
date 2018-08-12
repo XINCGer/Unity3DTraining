@@ -6,3 +6,4 @@
 >* [4.Unity3d ulua c#与lua交互+wrap文件理解](https://blog.csdn.net/pengdongwei/article/details/50420612)  
 >* [5.Unity3D 预备知识：C#与Lua相互调用](http://www.cnblogs.com/zhuweisky/p/6705095.html)  
 >* [6.Lua变长参数详解](https://blog.csdn.net/fanyun_01/article/details/69063148)  
+>* [7.Lua版本的事件中心管理器](./LuaEventMgr)  
