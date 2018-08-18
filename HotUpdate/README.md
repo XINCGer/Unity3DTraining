@@ -5,3 +5,4 @@
 * [【Unity游戏开发】AssetBundle杂记--AssetBundle的二三事](http://www.cnblogs.com/msxh/p/8506274.html)  
 * [Unity官方AssetBundleDemo](./UnityTechnologiesAssetbundleDemo)  
 * [一个不错的热更学习框架](./AssetBundleFramework)  
+* [lua热更框架之XLua](https://www.cnblogs.com/IAMTOM/p/9498393.html)  
