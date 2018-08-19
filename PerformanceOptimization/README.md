@@ -10,3 +10,4 @@
 >* [7.深入浅出聊优化：从Draw Calls到GC](https://www.cnblogs.com/murongxiaopifu/p/4284988.html)  
 >* [8.Unity 绘图性能优化 - Draw Call Batching](http://www.cnblogs.com/fly-100/p/5422734.html)  
 >* [9.UGUI batch 规则和性能优化](https://www.cnblogs.com/fly-100/p/5488757.html)  
+>* [10.UGUI的优化文档](.//UGUI的优化.docx)  
