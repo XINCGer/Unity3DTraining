@@ -27,5 +27,8 @@ EventMgr:RegisterEvent(2, 1, TestCallback_2)
 EventMgr:DispatchEvent(1, 1)
 EventMgr:DispatchEvent(2, 1, { id = "abc", pwd = "123" })
 ```  
-可以Main.lua中看到具体的使用代码
+可以Main.lua中看到具体的使用代码  
+
+### 博客教程  
+>* [敬请期待]()  
 
