@@ -11,3 +11,4 @@
 >* [8.Unity 绘图性能优化 - Draw Call Batching](http://www.cnblogs.com/fly-100/p/5422734.html)  
 >* [9.UGUI batch 规则和性能优化](https://www.cnblogs.com/fly-100/p/5488757.html)  
 >* [10.UGUI的优化文档](.//UGUI的优化.docx)  
+>* [11.Unity+NGUI性能优化方法总结](https://blog.csdn.net/zzxiang1985/article/details/43339273)  
