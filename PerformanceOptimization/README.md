@@ -14,3 +14,5 @@
 >* [11.Unity+NGUI性能优化方法总结](https://blog.csdn.net/zzxiang1985/article/details/43339273)  
 >* [12.Unity GUI(uGUI)使用心得与性能总结](https://www.jianshu.com/p/061e67308e5f)  
 >* [13.Unity性能优化大合集，All In One !（更新至8.18）](https://blog.uwa4d.com/archives/allinone.html)  
+>* [14.UGUI各种优化效果](https://blog.csdn.net/dingxiaowei2013/article/details/70769892)  
+>* [15.移动平台Unity3D 应用性能优化](http://www.cnblogs.com/wetest/p/7018010.html)  
