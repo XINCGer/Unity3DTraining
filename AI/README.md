@@ -5,3 +5,4 @@
 >* [游戏人工智能开发之6种决策方法](https://www.gameres.com/467913.html)  
 >* [关于AI的目标导向型行动计划](http://gamerboom.com/archives/83622)  
 >* [AI分享站](http://www.aisharing.com/)  
+>* [基于分数系统(Scoring System)的AI设计](http://www.aisharing.com/archives/42)  
