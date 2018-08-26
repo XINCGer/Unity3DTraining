@@ -24,4 +24,5 @@
 * [UGUI不规则区域按钮点击](./IrregularButton)  
 * [Drawcall测试](./DrawCallTest)  
 * [HTML转为UGUIText的脚本](./HTML2Text.md)  
+* [Unity 移动端的复制这么写](https://www.cnblogs.com/wuzhang/p/wuzhang20180826.html)  
 
