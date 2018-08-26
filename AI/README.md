@@ -7,3 +7,5 @@
 >* [AI分享站](http://www.aisharing.com/)  
 >* [基于分数系统(Scoring System)的AI设计](http://www.aisharing.com/archives/42)  
 >* [Skywind Inside](http://www.skywind.me/blog/)  
+>* [Goal Oriented Action Planning for a Smarter AI](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793)  
+>* [GOAP](http://alumni.media.mit.edu/~jorkin/goap.html)  
