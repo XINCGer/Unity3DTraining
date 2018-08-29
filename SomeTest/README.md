@@ -25,4 +25,6 @@
 * [Drawcall测试](./DrawCallTest)  
 * [HTML转为UGUIText的脚本](./HTML2Text.md)  
 * [Unity 移动端的复制这么写](https://www.cnblogs.com/wuzhang/p/wuzhang20180826.html)  
+* [Unity3d游戏开发中异步Loading进度条所遇问题](http://www.newbieol.com/information/303.html)  
+* [Unity异步加载场景loading条](http://www.cnblogs.com/wonderKK/p/3976213.html)  
 
