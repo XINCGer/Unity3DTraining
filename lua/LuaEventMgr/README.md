@@ -30,5 +30,5 @@ EventMgr:DispatchEvent(2, 1, { id = "abc", pwd = "123" })
 可以Main.lua中看到具体的使用代码  
 
 ### 博客教程  
->* [敬请期待]()  
+>* [【Unity游戏开发】用C#和Lua实现Unity中的事件分发机制EventDispatcher](https://www.cnblogs.com/msxh/p/9539231.html)  
 
