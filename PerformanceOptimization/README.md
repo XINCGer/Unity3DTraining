@@ -18,3 +18,4 @@
 >* [15.移动平台Unity3D 应用性能优化](http://www.cnblogs.com/wetest/p/7018010.html)  
 >* [16.Unity UI优化小结](https://zhuanlan.zhihu.com/p/43111806)  
 >* [17.60帧的丝般顺畅 - QQ飞车手游优化点滴](https://www.cnblogs.com/wetest/p/9550990.html#top)  
+>* [18.UWA发布 | Unity手游体检蓝皮书](https://mp.weixin.qq.com/s/Dl3o_YAQ_B3tqwSV4y1hBg)  
