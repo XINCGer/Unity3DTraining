@@ -22,7 +22,8 @@
 * [职责链模式](./ChainofResponsibilityPattern)  
 * [迭代器模式](./IteratorPattern)  
 * [解释器模式](./InterpreterPattern)  
-* [【特】游戏编程模式](./GameProgrammingPatterns)   
+* [【特】游戏编程模式](./GameProgrammingPatterns)   
+* [【特】重访设计模式](https://gpp.tkchu.me/design-patterns-revisited.html)  
 
 
 
