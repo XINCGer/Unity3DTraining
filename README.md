@@ -53,5 +53,6 @@
 >* [49.Lua的相关知识点和总结记录](./lua)  
 >* [50.游戏人工智能](./AI)  
 >* [51.设备输入](/InputAndTouch)  
+>* [52.持续集成CI(Continuous Integration)](./CI)  
 
 
