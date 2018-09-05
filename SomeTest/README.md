@@ -30,4 +30,5 @@
 * [Unity游戏中使用贝塞尔曲线](https://blog.csdn.net/u010019717/article/details/47684223)  
 * [使用CharacterController控制行走（包括键盘和虚拟杠）](https://blog.csdn.net/qq_34552886/article/details/70194751)  
 * [TypeScript版的事件分发机制](https://blog.csdn.net/a19352226/article/details/52833879)  
+* [Unity如何实现投影阴影效果](https://mp.weixin.qq.com/s/-5gxJ5Nhgr1whNggsZwVtw)  
 
