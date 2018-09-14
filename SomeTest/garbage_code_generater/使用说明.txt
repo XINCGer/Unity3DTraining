@@ -1,0 +1,9 @@
+-h: 帮助
+-o: 输出路径, 默认值="garbate"
+-c: 生成类数量, 默认值=400
+-mc: 类方法数量, 默认值=30
+-pc: 类变量数量, 默认值=30
+-ac: 类属性数量, 默认值=30
+-verbose: 输出每一个类文件名
+-q: 安静模式, 不输出任何东西
+例子. lua garbage_code_generater.lua -o output -c 100
