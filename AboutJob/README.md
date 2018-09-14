@@ -7,5 +7,6 @@
 >* [IT培训行业揭秘（四）](https://www.cnblogs.com/renyanlei/p/6102855.html)  
 >* [IT培训行业揭秘（五）](https://www.cnblogs.com/renyanlei/p/6106023.html)  
 >* [IT培训行业揭秘（六）](https://www.cnblogs.com/renyanlei/p/6913896.html)  
+>* [论程序员的自学心态](https://www.cnblogs.com/mozi-song/p/9646495.html)  
 >* [冷熊简历](http://cv.ftqq.com/#)  
 
