@@ -33,4 +33,6 @@
 * [Unity如何实现投影阴影效果](https://mp.weixin.qq.com/s/-5gxJ5Nhgr1whNggsZwVtw)  
 * [垃圾代码生成器](./garbage_code_generater)  
 * [ColaPlus Lua高级面向对象开发插件](./ColaPlus)  
+* [【Unity编辑器】Unity基于模板生成代码的原理与应用](https://blog.csdn.net/mobilebbki399/article/details/51869487)  
+* [Unity3D研究院编辑器之创建Lua脚本模板](http://www.xuanyusong.com/archives/3732)  
 
