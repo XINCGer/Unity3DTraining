@@ -10,4 +10,5 @@
 >* [论程序员的自学心态](https://www.cnblogs.com/mozi-song/p/9646495.html)  
 >* [冷熊简历](http://cv.ftqq.com/#)  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
+>* [给刚工作不久的程序猿同学的一封信](https://www.cnblogs.com/xuwujing/p/9665966.html)  
 
