@@ -24,3 +24,4 @@
 >* [21.Unity游戏项目常见性能问题](https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&mid=2247490346&idx=1&sn=c5ad61e23d2c3d3a160bdf3eea597533&chksm=fe1e2f81c969a6979ba0dc54e7b63a7852648f2f21b8f68d7c5ef55a327833724a0da5a10d31&scene=21#wechat_redirect)  
 >* [22.Unity引擎后处理性能优化方案解析](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911569&idx=1&sn=2689d0addc1a74cd82c1d4fec40e8025&chksm=f1c9f7a3c6be7eb51b8b5a03ec09af1093adf0f56a8d34b1b3c6b022a070ca6dfe21235809b4&mpshare=1&scene=23&srcid=0911gY5uBC45SkkP7coaFb2r#rd)  
 >* [23.如何优化资源文件过多导致的安装变慢？](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911638&idx=1&sn=53a8589baf125e64c06e0ba08bd54678&chksm=f1c9f064c6be7972d57d638e0ab26e4704661de3dace73fcfc5016673c88b7f417e1194e11dc&mpshare=1&scene=23&srcid=09190CG0H1ogG05WwLh9ZT4m#rd)  
+>* [24.Unity Q&A 第5期 ：Scriptable Build Pipeline及构建Assetbundle](https://mp.weixin.qq.com/s/wdpRm12EofdBD468OvDFQQ)   
