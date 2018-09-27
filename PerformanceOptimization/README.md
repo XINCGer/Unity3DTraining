@@ -25,3 +25,4 @@
 >* [22.Unity引擎后处理性能优化方案解析](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911569&idx=1&sn=2689d0addc1a74cd82c1d4fec40e8025&chksm=f1c9f7a3c6be7eb51b8b5a03ec09af1093adf0f56a8d34b1b3c6b022a070ca6dfe21235809b4&mpshare=1&scene=23&srcid=0911gY5uBC45SkkP7coaFb2r#rd)  
 >* [23.如何优化资源文件过多导致的安装变慢？](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911638&idx=1&sn=53a8589baf125e64c06e0ba08bd54678&chksm=f1c9f064c6be7972d57d638e0ab26e4704661de3dace73fcfc5016673c88b7f417e1194e11dc&mpshare=1&scene=23&srcid=09190CG0H1ogG05WwLh9ZT4m#rd)  
 >* [24.Unity Q&A 第5期 ：Scriptable Build Pipeline及构建Assetbundle](https://mp.weixin.qq.com/s/wdpRm12EofdBD468OvDFQQ)   
+>* [25.利用多进程并行化加速Unity资源构建](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911709&idx=1&sn=275cba9b5dedaf577d8dc3b0f8bce9e5&chksm=f1c9f02fc6be79396683835692f04da15f55807d685f3811f8431e096b83a006853e7b88aba0&mpshare=1&scene=23&srcid=092757UJQfXuRsPByAsv4H7A#rd)  
