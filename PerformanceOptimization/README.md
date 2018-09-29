@@ -27,3 +27,4 @@
 >* [24.Unity Q&A 第5期 ：Scriptable Build Pipeline及构建Assetbundle](https://mp.weixin.qq.com/s/wdpRm12EofdBD468OvDFQQ)   
 >* [25.利用多进程并行化加速Unity资源构建](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911709&idx=1&sn=275cba9b5dedaf577d8dc3b0f8bce9e5&chksm=f1c9f02fc6be79396683835692f04da15f55807d685f3811f8431e096b83a006853e7b88aba0&mpshare=1&scene=23&srcid=092757UJQfXuRsPByAsv4H7A#rd)  
 >* [26.[Unity官方]Unity UI性能优化技巧](https://mp.weixin.qq.com/s/mLd5INIVhkBQvbbXVLmDzw)  
+>* [27.Some of the best optimization tips for Unity UI](https://unity3d.com/cn/how-to/unity-ui-optimization-tips?_ga=2.154346363.2101800386.1531107495-1345188037.1524659430)  
