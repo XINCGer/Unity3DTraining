@@ -26,3 +26,4 @@
 >* [23.如何优化资源文件过多导致的安装变慢？](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911638&idx=1&sn=53a8589baf125e64c06e0ba08bd54678&chksm=f1c9f064c6be7972d57d638e0ab26e4704661de3dace73fcfc5016673c88b7f417e1194e11dc&mpshare=1&scene=23&srcid=09190CG0H1ogG05WwLh9ZT4m#rd)  
 >* [24.Unity Q&A 第5期 ：Scriptable Build Pipeline及构建Assetbundle](https://mp.weixin.qq.com/s/wdpRm12EofdBD468OvDFQQ)   
 >* [25.利用多进程并行化加速Unity资源构建](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911709&idx=1&sn=275cba9b5dedaf577d8dc3b0f8bce9e5&chksm=f1c9f02fc6be79396683835692f04da15f55807d685f3811f8431e096b83a006853e7b88aba0&mpshare=1&scene=23&srcid=092757UJQfXuRsPByAsv4H7A#rd)  
+>* [26.Unity UI性能优化技巧](https://mp.weixin.qq.com/s/mLd5INIVhkBQvbbXVLmDzw)  
