@@ -12,4 +12,5 @@
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
 >* [给刚工作不久的程序猿同学的一封信](https://www.cnblogs.com/xuwujing/p/9665966.html)  
 >* [在做技术面试官时，我是这样甄别大忽悠的——如果面试时你有这样的表现，估计悬](https://www.cnblogs.com/JavaArchitect/p/9704011.html)  
+>* [再论面试前准备简历上的项目描述和面试时介绍项目的要点](https://www.cnblogs.com/JavaArchitect/p/9741085.html)  
 
