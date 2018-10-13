@@ -20,7 +20,7 @@
 >* ~~[16.充电侠小游戏](https://github.com/XINCGer/Unity3DTraining/tree/master/BatteryMan)~~
 >* [17.仿写《我的世界》](https://github.com/XINCGer/Unity3DTraining/tree/master/Minecraft)  
 >* [18.Unity编辑器拓展](https://github.com/XINCGer/Unity3DTraining/tree/master/UnityEditorExtension)  
->* ~~[19.【山寨】八分音符酱](https://github.com/XINCGer/Unity3DTraining/tree/master/AoDaMiaoRunner)~~  
+>* [19.ESC实体组件系统](./ESC)  
 >* [20.Lua语法练习](https://github.com/XINCGer/Unity3DTraining/tree/master/LuaTraining)  
 >* [21.单元测试的艺术](https://github.com/XINCGer/Unity3DTraining/tree/master/Unit4Unity)  
 >* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)   
@@ -55,6 +55,5 @@
 >* [51.设备输入](/InputAndTouch)  
 >* [52.持续集成CI(Continuous Integration)](./CI)  
 >* [53.求职工作培训与养生等](./AboutJob)  
->* [54.ESC实体组件系统](./ESC)  
 
 
