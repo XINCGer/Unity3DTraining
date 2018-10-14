@@ -3,6 +3,8 @@
 #include <GL/glew.h>
 #include <GLFW\glfw3.h>
 
+#include "drawCircle.h";
+
 using namespace std;
 
 int main(int argc, char** argv[])
@@ -33,7 +35,8 @@ int main(int argc, char** argv[])
 		glfwPollEvents();
 		glfwSwapBuffers(window);
 	}
-	glfwTerminate();
+	//glfwTerminate();
+	ArcOpenGl(100, 100, 20, 0, 3.14);
 	return 0;
 
 

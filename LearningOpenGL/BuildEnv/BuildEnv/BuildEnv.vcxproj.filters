@@ -13,10 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\DrawCircle">
+      <UniqueIdentifier>{ead6c839-9eaf-4ec3-9b53-700b4b315cfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DrawCircle">
+      <UniqueIdentifier>{eba083bf-4cec-4aae-8da0-56063be3453f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="drawCircle.cpp">
+      <Filter>源文件\DrawCircle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="drawCircle.h">
+      <Filter>头文件\DrawCircle</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
