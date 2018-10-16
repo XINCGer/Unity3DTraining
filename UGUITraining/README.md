@@ -6,3 +6,4 @@
 >* [5.UGUI常用控件组件练习](./UIBeta)  
 >* [6.UGUI内核大探究（九）Image与RawImage](https://blog.csdn.net/ecidevilin/article/details/52556724?t=1502292525013)  
 >* [7.关于Canvas/Canvas Scaler/Graphic Raycaster组件详解](http://gad.qq.com/article/detail/286881)  
+>* [8.UGUI 文本多语言方案](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911888&idx=1&sn=ae6d1f4f41b3d76402de4d7fd81608ce&chksm=f1c9f162c6be7874f3e531d7d6c201218e5e0146f584e6c99d76e3aa838db68b3b1d66272ff7&mpshare=1&scene=23&srcid=1016haEg0r63aUmYvOcXqzyJ#rd)  
