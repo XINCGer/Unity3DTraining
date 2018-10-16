@@ -5,3 +5,4 @@
 >* [4.UGUI背包系统](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining/KnapsackSystem)  
 >* [5.UGUI常用控件组件练习](./UIBeta)  
 >* [6.UGUI内核大探究（九）Image与RawImage](https://blog.csdn.net/ecidevilin/article/details/52556724?t=1502292525013)  
+>* [7.关于Canvas/Canvas Scaler/Graphic Raycaster组件详解](http://gad.qq.com/article/detail/286881)  
