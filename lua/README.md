@@ -8,4 +8,5 @@
 >* [6.Lua变长参数详解](https://blog.csdn.net/fanyun_01/article/details/69063148)  
 >* [7.Lua版本的事件中心管理器](./LuaEventMgr)  
 >* [8.lua热更框架之XLua](https://www.cnblogs.com/IAMTOM/p/9498393.html)  
->* [在Unity中调试Lua：IntelliJ IDEA + EmmyLua](https://blog.csdn.net/David_Dai_1108/article/details/74279111)  
+>* [9.在Unity中调试Lua：IntelliJ IDEA + EmmyLua](https://blog.csdn.net/David_Dai_1108/article/details/74279111)  
+>* [10.tolua之wrap文件的原理与使用](https://www.cnblogs.com/blueberryzzz/p/9672342.html)  
