@@ -10,3 +10,4 @@
 >* [8.lua热更框架之XLua](https://www.cnblogs.com/IAMTOM/p/9498393.html)  
 >* [9.在Unity中调试Lua：IntelliJ IDEA + EmmyLua](https://blog.csdn.net/David_Dai_1108/article/details/74279111)  
 >* [10.tolua之wrap文件的原理与使用](https://www.cnblogs.com/msxh/p/9813147.html)  
+>* [11.Lua语法练习](./LuaTraining)  
