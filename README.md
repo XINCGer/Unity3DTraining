@@ -21,8 +21,8 @@
 >* [17.仿写《我的世界》](https://github.com/XINCGer/Unity3DTraining/tree/master/Minecraft)  
 >* [18.Unity编辑器拓展](https://github.com/XINCGer/Unity3DTraining/tree/master/UnityEditorExtension)  
 >* [19.ESC实体组件系统](./ESC)  
->* [20.Lua语法练习](https://github.com/XINCGer/Unity3DTraining/tree/master/LuaTraining)  
->* [21.单元测试的艺术](https://github.com/XINCGer/Unity3DTraining/tree/master/Unit4Unity)  
+>* ~~[20.Lua语法练习]()~~  
+>* [21.单元测试的艺术](https://github.com/XINCGer/Unity3DTraining/tree/master/Unit4Unity)  
 >* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)   
 >* [23.I18N 国际化（本地化）](https://github.com/XINCGer/Unity3DTraining/tree/master/I18N_Localization)  
 >* [24.内存池和对象池](https://github.com/XINCGer/Unity3DTraining/tree/master/MemoryPool_ObjectPool)  
