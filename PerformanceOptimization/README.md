@@ -29,3 +29,4 @@
 >* [26.[Unity官方]Unity UI性能优化技巧](https://mp.weixin.qq.com/s/mLd5INIVhkBQvbbXVLmDzw)  
 >* [27.Some of the best optimization tips for Unity UI](https://unity3d.com/cn/how-to/unity-ui-optimization-tips?_ga=2.154346363.2101800386.1531107495-1345188037.1524659430)  
 >* [28.Android中一张图片占据的内存大小是如何计算](https://www.cnblogs.com/dasusu/p/9789389.html)  
+>* [29.【厚积薄发】Crunch压缩图片的AssetBundle打包](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911978&idx=1&sn=ea9eaba3a198807986786005937f2806&chksm=f1c9f118c6be780e9f1d25f2f9bfb1a6c55a1e68564de46fdc721df3939adafd30eb4ac1e58b&mpshare=1&scene=23&srcid=1022rBoTChHwxBmAkf9SNKgv#rd)  
