@@ -21,7 +21,7 @@
 >* [17.仿写《我的世界》](https://github.com/XINCGer/Unity3DTraining/tree/master/Minecraft)  
 >* [18.Unity编辑器拓展](https://github.com/XINCGer/Unity3DTraining/tree/master/UnityEditorExtension)  
 >* [19.ESC实体组件系统](./ESC)  
->* [20.Unity项目开发过程中常见的问题，你遇到过吗？](https://www.cnblogs.com/murongxiaopifu/p/9833395.html)  
+>* [20.unity开发项目整体把控规划与管理](./OverCallControl/)  
 >* [21.单元测试的艺术](https://github.com/XINCGer/Unity3DTraining/tree/master/Unit4Unity)  
 >* [22.Effective C# U3D高效C#技法训练](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23)   
 >* [23.I18N 国际化（本地化）](https://github.com/XINCGer/Unity3DTraining/tree/master/I18N_Localization)  
