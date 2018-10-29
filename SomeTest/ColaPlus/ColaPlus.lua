@@ -72,3 +72,42 @@ local function initValueError (fieldName, needs, gets, errLevel)
 			:format(fieldName, needs, gets), errLevel + 1)
 	end
 end
+
+----------------------------------------
+--
+-- Lplus config
+--
+----------------------------------------
+
+local config =
+{
+	--default config
+	reflection = false,
+	declare_checking = true,
+	accessing_checking = true,
+	calling_checking = true,
+	reload = false,
+}
+
+--
+-- load config
+--
+local loadedConfig
+do
+	-- load from module Lplus_config
+	local currentModule = ...
+	if currentModule ~= nil then
+		local configModule = currentModule .. "_config"
+		local bRet, result = pcall(require, configModule)
+		if bRet then
+			if type(result) ~= "table" then
+				error("module Lplus_config should return a table, got: " .. type(result))
+			end
+			loadedConfig = result
+		end
+	end
+end
+
+if loadedConfig ~= nil then
+	shallowCopy(config, loadedConfig)
+end
