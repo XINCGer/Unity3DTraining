@@ -31,3 +31,4 @@
 >* [28.Android中一张图片占据的内存大小是如何计算](https://www.cnblogs.com/dasusu/p/9789389.html)  
 >* [29.【厚积薄发】Crunch压缩图片的AssetBundle打包](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668911978&idx=1&sn=ea9eaba3a198807986786005937f2806&chksm=f1c9f118c6be780e9f1d25f2f9bfb1a6c55a1e68564de46fdc721df3939adafd30eb4ac1e58b&mpshare=1&scene=23&srcid=1022rBoTChHwxBmAkf9SNKgv#rd)  
 >* [30.Unity动态网格简化算法](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668912081&idx=1&sn=7e68007b22bd063c18e1bda3e8f458a0&chksm=f1c9f1a3c6be78b54e441567b3bf958871f4a6318a9f3dbb3a6549ae3dc8c8dc23fc703e7d62&mpshare=1&scene=23&srcid=1031mGOlzHsIajNYdEG43gNL#rd)  
+>* [31.【厚积薄发】Linear Rendering在移动设备上的支持率](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668912166&idx=1&sn=7c9c38e868014b99a2b88b8bda6730fd&chksm=f1c9f254c6be7b426805d50ebca2a89f72f7071d5cf62df74b9cd592775c66514a7c84938bdb&mpshare=1&scene=23&srcid=1107GYXI5vHKTwOfBFWg0soO#rd)  
