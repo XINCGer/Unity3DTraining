@@ -16,4 +16,5 @@
 >* [在做技术面试官时，我是这样甄别大忽悠的——如果面试时你有这样的表现，估计悬](https://www.cnblogs.com/JavaArchitect/p/9704011.html)  
 >* [再论面试前准备简历上的项目描述和面试时介绍项目的要点](https://www.cnblogs.com/JavaArchitect/p/9741085.html)  
 >* [我们都知道，如何不被淘汰](https://www.cnblogs.com/kiba/p/9824191.html)  
+>* [程序员买房指南——LZ的三次买房和一次卖房经历](https://www.cnblogs.com/zuoxiaolong/p/life86.html)  
 
