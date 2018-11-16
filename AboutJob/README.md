@@ -18,4 +18,5 @@
 >* [我们都知道，如何不被淘汰](https://www.cnblogs.com/kiba/p/9824191.html)  
 >* [程序员买房指南——LZ的三次买房和一次卖房经历](https://www.cnblogs.com/zuoxiaolong/p/life86.html)  
 >* [互联网职场的「隐形坑」，你踩过几个？](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518911&idx=2&sn=bab528f7d2aed6797fa1f77277e9bc17&chksm=88814e61bff6c777c6165912a6a982ebe4368cf59abed5b990b4cf05dc285f265a0141aec46a&mpshare=1&scene=23&srcid=1112xPxlIfKlirA551xVP9aS#rd)  
+>* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
 
