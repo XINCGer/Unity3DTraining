@@ -20,4 +20,5 @@
 >* [互联网职场的「隐形坑」，你踩过几个？](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518911&idx=2&sn=bab528f7d2aed6797fa1f77277e9bc17&chksm=88814e61bff6c777c6165912a6a982ebe4368cf59abed5b990b4cf05dc285f265a0141aec46a&mpshare=1&scene=23&srcid=1112xPxlIfKlirA551xVP9aS#rd)  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
+>* [互联网人年底加薪指南](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518975&idx=1&sn=65dba67ea2f4c61ff1c6b4efce11ec35&chksm=88814e21bff6c737398b9c44f58367d9aefecff959eaad5e9d8785a1220ae1078c4953ffd06a&mpshare=1&scene=23&srcid=1120oKtYeyVoqe9UgIYLl17D#rd)  
 
