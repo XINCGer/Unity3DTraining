@@ -5,7 +5,7 @@
 >* [3.Lua的for in和pairs](https://blog.csdn.net/liuyuan185442111/article/details/54144348)  
 >* [4.Unity3d ulua c#与lua交互+wrap文件理解](https://blog.csdn.net/pengdongwei/article/details/50420612)  
 >* [5.Unity3D 预备知识：C#与Lua相互调用](http://www.cnblogs.com/zhuweisky/p/6705095.html)  
->* [6.Lua变长参数详解](https://blog.csdn.net/fanyun_01/article/details/69063148)  
+>* [6.【小白学Lua】之Lua变长参数和unpack函数](https://www.cnblogs.com/msxh/p/10054070.html)  
 >* [7.Lua版本的事件中心管理器](./LuaEventMgr)  
 >* [8.lua热更框架之XLua](https://www.cnblogs.com/IAMTOM/p/9498393.html)  
 >* [9.在Unity中调试Lua：IntelliJ IDEA + EmmyLua](https://blog.csdn.net/David_Dai_1108/article/details/74279111)  
