@@ -23,4 +23,5 @@
 >* [互联网人年底加薪指南](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518975&idx=1&sn=65dba67ea2f4c61ff1c6b4efce11ec35&chksm=88814e21bff6c737398b9c44f58367d9aefecff959eaad5e9d8785a1220ae1078c4953ffd06a&mpshare=1&scene=23&srcid=1120oKtYeyVoqe9UgIYLl17D#rd)  
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
 >* [裁员浪潮，互联网人该何去何从？](https://www.cnblogs.com/wyl-0120/p/10047907.html)  
+>* [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)  
 
