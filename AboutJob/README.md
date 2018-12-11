@@ -27,4 +27,5 @@
 >* [35岁，终于明白了最大的失败，是不给自己留退路](https://mp.weixin.qq.com/s?__biz=MjM5MTQ4NjA3Nw==&mid=2459679218&idx=1&sn=c85153d5c201a61316ad01239d69e45d&chksm=b1dbc0e086ac49f6e00fa170e5a75620b98b58f5631d6160ab4d97ac85ec567516d48291e11a&mpshare=1&scene=23&srcid=12081rwh7DM90AhL8tb3pMeR#rd)  
 >* [2018，为何如此艰难？](https://news.cnblogs.com/n/614497/)  
 >* [游戏行业需要寒冬](https://news.cnblogs.com/n/614457/)  
+>* [互联网寒冬，不是深渊，而是阶梯](https://news.cnblogs.com/n/614560/)  
 
