@@ -2,7 +2,7 @@
 【Unity杂货铺】unity大杂烩~    
 
 ## 目录  
->* [1.HelloWorld](https://github.com/XINCGer/Unity3DTraining/tree/master/HelloWorld)
+>* [1.收集整理一些第三方库和插件](./3rdPlugins)  
 >* [2.物理系统初探](https://github.com/XINCGer/Unity3DTraining/tree/master/Physic)
 >* [3.自动创建Perfab脚本](https://github.com/XINCGer/Unity3DTraining/tree/master/Editor)
 >* [4.网络与资源数据操作](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources)  
