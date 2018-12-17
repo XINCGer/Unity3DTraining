@@ -36,3 +36,4 @@
 >* [33.【厚积薄发】如何优化冷启动的时间](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668912423&idx=1&sn=c640fe2c104a9d29080d0fe81141f1da&chksm=f1c9f355c6be7a43f1e966903e9a1272ff4829a9184bca518797a3a26e7589a36d4d8acd9469&mpshare=1&scene=23&srcid=1126frWiEcxhVwNdy9YVSrgQ#rd)  
 >* [34.【厚积薄发】关于UniRx，你需要知道这些](https://mp.weixin.qq.com/s/2VORcRSYiUioUGlnp7PgMw)  
 >* [35.动态骨骼Dynamic Bone优化](https://mp.weixin.qq.com/s/8exSvCMw_Bx1Ea53WYm94g)  
+>* [36.【厚积薄发】如何定位渲染耗时瓶颈](https://mp.weixin.qq.com/s/iLA2QFBTC-QyM3_-5sKJzQ)  
