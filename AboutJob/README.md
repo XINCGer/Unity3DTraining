@@ -28,6 +28,7 @@
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
 >* [裁员浪潮，互联网人该何去何从？](https://www.cnblogs.com/wyl-0120/p/10047907.html)  
 >* [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)  
+>* [跑路、倒闭、裁员，2018，他们“倒”在了寒冬里](https://news.cnblogs.com/n/615706/)  
 >* [35岁，终于明白了最大的失败，是不给自己留退路](https://mp.weixin.qq.com/s?__biz=MjM5MTQ4NjA3Nw==&mid=2459679218&idx=1&sn=c85153d5c201a61316ad01239d69e45d&chksm=b1dbc0e086ac49f6e00fa170e5a75620b98b58f5631d6160ab4d97ac85ec567516d48291e11a&mpshare=1&scene=23&srcid=12081rwh7DM90AhL8tb3pMeR#rd)  
 >* [2018，为何如此艰难？](https://news.cnblogs.com/n/614497/)  
 >* [游戏行业需要寒冬](https://news.cnblogs.com/n/614457/)  
