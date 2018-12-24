@@ -37,3 +37,4 @@
 >* [34.【厚积薄发】关于UniRx，你需要知道这些](https://mp.weixin.qq.com/s/2VORcRSYiUioUGlnp7PgMw)  
 >* [35.动态骨骼Dynamic Bone优化](https://mp.weixin.qq.com/s/8exSvCMw_Bx1Ea53WYm94g)  
 >* [36.【厚积薄发】如何定位渲染耗时瓶颈](https://mp.weixin.qq.com/s/iLA2QFBTC-QyM3_-5sKJzQ)  
+>* [37.【厚积薄发】Unity中纹理格式探究](https://mp.weixin.qq.com/s/3NYFgjbnOOxg00LIuLbyxw)  
