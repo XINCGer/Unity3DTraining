@@ -6,7 +6,7 @@
 >* [2.月光跑酷3D版](https://github.com/XINCGer/3DMoonRunner)
 >* ~~[3.自动创建Perfab脚本]()~~
 >* [4.网络与资源数据操作](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources)  
->* [5.积分榜](https://github.com/XINCGer/Unity3DTraining/tree/master/HighScore)  
+>* ~~[5.积分榜]()~~  
 >* [6.重力小球](https://github.com/XINCGer/Unity3DTraining/tree/master/BallGame)  
 >* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)  
 >* [8.UGUI训练DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining)  
