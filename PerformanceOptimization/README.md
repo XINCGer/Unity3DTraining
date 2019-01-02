@@ -38,3 +38,4 @@
 >* [35.动态骨骼Dynamic Bone优化](https://mp.weixin.qq.com/s/8exSvCMw_Bx1Ea53WYm94g)  
 >* [36.【厚积薄发】如何定位渲染耗时瓶颈](https://mp.weixin.qq.com/s/iLA2QFBTC-QyM3_-5sKJzQ)  
 >* [37.【厚积薄发】Unity中纹理格式探究](https://mp.weixin.qq.com/s/3NYFgjbnOOxg00LIuLbyxw)  
+>* [38.【厚积薄发】项目中策划数据的存储和读取](https://mp.weixin.qq.com/s/l7vmgEz8zTU0z8cuirNRIg)  
