@@ -36,4 +36,5 @@
 * [【Unity编辑器】Unity基于模板生成代码的原理与应用](https://blog.csdn.net/mobilebbki399/article/details/51869487)  
 * [Unity3D研究院编辑器之创建Lua脚本模板](http://www.xuanyusong.com/archives/3732)  
 * [Unity 如何高效的解析数据](https://www.cnblogs.com/wuzhang/p/wuzhang20181001.html)  
+* [Unity脚本编译完成检测](https://blog.csdn.net/rhett_yuan/article/details/79615836)  
 
