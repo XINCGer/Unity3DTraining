@@ -39,3 +39,4 @@
 >* [36.【厚积薄发】如何定位渲染耗时瓶颈](https://mp.weixin.qq.com/s/iLA2QFBTC-QyM3_-5sKJzQ)  
 >* [37.【厚积薄发】Unity中纹理格式探究](https://mp.weixin.qq.com/s/3NYFgjbnOOxg00LIuLbyxw)  
 >* [38.【厚积薄发】项目中策划数据的存储和读取](https://mp.weixin.qq.com/s/l7vmgEz8zTU0z8cuirNRIg)  
+>* [39.【厚积薄发】Bake工作流下，如何实现卡通化渲染？](https://mp.weixin.qq.com/s/kgxr39RHUga1cry_NRkkhg)  
