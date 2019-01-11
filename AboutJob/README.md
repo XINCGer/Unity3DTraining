@@ -39,3 +39,4 @@
 >* [突破瓶颈——30 程序员的中年危机自救指南](./突破瓶颈——30%20程序员的中年危机自救指南.pdf)  
 >* [华为工程师猝死，36岁，22月无休：比挣钱更重要的是活着](https://news.cnblogs.com/n/616634/)  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
+>* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
