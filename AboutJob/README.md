@@ -41,3 +41,4 @@
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
 >* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
 >* [职场生存｜与努力同样重要的是，学会做好这 6 点！](https://www.cnblogs.com/youkanyouxiao/p/10270133.html)  
+>* [创业6年，我犯过的几个高级错误与常识性错误](https://news.cnblogs.com/n/617541/)  
