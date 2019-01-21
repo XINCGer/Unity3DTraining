@@ -42,3 +42,4 @@
 >* [39.【厚积薄发】Bake工作流下，如何实现卡通化渲染？](https://mp.weixin.qq.com/s/kgxr39RHUga1cry_NRkkhg)  
 >* [40.深耕品质，腾讯WeTest《2018中国移动游戏质量白皮书》正式发布](https://www.cnblogs.com/wetest/p/10241199.html)  
 >* [41.【厚积薄发】如何优化包体大小](https://mp.weixin.qq.com/s/k9_Tj4vqAAj22XD5MCfb3A)  
+>* [42.【厚积薄发】Unity UI 显隐(共存)关系的优化处理方案](https://mp.weixin.qq.com/s/kfPOrjjICFnDgI3tvnui-A)  
