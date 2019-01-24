@@ -43,3 +43,10 @@
 >* [职场生存｜与努力同样重要的是，学会做好这 6 点！](https://www.cnblogs.com/youkanyouxiao/p/10270133.html)  
 >* [创业6年，我犯过的几个高级错误与常识性错误](https://news.cnblogs.com/n/617541/)  
 >* [经验分享 | 如何拿到自己满意的offer？](https://www.cnblogs.com/CV-life/p/10301087.html)  
+
+--------------------------------------------------- 分割线 ---------------------------------------------------
+## 法律法规相关  
+>* [写给程序员的裁员防身指南](https://www.cnblogs.com/chanshuyi/p/how_to_combat_with_evil_boss.html)  
+>* [《中华人民共和国劳动合同法实施条例》](http://www.gov.cn/zwgk/2008-09/19/content_1099470.htm)  
+>* [《中华人民共和国劳动合同法》](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)  
+>* [《中华人民共和国劳动法》](http://www.npc.gov.cn/wxzl/gongbao/2000-12/05/content_5004622.htm)  
