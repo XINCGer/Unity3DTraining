@@ -10,6 +10,7 @@
 >* [在做技术面试官时，我是这样甄别大忽悠的——如果面试时你有这样的表现，估计悬](https://www.cnblogs.com/JavaArchitect/p/9704011.html)  
 >* [再论面试前准备简历上的项目描述和面试时介绍项目的要点](https://www.cnblogs.com/JavaArchitect/p/9741085.html)  
 >* [经验分享 | 如何拿到自己满意的offer？](https://www.cnblogs.com/CV-life/p/10301087.html)  
+>* [一份来自一月寒冬互联网一线的面经（附面试题）](https://www.cnblogs.com/novaCN/p/10328380.html)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
