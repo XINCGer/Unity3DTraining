@@ -43,4 +43,5 @@
 >* [40.深耕品质，腾讯WeTest《2018中国移动游戏质量白皮书》正式发布](https://www.cnblogs.com/wetest/p/10241199.html)  
 >* [41.【厚积薄发】如何优化包体大小](https://mp.weixin.qq.com/s/k9_Tj4vqAAj22XD5MCfb3A)  
 >* [42.【厚积薄发】Unity UI 显隐(共存)关系的优化处理方案](https://mp.weixin.qq.com/s/kfPOrjjICFnDgI3tvnui-A)  
->* [43.【厚积薄发】Android刘海适配](https://mp.weixin.qq.com/s/ieDKoUZ9rvstTwoTzpf-aA)  
+>* [43.【厚积薄发】Android刘海适配](https://mp.weixin.qq.com/s/ieDKoUZ9rvstTwoTzpf-aA) 
+>* [44.UWA大赏 | 2018最受欢迎的UWA问答](https://mp.weixin.qq.com/s/72gf1DB29haV1WDY9WH53g)   
