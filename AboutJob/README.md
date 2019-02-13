@@ -11,6 +11,7 @@
 >* [再论面试前准备简历上的项目描述和面试时介绍项目的要点](https://www.cnblogs.com/JavaArchitect/p/9741085.html)  
 >* [经验分享 | 如何拿到自己满意的offer？](https://www.cnblogs.com/CV-life/p/10301087.html)  
 >* [一份来自一月寒冬互联网一线的面经（附面试题）](https://www.cnblogs.com/novaCN/p/10328380.html)  
+>* [面试官说：你真的不是不优秀只是不合适](https://www.cnblogs.com/xiexj/p/10368626.html)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
