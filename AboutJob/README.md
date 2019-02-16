@@ -60,6 +60,7 @@
 >* [游戏行业需要寒冬](https://news.cnblogs.com/n/614457/)  
 >* [互联网寒冬，不是深渊，而是阶梯](https://news.cnblogs.com/n/614560/)  
 >* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
+>* [如何应对经济寒冬](https://mp.weixin.qq.com/s/lcwhtckPCc9abHOP60iHjQ)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
