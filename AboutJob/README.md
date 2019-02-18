@@ -39,6 +39,7 @@
 >* [突破瓶颈——30 程序员的中年危机自救指南](./突破瓶颈——30%20程序员的中年危机自救指南.pdf)  
 >* [创业6年，我犯过的几个高级错误与常识性错误](https://news.cnblogs.com/n/617541/)  
 >* [写技术博客那点事](https://www.cnblogs.com/fundebug/p/about-writing-technology-blog.html)  
+>* [程序员为什么会有职业瓶颈？](https://www.cnblogs.com/jajian/p/10325884.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
