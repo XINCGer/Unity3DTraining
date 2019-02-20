@@ -47,3 +47,4 @@
 >* [44.UWA大赏 | 2018最受欢迎的UWA问答](https://mp.weixin.qq.com/s/72gf1DB29haV1WDY9WH53g)  
 >* [45.深耕品质，腾讯WeTest《2018中国移动游戏质量白皮书》正式发布](https://www.cnblogs.com/qcloud1001/p/10375930.html)  
 >* [46.【厚积薄发】如何能避免动态字体Font Texture过大](https://mp.weixin.qq.com/s/Uh-77FLdeMHUT46uz_YcJQ)  
+>* [47.游戏中遮挡剔除方案总结](https://mp.weixin.qq.com/s/GrqdTC9JsGrpc0wFoaP1gw)  
