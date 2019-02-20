@@ -67,6 +67,7 @@
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
 >* [那些边裁员边发布大量职位的公司，都在想什么？](https://mp.weixin.qq.com/s/--CKiikqHkAfi6jizTcIPg)  
+>* [大江大河40年：改变命运的七次机遇](https://mp.weixin.qq.com/s/GrqdTC9JsGrpc0wFoaP1gw)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
