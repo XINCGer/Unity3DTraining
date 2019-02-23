@@ -10,3 +10,4 @@
 >* [9.CircleList-使用UGUI实现的圆形列表](https://www.cnblogs.com/blueberryzzz/p/9807580.html)  
 >* [10.【厚积薄发】FairyGUI使用经验分享](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668912051&idx=1&sn=38536affd2af45d6934f98c811b44a5c&chksm=f1c9f1c1c6be78d74b4208f00ce4e0db0e406af63d2d64157178dd067fbd66e1992c3a303106&mpshare=1&scene=23&srcid=1029SglnR0QjMF5KIH1bYaNO#rd)  
 >* [11.UGUI源代码](https://bitbucket.org/Unity-Technologies/ui)  
+>* [12.【Unity游戏开发】记一次解决 LuaFunction has been disposed 的bug的过程](https://www.cnblogs.com/msxh/p/10333558.html)  
