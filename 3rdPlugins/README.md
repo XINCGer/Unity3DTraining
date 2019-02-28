@@ -8,3 +8,4 @@
 * [Mobile Movie Texture v2.1.2](https://pan.baidu.com/s/1NGgoKP2QLzvOb9Si3od2HQ)  提取码：7rfh    
 * [【博物纳新】战争迷雾开源库测评](https://mp.weixin.qq.com/s/riKooDt7PyzTpJAxOqoVwg)  
 * [Unity推出免费全新标准材质库](https://mp.weixin.qq.com/s/EKnuKhQQLFeX3jG9dBPzEg)  
+* [【博物纳新】Impostor Baker开源库测评](https://mp.weixin.qq.com/s/fkVLHjTFzlVtt12VMJqkGA)  
