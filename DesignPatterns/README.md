@@ -24,7 +24,8 @@
 * [解释器模式](./InterpreterPattern)  
 * [【特】游戏编程模式](./GameProgrammingPatterns)   
 * [【特】重访设计模式](https://gpp.tkchu.me/design-patterns-revisited.html)  
-* [架构模式：MVC与MVVM](https://www.cnblogs.com/ivaneye/p/10096598.html#top)  
+* [架构模式：MVC与MVVM](https://www.cnblogs.com/ivaneye/p/10096598.html)  
+* [简述21种设计模式](https://www.cnblogs.com/zhou--fei/p/10454244.html)  
 
 
 
