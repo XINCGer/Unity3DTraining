@@ -23,6 +23,7 @@
 >* [互联网职场的「隐形坑」，你踩过几个？](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518911&idx=2&sn=bab528f7d2aed6797fa1f77277e9bc17&chksm=88814e61bff6c777c6165912a6a982ebe4368cf59abed5b990b4cf05dc285f265a0141aec46a&mpshare=1&scene=23&srcid=1112xPxlIfKlirA551xVP9aS#rd)  
 >* [职场生存｜与努力同样重要的是，学会做好这 6 点！](https://www.cnblogs.com/youkanyouxiao/p/10270133.html)  
 >* [跳槽找工作避坑指南（2019版）](https://www.cnblogs.com/youkanyouxiao/p/10398041.html)  
+>* [100offer互联网下半场程序员跳槽完全手册.pdf](./100offer互联网下半场程序员跳槽完全手册.pdf)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
