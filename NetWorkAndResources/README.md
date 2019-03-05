@@ -7,5 +7,6 @@
 >* [JSON官方文档](http://www.json.org/json-zh.html)  
 >* [.NET平台开源JSON库LitJSON的使用方法](http://www.cnblogs.com/chen110xi/archive/2012/05/24/2515592.html)  
 >* [NPOI读写Excel](http://www.cnblogs.com/luxiaoxun/p/3374992.html)  
+>* [教你从头写游戏服务器框架](https://www.cnblogs.com/qcloud1001/p/10478522.html)  
 
 
