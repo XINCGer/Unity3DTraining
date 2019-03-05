@@ -1,4 +1,4 @@
-## 求职工作培训与养生等  
+datai## 求职工作培训与养生等  
 
 ### 马三北漂记  
 >* [马三北漂记之马三的2018年总结](https://www.cnblogs.com/msxh/p/10085855.html)  
@@ -15,6 +15,7 @@
 >* [程序员年后离职跳槽指南](https://mp.weixin.qq.com/s/krJIPxdoyzsmN3gKwH-s2g)  
 >* [金三银四，如何征服面试官，拿到Offer](https://www.cnblogs.com/yuboon/p/10410286.html)  
 >* [“寒冬”下的金三银四跳槽季来了，帮你客观分析一下局面](https://www.cnblogs.com/Zachary-Fan/p/jobhunting.html)  
+>* [作为面试官，如何甄别应聘者的包装程度？](https://www.cnblogs.com/java-chen-hao/p/10475307.html)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
