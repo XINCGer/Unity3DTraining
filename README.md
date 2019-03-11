@@ -7,7 +7,7 @@
 >* [3.Android和iOS端的消息推送](./Notification)  
 >* [4.网络与资源数据操作](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources)  
 >* [5.unity开发项目整体把控规划与管理](./OverCallControl/)  
->* [6.重力小球](https://github.com/XINCGer/Unity3DTraining/tree/master/BallGame)  
+>* [6.寻路相关](./Pathfinding)  
 >* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)  
 >* [8.UGUI相关](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining)  
 >* [9.AR小DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/ARTraining)  
