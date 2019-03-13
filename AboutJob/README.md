@@ -25,6 +25,7 @@
 >* [职场生存｜与努力同样重要的是，学会做好这 6 点！](https://www.cnblogs.com/youkanyouxiao/p/10270133.html)  
 >* [跳槽找工作避坑指南（2019版）](https://www.cnblogs.com/youkanyouxiao/p/10398041.html)  
 >* [100offer互联网下半场程序员跳槽完全手册.pdf](./100offer互联网下半场程序员跳槽完全手册.pdf)  
+>* [太坑了｜还真有这么渣渣的公司....](https://www.cnblogs.com/youkanyouxiao/p/10521148.html)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
