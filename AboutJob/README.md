@@ -39,6 +39,7 @@
 >* [IT培训行业揭秘（四）](https://www.cnblogs.com/renyanlei/p/6102855.html)  
 >* [IT培训行业揭秘（五）](https://www.cnblogs.com/renyanlei/p/6106023.html)  
 >* [IT培训行业揭秘（六）](https://www.cnblogs.com/renyanlei/p/6913896.html)  
+>* [培训班的同学，拜托不要把用人单位想得那么傻，好不好？！](https://www.cnblogs.com/freeflying/p/10553658.html)  
 
 ### 学习与技术成长  
 >* [我们都知道，如何不被淘汰](https://www.cnblogs.com/kiba/p/9824191.html)  
