@@ -53,3 +53,4 @@
 >* [50.【厚积薄发】骨骼数和骨骼层级数的美术规范](https://mp.weixin.qq.com/s/24UzAXsRrElS14OyU6v7mA)  
 >* [51.【厚积薄发】如何规划UI图标图集](https://mp.weixin.qq.com/s/UVgQ0doxbAQRBPSIC9Q-WA)  
 >* [52.Unity填坑笔记——记一次“内存泄露”的排查](http://www.manew.com/thread-141722-1-1.html)  
+>* [53.【厚积薄发】PostProcessing V2 效果异常](https://mp.weixin.qq.com/s/U0gTNTbCKpsbHOEOpTIeTQ)  
