@@ -80,7 +80,6 @@
 * 2. 如果在Hierarchy中出现了Canvas，那么会直接打断当前Hierarchy的合并策略。也就是说如果在一个Canvas的孩子节点中间出现了一个子Canvas,那么，可以直接当前有三个Canvas的层级进行处理。
 
 ## UGUI DC计算 详细代码
-```code
 ## 例子
 #### 1. 无Canvas情况,无Mask情况
 
