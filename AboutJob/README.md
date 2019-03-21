@@ -16,6 +16,7 @@
 >* [金三银四，如何征服面试官，拿到Offer](https://www.cnblogs.com/yuboon/p/10410286.html)  
 >* [“寒冬”下的金三银四跳槽季来了，帮你客观分析一下局面](https://www.cnblogs.com/Zachary-Fan/p/jobhunting.html)  
 >* [作为面试官，如何甄别应聘者的包装程度？](https://www.cnblogs.com/java-chen-hao/p/10475307.html)  
+>* [被京东和腾讯赶走的中年白领，不会有人同情](https://news.cnblogs.com/n/622289/)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
