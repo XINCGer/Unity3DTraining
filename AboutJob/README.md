@@ -76,6 +76,7 @@
 >* [那些边裁员边发布大量职位的公司，都在想什么？](https://mp.weixin.qq.com/s/--CKiikqHkAfi6jizTcIPg)  
 >* [从传统行业到互联网，为什么作为开发者的你总是会被坑来坑去？](https://www.cnblogs.com/xiyuanMore/p/10529565.html)  
 >* [大江大河40年：改变命运的七次机遇](https://news.cnblogs.com/n/619848/)  
+>* [被50%房租拖垮的程序员，你图什么？](https://mp.weixin.qq.com/s/WGKaLg6uKvbsFKZ7bXqTrA)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
