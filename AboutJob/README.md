@@ -56,7 +56,7 @@
 ### 关于加班  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
 
-### 互联网寒冬  
+### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
 >* [裁员浪潮，互联网人该何去何从？](https://www.cnblogs.com/wyl-0120/p/10047907.html)  
 >* [上市、跑路、裁员…2018年互联网生死场](https://mp.weixin.qq.com/s/5mwV7qR6nPMdHYjlPHBuHg)  
@@ -70,6 +70,9 @@
 >* [互联网寒冬，不是深渊，而是阶梯](https://news.cnblogs.com/n/614560/)  
 >* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
 >* [如何应对经济寒冬](https://mp.weixin.qq.com/s/lcwhtckPCc9abHOP60iHjQ)  
+
+### 互联网编年史2019  
+>* [互联网公司的2019年「春潮」：谁迎风逐浪，谁黯然退潮？](https://mp.weixin.qq.com/s/zt3WajDGRKmXangSjCFXhQ)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
