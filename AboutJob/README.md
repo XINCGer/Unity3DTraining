@@ -55,6 +55,7 @@
 
 ### 关于加班  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
+>* [加班越狠，出成绩就越多吗？在NASA，这叫做Go Fever](https://news.cnblogs.com/n/622812/)   
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
