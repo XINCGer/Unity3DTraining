@@ -55,5 +55,6 @@
 >* [52.Unity填坑笔记——记一次“内存泄露”的排查](http://www.manew.com/thread-141722-1-1.html)  
 >* [53.【厚积薄发】PostProcessing V2 效果异常](https://mp.weixin.qq.com/s/U0gTNTbCKpsbHOEOpTIeTQ)  
 >* [54.【厚积薄发】CommandBuffer的GPU开销](https://mp.weixin.qq.com/s/I2LdA5wjTJpyMSY41ZlLmg)  
+>* [55.【厚积薄发】场景贴图的分级策略](https://mp.weixin.qq.com/s/rM9UCmLK3Auev8pammsRYQ)  
 >* [55.如何使用Android Studio在安卓平台对Unity开发的应用进行性能检查？](https://www.cnblogs.com/murongxiaopifu/p/10605053.html)  
 >* [56.TX工作室UI优化文档](.//TX工作室UI优化文档.md)  
