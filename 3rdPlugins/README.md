@@ -9,3 +9,4 @@
 * [【博物纳新】战争迷雾开源库测评](https://mp.weixin.qq.com/s/riKooDt7PyzTpJAxOqoVwg)  
 * [Unity推出免费全新标准材质库](https://mp.weixin.qq.com/s/EKnuKhQQLFeX3jG9dBPzEg)  
 * [【博物纳新】Impostor Baker开源库测评](https://mp.weixin.qq.com/s/fkVLHjTFzlVtt12VMJqkGA)  
+* [unity引用查找插件-ReferenceFinder](https://www.cnblogs.com/blueberryzzz/p/10674581.html)  
