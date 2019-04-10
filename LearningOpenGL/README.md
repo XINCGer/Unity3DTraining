@@ -10,5 +10,6 @@
 * [【计算机图形学】计算机图形学中的坐标系统](https://www.cnblogs.com/msxh/p/9939848.html)  
 * [Unity轻量渲染管线（LWRP）民间文档](https://mp.weixin.qq.com/s/BooQIgnTv3U024E95rgLwA)  
 * [分享收集的WebGL 3D学习资源](https://www.cnblogs.com/chaogex/p/10538346.html)  
+* [3D数学基础-向量运算基础和矩阵变换](http://www.ituring.com.cn/article/497242#)  
 
 
