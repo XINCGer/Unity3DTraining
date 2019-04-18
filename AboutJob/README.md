@@ -54,11 +54,12 @@
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
 >* [华为工程师猝死，36岁，22月无休：比挣钱更重要的是活着](https://news.cnblogs.com/n/616634/)  
 
-### 关于加班  
+### 关于加班与996  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
 >* [加班越狠，出成绩就越多吗？在NASA，这叫做Go Fever](https://news.cnblogs.com/n/622812/)   
 >* [互联网公司996成热门话题 程序员抗议引发全球关注](https://news.cnblogs.com/n/623285/)  
 >* [再再再谈996：「一地鸡毛」过后，程序员能否走出加班怪圈？](https://mp.weixin.qq.com/s/QmaIcvzOPxALtVvjmAb5kw)  
+>* [996久了，摸鱼就像呼吸一样自然](https://mp.weixin.qq.com/s/tSARj1W_0ELQ5h1iC9mTdg)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
