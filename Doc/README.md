@@ -7,4 +7,5 @@
 >* [I need help understanding TransformDirection](https://answers.unity.com/questions/506740/i-need-help-understanding-transformdirection.html)  
 >* [Explanation Local Vs Global Space](https://answers.unity.com/questions/31169/explanation-local-vs-global-space.html)  
 >* [Unity Transform* methods explained. Part I – TransformDirection](https://alexey-anufriev.com/blog/unity-transform-methods-explained-part-i-transformdirection/)  
+>* [APP启动流程解析](https://mp.weixin.qq.com/s/T9YV9I8s2_igFtprdmd9jQ)    
 
