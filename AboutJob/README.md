@@ -60,6 +60,7 @@
 >* [互联网公司996成热门话题 程序员抗议引发全球关注](https://news.cnblogs.com/n/623285/)  
 >* [再再再谈996：「一地鸡毛」过后，程序员能否走出加班怪圈？](https://mp.weixin.qq.com/s/QmaIcvzOPxALtVvjmAb5kw)  
 >* [996久了，摸鱼就像呼吸一样自然](https://mp.weixin.qq.com/s/tSARj1W_0ELQ5h1iC9mTdg)  
+>* [互联网“工人”示威996 会重蹈“血汗工厂”覆辙吗？](https://news.cnblogs.com/n/624092/)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
