@@ -11,5 +11,6 @@
 * [Unity轻量渲染管线（LWRP）民间文档](https://mp.weixin.qq.com/s/BooQIgnTv3U024E95rgLwA)  
 * [分享收集的WebGL 3D学习资源](https://www.cnblogs.com/chaogex/p/10538346.html)  
 * [3D数学基础-向量运算基础和矩阵变换](http://www.ituring.com.cn/article/497242#)  
+* [浅谈Unity中gamma空间和线性空间](https://www.cnblogs.com/zblade/p/10769202.html)  
 
 
