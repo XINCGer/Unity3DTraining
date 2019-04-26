@@ -12,5 +12,6 @@
 * [分享收集的WebGL 3D学习资源](https://www.cnblogs.com/chaogex/p/10538346.html)  
 * [3D数学基础-向量运算基础和矩阵变换](http://www.ituring.com.cn/article/497242#)  
 * [浅谈Unity中gamma空间和线性空间](https://www.cnblogs.com/zblade/p/10769202.html)  
+* [Visual Studio 2017中OpenCV源码解读入门篇：配置OpenCV3.4.1生成VC项目并进行编译](https://www.jianshu.com/p/8ba3401f610b)  
 
 
