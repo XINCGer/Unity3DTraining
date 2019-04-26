@@ -301,3 +301,4 @@ Temp/
 *.csproj
 
 *.sln
+!/LearningOpenGL/*/*.sln
