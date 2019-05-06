@@ -27,5 +27,8 @@
     <ClCompile Include="Classes\1_gettting_started\hello_triangle_indexed.cpp">
       <Filter>源文件\1.gettting_started</Filter>
     </ClCompile>
+    <ClCompile Include="Classes\1_gettting_started\hello_two_triangle.cpp">
+      <Filter>源文件\1.gettting_started</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
