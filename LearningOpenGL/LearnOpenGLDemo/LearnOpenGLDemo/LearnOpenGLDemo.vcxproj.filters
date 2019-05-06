@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\1.gettting_started">
+      <UniqueIdentifier>{51c326ae-a415-4e58-b27d-d155b4f94bef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Classes\glad.c">
@@ -20,6 +23,9 @@
     </ClCompile>
     <ClCompile Include="Classes\HelloOpenGL.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\1_gettting_started\hello_triangle_indexed.cpp">
+      <Filter>源文件\1.gettting_started</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

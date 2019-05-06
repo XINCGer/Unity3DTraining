@@ -121,6 +121,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classes\1_gettting_started\hello_triangle_indexed.cpp" />
     <ClCompile Include="Classes\glad.c" />
     <ClCompile Include="Classes\HelloOpenGL.cpp" />
   </ItemGroup>
