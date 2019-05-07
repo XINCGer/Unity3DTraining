@@ -1,3 +1,5 @@
+#define Hello_Two_Triangle_H
+#ifndef  Hello_Two_Triangle_H
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
 #include<iostream>
@@ -89,10 +91,10 @@ int main() {
 		-0.9f, -0.5f, 0.0f,  // left 
 		-0.0f, -0.5f, 0.0f,  // right
 		-0.45f, 0.5f, 0.0f,  // top 
-		// second triangle
-		0.0f, -0.5f, 0.0f,  // left
-		0.9f, -0.5f, 0.0f,  // right
-		0.45f, 0.5f, 0.0f   // top 
+							 // second triangle
+							 0.0f, -0.5f, 0.0f,  // left
+							 0.9f, -0.5f, 0.0f,  // right
+							 0.45f, 0.5f, 0.0f   // top 
 	};
 
 	unsigned int VBO, VAO;
@@ -142,3 +144,4 @@ void processInput(GLFWwindow * window)
 		glfwSetWindowShouldClose(window, true);
 	}
 }
+#endif // ! Hello_Two_Triangle_H
