@@ -1,0 +1,13 @@
+*.proto转*.cs
+
+1.定义协议文件*.proto。到根目录，如：protocal_loginserver.proto
+2.双击运行：BuildCS.bat。生成：protocal_loginserver.cs
+3.将protocal_loginserver.cs文件copy到项目中。(assets/SampleSocket/ProtocalData)
+4.完成
+
+备注：
+1.若要修改namespace，以文本文档方式打开，BuildCS.bat,修改“-ns:******”即可。
+2.协议数据结构两种方式：
+	1.一个*.proto文件：将所有相关协议，写到一个*.proto中
+	2.多个*.proto文件：每一条相关协议，写成独立*.proto中。
+该工具都可以支持，多人维护协议时推荐后者。
