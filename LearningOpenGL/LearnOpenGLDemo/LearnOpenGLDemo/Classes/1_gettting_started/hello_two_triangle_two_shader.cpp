@@ -1,6 +1,3 @@
-#define Hello_Two_Triangle_Diff_H
-#ifndef Hello_Two_Triangle_Diff_H
-
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
 #include<iostream>
@@ -20,6 +17,19 @@ const char *fragmentShaderSource = "#version 330 core\n"
 "void main()\n"
 "{\n"
 "   FragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"
+"}\n\0";
+
+const char *fragmentShader1Source = "#version 330 core\n"
+"out vec4 FragColor;\n"
+"void main()\n"
+"{\n"
+"   FragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"
+"}\n\0";
+const char *fragmentShader2Source = "#version 330 core\n"
+"out vec4 FragColor;\n"
+"void main()\n"
+"{\n"
+"   FragColor = vec4(1.0f, 1.0f, 0.0f, 1.0f);\n"
 "}\n\0";
 
 int main() {
@@ -63,6 +73,13 @@ int main() {
 	glShaderSource(fragmentShader, 1, &fragmentShaderSource, NULL);
 	glCompileShader(fragmentShader);
 
+	int fragmentShaderOrange = glCreateShader(GL_FRAGMENT_SHADER);
+	int fragmentShaderYellow = glCreateShader(GL_FRAGMENT_SHADER);
+	glShaderSource(fragmentShaderOrange, 1, &fragmentShader1Source, NULL);
+	glCompileShader(fragmentShaderOrange);
+	glShaderSource(fragmentShaderYellow,1,&fragmentShader2Source,NULL);
+	glCompileShader(fragmentShaderYellow);
+
 	//检测Shader编译结果
 	glGetShaderiv(fragmentShader, GL_COMPILE_STATUS, &success);
 	if (!success) {
@@ -75,6 +92,16 @@ int main() {
 	glAttachShader(shaderProgram, vertexShader);
 	glAttachShader(shaderProgram, fragmentShader);
 	glLinkProgram(shaderProgram);
+
+	int shaderProgramOrangle = glCreateProgram();
+	int shaderProgramYellow = glCreateProgram();
+	glAttachShader(shaderProgramOrangle, vertexShader);
+	glAttachShader(shaderProgramOrangle, fragmentShaderOrange);
+	glLinkProgram(shaderProgramOrangle);
+
+	glAttachShader(shaderProgramYellow, vertexShader);
+	glAttachShader(shaderProgramYellow, fragmentShaderYellow);
+	glLinkProgram(shaderProgramYellow);
 
 	//检测Shader链接结果
 	glGetProgramiv(shaderProgram, GL_LINK_STATUS, &success);
@@ -128,11 +155,12 @@ int main() {
 		glClear(GL_COLOR_BUFFER_BIT);
 
 		//绘制三角形
-		glUseProgram(shaderProgram);
+		glUseProgram(shaderProgramOrangle);
 
 		glBindVertexArray(VAOs[0]);
 		glDrawArrays(GL_TRIANGLES, 0, 3);
 
+		glUseProgram(shaderProgramYellow);
 		glBindVertexArray(VAOs[1]);
 		glDrawArrays(GL_TRIANGLES, 0, 3);
 
@@ -158,5 +186,3 @@ void processInput(GLFWwindow * window)
 		glfwSetWindowShouldClose(window, true);
 	}
 }
-
-#endif // !Hello_Two_Triangle_Diff_H
