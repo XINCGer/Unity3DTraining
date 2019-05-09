@@ -10,6 +10,7 @@
 * [【博物纳新】战争迷雾开源库测评](https://mp.weixin.qq.com/s/riKooDt7PyzTpJAxOqoVwg)  
 * [Unity推出免费全新标准材质库](https://mp.weixin.qq.com/s/EKnuKhQQLFeX3jG9dBPzEg)  
 * [【博物纳新】Impostor Baker开源库测评](https://mp.weixin.qq.com/s/fkVLHjTFzlVtt12VMJqkGA)  
+* [【博物纳新】AI for Animation开源库介绍](https://mp.weixin.qq.com/s/HtkW484f8RvFEqKOi_FEtQ)  
 * [unity引用查找插件-ReferenceFinder](https://www.cnblogs.com/blueberryzzz/p/10674581.html)  
 * [QNET，一款给力的APP弱网络测试工具](https://www.cnblogs.com/quark/p/10734587.html)  
 * [【博物纳新】补间动画XTween开源库测评](https://mp.weixin.qq.com/s/ZSXLRU2E99l8ZkE98_R2gA)  
