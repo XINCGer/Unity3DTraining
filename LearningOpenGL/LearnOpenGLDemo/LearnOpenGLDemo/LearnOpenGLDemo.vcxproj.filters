@@ -36,5 +36,8 @@
     <ClCompile Include="Classes\1_gettting_started\hello_two_triangle_two_shader.cpp">
       <Filter>源文件\1.gettting_started</Filter>
     </ClCompile>
+    <ClCompile Include="Classes\1_gettting_started\shader_uniform.cpp">
+      <Filter>源文件\1.gettting_started</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
