@@ -125,9 +125,13 @@
     <ClCompile Include="Classes\1_gettting_started\hello_two_triangle.cpp" />
     <ClCompile Include="Classes\1_gettting_started\hello_two_triangle_diff.cpp" />
     <ClCompile Include="Classes\1_gettting_started\hello_two_triangle_two_shader.cpp" />
+    <ClCompile Include="Classes\1_gettting_started\shader_class.cpp" />
     <ClCompile Include="Classes\1_gettting_started\shader_uniform.cpp" />
     <ClCompile Include="Classes\glad.c" />
     <ClCompile Include="Classes\HelloOpenGL.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OpenGL\includes\learnopengl\shader_s.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
