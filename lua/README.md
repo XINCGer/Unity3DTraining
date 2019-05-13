@@ -15,3 +15,4 @@
 >* [13.浅析unity/xlua中的协程实现](https://www.cnblogs.com/zblade/p/9857808.html)  
 >* [14.Lua和C++交互总结](https://blog.csdn.net/shun_fzll/article/details/39120965)  
 >* [15. Unity填坑笔记——记一次“内存泄露”的排查](http://www.manew.com/thread-141722-1-1.html)  
+>* [16.Lua弱表Weak table](https://blog.csdn.net/shimazhuge/article/details/40310233)  
