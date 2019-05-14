@@ -63,6 +63,7 @@
 >* [再再再谈996：「一地鸡毛」过后，程序员能否走出加班怪圈？](https://mp.weixin.qq.com/s/QmaIcvzOPxALtVvjmAb5kw)  
 >* [996久了，摸鱼就像呼吸一样自然](https://mp.weixin.qq.com/s/tSARj1W_0ELQ5h1iC9mTdg)  
 >* [互联网“工人”示威996 会重蹈“血汗工厂”覆辙吗？](https://news.cnblogs.com/n/624092/)  
+>* [微软是一家养老公司？微软副总裁回应：员工能待20年我们很自豪](https://news.cnblogs.com/n/625254/)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
