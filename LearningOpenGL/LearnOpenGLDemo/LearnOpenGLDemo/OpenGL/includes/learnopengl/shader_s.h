@@ -39,7 +39,7 @@ public:
 			fShaderFile.close();
 			//Á÷×ªÎªstring
 			vertexCode = vShaderStream.str();
-			fragmentCode = vShaderStream.str();
+			fragmentCode = fShaderStream.str();
 		}
 		catch (const std::ifstream::failure e)
 		{

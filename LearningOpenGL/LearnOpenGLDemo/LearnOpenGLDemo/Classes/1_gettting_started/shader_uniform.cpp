@@ -1,3 +1,4 @@
+#define Shader_Uniform_H
 #ifndef Shader_Uniform_H
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
