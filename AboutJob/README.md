@@ -51,6 +51,7 @@
 >* [写技术博客那点事](https://www.cnblogs.com/fundebug/p/about-writing-technology-blog.html)  
 >* [程序员为什么会有职业瓶颈？](https://www.cnblogs.com/jajian/p/10325884.html)  
 >* [宁撞金钟一下，不打破鼓三千，IT人要有志气，要进就进大的好的公司](https://www.cnblogs.com/JavaArchitect/p/10555946.html)  
+>* [以互联网公司的经验告诉大家，架构师究竟比高级开发厉害在哪？](https://www.cnblogs.com/JavaArchitect/p/10708262.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
