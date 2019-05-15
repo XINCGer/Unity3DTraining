@@ -54,16 +54,39 @@ public:
 		vertex = glCreateShader(GL_VERTEX_SHADER);
 		glShaderSource(vertex, 1, &vShaderCode, NULL);
 		glCompileShader(vertex);
-		
+		checkComplieErrors(vertex, "VERTEX");
+
+		fragment = glCreateShader(GL_FRAGMENT_SHADER);
+		glShaderSource(fragment, 1, &fShaderCode, NULL);
+		glCompileShader(fragment);
+		checkComplieErrors(fragment, "FRAGMENT");
+
+		ID = glCreateProgram();
+		glAttachShader(ID, vertex);
+		glAttachShader(ID, fragment);
+		glLinkProgram(ID);
+		checkComplieErrors(ID, "PROGRAM");
+
+		glDeleteShader(vertex);
+		glDeleteShader(fragment);
 	}
 
 	//使用/激活程序
-	void use();
+	void use() {
+		glUseProgram(ID);
+	}
 
 	//uniform工具
-	void setBool(const std::string &name, bool value) const;
-	void setInt(const std::string &name, int value) const;
-	void setFloat(const std::string &name, float value) const;
+	void setBool(const std::string &name, bool value) const {
+		glUniform1i(glGetUniformLocation(ID, name.c_str()), (int)value);
+	}
+
+	void setInt(const std::string &name, int value) const {
+		glUniform1i(glGetUniformLocation(ID, name.c_str()), value);
+	}
+	void setFloat(const std::string &name, float value) const {
+		glUniform1f(glGetUniformLocation(ID, name.c_str()), value);
+	}
 
 private:
 	//检测Shader编译、链接错误的工具方法
