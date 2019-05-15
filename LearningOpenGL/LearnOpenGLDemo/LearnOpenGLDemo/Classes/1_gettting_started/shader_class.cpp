@@ -28,7 +28,7 @@ int main() {
 	}
 
 	//读取编译Shader
-	Shader ourShader("Shaders/3.3.shader.vs", "Shaders/3.3.shader.fs");
+	Shader ourShader("Shaders/3.3.shader_invert.vs", "Shaders/3.3.shader.fs");
 
 	//设置顶点数据
 	float vertices[] = {
