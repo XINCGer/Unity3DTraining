@@ -28,7 +28,8 @@ int main() {
 	}
 
 	//读取编译Shader
-	Shader ourShader("Shaders/3.3.shader_invert.vs", "Shaders/3.3.shader.fs");
+	float offset = 0.5f;
+	Shader ourShader("Shaders/3.3.shader_offset.vs", "Shaders/3.3.shader.fs");
 
 	//设置顶点数据
 	float vertices[] = {
@@ -61,6 +62,7 @@ int main() {
 		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT);
 
+		ourShader.setFloat("xOffset", offset);
 		ourShader.use();
 		//绘制三角形
 		glBindVertexArray(VAO);
