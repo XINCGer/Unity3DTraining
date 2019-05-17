@@ -29,7 +29,7 @@ int main() {
 
 	//读取编译Shader
 	float offset = 0.5f;
-	Shader ourShader("Shaders/3.3.shader_offset.vs", "Shaders/3.3.shader.fs");
+	Shader ourShader("Shaders/3.3.shader_pos.vs", "Shaders/3.3.shader_pos.fs");
 
 	//设置顶点数据
 	float vertices[] = {
