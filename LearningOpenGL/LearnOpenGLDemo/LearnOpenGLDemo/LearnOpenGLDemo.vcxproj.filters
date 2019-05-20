@@ -42,6 +42,9 @@
     <ClCompile Include="Classes\1_gettting_started\shader_class.cpp">
       <Filter>源文件\1.gettting_started</Filter>
     </ClCompile>
+    <ClCompile Include="Classes\1_gettting_started\texture.cpp">
+      <Filter>源文件\1.gettting_started</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenGL\includes\learnopengl\shader_s.h">
