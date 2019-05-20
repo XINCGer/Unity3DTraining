@@ -63,3 +63,4 @@
 >* [59.【厚积薄发】不同种Mesh的DrawCall优化策略](https://mp.weixin.qq.com/s/TjUURJYyJoX6dY_-ZSmaSQ)  
 >* [60.【厚积薄发】模型中多个材质的渲染顺序](https://mp.weixin.qq.com/s/JmfynrZxD4ZnPrT8QrF0GA)  
 >* [61.【厚积薄发】Humanoid动画显示与Generic不一致](https://mp.weixin.qq.com/s/5wCV_52MNzmODA0LtLv2Jw)  
+>* [62.【厚积薄发】SRP的多相机同时绘制](https://mp.weixin.qq.com/s/q_9qkNr_0TNxD4dhIYrsqQ)  
