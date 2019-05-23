@@ -79,6 +79,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <AdditionalDependencies>opengl32.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -130,7 +131,6 @@
     <ClCompile Include="Classes\1_gettting_started\texture.cpp" />
     <ClCompile Include="Classes\glad.c" />
     <ClCompile Include="Classes\HelloOpenGL.cpp" />
-    <ClCompile Include="Classes\stb_image.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenGL\includes\learnopengl\shader_s.h" />

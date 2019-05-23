@@ -1,7 +1,10 @@
+//#define SHADER_CLASS_H
 #ifndef SHADER_CLASS_H
+#define STB_IMAGE_IMPLEMENTATION
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <learnopengl/shader_s.h>
+#include <learnopengl/filesystem.h>
 #include <learnopengl/stb_image.h>
 #include <iostream>
 
@@ -70,7 +73,8 @@ int main() {
 
 	//加载纹理
 	unsigned int texture;
-	glGenTextures(GL_TEXTURE_2D,&texture);
+	glGenTextures(1,&texture);
+	glBindTexture(GL_TEXTURE_2D, texture);
 
 	//设置texture环绕方式
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_LINEAR);
@@ -79,8 +83,17 @@ int main() {
 	//设置texture过滤器
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
-
+	
 	int width, height, nrChannels;
+	unsigned char* data = stbi_load("Resources/Textures/container.jpg", &width, &height, &nrChannels, 0);
+	if (data) {
+		glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB, GL_UNSIGNED_BYTE, data);
+		glGenerateMipmap(GL_TEXTURE_2D);
+	}
+	else {
+		std::cout << "Failed to load texture" << std::endl;
+	}
+	stbi_image_free(data);
 
 	while (!glfwWindowShouldClose(window)) {
 		processInput(window);
@@ -88,9 +101,9 @@ int main() {
 		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT);
 
-		glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-		//绘制三角形
-		glUseProgram(shaderProgram);
+		glBindTexture(GL_TEXTURE_2D, texture);
+		ourShader.use();
+
 		glBindVertexArray(VAO);
 		glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 
