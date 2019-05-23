@@ -32,7 +32,7 @@ int main() {
 	}
 
 	//读取编译Shader
-	Shader ourShader("Shaders/4.1.texture.vs", "Shaders/4.1.texture.fs");
+	Shader ourShader("Shaders/4.2.texture.vs", "Shaders/4.2.texture.fs");
 
 	//设置顶点数据
 	float vertices[] = {
