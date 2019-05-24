@@ -11,6 +11,8 @@
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 
+float alphaValue = 0.0f;
+
 int main() {
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
@@ -32,15 +34,15 @@ int main() {
 	}
 
 	//读取编译Shader
-	Shader ourShader("Shaders/4.2.texture.vs", "Shaders/4.2.texture.fs");
+	Shader ourShader("Shaders/4.3.texture.vs", "Shaders/4.3.texture.fs");
 
 	//设置顶点数据
 	float vertices[] = {
 		// positions          // colors           // texture coords
-		0.5f,  0.5f, 0.0f,   1.0f, 0.0f, 0.0f,   0.55f, 0.55f, // top right
-		0.5f, -0.5f, 0.0f,   0.0f, 1.0f, 0.0f,   0.55f, 0.45f, // bottom right
-		-0.5f, -0.5f, 0.0f,   0.0f, 0.0f, 1.0f,   0.45f, 0.45f, // bottom left
-		-0.5f,  0.5f, 0.0f,   1.0f, 1.0f, 0.0f,   0.45f, 0.55f  // top left 
+		0.5f,  0.5f, 0.0f,   1.0f, 0.0f, 0.0f,   1.0f, 1.0f, // top right
+		0.5f, -0.5f, 0.0f,   0.0f, 1.0f, 0.0f,   1.0f, 0.0f, // bottom right
+		-0.5f, -0.5f, 0.0f,   0.0f, 0.0f, 1.0f,   0.0f, 0.0f, // bottom left
+		-0.5f,  0.5f, 0.0f,   1.0f, 1.0f, 0.0f,   0.0f, 1.0f  // top left 
 	};
 
 	unsigned int indices[] = {
@@ -63,7 +65,7 @@ int main() {
 
 	glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void *)0);
 	glEnableVertexAttribArray(0);
-	glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void *)(3*sizeof(float)));
+	glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void *)(3 * sizeof(float)));
 	glEnableVertexAttribArray(1);
 	glVertexAttribPointer(2, 2, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void *)(6 * sizeof(float)));
 	glEnableVertexAttribArray(2);
@@ -72,8 +74,8 @@ int main() {
 	glBindVertexArray(0);
 
 	//加载纹理
-	unsigned int texture1,texture2;
-	glGenTextures(1,&texture1);
+	unsigned int texture1, texture2;
+	glGenTextures(1, &texture1);
 	glBindTexture(GL_TEXTURE_2D, texture1);
 
 	//设置texture环绕方式
@@ -106,7 +108,7 @@ int main() {
 
 	stbi_set_flip_vertically_on_load(true);
 
-	data = stbi_load("Resources/Textures/awesomeface.png",&width, &height, &nrChannels, 0);
+	data = stbi_load("Resources/Textures/awesomeface.png", &width, &height, &nrChannels, 0);
 	if (data) {
 		glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, width, height, 0, GL_RGBA, GL_UNSIGNED_BYTE, data);
 		glGenerateMipmap(GL_TEXTURE_2D);
@@ -131,6 +133,7 @@ int main() {
 		glBindTexture(GL_TEXTURE_2D, texture1);
 		glActiveTexture(GL_TEXTURE1);
 		glBindTexture(GL_TEXTURE_2D, texture2);
+		ourShader.setFloat("alphaValue", alphaValue); 
 
 		ourShader.use();
 
@@ -158,6 +161,18 @@ void processInput(GLFWwindow * window)
 {
 	if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS) {
 		glfwSetWindowShouldClose(window, true);
+	}
+	else if (glfwGetKey(window, GLFW_KEY_DOWN) == GLFW_PRESS) {
+		alphaValue -= 0.01f;
+		if (alphaValue <= 0.0f) {
+			alphaValue = 0.0f;
+		}
+	}
+	else if (glfwGetKey(window, GLFW_KEY_UP) == GLFW_PRESS) {
+		alphaValue += 0.01f;
+		if (alphaValue >= 1.0f) {
+			alphaValue = 1.0f;
+		}
 	}
 }
 
