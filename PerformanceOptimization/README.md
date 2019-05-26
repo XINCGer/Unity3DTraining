@@ -65,3 +65,4 @@
 >* [61.【厚积薄发】Humanoid动画显示与Generic不一致](https://mp.weixin.qq.com/s/5wCV_52MNzmODA0LtLv2Jw)  
 >* [62.【厚积薄发】SRP的多相机同时绘制](https://mp.weixin.qq.com/s/q_9qkNr_0TNxD4dhIYrsqQ)  
 >* [63.关于音效背景音乐的音频文件的格式设置请教](https://answer.uwa4d.com/question/5c189a63bf256b207515158b)  
+>* [64.Unity Profile Analyzer工具介绍](https://mp.weixin.qq.com/s/cApKe8SrJNtkdITW06wZ6g)  
