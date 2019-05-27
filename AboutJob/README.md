@@ -56,6 +56,7 @@
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
 >* [华为工程师猝死，36岁，22月无休：比挣钱更重要的是活着](https://news.cnblogs.com/n/616634/)  
+>* [程序员健康指南](https://www.cnblogs.com/strick/p/10836794.html)  
 
 ### 关于加班与996  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
