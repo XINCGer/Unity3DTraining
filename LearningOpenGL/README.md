@@ -15,5 +15,6 @@
 * [Visual Studio 2017中OpenCV源码解读入门篇：配置OpenCV3.4.1生成VC项目并进行编译](https://www.jianshu.com/p/8ba3401f610b)  
 * [3D数学 矩阵常用知识点整理](https://www.cnblogs.com/u3ddjw/p/10282186.html)  
 * [空间划分的数据结构(网格/四叉树/八叉树/BSP树/k-d树/BVH/自定义划分)](https://www.cnblogs.com/KillerAery/p/10878367.html)  
+* [Unite 2019 | Unity中的实时光线追踪技术剖析](https://mp.weixin.qq.com/s/vsUGNTXpU0hLK3L7ptfAgA)  
 
 
