@@ -26,6 +26,7 @@
 * [【特】重访设计模式](https://gpp.tkchu.me/design-patterns-revisited.html)  
 * [架构模式：MVC与MVVM](https://www.cnblogs.com/ivaneye/p/10096598.html)  
 * [简述21种设计模式](https://www.cnblogs.com/zhou--fei/p/10454244.html)  
+* [设计模式看了又忘，忘了又看？](https://www.cnblogs.com/liebrother/p/10941660.html)  
 
 
 
