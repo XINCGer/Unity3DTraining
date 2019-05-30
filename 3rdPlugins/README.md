@@ -20,3 +20,4 @@
 * [开源分享 Unity3d客户端与C#分布式服务端游戏框架](http://www.cnblogs.com/egametang/p/7486180.html)  
 * [xlua-framework](https://github.com/smilehao/xlua-framework)  
 * [【博物纳新】Unity引用查找工具开源库](https://mp.weixin.qq.com/s/Apy6L1p7xjG6xX4xCHZfgA)  
+* [【博物纳新】XCharts开源库介绍](https://mp.weixin.qq.com/s/gHJ9qUXD0tNwUckAwpYeRg)  
