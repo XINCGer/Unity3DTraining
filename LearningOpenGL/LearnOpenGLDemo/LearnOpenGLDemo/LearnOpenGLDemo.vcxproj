@@ -129,6 +129,7 @@
     <ClCompile Include="Classes\1_gettting_started\shader_class.cpp" />
     <ClCompile Include="Classes\1_gettting_started\shader_uniform.cpp" />
     <ClCompile Include="Classes\1_gettting_started\texture.cpp" />
+    <ClCompile Include="Classes\1_gettting_started\Transformations.cpp" />
     <ClCompile Include="Classes\glad.c" />
     <ClCompile Include="Classes\HelloOpenGL.cpp" />
   </ItemGroup>

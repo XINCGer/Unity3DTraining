@@ -1,5 +1,5 @@
-#define TEXTURE_EXCEICE_H
-#ifndef TEXTURE_EXCEICE_H
+//#define TRANSFORMATION_01_H
+#ifndef TRANSFORMATION_01_H
 #define STB_IMAGE_IMPLEMENTATION
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
@@ -7,6 +7,9 @@
 #include <learnopengl/filesystem.h>
 #include <learnopengl/stb_image.h>
 #include <iostream>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
@@ -123,6 +126,12 @@ int main() {
 	glUniform1i(glGetUniformLocation(ourShader.ID, "texture1"), 0);
 	ourShader.setInt("texture2", 1);
 
+	glm::vec4 vec(1.0f, 0.0f, 0.0f, 1.0f);
+	glm::mat4 trans = glm::mat4(1.0f);
+	trans = glm::translate(trans, glm::vec3(1.0f, 1.0f, 0.0f));
+	vec = trans * vec;
+	std::cout << "new vector:" << vec.x << vec.y << vec.z << std::endl;
+
 	while (!glfwWindowShouldClose(window)) {
 		processInput(window);
 
@@ -133,7 +142,7 @@ int main() {
 		glBindTexture(GL_TEXTURE_2D, texture1);
 		glActiveTexture(GL_TEXTURE1);
 		glBindTexture(GL_TEXTURE_2D, texture2);
-		ourShader.setFloat("alphaValue", alphaValue); 
+		ourShader.setFloat("alphaValue", alphaValue);
 
 		ourShader.use();
 
