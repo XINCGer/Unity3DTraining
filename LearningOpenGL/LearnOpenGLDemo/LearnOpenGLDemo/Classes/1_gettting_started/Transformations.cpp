@@ -14,8 +14,6 @@
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 
-float alphaValue = 0.0f;
-
 int main() {
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
@@ -37,7 +35,7 @@ int main() {
 	}
 
 	//读取编译Shader
-	Shader ourShader("Shaders/4.3.texture.vs", "Shaders/4.3.texture.fs");
+	Shader ourShader("Shaders/5.1.transform.vs", "Shaders/5.1.transform.fs");
 
 	//设置顶点数据
 	float vertices[] = {
@@ -126,11 +124,12 @@ int main() {
 	glUniform1i(glGetUniformLocation(ourShader.ID, "texture1"), 0);
 	ourShader.setInt("texture2", 1);
 
-	glm::vec4 vec(1.0f, 0.0f, 0.0f, 1.0f);
 	glm::mat4 trans = glm::mat4(1.0f);
-	trans = glm::translate(trans, glm::vec3(1.0f, 1.0f, 0.0f));
-	vec = trans * vec;
-	std::cout << "new vector:" << vec.x << vec.y << vec.z << std::endl;
+	trans = glm::rotate(trans, glm::radians(90.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+	trans = glm::scale(trans, glm::vec3(0.5f, 0.5f, 0.5f));
+
+	unsigned int transformLoc = glGetUniformLocation(ourShader.ID, "transform");
+	glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(trans));
 
 	while (!glfwWindowShouldClose(window)) {
 		processInput(window);
@@ -142,7 +141,6 @@ int main() {
 		glBindTexture(GL_TEXTURE_2D, texture1);
 		glActiveTexture(GL_TEXTURE1);
 		glBindTexture(GL_TEXTURE_2D, texture2);
-		ourShader.setFloat("alphaValue", alphaValue);
 
 		ourShader.use();
 
@@ -170,18 +168,6 @@ void processInput(GLFWwindow * window)
 {
 	if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS) {
 		glfwSetWindowShouldClose(window, true);
-	}
-	else if (glfwGetKey(window, GLFW_KEY_DOWN) == GLFW_PRESS) {
-		alphaValue -= 0.01f;
-		if (alphaValue <= 0.0f) {
-			alphaValue = 0.0f;
-		}
-	}
-	else if (glfwGetKey(window, GLFW_KEY_UP) == GLFW_PRESS) {
-		alphaValue += 0.01f;
-		if (alphaValue >= 1.0f) {
-			alphaValue = 1.0f;
-		}
 	}
 }
 
