@@ -19,6 +19,7 @@
 >* [被京东和腾讯赶走的中年白领，不会有人同情](https://news.cnblogs.com/n/622289/)  
 >* [HR带你见招拆招：这些年，老程序猿面试遇到的坑](https://mp.weixin.qq.com/s/LGranvW9nKV5L3GklfIq4g)  
 >* [金三银四铜五铁六](https://www.cnblogs.com/zhuoqingsen/p/interview.html)  
+>* [三年开发经验，抖音离职后，拿到Airbnb、快手、小红书、猿辅导等15家公司的offer](https://mp.weixin.qq.com/s/t2CA_9hhAY3q3o9lHFOUvw)   
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
