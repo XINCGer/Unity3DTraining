@@ -40,4 +40,5 @@
 * [【Unity游戏开发】你真的了解UGUI中的IPointerClickHandler吗？](./About_IPointerClickHandler)  
 * [协程相关测试](./About_Coroutine)  
 * [Unity 移动端的复制这么写](https://www.cnblogs.com/wuzhang/p/wuzhang20180826.html)  
+* [在Unity中实现准确的帧率](https://mp.weixin.qq.com/s/3hBIyh4U2oVXVcsjiowsvw)  
 
