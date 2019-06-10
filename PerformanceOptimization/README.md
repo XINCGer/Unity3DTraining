@@ -69,3 +69,4 @@
 >* [65.【厚积薄发】UI抗锯齿不生效原因](https://mp.weixin.qq.com/s/BiRzNBAk4kxh2LDsWwEvRg)  
 >* [66.【厚积薄发】如何做好帧同步下的移动系统](https://mp.weixin.qq.com/s/g2sFzwlgZCamLGGkKTCOCg)  
 >* [67.渲染优化-从GPU的结构谈起](https://mp.weixin.qq.com/s/-9I3nr5sWHMRVlB-080pNA)  
+>* [68.【厚积薄发】如何利用UWA优化物理开销](https://mp.weixin.qq.com/s/FhCNHzA0PBcFKwXitqiivw)  
