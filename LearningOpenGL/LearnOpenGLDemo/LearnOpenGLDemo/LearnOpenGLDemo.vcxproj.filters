@@ -48,6 +48,9 @@
     <ClCompile Include="Classes\1_gettting_started\Transformations.cpp">
       <Filter>源文件\1.gettting_started</Filter>
     </ClCompile>
+    <ClCompile Include="Classes\1_gettting_started\Coordinate_01.cpp">
+      <Filter>源文件\1.gettting_started</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenGL\includes\learnopengl\shader_s.h">
