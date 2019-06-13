@@ -122,6 +122,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classes\1_gettting_started\camera_circle.cpp" />
     <ClCompile Include="Classes\1_gettting_started\Coordinate_01.cpp" />
     <ClCompile Include="Classes\1_gettting_started\hello_triangle_indexed.cpp" />
     <ClCompile Include="Classes\1_gettting_started\hello_two_triangle.cpp" />

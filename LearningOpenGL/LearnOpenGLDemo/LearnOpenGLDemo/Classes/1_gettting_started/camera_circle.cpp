@@ -1,5 +1,5 @@
-#define COORDINATE_001_H
-#ifndef COORDINATE_001_H
+//#define CAMERA_CIRCLE
+#ifndef CAMERA_CIRCLE
 #define STB_IMAGE_IMPLEMENTATION
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
@@ -187,9 +187,15 @@ int main() {
 
 		ourShader.use();
 
+		float baseRadius = 10.0f;
+		float offset = 5.0f;
+		float radius = sin(glfwGetTime()) * offset + baseRadius;
+		float targetY = sin(glfwGetTime()) * offset;
+		float cameraX = sin((float)glfwGetTime()) * radius;
+		float cameraZ = cos((float)glfwGetTime()) * radius;
 		glm::mat4 view = glm::mat4(1.0f);
+		view = glm::lookAt(glm::vec3(cameraX, 0.0, cameraZ), glm::vec3(0.0, targetY, 0.0), glm::vec3(0.0, 1.0, 0.0));
 		glm::mat4 proj = glm::mat4(1.0f);
-		view = glm::translate(view, glm::vec3(0.0f, 0.0f, -3.0f));
 		proj = glm::perspective(glm::radians(50.0f), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
 
 		unsigned int viewLoc = glGetUniformLocation(ourShader.ID, "view");
@@ -200,7 +206,7 @@ int main() {
 		for (unsigned int i = 0;i < 10;i++) {
 			glm::mat4 model = glm::mat4(1.0f);
 			model = glm::translate(model, cubePositions[i]);
-			float angle = 20.0f*(i+1);
+			float angle = 20.0f*(i + 1);
 			if (1 == i || i % 3 == 0) {
 				model = glm::rotate(model, (float)glfwGetTime() * glm::radians(angle), glm::vec3(1.0f, 0.3f, 0.5f));
 			}
