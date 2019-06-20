@@ -88,6 +88,7 @@
 
 ### 互联网编年史2019  
 >* [互联网公司的2019年「春潮」：谁迎风逐浪，谁黯然退潮？](https://mp.weixin.qq.com/s/zt3WajDGRKmXangSjCFXhQ)  
+>* [互联网公司没有中年人](https://mp.weixin.qq.com/s/Zbk63GVpkKDPMykuuOeXvg)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
