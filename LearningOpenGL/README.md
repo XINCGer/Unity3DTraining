@@ -17,5 +17,6 @@
 * [空间划分的数据结构(网格/四叉树/八叉树/BSP树/k-d树/BVH/自定义划分)](https://www.cnblogs.com/KillerAery/p/10878367.html)  
 * [Unite 2019 | Unity中的实时光线追踪技术剖析](https://mp.weixin.qq.com/s/vsUGNTXpU0hLK3L7ptfAgA)  
 * [旋转的数学表达：欧拉角、轴向角、四元数与矩阵](https://www.cnblogs.com/xiaohutu/p/10979936.html)  
+* [由浅入深学习PBR的原理和实现](https://www.cnblogs.com/timlly/p/10631718.html?from=timeline)  
 
 
