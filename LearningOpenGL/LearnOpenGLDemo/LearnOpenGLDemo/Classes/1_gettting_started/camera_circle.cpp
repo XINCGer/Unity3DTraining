@@ -23,6 +23,7 @@ float lastFrame = 0.0f;  //上一帧的时间
 
 float yaw = -90.0f;	// yaw is initialized to -90.0 degrees since a yaw of 0.0 results in a direction vector pointing to the right so we initially rotate a bit to the left.
 float pitch = 0.0f;
+float fov = 45.0f;
 
 float lastX = SCR_WIDTH / 2;
 float lastY = SCR_HEIGHT / 2;
@@ -32,6 +33,7 @@ bool firstMouse = true;
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
+void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
 
 int main() {
 	glfwInit();
@@ -48,6 +50,7 @@ int main() {
 	glfwMakeContextCurrent(window);
 	glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
 	glfwSetCursorPosCallback(window, mouse_callback);
+	glfwSetScrollCallback(window, scroll_callback);
 	glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
 	//初始化glad
@@ -216,7 +219,7 @@ int main() {
 		glm::mat4 view = glm::mat4(1.0f);
 		view = glm::lookAt(cameraPos, cameraPos + cameraFront, cameraUp);
 		glm::mat4 proj = glm::mat4(1.0f);
-		proj = glm::perspective(glm::radians(50.0f), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
+		proj = glm::perspective(glm::radians(fov), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
 
 		unsigned int viewLoc = glGetUniformLocation(ourShader.ID, "view");
 		glUniformMatrix4fv(viewLoc, 1, GL_FALSE, &view[0][0]);
@@ -310,6 +313,19 @@ void mouse_callback(GLFWwindow* window, double xpos, double ypos) {
 	front.y = sin(glm::radians(pitch));
 	front.z = cos(glm::radians(pitch)) * sin(glm::radians(yaw));
 	cameraFront = glm::normalize(front);
+}
+
+void scroll_callback(GLFWwindow * window, double xoffset, double yoffset)
+{
+	if (fov >= 1.0f && fov <= 45.0f) {
+		fov -= yoffset;
+	}
+	if (fov <= 1.0f) {
+		fov = 1.0f;
+	}
+	if (fov >= 45.0f) {
+		fov = 45.0f;
+	}
 }
 
 #endif // !SHADER_CLASS_H
