@@ -136,6 +136,7 @@
     <ClCompile Include="Classes\HelloOpenGL.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="OpenGL\includes\learnopengl\Camera.h" />
     <ClInclude Include="OpenGL\includes\learnopengl\shader_s.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
