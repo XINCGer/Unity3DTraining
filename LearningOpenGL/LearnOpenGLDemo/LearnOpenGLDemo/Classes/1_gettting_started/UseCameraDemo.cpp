@@ -1,9 +1,10 @@
-#define CAMERA_CIRCLE
-#ifndef CAMERA_CIRCLE
+//#define USECAMERA_H
+#ifndef USECAMERA_H
 #define STB_IMAGE_IMPLEMENTATION
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <learnopengl/shader_s.h>
+#include <learnopengl/Camera.h>
 #include <learnopengl/filesystem.h>
 #include <learnopengl/stb_image.h>
 #include <iostream>
@@ -14,16 +15,10 @@
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
-glm::vec3 cameraPos = glm::vec3(0.0f, 0.0f, 3.0f);
-glm::vec3 cameraFront = glm::vec3(0.0f, 0.0f, -1.0f);
-glm::vec3 cameraUp = glm::vec3(0.0f, 1.0f, 0.0f);
+Camera camera(glm::vec3(0.0f, 0.0f, 3.0f));
 
 float deltaTime = 0.0f;  //当前帧与上一帧的时间差
 float lastFrame = 0.0f;  //上一帧的时间
-
-float yaw = -90.0f;	// yaw is initialized to -90.0 degrees since a yaw of 0.0 results in a direction vector pointing to the right so we initially rotate a bit to the left.
-float pitch = 0.0f;
-float fov = 45.0f;
 
 float lastX = SCR_WIDTH / 2;
 float lastY = SCR_HEIGHT / 2;
@@ -216,10 +211,9 @@ int main() {
 
 		ourShader.use();
 
-		glm::mat4 view = glm::mat4(1.0f);
-		view = glm::lookAt(cameraPos, cameraPos + cameraFront, cameraUp);
+		glm::mat4 view = camera.GetViewMatrix();
 		glm::mat4 proj = glm::mat4(1.0f);
-		proj = glm::perspective(glm::radians(fov), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
+		proj = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
 
 		unsigned int viewLoc = glGetUniformLocation(ourShader.ID, "view");
 		glUniformMatrix4fv(viewLoc, 1, GL_FALSE, &view[0][0]);
@@ -266,16 +260,16 @@ void processInput(GLFWwindow * window)
 	}
 
 	if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS) {
-		cameraPos += cameraSpeed * cameraFront;
+		camera.ProcessKeyboard(FORWARD, deltaTime);
 	}
 	if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS) {
-		cameraPos -= cameraSpeed * cameraFront;
+		camera.ProcessKeyboard(BACKWARD, deltaTime);
 	}
 	if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS) {
-		cameraPos -= glm::normalize(glm::cross(cameraFront, cameraUp)) * cameraSpeed;
+		camera.ProcessKeyboard(LEFT, deltaTime);
 	}
 	if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS) {
-		cameraPos += glm::normalize(glm::cross(cameraFront, cameraUp)) * cameraSpeed;
+		camera.ProcessKeyboard(RIGHT, deltaTime);
 	}
 }
 
@@ -293,39 +287,12 @@ void mouse_callback(GLFWwindow* window, double xpos, double ypos) {
 
 	lastX = xpos;
 	lastY = ypos;
-
-	float sensitivity = 0.05f;  //灵敏度
-	xOffset *= sensitivity;
-	yOffset *= sensitivity;
-
-	yaw += xOffset;
-	pitch += yOffset;
-
-	if (pitch > 89.0f) {
-		pitch = 89.0f;
-	}
-	if (pitch < -89.0f) {
-		pitch = -89.0f;
-	}
-
-	glm::vec3 front;
-	front.x = cos(glm::radians(pitch)) * cos(glm::radians(yaw));
-	front.y = sin(glm::radians(pitch));
-	front.z = cos(glm::radians(pitch)) * sin(glm::radians(yaw));
-	cameraFront = glm::normalize(front);
+	camera.ProcessMouseMovement(xOffset, yOffset);
 }
 
 void scroll_callback(GLFWwindow * window, double xoffset, double yoffset)
 {
-	if (fov >= 1.0f && fov <= 45.0f) {
-		fov -= yoffset;
-	}
-	if (fov <= 1.0f) {
-		fov = 1.0f;
-	}
-	if (fov >= 45.0f) {
-		fov = 45.0f;
-	}
+	camera.ProcessMouseScroll(yoffset);
 }
 
 #endif // !SHADER_CLASS_H
