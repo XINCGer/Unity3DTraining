@@ -99,6 +99,7 @@
 >* [被50%房租拖垮的程序员，你图什么？](https://mp.weixin.qq.com/s/WGKaLg6uKvbsFKZ7bXqTrA)  
 >* [如何用一句话通过面试？美国科技名企版](https://news.cnblogs.com/n/622717/)  
 >* [我班上的第1名，成了工资最低的那个人](https://mp.weixin.qq.com/s/GaIKfP-ZspAfGPiii9gN_Q)  
+>* [老员工心塞：新入职的手下，工资比我高50%......](https://mp.weixin.qq.com/s/dWB2Y5Lss03txzxQEslvdA)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
