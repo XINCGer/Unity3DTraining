@@ -29,3 +29,4 @@
 >* [【厚积薄发】关于UniRx，你需要知道这些](https://mp.weixin.qq.com/s/2VORcRSYiUioUGlnp7PgMw)  
 >* [【厚积薄发】Linear Rendering在移动设备上的支持率](https://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668912166&idx=1&sn=7c9c38e868014b99a2b88b8bda6730fd&chksm=f1c9f254c6be7b426805d50ebca2a89f72f7071d5cf62df74b9cd592775c66514a7c84938bdb&mpshare=1&scene=23&srcid=1107GYXI5vHKTwOfBFWg0soO#rd)  
 >* [【厚积薄发】Unity2018升级DrawMeshInstanced不生效](https://mp.weixin.qq.com/s/tNEWE3roI_-UZPVxz0CujQ)  
+>* [【厚积薄发】Texture Streaming Mipmap使用疑问](https://mp.weixin.qq.com/s/syqamlBruIeDIibCegxNeQ)  
