@@ -14,4 +14,5 @@
 >* [【厚积薄发】TextureStreamingJob 崩溃分析一则](https://mp.weixin.qq.com/s/jxsLOPMalJtHXDfzTcVVuQ)  
 >* [C# 通俗说 内存的理解](https://www.cnblogs.com/u3ddjw/p/11065189.html)  
 >* [【博物纳新】如何通过Geometry Shader来实现草海渲染](https://mp.weixin.qq.com/s/nYSNIEq8m5RAnfVr-9Y0Sw)  
+>* [总结关于CPU的一些基本知识](https://www.cnblogs.com/f-ck-need-u/p/11141636.html)  
 
