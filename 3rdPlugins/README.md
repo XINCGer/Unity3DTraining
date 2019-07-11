@@ -26,3 +26,4 @@
 * [【博物纳新】Unity网格变形开源库测评](https://mp.weixin.qq.com/s/UuimtskN4iRiknf8BBQFPg)  
 * [计时器库：Unity Timer](https://github.com/akbiggs/UnityTimer)  
 * [计时器库：Proven Unity Timer](https://github.com/asyncrun/Proven-Unity-Timer)  
+* [【博物纳新】合辑推荐—使用Unity重现经典游戏！](https://mp.weixin.qq.com/s/O5E-bvDsFduHJI4cFkiYgA)  
