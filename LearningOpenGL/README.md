@@ -20,5 +20,6 @@
 * [旋转的数学表达：欧拉角、轴向角、四元数与矩阵](https://www.cnblogs.com/xiaohutu/p/10979936.html)  
 * [由浅入深学习PBR的原理和实现](https://www.cnblogs.com/timlly/p/10631718.html?from=timeline)  
 * [四元数与旋转](https://github.com/cybercser/OpenGL_3_3_Tutorial_Translation/blob/master/Tutorial%2017%20Rotations.md)  
+* [Unity轻量级渲染管线LWRP源码及案例解析（上）](https://mp.weixin.qq.com/s/WrEUOFF9xK3dgOksujKgvQ)  
 
 
