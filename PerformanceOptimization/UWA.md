@@ -31,3 +31,4 @@
 >* [【厚积薄发】Unity2018升级DrawMeshInstanced不生效](https://mp.weixin.qq.com/s/tNEWE3roI_-UZPVxz0CujQ)  
 >* [【厚积薄发】Texture Streaming Mipmap使用疑问](https://mp.weixin.qq.com/s/syqamlBruIeDIibCegxNeQ)  
 >* [【厚积薄发】在平行光照中加入Cookie遮罩](https://mp.weixin.qq.com/s/PQnCy8TIBxhS99fAezf-uQ)  
+>* [【厚积薄发】场景物件Static设置失效](https://mp.weixin.qq.com/s/zHD-IL_K-LyoonpT7oykAg)  
