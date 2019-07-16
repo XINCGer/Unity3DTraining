@@ -33,7 +33,7 @@
 >* [29.自研客户端架构](https://github.com/XINCGer/ColaFrameWork)  
 >* [30.【外链】Unity3d客户端与C#分布式服务端游戏框架](https://github.com/egametang/Egametang)  
 >* [31.ProtoBuf练习](./ProtoBufDemo)  
->*   
+>* [32.相机管理](./AboutCamera)  
 >* [33.学习OpenGL与计算机图形学](https://github.com/XINCGer/Unity3DTraining/tree/master/LearningOpenGL)  
 >* [34.仿写FC上的马戏团](./CircusGameOnFC)  
 >* [35.热更新专题](./HotUpdate)  
