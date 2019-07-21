@@ -12,3 +12,4 @@
 >* [11.UGUI源代码](https://bitbucket.org/Unity-Technologies/ui)  
 >* [12.【Unity游戏开发】记一次解决 LuaFunction has been disposed 的bug的过程](https://www.cnblogs.com/msxh/p/10333558.html)  
 >* [13.Unity中Animator做UI动画的一些细节](https://mp.weixin.qq.com/s/-dQ_Yo5YOMTDrTRzdfaR9w)  
+>* [14.智能刘海屏适配库](https://github.com/wcl9900/NotchFit?tdsourcetag=s_pcqq_aiomsg)  
