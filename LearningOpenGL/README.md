@@ -22,5 +22,6 @@
 * [四元数与旋转](https://github.com/cybercser/OpenGL_3_3_Tutorial_Translation/blob/master/Tutorial%2017%20Rotations.md)  
 * [Unity轻量级渲染管线LWRP源码及案例解析（上）](https://mp.weixin.qq.com/s/WrEUOFF9xK3dgOksujKgvQ)  
 * [Unity轻量级渲染管线LWRP源码及案例解析（下）](https://mp.weixin.qq.com/s/COfd91QA3Q_zdNSp7m7fCw)  
+* [【简单易懂】渲染基础-渲染管线（Render-pipeline）](https://blog.csdn.net/AvatarForTest/article/details/80438344)  
 
 
