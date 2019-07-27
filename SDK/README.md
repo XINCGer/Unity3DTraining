@@ -8,3 +8,4 @@
 * [【Unity游戏开发】Android6.0以上的动态权限申请问题](https://www.cnblogs.com/msxh/p/10889484.html)  
 * [TestFlight Beta 版测试概述（iOS、Apple TVOS、watchOS）](https://help.apple.com/app-store-connect/#/devdc42b26b8)  
 * [TestFlight的使用--再也不用担心环境打错了](https://www.cnblogs.com/zhanggui/p/7039651.html)  
+* [信鸽推送的集成AndroidStudio版本](https://blog.csdn.net/qq_15800305/article/details/84143492)  
