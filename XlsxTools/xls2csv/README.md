@@ -14,3 +14,6 @@
 
 教程地址  
 * [点我点我](http://www.cnblogs.com/msxh/p/7858346.html)
+
+更新：  
+感谢 [熊猫](https://me.csdn.net/qql7267) 对本工具进行了升级，使其支持Python3.4以后的版本,并且配置中可以填写相对路径了，[新版链接](./xls2csv_3.0.py)  
