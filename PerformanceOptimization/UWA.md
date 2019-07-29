@@ -33,3 +33,4 @@
 >* [【厚积薄发】在平行光照中加入Cookie遮罩](https://mp.weixin.qq.com/s/PQnCy8TIBxhS99fAezf-uQ)  
 >* [【厚积薄发】场景物件Static设置失效](https://mp.weixin.qq.com/s/zHD-IL_K-LyoonpT7oykAg)  
 >* [【厚积薄发】LWRP光照贴图异常](https://mp.weixin.qq.com/s/zYjwJE46TaXWSsbCugOYig)  
+>* [【厚积薄发】粒子特效美术标准](https://mp.weixin.qq.com/s/k-yINBrkWvMGt9MpaMtqGQ)  
