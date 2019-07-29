@@ -23,5 +23,7 @@
 * [Unity轻量级渲染管线LWRP源码及案例解析（上）](https://mp.weixin.qq.com/s/WrEUOFF9xK3dgOksujKgvQ)  
 * [Unity轻量级渲染管线LWRP源码及案例解析（下）](https://mp.weixin.qq.com/s/COfd91QA3Q_zdNSp7m7fCw)  
 * [【简单易懂】渲染基础-渲染管线（Render-pipeline）](https://blog.csdn.net/AvatarForTest/article/details/80438344)  
+* [向量投影](https://blog.csdn.net/broccoli_lian/article/details/79991367)  
+* [求反射向量](https://www.cnblogs.com/graphics/archive/2013/02/21/2920627.html)  
 
 
