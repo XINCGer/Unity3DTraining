@@ -7,6 +7,7 @@
 >* [移动游戏性能优化通用技法](https://www.cnblogs.com/timlly/p/10463467.html)  
 >* [Unity MMORPG游戏优化经验分享](https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&mid=2247493814&idx=1&sn=39bcb1b3e6ce275e6e85665e628d0c55&chksm=fe1ddc1dc96a550bc846d83dd51cfe8e3c9be3f16495155a60dbbe3c08f232210a981385cea1&mpshare=1&scene=23&srcid=0704yTg4ItGDKJsQXiAMlRVS#rd)  
 >* [Unity Profiler分析器使用](https://github.com/XINCGer/Unity3DTraining/tree/master/PerformanceOptimization/ProfilerExample)  
+>* [扒一扒Profiler中这几个“占坑鬼”](https://blog.uwa4d.com/archives/presentandsync.html)  
 >* [C#内存管理解析](http://www.cnblogs.com/yejianyong/p/7396154.html)  
 >* [Android性能优化来龙去脉总结](https://www.cnblogs.com/wetest/p/9153213.html)  
 >* [Unity GUI(uGUI)使用心得与性能总结](https://www.jianshu.com/p/061e67308e5f)  
