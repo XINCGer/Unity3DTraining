@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <input>
+        <path file = "测试用例.xlsx"/>
+    </input>
+    <output name = "Test"/>
+    <elements>
+        <element name = "a" key = "A" type = "int" primary = "true"/>
+        <element name = "b" key = "B" type = "string"/>
+        <element name = "c" key = "C" type = "string"/>
+    </elements>
+</config>
