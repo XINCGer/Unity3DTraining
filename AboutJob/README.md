@@ -49,6 +49,7 @@
 >* [培训班的同学，拜托不要把用人单位想得那么傻，好不好？！](https://www.cnblogs.com/freeflying/p/10553658.html)  
 
 ### 学习与技术成长  
+>* [论道丨游戏程序员如何自我提升？专访腾讯游戏学院专家叶劲峰](https://mp.weixin.qq.com/s/g6eRpQ1gvC2o1-vDUGliNA)  
 >* [我们都知道，如何不被淘汰](https://www.cnblogs.com/kiba/p/9824191.html)  
 >* [突破瓶颈——30 程序员的中年危机自救指南](./突破瓶颈——30%20程序员的中年危机自救指南.pdf)  
 >* [创业6年，我犯过的几个高级错误与常识性错误](https://news.cnblogs.com/n/617541/)  
