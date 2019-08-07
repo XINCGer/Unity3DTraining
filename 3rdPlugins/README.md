@@ -30,3 +30,4 @@
 * [计时器库：Proven Unity Timer](https://github.com/asyncrun/Proven-Unity-Timer)  
 * [【博物纳新】合辑推荐—使用Unity重现经典游戏！](https://mp.weixin.qq.com/s/O5E-bvDsFduHJI4cFkiYgA)  
 * [【博物纳新】创建大量角色的GPU动画系统](https://mp.weixin.qq.com/s/5-IGT56NkUQz3JzWPq2DXw)  
+* [【博物纳新】Unity Shader之萧萧暗雨打窗声](https://mp.weixin.qq.com/s/yQhvMY9EP1jPq9hZgJ1ZpQ)  
