@@ -46,4 +46,5 @@
 >* [渲染优化-从GPU的结构谈起](https://mp.weixin.qq.com/s/-9I3nr5sWHMRVlB-080pNA)  
 >* [Unity性能优化的最佳实践](https://mp.weixin.qq.com/s/v15Q9501Sg6_WWPjwTrXkQ)  
 >* [Unite 2019 | Unity UPR性能报告功能介绍](https://mp.weixin.qq.com/s/9h1Uv90zL90n2Ug_RAP9IQ)  
+>* [2018腾讯移动游戏技术评审标准与实践案例](https://pan.baidu.com/s/1JU9RP-23EQ9hIaVJeAni7A)(提取码：3m4x)   
 
