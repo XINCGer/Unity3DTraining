@@ -10,3 +10,4 @@
 * [Unity AssetBundle高效加密案例分享](https://mp.weixin.qq.com/s/eM6bFgkD2roZKLJ7SHn4xQ)  
 * [基于Resource ID的资源管理机制](https://zhuanlan.zhihu.com/p/38048506)  
 * [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
+* [关于AssetBundle打包的依赖收集](./关于AssetBundle打包的依赖收集.docx)  
