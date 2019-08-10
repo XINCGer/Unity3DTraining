@@ -36,7 +36,7 @@
 >* [32.相机管理](./AboutCamera)  
 >* [33.学习OpenGL与计算机图形学](https://github.com/XINCGer/Unity3DTraining/tree/master/LearningOpenGL)  
 >* [34.仿写FC上的马戏团](./CircusGameOnFC)  
->* [35.热更新专题](./HotUpdate)  
+>* [35.热更新与AssetBundle专题](./HotUpdate)  
 >* [36.马三毕设-天天萌泡泡](https://github.com/XINCGer/BubbleShooter)  
 >* [37.转表工具](https://github.com/XINCGer/Unity3DTraining/tree/master/XlsxTools)  
 >* [38.仿写FC上的吃豆人](./PacMan)  
