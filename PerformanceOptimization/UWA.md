@@ -36,3 +36,4 @@
 >* [【厚积薄发】粒子特效美术标准](https://mp.weixin.qq.com/s/k-yINBrkWvMGt9MpaMtqGQ)  
 >* [【厚积薄发】PSS内存优化方法](https://mp.weixin.qq.com/s/_Tb4sRx1bwt0nWCBzkZWXQ)  
 >* [【厚积薄发】异步上传管线AUP答疑](https://mp.weixin.qq.com/s/2M7JX354j5-lyknP3omXUw)  
+>* [关于AnimationClip在PC下加载缓慢的问题分析](https://mp.weixin.qq.com/s/N2zy--hhgMgi10PPVKVBSA)  
