@@ -14,3 +14,5 @@
 >* [13.Unity中Animator做UI动画的一些细节](https://mp.weixin.qq.com/s/-dQ_Yo5YOMTDrTRzdfaR9w)  
 >* [14.智能刘海屏适配库](https://github.com/wcl9900/NotchFit?tdsourcetag=s_pcqq_aiomsg)  
 >* [15.Updating your GUI for the iPhone X and other “Notched” Devices](https://connect.unity.com/p/updating-your-gui-for-the-iphone-x-and-other-notched-devices?tdsourcetag=s_pcqq_aiomsg)    
+>* [16.Guess Into UGUI](https://zhuanlan.zhihu.com/p/28897082)  
+>* [17.Unity ReckMask2D 与 Mask 的一点小总结](https://blog.csdn.net/WuShangLZ/article/details/80401441)  
