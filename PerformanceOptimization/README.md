@@ -2,6 +2,7 @@
 
 ### 目录  
 >* [UWA厚积薄发相关优化专题](./UWA.md)  
+>* [Profiler 官方使用指南](https://pan.baidu.com/s/1e8_ZD6h8e8bUshw5_rkIvA)提取码：g4xe   
 >* [浅谈Unity中的GC以及优化(密码：123456)](http://www.cnblogs.com/msxh/p/6531725.html)  
 >* [GC思维导图](https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/Unity%20GC.png)  
 >* [移动游戏性能优化通用技法](https://www.cnblogs.com/timlly/p/10463467.html)  
