@@ -19,4 +19,5 @@
 >* [一个文本文件，找出前10个经常出现的词，但这次文件比较长，说是上亿行或十亿行，总之无法一次读入内存](http://www.mamicode.com/info-detail-1037262.html)  
 >* [unity 四叉树管理场景](https://www.cnblogs.com/McYY/p/11332717.html)  
 >* [Unity3d是如何调用MonoBehaviour子类中的Start等方法的？](https://www.zhihu.com/question/27752591)  
+>* [消除类游戏核心算法](https://blog.csdn.net/u014096244/article/details/40541319)  
 
