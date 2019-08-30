@@ -62,6 +62,7 @@
 >* [从一线开发到管理百人的技术总监，你需要知道的一切](https://mp.weixin.qq.com/s/oK0fF3fziBhzO2zmJtk1_A)  
 >* [程序员的重复劳动陷阱](https://www.cnblogs.com/chaosyang/p/dont-repeat-yourself.html)  
 >* [“大多数人，都死在了 30 岁”](https://mp.weixin.qq.com/s/ziJBdxASnT9qBd_guUlbTA)  
+>* [大龄开发人员如何破局](https://www.cnblogs.com/zhangpan1244/p/11422814.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
