@@ -37,3 +37,4 @@
 >* [【厚积薄发】PSS内存优化方法](https://mp.weixin.qq.com/s/_Tb4sRx1bwt0nWCBzkZWXQ)  
 >* [【厚积薄发】异步上传管线AUP答疑](https://mp.weixin.qq.com/s/2M7JX354j5-lyknP3omXUw)  
 >* [关于AnimationClip在PC下加载缓慢的问题分析](https://mp.weixin.qq.com/s/N2zy--hhgMgi10PPVKVBSA)  
+>* [【厚积薄发】LWRP+UGUI使用方式](https://mp.weixin.qq.com/s/OmbfC1M2FNedpitISZH6Lw)  
