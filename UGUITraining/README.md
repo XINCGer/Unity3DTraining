@@ -16,3 +16,4 @@
 >* [15.Updating your GUI for the iPhone X and other “Notched” Devices](https://connect.unity.com/p/updating-your-gui-for-the-iphone-x-and-other-notched-devices?tdsourcetag=s_pcqq_aiomsg)    
 >* [16.Guess Into UGUI](https://zhuanlan.zhihu.com/p/28897082)  
 >* [17.Unity ReckMask2D 与 Mask 的一点小总结](https://blog.csdn.net/WuShangLZ/article/details/80401441)  
+>* [UGUI的图集处理方式-SpriteAtlas的前世今生](https://www.cnblogs.com/fly-100/p/11439487.html)  
