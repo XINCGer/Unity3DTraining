@@ -93,6 +93,7 @@
 >* [互联网寒冬，不是深渊，而是阶梯](https://news.cnblogs.com/n/614560/)  
 >* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
 >* [如何应对经济寒冬](https://mp.weixin.qq.com/s/lcwhtckPCc9abHOP60iHjQ)  
+>* [回顾过去一年996的折磨](https://www.cnblogs.com/edison0621/p/11481572.html)  
 
 ### 互联网编年史2019  
 >* [互联网公司的2019年「春潮」：谁迎风逐浪，谁黯然退潮？](https://mp.weixin.qq.com/s/zt3WajDGRKmXangSjCFXhQ)  
