@@ -78,6 +78,7 @@
 >* [996久了，摸鱼就像呼吸一样自然](https://mp.weixin.qq.com/s/tSARj1W_0ELQ5h1iC9mTdg)  
 >* [互联网“工人”示威996 会重蹈“血汗工厂”覆辙吗？](https://news.cnblogs.com/n/624092/)  
 >* [微软是一家养老公司？微软副总裁回应：员工能待20年我们很自豪](https://news.cnblogs.com/n/625254/)  
+>* [回顾过去一年996的折磨](https://www.cnblogs.com/edison0621/p/11481572.html)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
@@ -93,11 +94,11 @@
 >* [互联网寒冬，不是深渊，而是阶梯](https://news.cnblogs.com/n/614560/)  
 >* [年底了，要注意，这是一个不太好的信号......](https://www.cnblogs.com/youkanyouxiao/p/10253542.html)  
 >* [如何应对经济寒冬](https://mp.weixin.qq.com/s/lcwhtckPCc9abHOP60iHjQ)  
->* [回顾过去一年996的折磨](https://www.cnblogs.com/edison0621/p/11481572.html)  
 
 ### 互联网编年史2019  
 >* [互联网公司的2019年「春潮」：谁迎风逐浪，谁黯然退潮？](https://mp.weixin.qq.com/s/zt3WajDGRKmXangSjCFXhQ)  
 >* [互联网公司没有中年人](https://mp.weixin.qq.com/s/Zbk63GVpkKDPMykuuOeXvg)  
+>* [互联网的圈子，游戏行业的现状是如何？](https://www.cnblogs.com/python2048/p/11474191.html)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
