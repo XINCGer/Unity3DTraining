@@ -11,3 +11,4 @@
 * [基于Resource ID的资源管理机制](https://zhuanlan.zhihu.com/p/38048506)  
 * [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
 * [关于AssetBundle打包的依赖收集](./关于AssetBundle打包的依赖收集.docx)  
+* [一位大神自研的支持热更的脚本语言](https://github.com/qingfeng346/Scorpio-CSharp)  
