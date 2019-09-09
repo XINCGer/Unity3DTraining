@@ -39,3 +39,4 @@
 >* [关于AnimationClip在PC下加载缓慢的问题分析](https://mp.weixin.qq.com/s/N2zy--hhgMgi10PPVKVBSA)  
 >* [【厚积薄发】LWRP+UGUI使用方式](https://mp.weixin.qq.com/s/OmbfC1M2FNedpitISZH6Lw)  
 >* [【厚积薄发】版本升级后ShadowMap内存骤增](https://mp.weixin.qq.com/s/OqjlFEzwQVfKDHbVzsk31A)  
+>* [【厚积薄发】关于Shader.CreateGPUProgram的疑惑](https://mp.weixin.qq.com/s/OXIZLUhXOa7f7KyHpkF7CA)  
