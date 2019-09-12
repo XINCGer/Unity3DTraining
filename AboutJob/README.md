@@ -22,6 +22,7 @@
 >* [金三银四铜五铁六](https://www.cnblogs.com/zhuoqingsen/p/interview.html)  
 >* [三年开发经验，抖音离职后，拿到Airbnb、快手、小红书、猿辅导等15家公司的offer](https://mp.weixin.qq.com/s/t2CA_9hhAY3q3o9lHFOUvw)   
 >* [这简历一看就是包装过的](https://mp.weixin.qq.com/s/OI6DmYGUIFI8OeUDz0QJZQ)  
+>* [八家国企大数据面经(干货，详细答案)](https://mp.weixin.qq.com/s/7Aw6pdNI9eiCXsRQViM4UQ)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
