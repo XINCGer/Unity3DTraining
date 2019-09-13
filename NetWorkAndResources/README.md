@@ -10,6 +10,7 @@
 >* [教你从头写游戏服务器框架](https://www.cnblogs.com/qcloud1001/p/10478522.html)  
 >* [《Exploring in UE4》网络同步原理深入（上）](https://mp.weixin.qq.com/s/SEFKFRulIWHYgt5s85-M1g)  
 >* [《Exploring in UE4》网络同步原理深入（下）](https://mp.weixin.qq.com/s/n4qN0dDLxQSPzRWfhwLCzA)  
->* [【Unity3D_常用模块】 Socket网络模块（超级详细完整，上线项目中稳定使用着）](.//SampleSocket)  
+>* [【Unity3D_常用模块】 Socket网络模块（超级详细完整，上线项目中稳定使用着）](.//SampleSocket)   
+>* [预测回滚式帧同步的框架](https://github.com/JiepengTan/LockstepEngine)  
 
 
