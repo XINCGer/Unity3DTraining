@@ -13,5 +13,6 @@
 >* [【Unity3D_常用模块】 Socket网络模块（超级详细完整，上线项目中稳定使用着）](.//SampleSocket)   
 >* [预测回滚式帧同步的框架](https://github.com/JiepengTan/LockstepEngine)  
 >* [预测回滚式帧同步的框架的教程源码](https://github.com/JiepengTan/Lockstep-Tutorial)  
+>* [预测回滚式帧同步的框架的教程（免费）](https://space.bilibili.com/308864667/channel/detail?cid=86562)  
 
 
