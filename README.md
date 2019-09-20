@@ -42,7 +42,7 @@
 >* [38.仿写FC上的吃豆人](./PacMan)  
 >* [39.Unity手游自动化测试探索](./AutomationTesting)  
 >* [40.新手引导功能](./GuideSystem)  
->* [41.粒子系统研究](./ParticleSystem)  
+>* [41.TypeScript资料收集](./TypeScript)  
 >* [42.Macanim动画系统](./MacanimSystem)  
 >* [43.动力学骨骼研究(仿王者荣耀头发、衣物飘动效果)](./DynamicBones)  
 >* [44.StarTrooper重力感应飞行游戏](./StarTrooper)  
