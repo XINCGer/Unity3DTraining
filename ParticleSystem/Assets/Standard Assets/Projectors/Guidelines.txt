@@ -1,3 +1,0 @@
-To use the Additive-Projector properly:
-1. Make sure to have your Cookie texture set to "Clamp" 
-2. To prevent projector bleeding turn on the "Border Mipmaps" option or disable Mipmaps altogether in the Import Settings for the Cookie texture.
