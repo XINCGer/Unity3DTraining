@@ -11,3 +11,4 @@
 * [信鸽推送的集成AndroidStudio版本](https://blog.csdn.net/qq_15800305/article/details/84143492)  
 * [【Unity游戏开发】不接SDK也能在游戏内拉起加QQ群操作？](./PullUpQQGroupDemo)    
 * [Xcode工程文件project.pbxproj小结](https://www.jianshu.com/p/e82ec6a56fc2)  
+* [XcodeAPI](https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/)  
