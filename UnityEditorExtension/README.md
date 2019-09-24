@@ -5,6 +5,7 @@
 >* [开发unity插件——一次搞定unity编辑器常用功能](https://yq.aliyun.com/articles/69190)  
 >* [节点编辑器](.//NodeEditor)  
 >* [多重弹出窗口编辑器与界面层级管理](./MultiEditorWindow)  
+>* [odin编辑器拓展](https://odininspector.com/tutorials/getting-started)  
 >* [三款开源的节点编辑器-1](https://github.com/Siccity/xNode)  
 >* [三款开源的节点编辑器-2](https://github.com/alelievr/NodeGraphProcessor)  
 >* [三款开源的节点编辑器-3](https://github.com/Seneral/Node_Editor_Framework)  
