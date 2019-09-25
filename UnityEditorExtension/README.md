@@ -6,6 +6,8 @@
 >* [节点编辑器](.//NodeEditor)  
 >* [多重弹出窗口编辑器与界面层级管理](./MultiEditorWindow)  
 >* [odin编辑器拓展](https://odininspector.com/tutorials/getting-started)  
+>* [Unity插件开发基础—浅谈序列化系统](https://blog.uwa4d.com/archives/2025.html)  
+>* [Odin插件入门教程](http://tonytang1990.github.io/2019/05/15/Odin%E6%8F%92%E4%BB%B6/)  
 >* [三款开源的节点编辑器-1](https://github.com/Siccity/xNode)  
 >* [三款开源的节点编辑器-2](https://github.com/alelievr/NodeGraphProcessor)  
 >* [三款开源的节点编辑器-3](https://github.com/Seneral/Node_Editor_Framework)  
