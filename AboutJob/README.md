@@ -117,6 +117,7 @@
 >* [那些职场「过来人」说的话，你信了几句？](https://mp.weixin.qq.com/s/9Vk0RcChAnuqgd0tZHlpzw)  
 >* [北京程序员上班通勤指南：打车贵，路途远，不会武功根本挤不上地铁](https://mp.weixin.qq.com/s/kidzHQwrPIr6ahMptrEDag)  
 >* [真实的上海IT圈：张江男vs漕河泾男](https://mp.weixin.qq.com/s/cKzV5TRQezevEYEbuIeTlA)  
+>* [外资入华四十年：可口可乐曾用一年利润换下央视纪录片广告](http://t.sg.cn/30trga)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
