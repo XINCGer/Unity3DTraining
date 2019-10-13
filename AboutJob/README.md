@@ -55,6 +55,7 @@
 ### 学习与技术成长  
 >* [游戏程序员的学习之路](https://github.com/miloyip/game-programmer/)  
 >* [论道丨游戏程序员如何自我提升？专访腾讯游戏学院专家叶劲峰](https://mp.weixin.qq.com/s/g6eRpQ1gvC2o1-vDUGliNA)  
+>* [小公司老板的日常管理](https://www.cnblogs.com/passzhang/p/11664222.html)  
 >* [程序员应该怎样提高自己](https://blog.codingnow.com/2019/07/top_programmer.html)  
 >* [我们都知道，如何不被淘汰](https://www.cnblogs.com/kiba/p/9824191.html)  
 >* [突破瓶颈——30 程序员的中年危机自救指南](./突破瓶颈——30%20程序员的中年危机自救指南.pdf)  
