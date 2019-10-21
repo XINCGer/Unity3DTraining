@@ -43,3 +43,4 @@
 >* [【厚积薄发】Terrain方案比较](https://mp.weixin.qq.com/s/myOEzp6PjgJU-ZivETgsQw)  
 >* [【厚积薄发】LWRP的UI渲染透明图片混乱问题](https://mp.weixin.qq.com/s/7DCKjn2fippbqi-xUchf3A)  
 >* [【厚积薄发】Unity 2017打包iOS版本参数丢失](https://mp.weixin.qq.com/s/Y6CVDynfG1CZQDTBGY0F5A)  
+>* [【厚积薄发】角色固定部位闪白的实现方案](https://mp.weixin.qq.com/s/oa6DRmpix4hhDz8W66wVxw)  
