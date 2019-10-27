@@ -123,6 +123,7 @@
 >* [真实的上海IT圈：张江男vs漕河泾男](https://mp.weixin.qq.com/s/cKzV5TRQezevEYEbuIeTlA)  
 >* [外资入华四十年：可口可乐曾用一年利润换下央视纪录片广告](http://t.sg.cn/30trga)  
 >* [双子码农](https://www.ifanr.com/1272453)  
+>* [让互联网人崩溃的一句话！](https://mp.weixin.qq.com/s/5FOBRPMcH2RWOdejg4pwXg)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
