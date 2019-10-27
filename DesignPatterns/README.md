@@ -29,6 +29,7 @@
 * [设计模式看了又忘，忘了又看？](https://www.cnblogs.com/liebrother/p/10941660.html)  
 * [Unity/C#基础复习（5） 之 浅析观察者、中介者模式在游戏中的应用与delegate原理](https://www.cnblogs.com/sword-magical-blog/p/11430891.html)  
 * [在Unity实现游戏命令模式](https://mp.weixin.qq.com/s/3dbta9vSvY-nERUUH5IDyg)  
+* [游戏设计模式——面向数据编程（新）](https://www.cnblogs.com/KillerAery/p/11746639.html)  
 
 
 
