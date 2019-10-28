@@ -2,6 +2,7 @@
 
 ### 目录  
 >* [UWA厚积薄发相关优化专题](./UWA.md)  
+>* [【Unity游戏开发】性能优化之在真机上开启DeepProfile与踩坑](https://www.cnblogs.com/msxh/p/11749405.html)  
 >* [UWA发布 | Unity手游体检蓝皮书](https://mp.weixin.qq.com/s/HgNhcjRl3DsUSFUWArJOdA)  
 >* [Profiler 官方使用指南](https://pan.baidu.com/s/1e8_ZD6h8e8bUshw5_rkIvA)提取码：g4xe   
 >* [浅谈Unity中的GC以及优化(密码：123456)](http://www.cnblogs.com/msxh/p/6531725.html)  
