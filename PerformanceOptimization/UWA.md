@@ -45,3 +45,4 @@
 >* [【厚积薄发】Unity 2017打包iOS版本参数丢失](https://mp.weixin.qq.com/s/Y6CVDynfG1CZQDTBGY0F5A)  
 >* [【厚积薄发】角色固定部位闪白的实现方案](https://mp.weixin.qq.com/s/oa6DRmpix4hhDz8W66wVxw)  
 >* [【厚积薄发】Shader变体使用策略](https://mp.weixin.qq.com/s/Rt08l8ttij_GRjkqPjVEfA)  
+>* [【厚积薄发】Airtest工具在使用时的卡顿问题](https://mp.weixin.qq.com/s/i0AmQQK3viJ9Do5pPn17Tg)  
