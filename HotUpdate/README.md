@@ -12,3 +12,5 @@
 * [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
 * [关于AssetBundle打包的依赖收集](./关于AssetBundle打包的依赖收集.docx)  
 * [一位大神自研的支持热更的脚本语言](https://github.com/qingfeng346/Scorpio-CSharp)  
+* [Unity 5.x AssetBundle零冗余解决方案](https://zhuanlan.zhihu.com/p/25111851?tdsourcetag=s_pcqq_aiomsg)  
+* [关于Unity3D的AssetBundle打包的建议](https://zhuanlan.zhihu.com/p/63686076?tdsourcetag=s_pcqq_aiomsg)  
