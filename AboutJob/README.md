@@ -37,6 +37,7 @@
 >* [太坑了｜还真有这么渣渣的公司....](https://www.cnblogs.com/youkanyouxiao/p/10521148.html)  
 >* [职场画饼实录](https://mp.weixin.qq.com/s/nJC28zVtxSo6knh61mG_4Q)  
 >* [一个员工的离职成本，很恐怖！](https://mp.weixin.qq.com/s/VyOwTCtZla7ozmOwtm5Qzw)  
+>* [程序员把面试他的HR征服了！](https://mp.weixin.qq.com/s/EhsAmD2kb8YocAZL1-MEMw)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
