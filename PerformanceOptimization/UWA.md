@@ -47,3 +47,4 @@
 >* [【厚积薄发】Shader变体使用策略](https://mp.weixin.qq.com/s/Rt08l8ttij_GRjkqPjVEfA)  
 >* [【厚积薄发】Airtest工具在使用时的卡顿问题](https://mp.weixin.qq.com/s/i0AmQQK3viJ9Do5pPn17Tg)  
 >* [【厚积薄发】Timeline中粒子系统受FixedTime影响](https://mp.weixin.qq.com/s/1IJTBrGeWd_eIOHoGU7ALw)  
+>* [【厚积薄发】LWRP下代码动态更改阴影生成距离](https://mp.weixin.qq.com/s/48QDflVhhG-d0BGIaehvkA)  
