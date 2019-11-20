@@ -1,4 +1,5 @@
 ## 网络与资源数据操作练习  
+>* [计算机网络重磅来袭——一文让你拨开迷雾，直击网络原理](https://www.cnblogs.com/zyx110/p/11891335.html)  
 >* [利用WWW网络类实现GET/POST数据传递，上传下载资源](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources/WebTest)  
 >* [Json数据解析与存储](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources/JsonDataDemo)  
 >* [Unity3D移动平台动态读取外部文件全解析](https://github.com/XINCGer/Unity3DTraining/tree/master/NetWorkAndResources/MobilePlatformDynamicReadExternalFiles)  
