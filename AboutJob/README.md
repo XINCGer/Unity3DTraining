@@ -110,6 +110,7 @@
 >* [互联网的圈子，游戏行业的现状是如何？](https://www.cnblogs.com/python2048/p/11474191.html)  
 >* [2019年下半年，就业形势好转了吗？](https://mp.weixin.qq.com/s/yW0ZGZPiboQ322lAwYSEzg)  
 >* [网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)  
+>* [裁员的网易：我太难了！](https://news.cnblogs.com/n/651210/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
