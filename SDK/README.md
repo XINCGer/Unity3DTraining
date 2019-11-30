@@ -12,3 +12,4 @@
 * [【Unity游戏开发】不接SDK也能在游戏内拉起加QQ群操作？](./PullUpQQGroupDemo)    
 * [Xcode工程文件project.pbxproj小结](https://www.jianshu.com/p/e82ec6a56fc2)  
 * [XcodeAPI](https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/)  
+* [【Unity游戏开发】接入UWA_GOT的iOS版SDK以后无法正常出包](https://www.cnblogs.com/msxh/p/11963760.html)  
