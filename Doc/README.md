@@ -18,6 +18,7 @@
 >* [C# 通俗说 内存的理解](https://www.cnblogs.com/u3ddjw/p/11065189.html)  
 >* [【博物纳新】如何通过Geometry Shader来实现草海渲染](https://mp.weixin.qq.com/s/nYSNIEq8m5RAnfVr-9Y0Sw)  
 >* [总结关于CPU的一些基本知识](https://www.cnblogs.com/f-ck-need-u/p/11141636.html)  
+>* [程序员需要了解的硬核知识之汇编语言(全)](https://www.cnblogs.com/cxuanBlog/p/11976084.html)  
 >* [一个文本文件，找出前10个经常出现的词，但这次文件比较长，说是上亿行或十亿行，总之无法一次读入内存](http://www.mamicode.com/info-detail-1037262.html)  
 >* [unity 四叉树管理场景](https://www.cnblogs.com/McYY/p/11332717.html)  
 >* [Unity3d是如何调用MonoBehaviour子类中的Start等方法的？](https://www.zhihu.com/question/27752591)  
