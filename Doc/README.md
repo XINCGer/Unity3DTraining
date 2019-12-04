@@ -29,3 +29,4 @@
 >* [用树实现客户端红点系统](https://mp.weixin.qq.com/s/EdpKDutDdiqtJKYbIm9shg)  
 >* [射击游戏中准心与子弹弹道的探索](https://www.cnblogs.com/juzii/p/11798839.html)  
 >* [电脑组装之硬件选择](https://www.cnblogs.com/LXP-Never/p/11607551.html)  
+>* [【教程】开发Unity PackageManager 插件包](https://www.jianshu.com/p/153841d65846)  
