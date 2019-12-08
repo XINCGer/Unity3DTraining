@@ -37,3 +37,4 @@
 * [支持不规则大小列表项的无限滚动列表](https://github.com/jinglikeblue/TurbochargedScrollList)  
 * [p4api.net](https://github.com/perforce/p4api.net)  
 * [P4.net](https://github.com/milang/P4.net)  
+* [Unity对象的所有组件深拷贝与粘贴小插件](./CopyAllComponents)  
