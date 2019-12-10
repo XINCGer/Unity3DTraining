@@ -53,7 +53,7 @@
 >* [49.游戏人工智能](./AI)  
 >* [50.设备输入](/InputAndTouch)  
 >* [51.持续集成CI(Continuous Integration)](./CI)  
->* [52.Java和电商相关的不错的资料](./Java)  
+>* [52.电商与后端开发等相关的不错的资料](./ServerDevlop)  
 >* [53.求职工作培训与养生等](./AboutJob)  
 
 
