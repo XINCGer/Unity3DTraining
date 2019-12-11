@@ -10,8 +10,12 @@
 * [Unity AssetBundle,Asset,GameObject之间的联系](https://www.cnblogs.com/u3ddjw/p/11074071.html)  
 * [Unity AssetBundle高效加密案例分享](https://mp.weixin.qq.com/s/eM6bFgkD2roZKLJ7SHn4xQ)  
 * [基于Resource ID的资源管理机制](https://zhuanlan.zhihu.com/p/38048506)  
-* [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
 * [关于AssetBundle打包的依赖收集](./关于AssetBundle打包的依赖收集.docx)  
 * [一位大神自研的支持热更的脚本语言](https://github.com/qingfeng346/Scorpio-CSharp)  
 * [Unity 5.x AssetBundle零冗余解决方案](https://zhuanlan.zhihu.com/p/25111851?tdsourcetag=s_pcqq_aiomsg)  
 * [关于Unity3D的AssetBundle打包的建议](https://zhuanlan.zhihu.com/p/63686076?tdsourcetag=s_pcqq_aiomsg)  
+### ILRuntime相关  
+* [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
+* [ILRuntime入门笔记](https://www.cnblogs.com/zhaoqingqing/archive/2019/01/17/10274176.html)  
+* [对C#热更新方案ILRuntime的探究](https://www.cnblogs.com/zblade/p/9041400.html)  
+* [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
