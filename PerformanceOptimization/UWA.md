@@ -50,3 +50,4 @@
 >* [【厚积薄发】LWRP下代码动态更改阴影生成距离](https://mp.weixin.qq.com/s/48QDflVhhG-d0BGIaehvkA)  
 >* [【厚积薄发】使用GPU Instancing屏幕花屏问题](https://mp.weixin.qq.com/s/5eULtcIu-5vY_W3bTLjZ4g)  
 >* [【厚积薄发】移动平台纹理压缩格式选择](https://mp.weixin.qq.com/s/wCRTJ-LtQE9mtaxvdTU3GQ)  
+>* [【厚积薄发】NGUI与新版Prefab系统冲突问题](https://mp.weixin.qq.com/s/kg5CuEzgAjK-13BpjoqQYg)  
