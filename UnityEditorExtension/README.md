@@ -11,3 +11,4 @@
 >* [三款开源的节点编辑器-1](https://github.com/Siccity/xNode)  
 >* [三款开源的节点编辑器-2](https://github.com/alelievr/NodeGraphProcessor)  
 >* [三款开源的节点编辑器-3](https://github.com/Seneral/Node_Editor_Framework)  
+>* [Unity日志工具——封装，跳转](https://www.iteye.com/blog/dsqiu-2263664)  
