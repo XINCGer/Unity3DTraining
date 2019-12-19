@@ -40,3 +40,5 @@
 * [Unity对象的所有组件深拷贝与粘贴小插件](./CopyAllComponents)  
 * [excel导出为配置文件的工具](https://github.com/yanghuan/proton)  
 * [CSharpGeneratorForProton](https://github.com/yanghuan/CSharpGeneratorForProton)  
+* [适配Unity的LitJson库](https://github.com/Mervill/UnityLitJson)  
+* [原版的LitJson库](https://github.com/LitJSON/litjson)  
