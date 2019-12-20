@@ -72,6 +72,7 @@
 >* [大龄开发人员如何破局](https://www.cnblogs.com/zhangpan1244/p/11422814.html)  
 >* [【核心整理】那些让你起飞的计算机基础知识：学什么，怎么学？](https://www.cnblogs.com/kubidemanong/p/11629398.html)  
 >* [每次阅读外文技术资料都头疼，终于知道原因了](https://www.cnblogs.com/strick/p/11616288.html)  
+>* [解决问题的能力 > 10倍程序员](https://www.cnblogs.com/Zachary-Fan/p/solveproblem.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
