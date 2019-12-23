@@ -42,3 +42,5 @@
 * [CSharpGeneratorForProton](https://github.com/yanghuan/CSharpGeneratorForProton)  
 * [适配Unity的LitJson库](https://github.com/Mervill/UnityLitJson)  
 * [原版的LitJson库](https://github.com/LitJSON/litjson)  
+* [SharpZipLib 压缩库](https://github.com/icsharpcode/SharpZipLib)  
+* [SharpZipLib 官网](http://icsharpcode.github.io/SharpZipLib/)  
