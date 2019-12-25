@@ -31,3 +31,4 @@
 >* [电脑组装之硬件选择](https://www.cnblogs.com/LXP-Never/p/11607551.html)  
 >* [【教程】开发Unity PackageManager 插件包](https://www.jianshu.com/p/153841d65846)  
 >* [【提问的艺术】Fish Li 该如何帮助您呢？](https://www.cnblogs.com/fish-li/archive/2013/03/12/2954997.html)  
+>* [C# 利用SharpZipLib生成压缩包](https://www.cnblogs.com/hsiang/p/9721423.html)  
