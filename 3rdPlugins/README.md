@@ -44,3 +44,5 @@
 * [原版的LitJson库](https://github.com/LitJSON/litjson)  
 * [SharpZipLib 压缩库](https://github.com/icsharpcode/SharpZipLib)  
 * [SharpZipLib 官网](http://icsharpcode.github.io/SharpZipLib/)  
+* [Lua静态语法检查工具Luacheck](https://github.com/mpeterv/luacheck)  
+* [LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump)  
