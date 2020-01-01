@@ -15,6 +15,7 @@
 * [Unity 5.x AssetBundle零冗余解决方案](https://zhuanlan.zhihu.com/p/25111851?tdsourcetag=s_pcqq_aiomsg)  
 * [关于Unity3D的AssetBundle打包的建议](https://zhuanlan.zhihu.com/p/63686076?tdsourcetag=s_pcqq_aiomsg)  
 * [Addressable基础篇之浅谈Assets——Unity资源映射](https://mp.weixin.qq.com/s/3iyl_O1cRf9i1seMpi3Owg)  
+* [Addressable基础篇之Resources目录的优点与痛点](https://mp.weixin.qq.com/s/5EBji5p5Skh0XRp8mq5RBA)  
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
 * [ILRuntime入门笔记](https://www.cnblogs.com/zhaoqingqing/archive/2019/01/17/10274176.html)  
