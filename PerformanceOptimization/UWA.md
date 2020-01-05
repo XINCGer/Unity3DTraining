@@ -52,3 +52,4 @@
 >* [【厚积薄发】移动平台纹理压缩格式选择](https://mp.weixin.qq.com/s/wCRTJ-LtQE9mtaxvdTU3GQ)  
 >* [【厚积薄发】NGUI与新版Prefab系统冲突问题](https://mp.weixin.qq.com/s/kg5CuEzgAjK-13BpjoqQYg)  
 >* [【厚积薄发】默认画质的机型适配方案](https://mp.weixin.qq.com/s/mTvuDmJHX_ZlVPXpRu7xfg)  
+>* [【厚积薄发】透视相机怎么得到正交效果](https://mp.weixin.qq.com/s/GnyuMv_Jb3MAWJAgUWArAA)  
