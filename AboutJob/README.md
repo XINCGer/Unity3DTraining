@@ -135,6 +135,7 @@
 >* [双子码农](https://www.ifanr.com/1272453)  
 >* [让互联网人崩溃的一句话！](https://mp.weixin.qq.com/s/5FOBRPMcH2RWOdejg4pwXg)  
 >* [被大公司圈养的年轻人](https://mp.weixin.qq.com/s/z7xQH9--4gYGKLfrCXDt-w)  
+>* [为什么「狼性文化」里，狼越来越少，狗却越来越多？ | 周末漫谈](https://mp.weixin.qq.com/s/rSEtgb6sPOV_Mk-faCMMLw)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
