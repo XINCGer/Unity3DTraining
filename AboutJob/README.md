@@ -117,6 +117,7 @@
 >* [华为两次卷入裁员争议背后：弱势劳动者应堤防哪些离职陷阱？](https://news.cnblogs.com/n/651292/)  
 >* [工作6年，失业19天](https://www.cnblogs.com/demingblog/p/12046170.html)  
 >* [2019，料你也不想再过一次](https://mp.weixin.qq.com/s/aWP7hydYq1ajkIviCd2_wA)  
+>* [互联网大厂死磕「加速包」](https://mp.weixin.qq.com/s/jnVHE2acxBBwT0-GlhxQ-g)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
