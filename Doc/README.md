@@ -33,3 +33,4 @@
 >* [【提问的艺术】Fish Li 该如何帮助您呢？](https://www.cnblogs.com/fish-li/archive/2013/03/12/2954997.html)  
 >* [C# 利用SharpZipLib生成压缩包](https://www.cnblogs.com/hsiang/p/9721423.html)  
 >* [在Unity中程序化生成的地牢环境](https://mp.weixin.qq.com/s/3yM-mAAXq_fX5tcy82s0uQ)  
+>* [如何获取C#中方法的执行时间以及其代码注入详解](https://www.jb51.net/article/150482.htm)  
