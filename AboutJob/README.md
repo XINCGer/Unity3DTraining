@@ -44,6 +44,7 @@
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
 >* [程序员买房指南——LZ的三次买房和一次卖房经历](https://www.cnblogs.com/zuoxiaolong/p/life86.html)  
 >* [互联网人年底加薪指南](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzkwNQ==&mid=2649518975&idx=1&sn=65dba67ea2f4c61ff1c6b4efce11ec35&chksm=88814e21bff6c737398b9c44f58367d9aefecff959eaad5e9d8785a1220ae1078c4953ffd06a&mpshare=1&scene=23&srcid=1120oKtYeyVoqe9UgIYLl17D#rd)  
+>* [我年薪60W，浑身没有超过100块的衣服：存钱，才是最顶级的自律](https://mp.weixin.qq.com/s/7_X_t3kQUZf1An9NDrj_5Q)  
 
 ### 关于IT培训那些事  
 >* [IT培训行业揭秘（一）](https://www.cnblogs.com/renyanlei/p/6089315.html)  
