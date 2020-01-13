@@ -16,6 +16,7 @@
 * [【博物纳新】Impostor Baker开源库测评](https://mp.weixin.qq.com/s/fkVLHjTFzlVtt12VMJqkGA)  
 * [【博物纳新】AI for Animation开源库介绍](https://mp.weixin.qq.com/s/HtkW484f8RvFEqKOi_FEtQ)  
 * [unity引用查找插件-ReferenceFinder](https://www.cnblogs.com/blueberryzzz/p/10674581.html)  
+* [Unity资源引用查找工具-OrganizeResources](https://github.com/coding2233/OrganizeResources)  
 * [QNET，一款给力的APP弱网络测试工具](https://www.cnblogs.com/quark/p/10734587.html)  
 * [【博物纳新】补间动画XTween开源库测评](https://mp.weixin.qq.com/s/ZSXLRU2E99l8ZkE98_R2gA)  
 * [Unity3d之-使用BMFont制作美术字体](https://www.cnblogs.com/imteach/p/10743725.html)  
