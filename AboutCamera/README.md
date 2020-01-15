@@ -5,3 +5,4 @@
 >* [制作大型MMO项目中的相机视角操作【博客】](http://www.u3d8.com/?p=1235)  
 >* [使用Cinemachine设置3D格斗游戏的摄像机](https://mp.weixin.qq.com/s/v_7rGhDfy28kfsCUALzFMQ)  
 >* [Unity - Cinemachine实现相机抖动](https://www.cnblogs.com/SouthBegonia/p/11891117.html)  
+>* [Unity 基于Cinemachine计算透视摄像机在地图中的移动范围](https://www.cnblogs.com/koshio0219/p/12145525.html)  
