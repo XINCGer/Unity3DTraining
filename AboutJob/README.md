@@ -77,6 +77,7 @@
 >* [解决问题的能力 > 10倍程序员](https://www.cnblogs.com/Zachary-Fan/p/solveproblem.html)  
 >* [毕业10年，我有话说](https://www.cnblogs.com/lixinjie/p/graduated-for-10-years.html)  
 >* [园龄10年，有些新认识跟大家分享](https://www.cnblogs.com/xiaozhi_5638/p/12146327.html)  
+>* [中台，我信了你的邪 | 深氪](https://mp.weixin.qq.com/s/9j3BnR3UqA-lnJDoM5Hrvg)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
