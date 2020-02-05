@@ -50,3 +50,4 @@
 * [Unity博主营地｜Unity常用插件汇总](https://mp.weixin.qq.com/s/OvBe1BFr9NtYFKcvDFPEww)  
 * [“开箱即用”的Unity独立游戏开发工具 TinaX Framework](https://tinax.corala.space/#/)  
 * [以一抵十，年度精华教程大汇总](https://mp.weixin.qq.com/s/kIWzak2KiVr6-NltDwVRHA)  
+* [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
