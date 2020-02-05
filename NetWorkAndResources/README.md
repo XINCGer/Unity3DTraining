@@ -17,5 +17,6 @@
 >* [预测回滚式帧同步的框架的教程源码](https://github.com/JiepengTan/Lockstep-Tutorial)  
 >* [预测回滚式帧同步的框架的教程（免费）](https://space.bilibili.com/308864667/channel/detail?cid=86562)  
 >* [TCP/IP超详细总结](https://www.cnblogs.com/wgblog-code/p/12091057.html)  
+>* [xLua下使用lua-protobuf](https://www.cnblogs.com/xiaohutu/p/12168781.html)  
 
 
