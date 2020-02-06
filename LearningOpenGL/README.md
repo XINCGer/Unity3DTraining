@@ -29,5 +29,6 @@
 * [Unity 点乘&叉乘 应用实例](https://www.cnblogs.com/u3ddjw/p/8587767.html)  
 * [3blue1brown官网](https://www.3blue1brown.com/)  
 * [3blue1brown B站](https://space.bilibili.com/88461692)  
+* [Unity博主营地 | 零基础入门Unity Shader（一）](https://mp.weixin.qq.com/s/dR86hy8gaHoXSkf1Xb04pQ)  
 
 
