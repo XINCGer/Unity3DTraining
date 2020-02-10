@@ -122,6 +122,9 @@
 >* [2019，料你也不想再过一次](https://mp.weixin.qq.com/s/aWP7hydYq1ajkIviCd2_wA)  
 >* [互联网大厂死磕「加速包」](https://mp.weixin.qq.com/s/jnVHE2acxBBwT0-GlhxQ-g)  
 
+### 互联网编年史2020  
+>* [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://www.cnblogs.com/hejunlin/p/12289061.html)  
+
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
 >* [那些边裁员边发布大量职位的公司，都在想什么？](https://mp.weixin.qq.com/s/--CKiikqHkAfi6jizTcIPg)  
