@@ -19,6 +19,7 @@
 * [Addressable基础篇之AssetBundle原理](https://mp.weixin.qq.com/s/uOy4lkuY6HPQNOhXki58NQ)  
 * [Addressable基础篇之AssetBundle最佳实践](https://mp.weixin.qq.com/s/MSFoXifr5FkCP-ZTP1Jaww)  
 * [Addressable基础篇之Addressable Assets System简介](https://mp.weixin.qq.com/s/q8nkAw_52AVG_oSuaDzxjw)  
+* [Addressable基础篇之Addressable Assets开发周期](https://mp.weixin.qq.com/s/yKTymdcQriYvCQmAugwiQg)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
