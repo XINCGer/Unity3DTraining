@@ -14,3 +14,4 @@
 >* [C# 一句很简单而又很经典的代码](https://www.cnblogs.com/u3ddjw/p/11109679.html)  
 >* [Unity官方建议的编程风格](http://wiki.unity3d.com/index.php/Csharp_Coding_Guidelines)  
 >* [从零开始分析C#所有常用集合类的设计（源码向）](https://www.lfzxb.top/re0-c-generic-collections-analyze-with-source-code/)  
+>* [聊聊“装箱”在CLR内部的实现](https://www.cnblogs.com/murongxiaopifu/p/12295848.html)  
