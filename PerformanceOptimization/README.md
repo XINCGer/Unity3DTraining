@@ -56,3 +56,4 @@
 >* [优化Unity游戏项目的脚本（下）](https://mp.weixin.qq.com/s/qPzxGMdkeM3XfZs52sV-Mw)  
 >* [Unity UI Profiling：你怎么敢破坏我的批处理？](https://mp.weixin.qq.com/s/lccbTm0LI1Kc_oyg5D0u3w)  
 >* [游戏开发：Unity中Lua造成的堆内存泄露问题](https://mp.weixin.qq.com/s/weuQjDcGPUyxZzQZEsNDxg)  
+>* [[转]Lua和Lua JIT及优化指南](https://www.cnblogs.com/zhaoqingqing/p/10397867.html)  
