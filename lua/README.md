@@ -18,3 +18,4 @@
 >* [16.Lua弱表Weak table](https://blog.csdn.net/shimazhuge/article/details/40310233)  
 >* [17.【lua】弱引用table（__mode）](https://www.cnblogs.com/colin-chan/articles/4774651.html)  
 >* [18.Lua调用原理展示（lua的堆栈）](https://blog.csdn.net/zhuzhuyule/article/details/41086745)  
+>* [19.[转]Lua和Lua JIT及优化指南](https://www.cnblogs.com/zhaoqingqing/p/10397867.html)  
