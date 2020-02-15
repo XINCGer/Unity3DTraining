@@ -51,3 +51,4 @@
 * [“开箱即用”的Unity独立游戏开发工具 TinaX Framework](https://tinax.corala.space/#/)  
 * [以一抵十，年度精华教程大汇总](https://mp.weixin.qq.com/s/kIWzak2KiVr6-NltDwVRHA)  
 * [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
+* [最「水」的资源插件汇总，强烈建议你收藏](https://mp.weixin.qq.com/s/dWeC7pJf1237_qW0T6_Kew)  
