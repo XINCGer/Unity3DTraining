@@ -27,6 +27,7 @@
 >* [八家国企大数据面经(干货，详细答案)](https://mp.weixin.qq.com/s/7Aw6pdNI9eiCXsRQViM4UQ)  
 >* [历经两个月的秋招，结束了，谈谈春秋招中一些重要的知识点吧（本科+后台+腾讯）](https://www.cnblogs.com/kubidemanong/p/11626515.html)  
 >* [跳槽面试技巧记录](https://www.cnblogs.com/strick/p/12124272.html)  
+>* [金三银四，给面试者的十大建议](https://www.cnblogs.com/jay-huaxiao/p/12312846.html)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
