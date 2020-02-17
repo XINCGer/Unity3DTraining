@@ -56,3 +56,4 @@
 >* [【厚积薄发】2019.2版本UI耗时异常分析](https://mp.weixin.qq.com/s/v25onCelH9Peh-VxaYr6ww)  
 >* [2019年度大赏 | UWA问答精选 优化篇](https://mp.weixin.qq.com/s/5MH6_M3sC3RvoLal500Lqw)  
 >* [2019年度大赏 | UWA问答精选 应用篇](https://mp.weixin.qq.com/s/PvtHEeE4frZgDf_8FEGetA)  
+>* [【厚积薄发】IL2CPP的内存问题](https://mp.weixin.qq.com/s/5PCUDYOyElZU_83sadxG0Q)  
