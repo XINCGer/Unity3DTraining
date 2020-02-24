@@ -80,6 +80,7 @@
 >* [园龄10年，有些新认识跟大家分享](https://www.cnblogs.com/xiaozhi_5638/p/12146327.html)  
 >* [中台，我信了你的邪 | 深氪](https://mp.weixin.qq.com/s/9j3BnR3UqA-lnJDoM5Hrvg)  
 >* [7年加工作经验的程序员，从大厂跳槽出来，遭遇了什么？](https://www.cnblogs.com/zuoxiaolong/p/life110.html)  
+>* [风物长宜放眼量，人间正道是沧桑 - 一位北美 IT 技术人破局](https://www.cnblogs.com/cxuanBlog/p/12356142.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
