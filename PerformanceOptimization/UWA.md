@@ -57,3 +57,4 @@
 >* [2019年度大赏 | UWA问答精选 优化篇](https://mp.weixin.qq.com/s/5MH6_M3sC3RvoLal500Lqw)  
 >* [2019年度大赏 | UWA问答精选 应用篇](https://mp.weixin.qq.com/s/PvtHEeE4frZgDf_8FEGetA)  
 >* [【厚积薄发】IL2CPP的内存问题](https://mp.weixin.qq.com/s/5PCUDYOyElZU_83sadxG0Q)  
+>* [【厚积薄发】GPU Skinning不生效问题](https://mp.weixin.qq.com/s/rwuOOK8i4YAFCcXQsHVmEg)  
