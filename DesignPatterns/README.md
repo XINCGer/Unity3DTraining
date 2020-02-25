@@ -31,6 +31,6 @@
 * [在Unity实现游戏命令模式](https://mp.weixin.qq.com/s/3dbta9vSvY-nERUUH5IDyg)  
 * [游戏设计模式——面向数据编程（新）](https://www.cnblogs.com/KillerAery/p/11746639.html)  
 * [我曾想深入了解的：依赖倒置、控制反转、依赖注入](https://www.cnblogs.com/sunchong/p/12242994.html)  
-
+* [帮你整理了一份设计模式速查手册](https://www.cnblogs.com/xibei/p/12362992.html)  
 
 
