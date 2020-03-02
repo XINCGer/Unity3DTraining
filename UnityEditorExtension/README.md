@@ -15,3 +15,4 @@
 >* [Unity 内置GUIStyle 样例预览](https://blog.csdn.net/l773575310/article/details/90033381)  
 >* [Unity 编辑器内实现预览窗口](https://blog.csdn.net/akof1314/article/details/70941447)  
 >* [收集整理一些Gizmos相关工具](./GizmoKitCollection.md)  
+>* [如何在Unity编辑器中添加你自己的工具](https://www.cnblogs.com/ZhYQ-Note/articles/5846239.html)  
