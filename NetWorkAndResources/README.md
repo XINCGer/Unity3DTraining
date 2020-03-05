@@ -19,5 +19,5 @@
 >* [TCP/IP超详细总结](https://www.cnblogs.com/wgblog-code/p/12091057.html)  
 >* [xLua下使用lua-protobuf](https://www.cnblogs.com/xiaohutu/p/12168781.html)  
 >* [两种同步模式：状态同步和帧同步](https://zhuanlan.zhihu.com/p/36884005)  
-
+>* [帧同步游戏开发小结](https://www.cnblogs.com/xiaohutu/p/12402399.html)  
 
