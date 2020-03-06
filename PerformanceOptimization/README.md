@@ -59,3 +59,4 @@
 >* [[转]Lua和Lua JIT及优化指南](https://www.cnblogs.com/zhaoqingqing/p/10397867.html)  
 >* [UnityTips:不要在发布版本中实现OnGUI方法](https://www.cnblogs.com/murongxiaopifu/p/12341204.html)  
 >* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
+>* [Addressable基础篇之Addressables分析器](https://mp.weixin.qq.com/s/04fQFpF_zwrOOlGLiKaWbA)  
