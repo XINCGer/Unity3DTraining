@@ -129,6 +129,7 @@
 >* [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://www.cnblogs.com/hejunlin/p/12289061.html)  
 >* [2亿人在家办公，1亿人在摸鱼：疫情当下，你该剽悍成长](https://mp.weixin.qq.com/s/jBrGQdwCBB18-CAXzrCaEQ)  
 >* [写给互联网大厂员工的真心话：2020年，别瞎折腾！](https://news.cnblogs.com/n/656629/)  
+>* [年前裸辞的程序员：我的职业生涯“宕机”了](https://news.cnblogs.com/n/657127/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
