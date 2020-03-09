@@ -59,3 +59,4 @@
 >* [【厚积薄发】IL2CPP的内存问题](https://mp.weixin.qq.com/s/5PCUDYOyElZU_83sadxG0Q)  
 >* [【厚积薄发】GPU Skinning不生效问题](https://mp.weixin.qq.com/s/rwuOOK8i4YAFCcXQsHVmEg)  
 >* [【厚积薄发】如何查看子线程中的GC Alloc](https://mp.weixin.qq.com/s/aP6JQCEqPEIhyTII2l3Nhg)  
+>* [【厚积薄发】本地资源检测功能使用疑问](https://mp.weixin.qq.com/s/UkuxNLEP3_oHp95NbleONg)  
