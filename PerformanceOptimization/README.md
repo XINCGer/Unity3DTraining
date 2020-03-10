@@ -60,3 +60,4 @@
 >* [UnityTips:不要在发布版本中实现OnGUI方法](https://www.cnblogs.com/murongxiaopifu/p/12341204.html)  
 >* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
 >* [不要忽视Managed code stripping的副作用](https://www.cnblogs.com/murongxiaopifu/p/12425817.html)  
+>* [解决Sprite Atlas打包Asset bundles时重复打包的问题](https://www.cnblogs.com/murongxiaopifu/p/12453356.html)  
