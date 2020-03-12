@@ -14,6 +14,7 @@
 * [一位大神自研的支持热更的脚本语言](https://github.com/qingfeng346/Scorpio-CSharp)  
 * [Unity 5.x AssetBundle零冗余解决方案](https://zhuanlan.zhihu.com/p/25111851?tdsourcetag=s_pcqq_aiomsg)  
 * [关于Unity3D的AssetBundle打包的建议](https://zhuanlan.zhihu.com/p/63686076?tdsourcetag=s_pcqq_aiomsg)  
+* [给调皮的AssetBundle加上面向对象式加载调试管理](https://blog.uwa4d.com/archives/Sparkle_AB.html)  
 * [Addressable基础篇之浅谈Assets——Unity资源映射](https://mp.weixin.qq.com/s/3iyl_O1cRf9i1seMpi3Owg)  
 * [Addressable基础篇之Resources目录的优点与痛点](https://mp.weixin.qq.com/s/5EBji5p5Skh0XRp8mq5RBA)  
 * [Addressable基础篇之AssetBundle原理](https://mp.weixin.qq.com/s/uOy4lkuY6HPQNOhXki58NQ)  
