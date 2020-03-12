@@ -145,7 +145,7 @@
 >* [那些职场「过来人」说的话，你信了几句？](https://mp.weixin.qq.com/s/9Vk0RcChAnuqgd0tZHlpzw)  
 >* [北京程序员上班通勤指南：打车贵，路途远，不会武功根本挤不上地铁](https://mp.weixin.qq.com/s/kidzHQwrPIr6ahMptrEDag)  
 >* [真实的上海IT圈：张江男vs漕河泾男](https://mp.weixin.qq.com/s/cKzV5TRQezevEYEbuIeTlA)  
->* [外资入华四十年：可口可乐曾用一年利润换下央视纪录片广告](http://t.sg.cn/30trga)  
+>* [外资入华四十年：可口可乐曾用一年利润换下央视纪录片广告](https://new.qq.com/omn/20190926/20190926A0QK9600.html?pgv_ref=aio2015)  
 >* [双子码农](https://www.ifanr.com/1272453)  
 >* [让互联网人崩溃的一句话！](https://mp.weixin.qq.com/s/5FOBRPMcH2RWOdejg4pwXg)  
 >* [被大公司圈养的年轻人](https://mp.weixin.qq.com/s/z7xQH9--4gYGKLfrCXDt-w)  
