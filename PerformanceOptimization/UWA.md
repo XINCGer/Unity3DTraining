@@ -60,3 +60,4 @@
 >* [【厚积薄发】GPU Skinning不生效问题](https://mp.weixin.qq.com/s/rwuOOK8i4YAFCcXQsHVmEg)  
 >* [【厚积薄发】如何查看子线程中的GC Alloc](https://mp.weixin.qq.com/s/aP6JQCEqPEIhyTII2l3Nhg)  
 >* [【厚积薄发】本地资源检测功能使用疑问](https://mp.weixin.qq.com/s/UkuxNLEP3_oHp95NbleONg)  
+>* [【厚积薄发】关于Addressable的疑问](https://mp.weixin.qq.com/s/qfUGFPBTe3stuA_CDjQVYA)  
