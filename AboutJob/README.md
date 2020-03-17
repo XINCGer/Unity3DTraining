@@ -131,6 +131,7 @@
 >* [写给互联网大厂员工的真心话：2020年，别瞎折腾！](https://news.cnblogs.com/n/656629/)  
 >* [年前裸辞的程序员：我的职业生涯“宕机”了](https://news.cnblogs.com/n/657127/)  
 >* [毕业 2020：令人心碎的 offer | 深氪](https://mp.weixin.qq.com/s/tte0xoBh9YFN7BWiWz9pWQ)  
+>* [三个网红的十年：愤然一跃，坠入大海](https://news.cnblogs.com/n/657715/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
