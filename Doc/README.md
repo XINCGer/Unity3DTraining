@@ -41,3 +41,4 @@
 >* [与程序员相关的CPU缓存知识](https://news.cnblogs.com/n/656672/)  
 >* [Wwise 快速上手指南: 程序员篇（v2016.1）](https://gameinstitute.qq.com/community/detail/107700)  
 >* [一网打尽！每个程序猿都该了解的黑客技术大汇总](https://www.cnblogs.com/xuanyuan/p/12529598.html)  
+>* [使用Doxygen生成C#帮助文档](https://www.cnblogs.com/zhaoqingqing/p/3842236.html)  
