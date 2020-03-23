@@ -24,6 +24,7 @@
 * [Addressable基础篇之Addressable Assets托管服务](https://mp.weixin.qq.com/s/sa0wF5uNH7jpuIrFfzhJiA)  
 * [Addressable基础篇之Addressable Assets内存管理](https://mp.weixin.qq.com/s/anwQnLVbQLYQbM22pnBQkw)    
 * [Addressable基础篇之Addressables分析器](https://mp.weixin.qq.com/s/04fQFpF_zwrOOlGLiKaWbA)  
+* [关于Addressable的疑问](https://blog.uwa4d.com/archives/TechSharing_195.html)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
