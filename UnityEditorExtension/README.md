@@ -22,3 +22,5 @@
 ### 修改源码相关  
 * [使用Mono.Cecil实现IL代码注入](https://www.jianshu.com/p/a5276aadccdd?from=singlemessage)  
 * [Mono.Cecil 初探（一）：实现AOP](https://www.cnblogs.com/huangmianwu/p/5833924.html)  
+* [Unity 修改UnityEditor.DLL](https://blog.csdn.net/K20132014/article/details/89217298)  
+* [反编译C#的dll文件并修改，再重新生成dll](https://www.cnblogs.com/jiangchuan/p/10851179.html)  
