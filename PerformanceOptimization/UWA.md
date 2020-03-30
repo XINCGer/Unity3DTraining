@@ -62,3 +62,4 @@
 >* [【厚积薄发】本地资源检测功能使用疑问](https://mp.weixin.qq.com/s/UkuxNLEP3_oHp95NbleONg)  
 >* [【厚积薄发】关于Addressable的疑问](https://mp.weixin.qq.com/s/qfUGFPBTe3stuA_CDjQVYA)  
 >* [【厚积薄发】Spine合批问题](https://mp.weixin.qq.com/s/GIST0S9vZcL6x-aX-dEtww)  
+>* [【厚积薄发】AssetBundle异步加载资源阻塞主线程的疑问](https://mp.weixin.qq.com/s/LUlZ-VvjxOghMDD9X4cKZg)  
