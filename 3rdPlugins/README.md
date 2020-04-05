@@ -57,3 +57,4 @@
 * [UnityParticleSystemPreview](https://github.com/akof1314/UnityParticleSystemPreview)  
 * [Unity-VariableTileLayout 做海报不错的库](https://github.com/kiepng/Unity-VariableTileLayout)  
 * [xlsx_to_lua导表工具](https://github.com/xasset/xlsx_to_lua)  
+* [博主营地 | Unity红点系统如何实现？超全步骤分享](https://mp.weixin.qq.com/s/dLRiH3p_Pl9r5bQHOEAApg)   
