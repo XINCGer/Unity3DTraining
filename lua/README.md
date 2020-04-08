@@ -19,3 +19,8 @@
 >* [17.【lua】弱引用table（__mode）](https://www.cnblogs.com/colin-chan/articles/4774651.html)  
 >* [18.Lua调用原理展示（lua的堆栈）](https://blog.csdn.net/zhuzhuyule/article/details/41086745)  
 >* [19.[转]Lua和Lua JIT及优化指南](https://www.cnblogs.com/zhaoqingqing/p/10397867.html)  
+>* [20.unity-与skynet通信二三事(sproto,crypt)](https://blog.csdn.net/yangxuan0261/article/details/78037789)  
+>* [21.tolua runtime library](https://github.com/topameng/tolua_runtime)  
+>* [22.基于tolua_rumtime扩展第三方库版本](https://github.com/jarjin/tolua_rumtime)  
+>* [23.如何编译各平台使用的库：以编译tolua为例](https://blog.csdn.net/huangyushi/article/details/74457121)  
+>* [24.tolua各个平台的编译](https://blog.csdn.net/Rhett_Yuan/article/details/79656306)  
