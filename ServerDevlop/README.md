@@ -11,3 +11,6 @@
 #### 游戏后端技术  
 >* [Go游戏服务端框架从零搭建（一）— 架构设计](https://www.cnblogs.com/niudanshui/p/11864281.html)  
 >* [在C#中使用二叉树实时计算海量用户积分排名的实现](https://www.cnblogs.com/hohoa/p/12145689.html)  
+
+#### Redis   
+>* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
