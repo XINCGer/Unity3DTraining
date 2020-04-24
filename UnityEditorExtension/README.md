@@ -19,6 +19,7 @@
 >* [Unity在Editor下获取键盘等设备Input事件](https://www.bobsong.net/945.html)  
 >* [UnityEditorWindow停靠实现](https://github.com/liuxq/blog/issues/7)  
 >* [unity3d预制体修改与保存](https://blog.csdn.net/yuewei19/article/details/74986029?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)  
+>* [[Unity3D]清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)  
 
 ### 修改源码相关  
 * [使用Mono.Cecil实现IL代码注入](https://www.jianshu.com/p/a5276aadccdd?from=singlemessage)  
