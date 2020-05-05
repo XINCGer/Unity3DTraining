@@ -13,6 +13,7 @@
 >* [在C#中使用二叉树实时计算海量用户积分排名的实现](https://www.cnblogs.com/hohoa/p/12145689.html)  
 >* [Xcode发布测试版本,直接通过Safari在线安装ipa](https://blog.csdn.net/csdwd/article/details/52297786)  
 >* [手把手叫你 制作一个不需要任何工具 从网页上安装ipa包的办法](https://blog.csdn.net/kingmax54212008/article/details/56278134)  
+>* [mac 安装nginx并配置SSL实现Https访问](https://www.jianshu.com/p/fc1e81efc867)  
 #### 游戏后端服务器框架  
 >* [lua游戏服务器框架](https://github.com/ylmbtm/LuaServerFrame)  
 
