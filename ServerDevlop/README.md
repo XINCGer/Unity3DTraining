@@ -17,6 +17,7 @@
 
 #### 游戏后端服务器框架  
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
+>* [skynet框架应用 (一) skynet介绍](https://blog.csdn.net/qq769651718/article/details/79432793)  
 >* [lua游戏服务器框架](https://github.com/ylmbtm/LuaServerFrame)  
 
 #### Redis   
