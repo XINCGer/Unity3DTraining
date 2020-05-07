@@ -18,3 +18,4 @@
 >* [【5min+】 这些C#的运算符您都认识吗？](https://www.cnblogs.com/uoyo/p/12307959.html)  
 >* [C#中的9个“黑魔法”与“骚操作”](https://www.cnblogs.com/sdflysha/p/20200331-black-magic-in-csharp.html)  
 >* [你所不知道的 C# 中的细节](https://www.cnblogs.com/hez2010/p/12606419.html)  
+>* [内存迟迟下不去，可能你就差一个GC.Collect](https://www.cnblogs.com/huangxincheng/p/12839160.html)  
