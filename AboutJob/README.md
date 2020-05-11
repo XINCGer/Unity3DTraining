@@ -136,6 +136,7 @@
 >* [毕业 2020：令人心碎的 offer | 深氪](https://mp.weixin.qq.com/s/tte0xoBh9YFN7BWiWz9pWQ)  
 >* [三个网红的十年：愤然一跃，坠入大海](https://news.cnblogs.com/n/657715/)  
 >* [刚刚，李国庆建立了当当网流亡政府](https://news.cnblogs.com/n/660873/)  
+>* [丰巢和快递有恃无恐](https://news.cnblogs.com/n/661638/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
