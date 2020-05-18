@@ -19,3 +19,4 @@
 >* [UGUI的图集处理方式-SpriteAtlas的前世今生](https://www.cnblogs.com/fly-100/p/11439487.html)  
 >* [Unity进阶技巧 - RectTransform详解](https://www.cnblogs.com/zhimalier/p/11633816.html)  
 >* [Unity事件系统EventSystem简析](https://www.cnblogs.com/blueberryzzz/p/12216045.html)  
+>* [一套简单的UI自动绑定框架](./UIViewBindDemo)  
