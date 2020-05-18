@@ -68,3 +68,4 @@
 >* [【厚积薄发】渲染大面积草地时，如何降低消耗？](https://mp.weixin.qq.com/s/tx62KpW3AwOGL8MWpVuerg)  
 >* [【厚积薄发】AssetBundle包加载的场景会变暗](https://mp.weixin.qq.com/s/CLm51HpGkZoy0ntBnS4ULg)  
 >* [【厚积薄发】FMOD热更新在安卓下的堆内存占用](https://mp.weixin.qq.com/s/r8UtFBcZRMfW63Qn6xPCBQ)  
+>* [【厚积薄发】Crunched ETC2相关问题](https://mp.weixin.qq.com/s/gx0O3bU_d1PkXIIa8LTArQ)  
