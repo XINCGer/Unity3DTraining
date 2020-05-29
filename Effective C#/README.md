@@ -20,3 +20,4 @@
 >* [你所不知道的 C# 中的细节](https://www.cnblogs.com/hez2010/p/12606419.html)  
 >* [内存迟迟下不去，可能你就差一个GC.Collect](https://www.cnblogs.com/huangxincheng/p/12839160.html)  
 >* [List的扩容机制，你真的明白吗？](https://www.cnblogs.com/huangxincheng/p/12954569.html)  
+>* [使用PInvoke互操作，让C#和C++愉快的交互优势互补](https://www.cnblogs.com/huangxincheng/p/12985351.html)  
