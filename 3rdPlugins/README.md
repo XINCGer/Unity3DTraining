@@ -60,3 +60,4 @@
 * [博主营地 | Unity红点系统如何实现？超全步骤分享](https://mp.weixin.qq.com/s/dLRiH3p_Pl9r5bQHOEAApg)   
 * [代码极简但功能相对完善的基于UGUI的摇杆（Joystick）组件](https://github.com/Bian-Sh/UniJoystick)  
 * [A Diablo 2-style inventory system for Unity3D](https://github.com/FarrokhGames/Inventory)  
+* [一种Shader变体收集和打包编译优化的思路](https://github.com/lujian101/ShaderVariantCollector)  
