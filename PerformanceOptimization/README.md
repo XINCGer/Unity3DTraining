@@ -62,3 +62,15 @@
 >* [不要忽视Managed code stripping的副作用](https://www.cnblogs.com/murongxiaopifu/p/12425817.html)  
 >* [解决Sprite Atlas打包Asset bundles时重复打包的问题](https://www.cnblogs.com/murongxiaopifu/p/12453356.html)  
 >* [如何优化几何、纹理、材料、阴影表现？TA不可不知的4个小技巧](https://mp.weixin.qq.com/s/KSkBCtKvxpt5GCnoYH8Ucg)  
+
+
+### 零散知识点总结  
+* 以下是Unity官方直播中的性能优化点总结:  
+（1）新版本的asset pipeline2 采用database的存取资源，英文简称 LMDB
+（2）在打assetbundle 的时候，官方推荐的打包选项是
+         - chunck的压缩方式（这种压缩，官方优化了 和lz4 基本一样），中国版unity的里面，chunck的压缩方式，已经暴露了加密接口。所以说用这个加密方式是最安全的，最快的，吊打offset
+         - disableTypeTree ( 这个选项主要是官方用来做各个引擎版本的 类型的schema兼容的)
+（3） 一个ab文件的大小最好 是1 到2M ，2M 最好
+（4）在资源文件夹的名字，前面或者后面有~ （波浪线）unity 都会忽略这个文件夹
+（5）assetbundle 在unity editor 里面的和 手机上，加载方式不一样。前者是完全加载，后者按需加载
+（6） assetbundle 最好不要同时用 同步和异步加载，应该内部分配object id的时候有lock 操作
