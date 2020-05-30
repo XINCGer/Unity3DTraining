@@ -5,3 +5,4 @@
 * [Unity3D使用Jenkins进行自动打包](https://www.aliyun.com/jiaocheng/794551.html)  
 * [Unity3D研究院之脚本批量打包渠道包研究](http://www.xuanyusong.com/archives/2418?utm_source=tuicool&utm_medium=referral)  
 * [Unity和Jenkins真是绝配，将打包彻底一键化！](https://www.cnblogs.com/wuzhang/p/20190512wuzhang.html)  
+* [博主营地 | Unity打包Android最全攻略（含完整流程及常见问题）](https://mp.weixin.qq.com/s/bwPzIhKNqO8J2e2O6GppFA)  
