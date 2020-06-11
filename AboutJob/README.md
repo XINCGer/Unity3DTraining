@@ -43,6 +43,7 @@
 >* [一个员工的离职成本，很恐怖！](https://mp.weixin.qq.com/s/VyOwTCtZla7ozmOwtm5Qzw)  
 >* [程序员把面试他的HR征服了！](https://mp.weixin.qq.com/s/EhsAmD2kb8YocAZL1-MEMw)  
 >* [你是如何被职场 PUA 一步步毁掉的？](https://mp.weixin.qq.com/s/HLAL2PPvuSjJw1EZupscjg)  
+>* [中国最惨创业者：3年前我被投资人赶出公司，3年后让我赔3800万！](https://news.cnblogs.com/n/663839/)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
