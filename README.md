@@ -56,4 +56,5 @@
 >* [52.电商与后端开发等相关的不错的资料](./ServerDevlop)  
 >* [53.求职工作培训与养生等](./AboutJob)  
 
-
+## 友情链接  
+* [anything_about_game(夜莺人行自走库)](https://github.com/killop/anything_about_game)  
