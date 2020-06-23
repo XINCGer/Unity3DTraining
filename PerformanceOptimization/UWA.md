@@ -73,3 +73,4 @@
 >* [【厚积薄发】关于UGUI滚动列表的疑问](https://mp.weixin.qq.com/s/pVtio1aV5iicScvP2Y5gug)  
 >* [【厚积薄发】项目初期如何确定美术规范](https://mp.weixin.qq.com/s/80juCpKY5OiAMbDFaVDRMQ)  
 >* [【厚积薄发】如何在Editor中监听Prefab修改后Auto Save的事件](https://mp.weixin.qq.com/s/tIBqFT9wACPtwYYwHgmGHQ)  
+>* [【厚积薄发】关于Texture2D Crunched压缩格式](https://mp.weixin.qq.com/s/euT-FfjfeHPXELoyeshtaA)  
