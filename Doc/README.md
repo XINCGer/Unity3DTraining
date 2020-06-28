@@ -46,3 +46,4 @@
 >* [博主营地 | 关于两种同步模式你不可不知的事](https://mp.weixin.qq.com/s/jfuuVZMmqDnPMufXJYzO_g)  
 >* [你离黑客的距离，就差这20个神器了](https://www.cnblogs.com/xuanyuan/p/12799773.html)  
 >* [博主营地 | Unity3D 实用技巧 - 基础数学库函数学习](https://mp.weixin.qq.com/s/58TfTwoeglATWDGL0W4glA)  
+>* [博主营地 | 利用对象池设计制作Dash冲锋残影效果](https://mp.weixin.qq.com/s/I79TxmW9eQF4iv8flPsj4g)  
