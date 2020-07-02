@@ -28,3 +28,6 @@
 >* [nodehero-authentication](https://github.com/RisingStack/nodehero-authentication)  
 >* [Node Hero 系列之：使用 Passport.js 做 Node.js 身份验证](https://www.jianshu.com/p/9e0c4696b972)  
 >* [nginx配置sso登录](https://www.jianshu.com/p/59c1c4f3dfab)  
+>* [【实战】用 express+MongoDB 搭建一个完整的前端项目](https://segmentfault.com/a/1190000015866331?utm_source=tag-newest)  
+>* [NodeJS+Express+MongoDB简单实现数据库的操作](https://www.jianshu.com/p/f814750c89ef)  
+>* [mongoose基本用法](https://www.jianshu.com/p/9b20c1e2f373)  
