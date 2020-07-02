@@ -27,3 +27,4 @@
 >* [通过Nginx的auth_request以及ExpressJS构建权限验证系统](https://segmentfault.com/a/1190000005933091)  
 >* [nodehero-authentication](https://github.com/RisingStack/nodehero-authentication)  
 >* [Node Hero 系列之：使用 Passport.js 做 Node.js 身份验证](https://www.jianshu.com/p/9e0c4696b972)  
+>* [nginx配置sso登录](https://www.jianshu.com/p/59c1c4f3dfab)  
