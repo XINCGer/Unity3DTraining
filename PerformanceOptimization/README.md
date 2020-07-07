@@ -64,6 +64,8 @@
 >* [如何优化几何、纹理、材料、阴影表现？TA不可不知的4个小技巧](https://mp.weixin.qq.com/s/KSkBCtKvxpt5GCnoYH8Ucg)  
 >* [【Unity游戏开发】马三的游戏性能优化自留地](https://www.cnblogs.com/msxh/p/12987632.html)  
 >* [[笔记]关于unity mono内存优化的工具](https://zhuanlan.zhihu.com/p/99655489)  
+>* [浅谈Unity内存管理(视频版)](https://www.bilibili.com/video/av79798486/)  
+>* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 
 ### 零散知识点总结  
 * 以下是Unity官方直播中的性能优化点总结:  
