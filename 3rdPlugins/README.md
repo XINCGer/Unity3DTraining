@@ -62,3 +62,4 @@
 * [A Diablo 2-style inventory system for Unity3D](https://github.com/FarrokhGames/Inventory)  
 * [一种Shader变体收集和打包编译优化的思路](https://github.com/lujian101/ShaderVariantCollector)  
 * [如何实现一个强大的MMO技能系统！](https://mp.weixin.qq.com/s/2Tha5RWFKSw6-nLSUj1CGg)  
+* [Unity Assets Bundle Extractor](https://github.com/DerPopo/UABE)  
