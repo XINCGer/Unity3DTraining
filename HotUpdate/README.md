@@ -34,4 +34,4 @@
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
 * [ILRuntime入门笔记](https://www.cnblogs.com/zhaoqingqing/archive/2019/01/17/10274176.html)  
 * [对C#热更新方案ILRuntime的探究](https://www.cnblogs.com/zblade/p/9041400.html)  
-* [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/2308.html)  
+* [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/TechSharing_103.html)  
