@@ -1,5 +1,7 @@
 # Unity3D--Training
-【Unity杂货铺】unity大杂烩~    
+【Unity杂货铺】unity大杂烩~    
+本项目由[JetBranins](https://www.jetbrains.com/?from=Unity3DTraining)赞助相关开发工具  
+<a href="https://www.jetbrains.com/?from=Unity3DTraining"><img src="https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/images/jetbrains.png" width = "150" height = "150" div align=center /></a>
 
 ## 目录  
 >* [1.收集整理一些第三方库和插件](./3rdPlugins)  
