@@ -7,7 +7,7 @@
 >* [【马三沪漂浮生记】之见闻壹](https://www.cnblogs.com/msxh/p/11878018.html)  
 
 ### 面试、笔试、简历    
->* [简历编写注意事项.md](Doc/简历编写注意事项.md)  
+>* [简历编写注意事项.md](../Doc/简历编写注意事项.md)  
 >* [技术面试与HR谈薪资技巧](https://mp.weixin.qq.com/s/MBgM6ds2TVIsK3hVxJ1Rqw)  
 >* [冷熊简历](http://cv.ftqq.com/#)  
 >* [敲代码这么多年，依然写不好这一页简历？](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)  
