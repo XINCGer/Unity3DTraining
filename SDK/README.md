@@ -13,3 +13,4 @@
 * [Xcode工程文件project.pbxproj小结](https://www.jianshu.com/p/e82ec6a56fc2)  
 * [XcodeAPI](https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/)  
 * [【Unity游戏开发】接入UWA_GOT的iOS版SDK以后无法正常出包](https://www.cnblogs.com/msxh/p/11963760.html)  
+* [Unity安卓共享纹理](https://www.cnblogs.com/zhxmdefj/p/13295243.html)  
