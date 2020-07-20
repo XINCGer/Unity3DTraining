@@ -96,6 +96,7 @@
 >* [华为工程师猝死，36岁，22月无休：比挣钱更重要的是活着](https://news.cnblogs.com/n/616634/)  
 >* [程序员健康指南](https://www.cnblogs.com/strick/p/10836794.html)  
 >* [深夜放毒，没有任何一份工作值得你拿命去拼](https://mp.weixin.qq.com/s/njMYmRFx00BqBJcY5z_KQA)  
+>* [什么是 “内卷化效应” ？](https://mp.weixin.qq.com/s/Qgbm2LkGnmDCD8zrT6ye8Q)  
 
 ### 关于加班与996  
 >* [论程序员加班的害处](https://www.cnblogs.com/bianchengniuren/p/9966946.html)  
