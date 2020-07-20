@@ -31,3 +31,6 @@
 >* [【实战】用 express+MongoDB 搭建一个完整的前端项目](https://segmentfault.com/a/1190000015866331?utm_source=tag-newest)  
 >* [NodeJS+Express+MongoDB简单实现数据库的操作](https://www.jianshu.com/p/f814750c89ef)  
 >* [mongoose基本用法](https://www.jianshu.com/p/9b20c1e2f373)  
+
+#### Nginx  
+>* [Nginx跨域配置](https://www.cnblogs.com/itzgr/p/13343387.html)  
