@@ -34,3 +34,6 @@
 
 #### Nginx  
 >* [Nginx跨域配置](https://www.cnblogs.com/itzgr/p/13343387.html)  
+>* [为什么我推荐Nginx作为后端服务器代理](https://www.cnblogs.com/felordcn/p/13363331.html)  
+>* [【Nginx】如何使用Nginx搭建流媒体服务器实现直播？看完这篇我会了！！](https://www.cnblogs.com/binghe001/p/13363105.html)  
+>* [循序渐进nginx(三)：日志管理、http限流、https配置，http_rewrite模块，第三方模块安装，结语](https://www.cnblogs.com/progor/p/13338485.html)  
