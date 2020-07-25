@@ -51,3 +51,4 @@
 >* [5万字、97 张图总结操作系统核心知识点](https://www.cnblogs.com/cxuanBlog/p/13297199.html)  
 >* [Unity 2017.3 Assembly Definition Files 的一个坑](https://zhuanlan.zhihu.com/p/34285007)  
 >* [博主营地 | Unity动画系统详解：如何用代码控制动画？](https://mp.weixin.qq.com/s/-jEXvBaCQ_nTsV1h6-o_GQ)  
+>* [博主营地 | 蜂巢型六边形A星寻路算法unity完整流程](https://mp.weixin.qq.com/s/NWuD9G3ArekC0wyLnqXFJQ)  
