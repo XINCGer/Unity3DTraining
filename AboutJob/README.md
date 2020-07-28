@@ -47,6 +47,7 @@
 >* [你是如何被职场 PUA 一步步毁掉的？](https://mp.weixin.qq.com/s/HLAL2PPvuSjJw1EZupscjg)  
 >* [中国最惨创业者：3年前我被投资人赶出公司，3年后让我赔3800万！](https://news.cnblogs.com/n/663839/)  
 >* [期权到底是彩蛋，还是陷阱？](https://mp.weixin.qq.com/s/Hx_pw7m3kaAL-mZnftLuIA)  
+>* [比996更可怕的是职场PUA](https://news.cnblogs.com/n/668050/)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
