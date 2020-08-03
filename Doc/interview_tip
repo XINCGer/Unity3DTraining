@@ -1,0 +1,227 @@
+AssetBundle:
+    unity一种资源包 所有 unity可以识别的资源都可以被打入AB
+
+    压缩方 lzma 和 lz4  lzma压缩率更高 但是 压缩越多 加载的时候越慢 lz4的 运行时开销要小
+    加载时内存占用 lz4和资源文件内存大小一致  而 lzma格式的时候内存占用是资源文件内存的大约2倍
+
+    一个AB合理范围是 1-2M 最好是2M
+
+    AB加载有www和LoadFromFile 推荐后者 前者会有www下载到本地的多一分内存占用的坑
+
+
+    AssetBundle.Unload(参数) 
+    参数为false的时候 仅仅清掉ab的内存镜像 不会删掉已经实例化的物体，另外再次实例化对象也不是返回当初已经实例化过的ab而是重新实例化一个 这样内存中会出现多份相同资源 适用于一次性使用的资源 用完了 紧接着调用UnLoadUnusedAssets 这俩连着用的
+    参数为true的时候 不光清掉ab内存镜像 也会删掉已经实例化的资源，那这样 如果场景对象还引用这个资源就会出现资源丢失问题，所以需要自己搞一套机制来决定是否释放一面引起异常 适用于有引用计数的方案
+
+    UnloadAllAssetBundles(参数)
+    参数为true 卸载所有资源 包括正用着的 
+    参数为false 写在所有未被依赖的资源
+
+    Resources.UnLoadUnusedAssets 可以来写在加载的AB 但是开销较大 建议切换场景的时候 使用 
+
+
+UGUI
+    Canvas  ScreenSpace-OverLay  ScreenSpace-Camera WorldSpace
+    ScreenSpace-OverLay 2D UI，始终显示在屏幕最前方，相当于UI与相机没有距离
+    Screen Space - Camera 使用画布上配置的照相机进行渲染。UI与相机有一定的距离，可以在之间放一些游戏物体，或动画效果 常用这个
+    World Space UI和场景物体一样
+
+    UGUI优化
+    1. 设置图集 5.6的时候用sprite packer packinttag一样就行 后面使用内置的SpriteAtlas 
+    2. 避免不同材质或者图集的ui 互相遮挡 这样会打断批次
+    3. 动静分离 容易改变的放在一个canvas上 不容易改变的放在一个上
+    4. Mask会增加一个dc 并且mask里的图不会和外面的图合并批次
+    5. 空的Image会造成一个dc 并且打断合并
+    6. 频繁需要SetActive的物体可以用Canvas group组件 降低重建消耗
+    7. 去掉不必要的射线检测 Canvas自带grphic Raycaster组件 ui交互必须的组件，但是如果ui不需要交互那么可以勾掉 来减少点击时候的计算量
+
+    网格更新的api（可以从profile中看到）（对应Canvas.SendWillRenderCanvases）
+    UpdateGemotry()     改变RectTransform的Size
+    UpdateMaterial()    修改Color
+
+
+Unity 生命周期函数
+    awake onenable start fixedupdate update lateupdate ongui ondisable ondestroy
+
+
+C# StringBuilder和String的区别
+    String是引用类型 c#引用类型分配在托管堆上
+    String在进行运行时 赋值或者拼接 会产生一个新的实例 而 stringbuilder不会
+    原理就是String做拼接的时候先把两个字符串写入内存，接着删除原来的string对象创建一个新的string对象，这是因为String可读不可写的特性；而StringBuilder能在已有对象的原地址进行字符串修改
+
+
+C# Dictionary实现原理
+    private int[] buckets; // Hash桶
+    private Entry[] entries; // Entry数组，存放元素
+    private int count; // 当前entries的index位置
+    ```
+         private struct Entry {
+            public int hashCode;    // Lower 31 bits of hash code, -1 if unused
+            public int next;        // Index of next entry, -1 if last
+            public TKey key;        // Key of entry
+            public TValue value;    // Value of entry
+        }
+    ```
+    buckets用来进行hash碰撞 entries用来存储字典的内容并且表示下一个元素的位置
+    Hash冲突解决发：拉链法 bucket桶 里存hashcode 然后链接链表，相同hashcode都会存在这个链表里
+
+c# Dictionary 和 HashTable的区别
+    Dictionary<K,V> 在使用中是顺序存储的，而hashtable犹豫使用的是哈希算法进行数据存储是无序的
+    Dictionary的key和value是泛型存储 HashTable的key和value都是object，所以在读取时需要进行类型转换相对慢一些
+    单线程推荐Dictionary 泛型然后速度快 多线程推荐HashTable因为默认情况下HashTable允许单写多读 再加上synchronized语意可以获得线程安全的类型
+    Dictionary非线程安全得使用lock 效率降低
+    Dictionary可排序，HashTable想排序需要采用别的方法自己排
+
+常见的hash函数算法
+    H(key) = H(key) || H(key)= a * key + b  a和b是常数
+    随机数选择一个随机数 取key的随机值作为散列地址
+
+
+```
+-- Lua table deep copy
+function clone(object)
+    local lookup_table = {}
+    local function _copy(object)
+        if type(object) ~= "table" then
+            return object
+        elseif lookup_table[object] then
+            return lookup_table[object]
+        end
+        local new_table = {}
+        lookup_table[object] = new_table
+        for key, value in pairs(object) do
+            new_table[_copy(key)] = _copy(value)
+        end
+        return setmetatable(new_table, getmetatable(object))
+    end
+    return _copy(object)
+end
+
+-- lua迭代器 关键的是 状态常量通过常量字眼我们就知道了它是不变的最终条件，而控制变量其实就是我们迭代器需要的第一个初值
+array = {"Lua", "Tutorial"}
+
+function elementIterator (collection)
+   local index = 0
+   local count = #collection
+   -- 闭包函数
+   return function ()
+      index = index + 1
+      if index <= count
+      then
+         --  返回迭代器的当前元素
+         return collection[index]
+      end
+   end
+end
+
+for element in elementIterator(array)
+do
+   print(element)
+end
+
+```
+
+抽象类与接口的区别 
+    接口是 能够 也就是描述能力的
+    抽象类是 含有 也就是含有某些能力
+
+Unity 序列帧和骨骼动画的区别
+    序列帧是美术每一帧都要画图 然后以一定帧率播放这组图片
+    骨骼动画给角色绑定骨骼，然后k帧 让这个角色或者其他 动起来 
+
+Unity 协程实现原理
+    其实Unity引擎每帧去 检测 yield return 后面的表达式，如果满足就继续向下执行。
+    这就是为什么StartCoroutine传入的是一个IEnumertator类型
+    这个类型 会有 MoveNext 函数里面根据当前状态控制变量值 和 最终值来做逻辑
+
+c# List和LinkedList区别
+    List底层本质也是Array 也就是数组
+    LinkedList底层是链表
+
+    List内存分配
+    当List<T>对象的 元素数量超过了capacity 会重新申请一块原来大小2倍的空间然后把所有元素复制过去
+
+c# ArrayList List
+    类似c++ vector 动态数组 但是所有数据当做object装箱 拆入 会造成类型安全问题
+    List 泛型指定了类型 类型安全
+
+纹理加载进内存以后占用内存计算 比如1024*1024的RGBA 32bit的纹理占多大内存？ 8bit一字节
+    纹理内存（字节） = 宽*高*像素字节 
+    像素字节 = 像素通道数(R/G/B/A) * 通道大小
+    最终 = 1024 * 1024 * 4 * 4byte
+    和下面的解释同理
+    运行时大小 = 长x宽x每个像素占的大小
+    举例：rgba8888 表示的是通道rgba每个通道都占用8bit那么也就是一个像素占用了4bytes
+    故，图片大小若为1014x1024，则大小=1024x1024x4/1024/1024 = 4M
+    同理rgba4444的也就能算出来了
+
+纹理格式的选择
+    IOS ASTC    内存占用小 支持所有尺寸 画质好满足UI需求
+    Android ETC2    内存占用小 不带A通道画质中，带A通道画质较好 满足UI需求
+    PVRTC也是ios的 但是它要求长宽相等且为2的幂
+    
+HTTP协议有什么组成？
+    请求报文：请求行 请求头 请求体
+    响应报文：状态行 响应头 响应体
+    状态302表示重定向
+
+unity 求入射防线的反射方向
+    -- v1入射 n入射平面法向量
+    public static Vector3 GetReflectedDir(Vector3 v1, Vector3 n)
+    {
+        return v1 - 2 * Vector3.Dot(v1, n) * n;
+    }
+
+unity 实现简单的线性插值算法
+    v = from * (1 - t) + to * t
+
+C#装箱拆箱
+    装箱：分配内存   讲值类型的实例拷贝到新分配的内存中    返回托管堆中新分配的对象的地址 这个地址就是指向一对象的引用
+    拆箱：检查对象类型确保它是给定值类型的装箱   将该值实例复制到值类型变量类型中
+
+c# sealed
+    修饰类 阻止继承
+    修饰函数 阻止重写
+
+MipMap是什么 作用是什么？
+    为了加快渲染和减少锯齿 贴图被预先计算和优化过的图片组成的文件 但是会增加33%的内存
+
+向量点乘 叉乘 归一化的意义
+    点乘 表示投影 也表示 两个向量的相似程度
+    叉乘 获取垂直于这俩向量的向量  左手定则
+    归一化 忽略长度 只关心方向 经常用来做 位置运算
+
+ref和out区别
+    ref 是引用必须初始化
+    out 是输出参数 必须在函数体内赋值
+
+
+c# foreach 遍历List 是只读的不能一边遍历一边修改
+
+
+alpha blend
+    实际显示 = 前景颜色*alpha/255 + 背景颜色*（255-Alpha）/255
+
+
+帧同步中RUDP的实现原理
+    1. RTT round trip time 发送一个数据包 到 收到接收端应答 所消耗的时间 简单理解一来一回
+    2. RTO Retransmission Timeout  重传超时时间，即发送了数据包以后多久没收到ack会重发 在上面一来一回的基础上加了一些timeout 
+    3. 最小丢包延时  当丢包发生时，接收方最终收到的发送的数据包的最小耗时   在上面RTO之后发送了丢的包然后接受端 收到了这个包 也就是 从 1 发送了一个包丢了然后超时重传 然后又发了包 接受端收到 这么长时间
+    基于ARQ（自动重传请求）原理的实现
+        最小丢包延时 = 2RTT
+        一般首次RTO = 1.5RTT
+        也就是发送一个包M1 如果丢了 那么1.5RTT后超时重传 这样接受端的最小丢包延时是0.5*RTT + RTO （因为RTO后又加了一半的RTT发送时间）
+        而针对什么时候发送第二个包M2分为
+            等待式：需要等待M1被接受端确认后再发M2  缺点：浪费带宽
+            后退N步：发送方发了M1并不会等接受方确认 就会按帧率发送M2 就这样一直发送M3 M4 M5，但是如果M3 丢包了，那么就会把M3和后面的包都再发送一遍
+                    这是因为接收方没有收到M3这时候会把后面的包都丢弃掉，所以我们这里需要把后面的包也再发一遍    缺点：带宽占用过高
+            选择重传：优化后退N步，把M4 M5缓存下来 这样就不需要重传这个了 这个得接受端配合缓存包
+    基于FEC（前向冗余纠错）原理
+        最小丢包延时 = 0.5RTT + FT  特点：远少于ARQ的RTO
+        一般FT为33ms或者66mm 也就是一帧的时间
+        也就是发送一个包F1如果丢了，那么等66ms后发送F1和F2（因为这个时候F1没被接收端确认），这次接手端收到数据包，这个时候接收端确认F2同时隐式确认F1 而从发送F1丢包然后到F2被接收端收到这里用了 0.5RTT + FT 远小于RTO
+        同理，如果FT之后发送端还没收到F1和F2的确认，那么这次发送就是F1F2F3一起发送，等到什么时候客户端收到了接收端前面包的确认，这个时候下次发送只会发送没被确认的包。 比如发了F1F2F3之后，收到了F2F1的确认，那么下一个FT就只发送F3F4
+    UDP分组优化
+        按照经验值最佳MTU = 470Bytes 
+    针对丢包进行优化？
+        对同一个包，连发2次即可，如果2次不够，就发3次，次数越多丢包概率越小
