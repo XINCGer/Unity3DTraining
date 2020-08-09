@@ -53,3 +53,4 @@
 >* [博主营地 | Unity动画系统详解：如何用代码控制动画？](https://mp.weixin.qq.com/s/-jEXvBaCQ_nTsV1h6-o_GQ)  
 >* [博主营地 | 蜂巢型六边形A星寻路算法unity完整流程](https://mp.weixin.qq.com/s/NWuD9G3ArekC0wyLnqXFJQ)  
 >* [达哥教你如何正确打开 Unity 2019 LTS](https://mp.weixin.qq.com/s/IO4LISmV4rqifs8Q0WCOJQ)  
+>* [可视化音乐效果的简单制作和实现](https://mp.weixin.qq.com/s/wCS95nDI8lVDOMzVLqPPHw)  
