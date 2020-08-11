@@ -68,6 +68,10 @@
 >* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 >* [iOS Memory 内存详解](https://mp.weixin.qq.com/s/YpJa3LeTFz9UFOUcs5Bitg)  
 
+#### ShaderVariant  
+* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
+* https://github.com/networm/ShaderVariantCollectionExporter  
+
 ### 零散知识点总结  
 * 以下是Unity官方直播中的性能优化点总结:  
 （1）新版本的asset pipeline2 采用database的存取资源，英文简称 LMDB
