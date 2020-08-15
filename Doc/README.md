@@ -54,3 +54,4 @@
 >* [博主营地 | 蜂巢型六边形A星寻路算法unity完整流程](https://mp.weixin.qq.com/s/NWuD9G3ArekC0wyLnqXFJQ)  
 >* [达哥教你如何正确打开 Unity 2019 LTS](https://mp.weixin.qq.com/s/IO4LISmV4rqifs8Q0WCOJQ)  
 >* [可视化音乐效果的简单制作和实现](https://mp.weixin.qq.com/s/wCS95nDI8lVDOMzVLqPPHw)  
+>* [超实用！10个小技巧，助你加速Visual Studio 2019编程工作流](https://mp.weixin.qq.com/s/KmXJN3NxestFt5xI3H6ifA)  
