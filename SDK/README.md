@@ -14,3 +14,4 @@
 * [XcodeAPI](https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/)  
 * [【Unity游戏开发】接入UWA_GOT的iOS版SDK以后无法正常出包](https://www.cnblogs.com/msxh/p/11963760.html)  
 * [Unity安卓共享纹理](https://www.cnblogs.com/zhxmdefj/p/13295243.html)  
+* [Unity2019.3持续集成打包ipa踩坑](https://blog.csdn.net/qq_43021133/article/details/107156549)  
