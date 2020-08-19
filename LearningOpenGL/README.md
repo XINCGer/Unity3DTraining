@@ -32,5 +32,6 @@
 * [Unity博主营地 | 零基础入门Unity Shader（一）](https://mp.weixin.qq.com/s/dR86hy8gaHoXSkf1Xb04pQ)  
 * [博主营地 | 零基础入门Unity Shader（二）](https://mp.weixin.qq.com/s/eUe3BA9d8XDurKyc2rS0FQ)  
 * [博主营地 | 弹性鱼竿简单实现-通过贝塞尔曲线修改Mesh](https://mp.weixin.qq.com/s/Mc3GDIqmUu6KjSRudC4vkg)  
+* [十种故障艺术后处理算法的总结与实现](https://mp.weixin.qq.com/s/p6WJlOB1tjgujYtbqIFeKw)  
 
 
