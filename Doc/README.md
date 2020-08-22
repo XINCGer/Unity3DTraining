@@ -56,3 +56,4 @@
 >* [可视化音乐效果的简单制作和实现](https://mp.weixin.qq.com/s/wCS95nDI8lVDOMzVLqPPHw)  
 >* [超实用！10个小技巧，助你加速Visual Studio 2019编程工作流](https://mp.weixin.qq.com/s/KmXJN3NxestFt5xI3H6ifA)  
 >* [Unity 实用技巧 - 从实践中总结经验](https://mp.weixin.qq.com/s/Ydy84AB7ih3dKIZJHq5f-Q)  
+>* [Unity 2020.1 | 全新的预制件编辑工作流](https://mp.weixin.qq.com/s/0hsKooc5k6BWZMWfKzw4ww)  
