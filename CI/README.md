@@ -10,3 +10,4 @@
 * [xcode8.3 shell 自动打包脚本](https://www.cnblogs.com/purple-sweet-pottoes/p/6947500.html)  
 * [使用shell脚本实现unity自动打包ipa工具](https://blog.csdn.net/qq_14974975/article/details/83825522)  
 * [Unity一键打包ipa](https://www.jianshu.com/p/69a45ea56edf)  
+* [Jenkins安装插件很慢的解决方法](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
