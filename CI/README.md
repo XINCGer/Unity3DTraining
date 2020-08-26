@@ -11,3 +11,4 @@
 * [使用shell脚本实现unity自动打包ipa工具](https://blog.csdn.net/qq_14974975/article/details/83825522)  
 * [Unity一键打包ipa](https://www.jianshu.com/p/69a45ea56edf)  
 * [Jenkins安装插件很慢的解决方法](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
+* [【打包构建】Mac下使用expect实现执行sudo命令时自动输入密码](https://www.cnblogs.com/msxh/p/13567400.html)  
