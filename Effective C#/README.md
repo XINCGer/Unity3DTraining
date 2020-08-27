@@ -23,3 +23,4 @@
 >* [使用PInvoke互操作，让C#和C++愉快的交互优势互补](https://www.cnblogs.com/huangxincheng/p/12985351.html)  
 >* [C# 中的Async 和 Await 的用法详解](https://www.cnblogs.com/yilezhu/p/10555849.html)  
 >* [.NET 异步详解](https://www.cnblogs.com/hez2010/p/async-in-dotnet.html)  
+>* [c# 按位与，按位或](https://www.cnblogs.com/mili3/archive/2013/03/07/2947564.html)  
