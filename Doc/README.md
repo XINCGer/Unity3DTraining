@@ -58,3 +58,4 @@
 >* [Unity 实用技巧 - 从实践中总结经验](https://mp.weixin.qq.com/s/Ydy84AB7ih3dKIZJHq5f-Q)  
 >* [Unity 2020.1 | 全新的预制件编辑工作流](https://mp.weixin.qq.com/s/0hsKooc5k6BWZMWfKzw4ww)  
 >* [资源Unity游戏云快速上手指南：如何把项目升级到云端加载，实现热更！](https://mp.weixin.qq.com/s/OwOKTzYzdeYLJosFPIUKCg)   
+>* [Il2Cpp Internals: 托管调用栈](https://zhuanlan.zhihu.com/p/132717069)  
