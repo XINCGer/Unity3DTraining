@@ -5,3 +5,4 @@
 >* [Unity制作人专场 | 代号—S手游制作经验](https://mp.weixin.qq.com/s/geMCdEawAd62YjjWMuNgBw)  
 >* [Unity制作人专场 | 闪耀暖暖从2D到3D的创作与进化之路](https://mp.weixin.qq.com/s/LGGvnlEP9SaAOizay66ttQ)  
 >* [凉鞋：我所理解的框架 【Unity 游戏框架搭建】](https://www.cnblogs.com/liangxiegame/p/12557515.html)  
+>* [游戏开发中常见的五个“坑”，你都趟过吗？](https://mp.weixin.qq.com/s/6_D8g_yHndnUKv5rGyYp6A)   
