@@ -83,3 +83,4 @@
 >* [【厚积薄发】Android 10系统下的PSS数值统计不准](https://mp.weixin.qq.com/s/1xFZNjZowCXyzHCFh-15NA)  
 >* [【厚积薄发】Addressable资源管理](https://mp.weixin.qq.com/s/hz-XJM8pL3PtrzNpvX9qNQ)  
 >* [【厚积薄发】Instruments如何看Mono内存分配](https://mp.weixin.qq.com/s/5wynMyqS0pZc8EaPh5qqiw)  
+>* [【厚积薄发】Packages目录下Shader打包疑问](https://mp.weixin.qq.com/s/WX_AMyq7QJ6CF8U72C_WlQ)  
