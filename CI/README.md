@@ -1,4 +1,6 @@
 ##  持续集成CI(Continuous Integration)  
+
+### 持续集成与打包构建  
 * [Jenkins 介绍](https://www.w3cschool.cn/jenkins/jenkins-5h3228n2.html)  
 * [Jenkins官方文档](https://jenkins.io/doc/)  
 * [Unity3D研究院之Jenkins的使用](http://www.xuanyusong.com/archives/3349)  
@@ -12,3 +14,6 @@
 * [Unity一键打包ipa](https://www.jianshu.com/p/69a45ea56edf)  
 * [Jenkins安装插件很慢的解决方法](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
 * [【打包构建】Mac下使用expect实现执行sudo命令时自动输入密码](https://www.cnblogs.com/msxh/p/13567400.html)  
+
+### Asset Import Pipeline V2
+* [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
