@@ -34,5 +34,6 @@
 * [博主营地 | 弹性鱼竿简单实现-通过贝塞尔曲线修改Mesh](https://mp.weixin.qq.com/s/Mc3GDIqmUu6KjSRudC4vkg)  
 * [十种故障艺术后处理算法的总结与实现](https://mp.weixin.qq.com/s/p6WJlOB1tjgujYtbqIFeKw)  
 * [Shader 案例：顶点运动模糊](https://mp.weixin.qq.com/s/abHmpfdjIvJvd8a9_eZSlQ)   
+* [Unity3D 浅谈美术那些事 - PBR技术](https://mp.weixin.qq.com/s/zfBFkfXlVfEOl4znw2U1tg)  
 
 
