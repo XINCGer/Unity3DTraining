@@ -85,3 +85,4 @@
 >* [【厚积薄发】Instruments如何看Mono内存分配](https://mp.weixin.qq.com/s/5wynMyqS0pZc8EaPh5qqiw)  
 >* [【厚积薄发】Packages目录下Shader打包疑问](https://mp.weixin.qq.com/s/WX_AMyq7QJ6CF8U72C_WlQ)  
 >* [【厚积薄发】MMORPG手游合理的性能参数](https://mp.weixin.qq.com/s/nObKweD7inpoSch9DKu9YQ)  
+>* [【厚积薄发】运用Post Processing导致帧率明显下降](https://mp.weixin.qq.com/s/sCgrrRXlYzXOPC1fKCX7UA)  
