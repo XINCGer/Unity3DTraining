@@ -14,6 +14,7 @@
 * [Unity一键打包ipa](https://www.jianshu.com/p/69a45ea56edf)  
 * [Jenkins安装插件很慢的解决方法](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
 * [【打包构建】Mac下使用expect实现执行sudo命令时自动输入密码](https://www.cnblogs.com/msxh/p/13567400.html)  
+* [细数Mac安装Homebrew踩过的坑......](https://zhuanlan.zhihu.com/p/93092044)  
 
 ### Asset Import Pipeline V2
 * [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
