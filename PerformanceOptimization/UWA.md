@@ -87,3 +87,4 @@
 >* [【厚积薄发】MMORPG手游合理的性能参数](https://mp.weixin.qq.com/s/nObKweD7inpoSch9DKu9YQ)  
 >* [【厚积薄发】运用Post Processing导致帧率明显下降](https://mp.weixin.qq.com/s/sCgrrRXlYzXOPC1fKCX7UA)  
 >* [【性能黑榜】那些年给性能埋过的坑，你跳了吗？（第二弹）](https://mp.weixin.qq.com/s/7UiiKRMGfkZ1JrDiCWokcA)  
+>* [【厚积薄发】关于Addressables做启动热更资源的路径问题](https://mp.weixin.qq.com/s/CYxLIBqvjumXUZ3QY0DXzg)  
