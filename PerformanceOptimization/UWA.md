@@ -88,3 +88,4 @@
 >* [【厚积薄发】运用Post Processing导致帧率明显下降](https://mp.weixin.qq.com/s/sCgrrRXlYzXOPC1fKCX7UA)  
 >* [【性能黑榜】那些年给性能埋过的坑，你跳了吗？（第二弹）](https://mp.weixin.qq.com/s/7UiiKRMGfkZ1JrDiCWokcA)  
 >* [【厚积薄发】关于Addressables做启动热更资源的路径问题](https://mp.weixin.qq.com/s/CYxLIBqvjumXUZ3QY0DXzg)  
+>* [【性能黑榜终结篇】掌握了这些规则，你已经战胜了80%的对手！](https://mp.weixin.qq.com/s/OXfbVWaBi7YeSqCQKXsQ2g)  
