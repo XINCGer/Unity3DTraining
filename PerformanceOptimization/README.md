@@ -67,6 +67,7 @@
 >* [浅谈Unity内存管理(视频版)](https://www.bilibili.com/video/av79798486/)  
 >* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 >* [iOS Memory 内存详解](https://mp.weixin.qq.com/s/YpJa3LeTFz9UFOUcs5Bitg)  
+>* [3分钟就能掌握的视频/音频优化技巧！](https://mp.weixin.qq.com/s/Chk6g9ur4t_8z1hrGb-6Dw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
