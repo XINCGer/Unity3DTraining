@@ -12,15 +12,21 @@ public class FBXPostProcesser : AssetPostprocessor
     /// </summary>
     public void OnPreprocessModel()
     {
+
+        //判断资源是否是首次导入
+#if UNITY_2019_3_OR_NEWER
+        if (!assetImporter.importSettingsMissing)
+        {
+            assetImporter.userData = "v_0.0.1";
+            return;
+        }
+#else
         var metaPath = this.assetPath + ".meta";
         if (File.Exists(metaPath))
         {
             return;
         }
-        //if (!assetImporter.importSettingsMissing)
-        //{
-        //    return;
-        //}
+#endif
 
         Debug.Log("==模型导入之前调用==" + this.assetPath);
         ModelImporter modelImporter = (ModelImporter)assetImporter;
@@ -41,15 +47,19 @@ public class FBXPostProcesser : AssetPostprocessor
     /// <param name="go"></param>
     public void OnPostprocessModel(GameObject go)
     {
+        //判断资源是否是首次导入
+#if UNITY_2019_3_OR_NEWER
+        if (!assetImporter.importSettingsMissing)
+        {
+            return;
+        }
+#else
         var metaPath = this.assetPath + ".meta";
         if (File.Exists(metaPath))
         {
             return;
         }
-        //if (!assetImporter.importSettingsMissing)
-        //{
-        //    return;
-        //}
+#endif
 
         // for skeleton animations.
         Debug.Log("==模型导入之后调用==");
@@ -106,6 +116,6 @@ public class FBXPostProcesser : AssetPostprocessor
             }
         }
     }
-#endregion
+    #endregion
 
 }
