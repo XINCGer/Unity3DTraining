@@ -25,6 +25,7 @@
 >* [Unity Editor Toolbox](https://www.jingfengji.tech/2020/04/05/unity-bian-ji-qi-tuo-zhan-zhi-san-shi-tuo-zhan-unitytoolbar/)  
 >* [CustomToolbar](https://github.com/smkplus/CustomToolbar)  
 >* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)  
+>* [【Unity游戏开发】升级Unity2019后，资源管线后处理采坑记录](https://www.cnblogs.com/msxh/p/13805008.html)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
