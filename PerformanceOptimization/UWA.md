@@ -90,3 +90,4 @@
 >* [【厚积薄发】关于Addressables做启动热更资源的路径问题](https://mp.weixin.qq.com/s/CYxLIBqvjumXUZ3QY0DXzg)  
 >* [【性能黑榜终结篇】掌握了这些规则，你已经战胜了80%的对手！](https://mp.weixin.qq.com/s/OXfbVWaBi7YeSqCQKXsQ2g)  
 >* [【厚积薄发】Unity Batches与glDrawElements的关系](https://mp.weixin.qq.com/s/FENCvnQLSHatYRzBmdLE7g)  
+>* [网格优化中，你遇到过哪些吃性能的设置？](https://mp.weixin.qq.com/s/nEwWNhl3vWdPtSjXC2KySg)  
