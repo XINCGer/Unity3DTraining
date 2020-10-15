@@ -31,6 +31,7 @@
 * [Learn to save memory usage by improving the way you use AssetBundles](https://blogs.unity3d.com/2020/04/09/learn-to-save-memory-usage-by-improving-the-way-you-use-assetbundles/)  
 * [博主营地 | 超快上手的AssetBundle和XLua热更新教程，倾囊分享](https://mp.weixin.qq.com/s/x9uz7XrDeYSqzRj0prhX6w)  
 * [【Unity游戏开发】加载AB和实例化操作对应的内存变化](https://zhuanlan.zhihu.com/p/135192859)  
+* [AssetBundle的原理及最佳实践](https://zhuanlan.zhihu.com/p/103669794)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
