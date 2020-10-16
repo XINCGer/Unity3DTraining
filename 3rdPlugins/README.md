@@ -69,3 +69,4 @@
 * [Grid Flow Builder](https://docs.dungeonarchitect.com/unity/tutorials/builder_grid_flow.html)  
 * [Magica Cloth 布料模拟使用心得，以及插件功能介绍](https://mp.weixin.qq.com/s/6ov4oQKXqoNHDUT4pdRJUw)  
 * [AI SDK平台](https://github.com/Tencent/GameAISDK)  
+* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)  
