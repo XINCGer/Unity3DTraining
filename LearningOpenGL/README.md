@@ -35,5 +35,6 @@
 * [十种故障艺术后处理算法的总结与实现](https://mp.weixin.qq.com/s/p6WJlOB1tjgujYtbqIFeKw)  
 * [Shader 案例：顶点运动模糊](https://mp.weixin.qq.com/s/abHmpfdjIvJvd8a9_eZSlQ)   
 * [Unity3D 浅谈美术那些事 - PBR技术](https://mp.weixin.qq.com/s/zfBFkfXlVfEOl4znw2U1tg)  
+* [主要是个人收集的一些游戏相关的渲染知识和白嫖圣地](https://github.com/Go1c/AboutGameEngineGraphics)  
 
 
