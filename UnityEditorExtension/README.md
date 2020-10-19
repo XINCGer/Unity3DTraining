@@ -27,6 +27,7 @@
 >* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)  
 >* [【Unity游戏开发】升级Unity2019后，资源管线后处理采坑记录](https://www.cnblogs.com/msxh/p/13805008.html)  
 >* [Unity编辑器拓展基础知识总结](https://zhuanlan.zhihu.com/p/259283786)  
+>* [UnityEditorIcons](https://github.com/nukadelic/UnityEditorIcons)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
