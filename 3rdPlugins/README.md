@@ -70,3 +70,4 @@
 * [Magica Cloth 布料模拟使用心得，以及插件功能介绍](https://mp.weixin.qq.com/s/6ov4oQKXqoNHDUT4pdRJUw)  
 * [AI SDK平台](https://github.com/Tencent/GameAISDK)  
 * [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)  
+* [支持直接运行时加载ab的库](https://github.com/nesrak1/AssetsTools.NET)  
