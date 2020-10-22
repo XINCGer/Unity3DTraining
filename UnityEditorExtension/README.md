@@ -29,6 +29,7 @@
 >* [Unity编辑器拓展基础知识总结](https://zhuanlan.zhihu.com/p/259283786)  
 >* [UnityEditorIcons](https://github.com/nukadelic/UnityEditorIcons)  
 >* [TimeLine技能编辑器](https://github.com/jewer3330/plato)  
+>* [剧情-技能编辑器](https://github.com/huailiang/seqence)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
