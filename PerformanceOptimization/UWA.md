@@ -93,3 +93,4 @@
 >* [网格优化中，你遇到过哪些吃性能的设置？](https://mp.weixin.qq.com/s/nEwWNhl3vWdPtSjXC2KySg)  
 >* [【厚积薄发】开启Allow unsafe code的影响](https://mp.weixin.qq.com/s/J_gGi3eBqXOl3RXFPe83SA)  
 >* [网格优化：溃堤之穴，一个也不能别放过](https://mp.weixin.qq.com/s/S7rqO0b1tNgOkU2Zr3HYuw)  
+>* [【厚积薄发】URP关于多个摄相机的性能优化](https://mp.weixin.qq.com/s/4M7a4L0rf3PYjZ81jBdeKw)  
