@@ -94,3 +94,4 @@
 >* [【厚积薄发】开启Allow unsafe code的影响](https://mp.weixin.qq.com/s/J_gGi3eBqXOl3RXFPe83SA)  
 >* [网格优化：溃堤之穴，一个也不能别放过](https://mp.weixin.qq.com/s/S7rqO0b1tNgOkU2Zr3HYuw)  
 >* [【厚积薄发】URP关于多个摄相机的性能优化](https://mp.weixin.qq.com/s/4M7a4L0rf3PYjZ81jBdeKw)  
+>* [纹理优化：不仅仅是一张图片那么简单](https://mp.weixin.qq.com/s/s0BFUgg09GKyNOOnwPle_w)  
