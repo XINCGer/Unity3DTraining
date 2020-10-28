@@ -16,3 +16,4 @@
 * [Unity安卓共享纹理](https://www.cnblogs.com/zhxmdefj/p/13295243.html)  
 * [Unity2019.3持续集成打包ipa踩坑](https://blog.csdn.net/qq_43021133/article/details/107156549)  
 * [Ironsource sdk在Unity 2019.3.x下代码过时bug](https://blog.csdn.net/qq_33205561/article/details/105276267)  
+* [wwise集成Unity踩坑记录](https://kmageek.com/2020/06/23/wwiseUnity/)  
