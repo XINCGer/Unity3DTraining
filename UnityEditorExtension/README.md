@@ -30,6 +30,7 @@
 >* [UnityEditorIcons](https://github.com/nukadelic/UnityEditorIcons)  
 >* [TimeLine技能编辑器](https://github.com/jewer3330/plato)  
 >* [剧情-技能编辑器](https://github.com/huailiang/seqence)  
+>* [TexturePacker图集 plist拆分工具](.//UnityEditorExtension/Python/unpack_plist.py.py)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
