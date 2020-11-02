@@ -70,6 +70,7 @@
 >* [3分钟就能掌握的视频/音频优化技巧！](https://mp.weixin.qq.com/s/Chk6g9ur4t_8z1hrGb-6Dw)  
 >* [Batch, Draw Call, Setpass Call详解](https://zhuanlan.zhihu.com/p/76562300)  
 >* [关于Unity动画系统优化，你可能遇到这些问题](https://blog.uwa4d.com/archives/QA_Animator-1.html)  
+>* [Unity动画文件优化探究](https://blog.uwa4d.com/archives/Optimization_Animation.html)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
