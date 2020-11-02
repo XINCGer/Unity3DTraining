@@ -60,3 +60,4 @@
 >* [资源Unity游戏云快速上手指南：如何把项目升级到云端加载，实现热更！](https://mp.weixin.qq.com/s/OwOKTzYzdeYLJosFPIUKCg)   
 >* [Il2Cpp Internals: 托管调用栈](https://zhuanlan.zhihu.com/p/132717069)  
 >* [一口气看完45个寄存器，CPU核心技术大揭秘](https://www.cnblogs.com/xuanyuan/p/13850548.html)  
+>* [Unity 3D 实用技巧 - 轻松掌握生成Gif动态图与播放](https://mp.weixin.qq.com/s/9se_lJ05fr9J7NG82Ew68w)  
