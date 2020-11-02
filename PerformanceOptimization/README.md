@@ -71,6 +71,7 @@
 >* [Batch, Draw Call, Setpass Call详解](https://zhuanlan.zhihu.com/p/76562300)  
 >* [关于Unity动画系统优化，你可能遇到这些问题](https://blog.uwa4d.com/archives/QA_Animator-1.html)  
 >* [Unity动画文件优化探究](https://blog.uwa4d.com/archives/Optimization_Animation.html)  
+>* [Anim动画压缩优化探究总结](AnimOptimization.md)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
