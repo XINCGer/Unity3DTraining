@@ -76,3 +76,4 @@
 * [微软官方写的unity声音管理器，包含运行时和强大的编辑器](https://github.com/microsoft/Audio-Manager-for-Unity)  
 * [开源！一款功能强大的高性能二进制序列化器Bssom.Net](https://www.cnblogs.com/1996V/p/13884968.html)  
 * [TimingWheelc#版分层时间轮算法](https://github.com/linys2333/TimingWheel)  
+* [Unity3D | 插件资源分享](https://github.com/764424567/Unity-plugin)  
