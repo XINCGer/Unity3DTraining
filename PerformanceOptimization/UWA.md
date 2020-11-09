@@ -97,3 +97,4 @@
 >* [纹理优化：不仅仅是一张图片那么简单](https://mp.weixin.qq.com/s/s0BFUgg09GKyNOOnwPle_w)  
 >* [【厚积薄发】使用SBP后，如何查询Bundle的依赖关系](https://mp.weixin.qq.com/s/o-LigHHBXv061SvW6MoEFA)  
 >* [纹理优化：让你的纹理也“瘦”下来](https://mp.weixin.qq.com/s/N75Fd9SrD_idWgknXPn_Wg)  
+>* [【厚积薄发】关于_CameraDepthTexture的疑惑](https://mp.weixin.qq.com/s/i8O4JEKb2rUkhVP7Z92T_g)  
