@@ -25,3 +25,4 @@
 >* [.NET 异步详解](https://www.cnblogs.com/hez2010/p/async-in-dotnet.html)  
 >* [c# 按位与，按位或](https://www.cnblogs.com/mili3/archive/2013/03/07/2947564.html)  
 >* [新版 C# 高效率编程指南](https://www.cnblogs.com/hez2010/p/13724904.html)  
+>* [C# Type.GetType 返回NULL 问题解决记录](https://www.cnblogs.com/qhbm/p/9958944.html)  
