@@ -175,6 +175,7 @@
 >* [北漂怎么漂回家](https://mp.weixin.qq.com/s/Rg1GlDiDYd1odlngt5HYEw)  
 >* [!大部分程序员只会写3年代码](https://www.cnblogs.com/qing-gee/p/12522094.html)  
 >* [七年北漂落幕](https://www.cnblogs.com/chopper-poet/p/13462989.html)  
+>* [沉默的二本学生，才是基数最大的打工人](https://mp.weixin.qq.com/s/SGImiAR8bOrEYIExqvL-Mg)  
 
 --------------------------------------------------- 分割线 ---------------------------------------------------
 ## 法律法规相关  
