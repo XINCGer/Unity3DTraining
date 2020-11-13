@@ -6,6 +6,7 @@
 >* [马三的面试题整理](../Doc/马三的面试题整理.md)  
 >* [精选面试tips整理](https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/interview_tip)  
 >* [【马三沪漂浮生记】之见闻壹](https://www.cnblogs.com/msxh/p/11878018.html)  
+>* [【年终总结】马三京沪漂流记之2019年总结](https://www.cnblogs.com/msxh/p/12199226.html)  
 
 ### 面试、笔试、简历    
 >* [简历编写注意事项.md](../Doc/简历编写注意事项.md)  
