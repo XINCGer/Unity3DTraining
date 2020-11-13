@@ -94,6 +94,7 @@
 >* [风物长宜放眼量，人间正道是沧桑 - 一位北美 IT 技术人破局](https://www.cnblogs.com/cxuanBlog/p/12356142.html)  
 >* [从草根到百万年薪程序员的二十年风雨之路](https://www.cnblogs.com/wucongzhou/p/12559202.html)  
 >* [中国社会各阶级的分析](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm)  
+>* [浅谈程序员的“内卷化”](https://www.cnblogs.com/qinchaofeng/p/13963304.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
