@@ -99,3 +99,4 @@
 >* [纹理优化：让你的纹理也“瘦”下来](https://mp.weixin.qq.com/s/N75Fd9SrD_idWgknXPn_Wg)  
 >* [【厚积薄发】关于_CameraDepthTexture的疑惑](https://mp.weixin.qq.com/s/i8O4JEKb2rUkhVP7Z92T_g)  
 >* [材质优化：如何正确处理纹理和材质的关系](https://mp.weixin.qq.com/s/ha1m8Gv-lPyXQ5pFKIrKVA)  
+>* [【厚积薄发】关于Camera.activeTexture和Camera.targetTexture的疑问](https://mp.weixin.qq.com/s/UBnbljMQGGoZSVj1YHN8uw)  
