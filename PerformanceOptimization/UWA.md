@@ -100,3 +100,4 @@
 >* [【厚积薄发】关于_CameraDepthTexture的疑惑](https://mp.weixin.qq.com/s/i8O4JEKb2rUkhVP7Z92T_g)  
 >* [材质优化：如何正确处理纹理和材质的关系](https://mp.weixin.qq.com/s/ha1m8Gv-lPyXQ5pFKIrKVA)  
 >* [【厚积薄发】关于Camera.activeTexture和Camera.targetTexture的疑问](https://mp.weixin.qq.com/s/UBnbljMQGGoZSVj1YHN8uw)  
+>* [Unity3D研究院之动态分辨率降低渲染开销](http://www.xuanyusong.com/archives/4693)  
