@@ -102,3 +102,4 @@
 >* [【厚积薄发】关于Camera.activeTexture和Camera.targetTexture的疑问](https://mp.weixin.qq.com/s/UBnbljMQGGoZSVj1YHN8uw)  
 >* [Unity3D研究院之动态分辨率降低渲染开销](http://www.xuanyusong.com/archives/4693)  
 >* [动画优化：关于AnimationClip的三两事](https://mp.weixin.qq.com/s/MC5kIxoTHnuCHoWbUHNGzA)  
+>* [【厚积薄发】如何通过Timeline的形式实现技能编辑器](https://mp.weixin.qq.com/s/Acmv2UQvoLxWG1s0TJd9qA)  
