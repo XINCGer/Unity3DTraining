@@ -74,6 +74,7 @@
 >* [Anim动画压缩优化探究总结](AnimOptimization.md)  
 >* [iOS app内存分析套路](https://www.cnblogs.com/bigfeng/p/6178301.html)  
 >* [《Unity游戏优化》第2版总结思维导图](./Unity性能优化.png)  
+>* [[2018.1]Unity贴图压缩格式设置](https://zhuanlan.zhihu.com/p/113366420)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
