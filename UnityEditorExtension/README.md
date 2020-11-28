@@ -35,6 +35,7 @@
 >* [剧情-技能编辑器](https://github.com/huailiang/seqence)  
 >* [TexturePacker图集 plist拆分工具](.//UnityEditorExtension/Python/unpack_plist.py.py)  
 >* [Unity 侦听进入播放模式、Unity加载时初始化编辑器类](https://www.cnblogs.com/kingBook/p/12160804.html)  
+>* [拓展编辑器(五)_监听事件](https://www.cnblogs.com/llllllvty/p/9857758.html)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
