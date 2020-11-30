@@ -104,3 +104,4 @@
 >* [动画优化：关于AnimationClip的三两事](https://mp.weixin.qq.com/s/MC5kIxoTHnuCHoWbUHNGzA)  
 >* [【厚积薄发】如何通过Timeline的形式实现技能编辑器](https://mp.weixin.qq.com/s/Acmv2UQvoLxWG1s0TJd9qA)  
 >* [粒子系统优化：Mesh模式下的优化策略](https://mp.weixin.qq.com/s/75Ryl6YoLPTukJj3LqIl-Q)  
+>* [【厚积薄发】带BlendShape表情的动作文件播放异常](https://mp.weixin.qq.com/s/m-RKuzhmI57r41yuQGj4nw)  
