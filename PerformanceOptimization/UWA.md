@@ -105,3 +105,4 @@
 >* [【厚积薄发】如何通过Timeline的形式实现技能编辑器](https://mp.weixin.qq.com/s/Acmv2UQvoLxWG1s0TJd9qA)  
 >* [粒子系统优化：Mesh模式下的优化策略](https://mp.weixin.qq.com/s/75Ryl6YoLPTukJj3LqIl-Q)  
 >* [【厚积薄发】带BlendShape表情的动作文件播放异常](https://mp.weixin.qq.com/s/m-RKuzhmI57r41yuQGj4nw)  
+>* [Prefab优化：向预制体打出最有效的组合拳](https://mp.weixin.qq.com/s/l6l3zCj4tz8fauH3Ngy41g)  
