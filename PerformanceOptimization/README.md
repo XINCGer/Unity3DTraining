@@ -76,6 +76,7 @@
 >* [《Unity游戏优化》第2版总结思维导图](./Unity性能优化.png)  
 >* [[2018.1]Unity贴图压缩格式设置](https://zhuanlan.zhihu.com/p/113366420)  
 >* [Unity减小安装包的体积（210MB减小到7MB）](https://www.cnblogs.com/wxjblog/p/14038849.html)  
+>* [Unity MemoryProfiler 的工作机制及可能的改进](http://tech.seasungame.com/blog/index.php/2017/02/15/unity-memoryprofiler-degongzuojizhijikenengdegaijin/)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
