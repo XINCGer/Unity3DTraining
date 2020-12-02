@@ -82,3 +82,4 @@
 * [LuaBT-NodeCanvas行为树的Lua实现](https://github.com/monitor1394/LuaBT)  
 * [UnityAssetCleaner](https://github.com/tsubaki/UnityAssetCleaner)  
 * [best Unity3D open source search engine](https://unitylist.com/)  
+* [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer/tree/master)  
