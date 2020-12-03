@@ -61,3 +61,4 @@
 >* [Il2Cpp Internals: 托管调用栈](https://zhuanlan.zhihu.com/p/132717069)  
 >* [一口气看完45个寄存器，CPU核心技术大揭秘](https://www.cnblogs.com/xuanyuan/p/13850548.html)  
 >* [Unity 3D 实用技巧 - 轻松掌握生成Gif动态图与播放](https://mp.weixin.qq.com/s/9se_lJ05fr9J7NG82Ew68w)  
+>* [使用Git，10件你可能需要“反悔”的事](https://www.cnblogs.com/kagol/p/14076276.html)  
