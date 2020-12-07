@@ -77,6 +77,7 @@
 >* [Unity减小安装包的体积（210MB减小到7MB）](https://www.cnblogs.com/wxjblog/p/14038849.html)  
 >* [Unity MemoryProfiler 的工作机制及可能的改进](http://tech.seasungame.com/blog/index.php/2017/02/15/unity-memoryprofiler-degongzuojizhijikenengdegaijin/)  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
+>* [西山居资深引擎开发工程师：《剑网3：指尖江湖》角色逼真摆动效果如何实现？](https://mp.weixin.qq.com/s/WPURBQ8lyg9eCx2bITtKiw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
