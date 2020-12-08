@@ -25,6 +25,7 @@
 >* [.NET 异步详解](https://www.cnblogs.com/hez2010/p/async-in-dotnet.html)  
 >* [C# 彻底搞懂async/await](https://www.cnblogs.com/zhaoshujie/p/11192036.html)  
 >* [c# 按位与，按位或](https://www.cnblogs.com/mili3/archive/2013/03/07/2947564.html)  
+>* [利用按位取反（~）从复合枚举值里清除枚举值](https://blog.csdn.net/hchaoh/article/details/84698752)  
 >* [新版 C# 高效率编程指南](https://www.cnblogs.com/hez2010/p/13724904.html)  
 >* [C# Type.GetType 返回NULL 问题解决记录](https://www.cnblogs.com/qhbm/p/9958944.html)  
 >* [.NET/C# 判断某个类是否是泛型类型或泛型接口的子类型](https://www.cnblogs.com/walterlv/p/10236419.html)  
