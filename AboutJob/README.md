@@ -157,6 +157,7 @@
 >* [2020，我们公司就这样倒闭了](https://mp.weixin.qq.com/s/jNUr-XvJbzsC0oG6MgYgSA)  
 >* [谁扼住了华为：美日半导体霸权的三张牌](https://news.cnblogs.com/n/669073/)  
 >* [一场“逃离蛋壳”的自救行动：租客、房东、供应商集体行动](https://news.cnblogs.com/n/677926/)  
+>* [“我被公司裁员，造假的老板居然还没坐牢？”](https://news.cnblogs.com/n/680931/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
