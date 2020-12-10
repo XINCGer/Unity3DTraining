@@ -60,3 +60,4 @@
 
 ## 友情链接  
 * [anything_about_game(夜莺人行自走库)](https://github.com/killop/anything_about_game)  
+* [JingFengJi(静风霁的博客)](https://www.jingfengji.tech/)  
