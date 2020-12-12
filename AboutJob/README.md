@@ -145,7 +145,6 @@
 >* [工作6年，失业19天](https://www.cnblogs.com/demingblog/p/12046170.html)  
 >* [2019，料你也不想再过一次](https://mp.weixin.qq.com/s/aWP7hydYq1ajkIviCd2_wA)  
 >* [互联网大厂死磕「加速包」](https://mp.weixin.qq.com/s/jnVHE2acxBBwT0-GlhxQ-g)  
->* [兽楼处：二十岁的眼泪](https://news.cnblogs.com/n/683113/)  
 
 ### 互联网编年史2020  
 >* [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://www.cnblogs.com/hejunlin/p/12289061.html)  
@@ -160,6 +159,7 @@
 >* [谁扼住了华为：美日半导体霸权的三张牌](https://news.cnblogs.com/n/669073/)  
 >* [一场“逃离蛋壳”的自救行动：租客、房东、供应商集体行动](https://news.cnblogs.com/n/677926/)  
 >* [“我被公司裁员，造假的老板居然还没坐牢？”](https://news.cnblogs.com/n/680931/)  
+>* [兽楼处：二十岁的眼泪](https://news.cnblogs.com/n/683113/)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
