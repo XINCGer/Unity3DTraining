@@ -9,6 +9,7 @@
 >* [【年终总结】马三京沪漂流记之2019年总结](https://www.cnblogs.com/msxh/p/12199226.html)  
 
 ### 面试、笔试、简历    
+>* [海澜访谈录——对于负责招聘的HR，如果看待候选人的一些疑问解答？](https://aihailan.com/1189-2/)  
 >* [简历编写注意事项.md](../Doc/简历编写注意事项.md)  
 >* [技术面试与HR谈薪资技巧](https://mp.weixin.qq.com/s/MBgM6ds2TVIsK3hVxJ1Rqw)  
 >* [冷熊简历](http://cv.ftqq.com/#)  
