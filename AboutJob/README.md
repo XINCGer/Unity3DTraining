@@ -145,6 +145,7 @@
 >* [工作6年，失业19天](https://www.cnblogs.com/demingblog/p/12046170.html)  
 >* [2019，料你也不想再过一次](https://mp.weixin.qq.com/s/aWP7hydYq1ajkIviCd2_wA)  
 >* [互联网大厂死磕「加速包」](https://mp.weixin.qq.com/s/jnVHE2acxBBwT0-GlhxQ-g)  
+>* [兽楼处：二十岁的眼泪](https://news.cnblogs.com/n/683113/)  
 
 ### 互联网编年史2020  
 >* [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://www.cnblogs.com/hejunlin/p/12289061.html)  
