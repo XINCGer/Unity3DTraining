@@ -84,3 +84,4 @@
 * [best Unity3D open source search engine](https://unitylist.com/)  
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer/tree/master)  
 * [Unity3D 实用技巧 - 分享实时飘动动画插件](https://mp.weixin.qq.com/s/cqS3XDSygWnYoV0n0jDyEw)  
+* [RichText高效、支持大规模头顶文字](https://github.com/506638093/RichText)  
