@@ -108,3 +108,4 @@
 >* [Prefab优化：向预制体打出最有效的组合拳](https://mp.weixin.qq.com/s/l6l3zCj4tz8fauH3Ngy41g)  
 >* [【厚积薄发】本地资源检测，特效检测中Overdraw相关问题](https://mp.weixin.qq.com/s/O_y5XYAI6xPoeHw2bwviiA)  
 >* [【Shader优化】破解变体的“影分身”之术](https://mp.weixin.qq.com/s/oSd4sfEo8JBadTi-YHR3vQ)  
+>* [【厚积薄发】使用ScriptableObject代替部分配置表的坑点](https://mp.weixin.qq.com/s/Gq8ETXAV_2-RDuzzu_yTRQ)  
