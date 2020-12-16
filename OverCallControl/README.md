@@ -7,3 +7,4 @@
 >* [凉鞋：我所理解的框架 【Unity 游戏框架搭建】](https://www.cnblogs.com/liangxiegame/p/12557515.html)  
 >* [游戏开发中常见的五个“坑”，你都趟过吗？](https://mp.weixin.qq.com/s/6_D8g_yHndnUKv5rGyYp6A)   
 >* [《软件设计的哲学》中文翻译](http://gdut_yy.gitee.io/doc-aposd/)  
+>* [为什么项目开发永远缺乏合理的时间？](https://www.cnblogs.com/wlzcool/p/14142005.html)  
