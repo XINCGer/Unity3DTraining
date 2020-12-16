@@ -10,6 +10,9 @@
 
 ### 面试、笔试、简历    
 >* [海澜访谈录——对于负责招聘的HR，如果看待候选人的一些疑问解答？](https://aihailan.com/1189-2/)  
+>* [水曜日鸡面试指南1——游戏开发社招求职面试指南①——前期准备](https://blog.csdn.net/j756915370/article/details/109688883)  
+>* [水曜日鸡面试指南2——游戏开发社招求职面试指南②——公司选择](https://blog.csdn.net/j756915370/article/details/109703611)  
+>* [水曜日鸡面试指南3——游戏开发社招求职面试指南③——面试总结](https://blog.csdn.net/j756915370/article/details/109901970)  
 >* [简历编写注意事项.md](../Doc/简历编写注意事项.md)  
 >* [技术面试与HR谈薪资技巧](https://mp.weixin.qq.com/s/MBgM6ds2TVIsK3hVxJ1Rqw)  
 >* [冷熊简历](http://cv.ftqq.com/#)  
