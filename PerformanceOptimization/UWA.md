@@ -109,3 +109,4 @@
 >* [【厚积薄发】本地资源检测，特效检测中Overdraw相关问题](https://mp.weixin.qq.com/s/O_y5XYAI6xPoeHw2bwviiA)  
 >* [【Shader优化】破解变体的“影分身”之术](https://mp.weixin.qq.com/s/oSd4sfEo8JBadTi-YHR3vQ)  
 >* [【厚积薄发】使用ScriptableObject代替部分配置表的坑点](https://mp.weixin.qq.com/s/Gq8ETXAV_2-RDuzzu_yTRQ)  
+>* [Prefab优化：预制体中的各种细节选择](https://mp.weixin.qq.com/s/BtGAy0ydw2UaTQ69Mp4Qmw)  
