@@ -79,6 +79,7 @@
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
 >* [西山居资深引擎开发工程师：《剑网3：指尖江湖》角色逼真摆动效果如何实现？](https://mp.weixin.qq.com/s/WPURBQ8lyg9eCx2bITtKiw)  
 >* [破解技术难题，Unity官方性能优化和企业服务是如何工作的？](https://mp.weixin.qq.com/s/8fNfTBOV45JXyteMA9uB9g)  
+>* [BoomのUnityOptimize优化笔记](https://www.notion.so/StudyNotes-UnityOptimize-a380bff132cd4ef7956020ca7131d47e)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
