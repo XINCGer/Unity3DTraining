@@ -2,6 +2,7 @@
 
 >* [多图详解！10大高性能开发核心技术](https://www.cnblogs.com/xuanyuan/p/13524351.html)  
 >* [kafka中文教程](https://www.orchome.com/kafka/index)  
+>* [图解 IP 基础知识！](https://www.cnblogs.com/cxuanBlog/p/14171202.html)  
 #### 吊打面试官系列  
 >* [《吊打面试官》系列-秒杀系统设计](https://www.cnblogs.com/aobing/p/11875385.html)  
 >* [《吊打面试官》系列-消息队列基础](https://www.cnblogs.com/aobing/p/11893352.html)  
