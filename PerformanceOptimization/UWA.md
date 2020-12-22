@@ -111,3 +111,4 @@
 >* [【厚积薄发】使用ScriptableObject代替部分配置表的坑点](https://mp.weixin.qq.com/s/Gq8ETXAV_2-RDuzzu_yTRQ)  
 >* [Prefab优化：预制体中的各种细节选择](https://mp.weixin.qq.com/s/BtGAy0ydw2UaTQ69Mp4Qmw)  
 >* [特效优化：发现绚丽背后的质朴](https://mp.weixin.qq.com/s/tuK5TAbTw5kBdQF5AEv2tQ)  
+>* [【厚积薄发】AssetBundle中加载SpriteAtlas图集之后卸载异常](https://mp.weixin.qq.com/s/jo6dEyDSczjsRcv4BQs0Sg)  
