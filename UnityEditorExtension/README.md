@@ -39,6 +39,7 @@
 >* [Unity 侦听进入播放模式、Unity加载时初始化编辑器类](https://www.cnblogs.com/kingBook/p/12160804.html)  
 >* [拓展编辑器(五)_监听事件](https://www.cnblogs.com/llllllvty/p/9857758.html)  
 >* [Unity编辑器拓展之三十三:ReplaceComponentAttributte组件替换](https://www.jingfengji.tech/2020/08/22/unity-bian-ji-qi-tuo-zhan-zhi-san-shi-san-replacecomponentattributte-zu-jian-ti-huan/)  
+>* [Unity 曲线编辑器说明](https://blog.csdn.net/akof1314/article/details/51787509)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
