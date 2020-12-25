@@ -123,6 +123,7 @@
 >* [人生需要摸鱼时刻](https://mp.weixin.qq.com/s/HblKeKBYe3T4p1SaWVEqHA)  
 >* [我不是社畜，我是打工人](https://mp.weixin.qq.com/s/jrZmI8nqzbh_esVbvZOGNg)  
 >* [为什么当代生活会变成「一切皆可内卷」？](https://mp.weixin.qq.com/s/AbjgiYWZGnW_H_mI5vNOBA)  
+>* [漫画 | 人到中年，一地鸡毛](https://www.cnblogs.com/susouth/p/14184358.html)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
