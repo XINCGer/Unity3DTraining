@@ -22,3 +22,4 @@
 >* [一套简单的UI自动绑定框架](./UIViewBindDemo)  
 >* [RectTransform简析](https://www.cnblogs.com/blueberryzzz/p/13737501.html)  
 >* [SpriteAtlas + AssetBundle unable to use sprites](https://forum.unity.com/threads/spriteatlas-assetbundle-unable-to-use-sprites.494462/)  
+>* [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
