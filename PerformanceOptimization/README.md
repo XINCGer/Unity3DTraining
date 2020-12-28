@@ -81,6 +81,7 @@
 >* [破解技术难题，Unity官方性能优化和企业服务是如何工作的？](https://mp.weixin.qq.com/s/8fNfTBOV45JXyteMA9uB9g)  
 >* [BoomのUnityOptimize优化笔记](https://www.notion.so/StudyNotes-UnityOptimize-a380bff132cd4ef7956020ca7131d47e)  
 >* [iOS闪退日志的收集和解析](https://www.cnblogs.com/jingxin1992/p/12342168.html)  
+>* [[翻译]Unity游戏优化最佳实践](https://zhuanlan.zhihu.com/p/103691977)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
