@@ -24,3 +24,4 @@
 >* [22.基于tolua_rumtime扩展第三方库版本](https://github.com/jarjin/tolua_rumtime)  
 >* [23.如何编译各平台使用的库：以编译tolua为例](https://blog.csdn.net/huangyushi/article/details/74457121)  
 >* [24.tolua各个平台的编译](https://blog.csdn.net/Rhett_Yuan/article/details/79656306)  
+>* [25.tolua学习资料](https://github.com/xinzhuzi/Record/tree/master/source/_posts/Unity/ToLua)  
