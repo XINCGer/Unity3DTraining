@@ -113,3 +113,4 @@
 >* [特效优化：发现绚丽背后的质朴](https://mp.weixin.qq.com/s/tuK5TAbTw5kBdQF5AEv2tQ)  
 >* [【厚积薄发】AssetBundle中加载SpriteAtlas图集之后卸载异常](https://mp.weixin.qq.com/s/jo6dEyDSczjsRcv4BQs0Sg)  
 >* [【厚积薄发】带多个Submeshes模型合并，显示​异常](https://mp.weixin.qq.com/s/dL6tJZqg-HucKMRDMrQyIA)  
+>* [特效优化2：效果与性能的博弈](https://mp.weixin.qq.com/s/silvYaZmASBFZWfxx8OALg)  
