@@ -9,3 +9,4 @@
 >* [《软件设计的哲学》中文翻译](http://gdut_yy.gitee.io/doc-aposd/)  
 >* [为什么项目开发永远缺乏合理的时间？](https://www.cnblogs.com/wlzcool/p/14142005.html)  
 >* [MMO架构](./MMO架构.png)  
+>* [软件版本命名规范](https://www.cnblogs.com/7code/p/14206269.html)  
