@@ -41,6 +41,7 @@
 >* [Unity编辑器拓展之三十三:ReplaceComponentAttributte组件替换](https://www.jingfengji.tech/2020/08/22/unity-bian-ji-qi-tuo-zhan-zhi-san-shi-san-replacecomponentattributte-zu-jian-ti-huan/)  
 >* [Unity 曲线编辑器说明](https://blog.csdn.net/akof1314/article/details/51787509)  
 >* [Unity之ParticleSystem.Simulate](https://zhuanlan.zhihu.com/p/96086877)  
+>* [Unity技术之UGUI-SpriteAtlas(图集)查看工具](http://blog.gqylpy.com/gqy/21175/)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
