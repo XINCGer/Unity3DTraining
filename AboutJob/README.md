@@ -104,6 +104,7 @@
 >* [中国社会各阶级的分析](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm)  
 >* [浅谈程序员的“内卷化”](https://www.cnblogs.com/qinchaofeng/p/13963304.html)  
 >* [从软件公司的异同点讲起，聊聊未来的程序员该如何选公司和谋规划](https://www.cnblogs.com/JavaArchitect/p/14160277.html)  
+>* [年终总结，谈技术人如何做好沟通这件事儿](https://www.cnblogs.com/ztfjs/p/talking.html)  
 
 ### 养生与健身  
 >* [程序猿养生方法（每个程序员都应该看一看）](https://www.cnblogs.com/peiyu1988/p/9591378.html)  
