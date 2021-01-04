@@ -23,6 +23,10 @@
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
 >* [skynet框架应用 (一) skynet介绍](https://blog.csdn.net/qq769651718/article/details/79432793)  
 >* [lua游戏服务器框架](https://github.com/ylmbtm/LuaServerFrame)  
+>* [游戏服务器架构设计整理](https://imsoul.blog.csdn.net/article/details/105732519)  
+>* [游戏服务器常用架构](https://imsoul.blog.csdn.net/article/details/105733851)  
+>* [网游服务端架构](https://imsoul.blog.csdn.net/article/details/105733515)  
+>* [经典游戏服务器端架构概述](https://blog.csdn.net/xchysl/article/details/79477988)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
