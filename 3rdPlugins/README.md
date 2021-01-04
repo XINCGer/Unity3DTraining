@@ -92,3 +92,4 @@
 * [EasingCurvePresets 动画曲线库](https://github.com/aureliendrouet/EasingCurvePresets)  
 * [非常轻量级的ECS框架](https://github.com/robert-wallis/ECSLight)  
 * [SpriteAtlasBrowser](https://github.com/741645596/SpriteAtlasBrowser)  
+* [一个基于Entity-Component模式的灵活、通用的战斗（技能）框架](https://github.com/m969/EGamePlay)  
