@@ -58,6 +58,7 @@
 >* [比996更可怕的是职场PUA](https://news.cnblogs.com/n/668050/)  
 >* [那些把公司当家的程序员，后来怎么样了？](https://www.cnblogs.com/pointers/p/14088264.html)  
 >* [年底晋升，全网最详细的通关指南来了！](https://www.cnblogs.com/luojunwu/p/14166109.html)  
+>* [国企生存感悟(必读篇）](https://www.cnblogs.com/dalianmaodada/p/14228098.html)  
 
 ### 赚钱、买房、买车  
 >* [以写作为例说下IT人如何培养挣钱DNA](https://www.cnblogs.com/JavaArchitect/p/10223393.html)  
