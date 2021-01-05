@@ -171,6 +171,9 @@
 >* [“我被公司裁员，造假的老板居然还没坐牢？”](https://news.cnblogs.com/n/680931/)  
 >* [兽楼处：二十岁的眼泪](https://news.cnblogs.com/n/683113/)  
 
+### 互联网编年史2021  
+>* [拼多多回应23岁女员工凌晨猝死：急救6小时依然无效](https://news.cnblogs.com/n/684514/)  
+
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
 >* [那些边裁员边发布大量职位的公司，都在想什么？](https://mp.weixin.qq.com/s/--CKiikqHkAfi6jizTcIPg)  
