@@ -67,6 +67,7 @@
 >* [我年薪60W，浑身没有超过100块的衣服：存钱，才是最顶级的自律](https://mp.weixin.qq.com/s/7_X_t3kQUZf1An9NDrj_5Q)  
 >* [为什么我从来不教人赚钱](https://news.cnblogs.com/n/657820/)  
 >* [只看到了别人28岁从字节跳动退休，背后的期权知识你知道吗？](https://www.cnblogs.com/siyuanwai/p/13187040.html)  
+>* [90后打工人：为了买小两居，爸妈打零工帮我凑首付](https://mp.weixin.qq.com/s/JOe8OzDK99w56fJAtELLPg)  
 
 ### 关于IT培训那些事  
 >* [IT培训行业揭秘（一）](https://www.cnblogs.com/renyanlei/p/6089315.html)  
