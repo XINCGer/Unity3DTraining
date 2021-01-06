@@ -38,4 +38,7 @@
 * [主要是个人收集的一些游戏相关的渲染知识和白嫖圣地](https://github.com/Go1c/AboutGameEngineGraphics)  
 * [Unity3D 实用技巧 - Unity Shader 汇总式学习·初探篇](https://mp.weixin.qq.com/s/gVsOjetvZKdQrtZ0wFOAdQ)  
 
+### SRP  
+* [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
+
 
