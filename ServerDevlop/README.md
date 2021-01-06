@@ -49,3 +49,6 @@
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
+
+#### Linux  
+>* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
