@@ -41,5 +41,5 @@
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
 * [Unity SRP Batcher的工作原理](https://zhuanlan.zhihu.com/p/165574008)  
-
+* [Scriptable Render Pipeline Doc](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/image-quality/)  
 
