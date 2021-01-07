@@ -115,3 +115,4 @@
 >* [【厚积薄发】带多个Submeshes模型合并，显示​异常](https://mp.weixin.qq.com/s/dL6tJZqg-HucKMRDMrQyIA)  
 >* [特效优化2：效果与性能的博弈](https://mp.weixin.qq.com/s/silvYaZmASBFZWfxx8OALg)  
 >* [2020年度大赏 | UWA问答精选](https://mp.weixin.qq.com/s/tZocrBtwt-9OujvEtCxisw)  
+>* [场景检测：雾效、Canvas和碰撞体](https://mp.weixin.qq.com/s/mSV_N1ClU7ic8wvq4KrGjQ)  
