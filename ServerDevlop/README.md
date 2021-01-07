@@ -50,6 +50,7 @@
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
+>* [开源的 Java 后台管理框架——EL-ADMIN](https://www.cnblogs.com/xueweihan/p/14244798.html)   
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
