@@ -43,6 +43,7 @@
 >* [Unity之ParticleSystem.Simulate](https://zhuanlan.zhihu.com/p/96086877)  
 >* [Unity技术之UGUI-SpriteAtlas(图集)查看工具](http://blog.gqylpy.com/gqy/21175/)  
 >* [【UnityEditor】扩展内置组件的Inspector面板](http://www.lsngo.net/2017/10/25/unityeditor_internalinspector/)  
+>* [AnimationClip的读取与代码生成](https://www.jianshu.com/p/80b2bc98ac5d)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
