@@ -10,3 +10,4 @@
 >* [为什么项目开发永远缺乏合理的时间？](https://www.cnblogs.com/wlzcool/p/14142005.html)  
 >* [MMO架构](./MMO架构.png)  
 >* [软件版本命名规范](https://www.cnblogs.com/7code/p/14206269.html)  
+>* [如何设计渲染等级](https://answer.uwa4d.com/question/5acc208b425802635474fc7d)  
