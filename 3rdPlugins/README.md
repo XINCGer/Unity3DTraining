@@ -95,3 +95,4 @@
 * [一个基于Entity-Component模式的灵活、通用的战斗（技能）框架](https://github.com/m969/EGamePlay)  
 * [Unity 动画路径预览工具(博客)](https://blog.csdn.net/akof1314/article/details/52637145)  
 * [Unity 动画路径预览工具(代码)](https://github.com/akof1314/AnimationPath)  
+* [高性能二进制序列化库](https://github.com/xfrogcn/Xfrogcn.BinaryFormatter/blob/master/README.zh.md)  
