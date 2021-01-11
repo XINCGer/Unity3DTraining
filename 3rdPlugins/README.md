@@ -97,3 +97,4 @@
 * [Unity 动画路径预览工具(代码)](https://github.com/akof1314/AnimationPath)  
 * [高性能二进制序列化库](https://github.com/xfrogcn/Xfrogcn.BinaryFormatter/blob/master/README.zh.md)  
 * [Parsing and Expression execution with C#](https://github.com/deniszykov/csharp-eval-unity3d)  
+* [ExpressionParser](http://wiki.unity3d.com/index.php/ExpressionParser)  
