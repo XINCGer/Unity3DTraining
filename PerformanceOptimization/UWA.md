@@ -116,3 +116,4 @@
 >* [特效优化2：效果与性能的博弈](https://mp.weixin.qq.com/s/silvYaZmASBFZWfxx8OALg)  
 >* [2020年度大赏 | UWA问答精选](https://mp.weixin.qq.com/s/tZocrBtwt-9OujvEtCxisw)  
 >* [场景检测：雾效、Canvas和碰撞体](https://mp.weixin.qq.com/s/mSV_N1ClU7ic8wvq4KrGjQ)  
+>* [【厚积薄发】URP下与Built-in的Light Color不一致](https://mp.weixin.qq.com/s/N0-KMZpc_FC6NRO7phrCWA)  
