@@ -117,3 +117,4 @@
 >* [2020年度大赏 | UWA问答精选](https://mp.weixin.qq.com/s/tZocrBtwt-9OujvEtCxisw)  
 >* [场景检测：雾效、Canvas和碰撞体](https://mp.weixin.qq.com/s/mSV_N1ClU7ic8wvq4KrGjQ)  
 >* [【厚积薄发】URP下与Built-in的Light Color不一致](https://mp.weixin.qq.com/s/N0-KMZpc_FC6NRO7phrCWA)  
+>* [场景检测：Audio Listener、RigidBody和Prefab连接](https://mp.weixin.qq.com/s/UPjwiqlJltkT9-k2GG1mQA)  
