@@ -29,3 +29,4 @@
 >* [新版 C# 高效率编程指南](https://www.cnblogs.com/hez2010/p/13724904.html)  
 >* [C# Type.GetType 返回NULL 问题解决记录](https://www.cnblogs.com/qhbm/p/9958944.html)  
 >* [.NET/C# 判断某个类是否是泛型类型或泛型接口的子类型](https://www.cnblogs.com/walterlv/p/10236419.html)  
+>* [C# List Sort 排序用法总结](https://zhuanlan.zhihu.com/p/141618333)  
