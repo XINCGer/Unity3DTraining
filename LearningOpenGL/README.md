@@ -44,3 +44,6 @@
 * [Unity SRP Batcher的工作原理](https://zhuanlan.zhihu.com/p/165574008)  
 * [Scriptable Render Pipeline Doc](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/image-quality/)  
 
+### GAMES101-现代计算机图形学入门-闫令琪
+* [链接](https://www.bilibili.com/video/BV1X7411F744)  
+
