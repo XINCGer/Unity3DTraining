@@ -99,3 +99,4 @@
 * [C# Expression Parser for Unity3D](https://github.com/deniszykov/csharp-eval-unity3d)  
 * [ExpressionParser](http://wiki.unity3d.com/index.php/ExpressionParser)  
 * [Network Benchmark .NET](https://github.com/JohannesDeml/NetworkBenchmarkDotNet)  
+* [Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)  
