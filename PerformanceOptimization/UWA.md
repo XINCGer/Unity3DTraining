@@ -118,3 +118,4 @@
 >* [场景检测：雾效、Canvas和碰撞体](https://mp.weixin.qq.com/s/mSV_N1ClU7ic8wvq4KrGjQ)  
 >* [【厚积薄发】URP下与Built-in的Light Color不一致](https://mp.weixin.qq.com/s/N0-KMZpc_FC6NRO7phrCWA)  
 >* [场景检测：Audio Listener、RigidBody和Prefab连接](https://mp.weixin.qq.com/s/UPjwiqlJltkT9-k2GG1mQA)  
+>* [【厚积薄发】多个相机分别实现各自屏幕后处理的问题](https://mp.weixin.qq.com/s/GoVwCWq8CmTxYR9SFJawUQ)  
