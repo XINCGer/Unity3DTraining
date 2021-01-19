@@ -4,11 +4,11 @@ Class = {x=0,y=0}
 Class.__index = Class
 --构造方法，构造方法的名字是随便起的，习惯性命名为new()
 function Class:new(x,y)
-	 local self = {}  --初始化self，如果没有这句，那么类所建立的对象如果有一个改变，其他对象都会改变
-	 setmetatable(self, Class)  --将self的元表设定为Class
-	 self.x = x   --属性值初始化
-	 self.y = y
-	 return self  --返回自身
+	 local t = {}  --初始化t，如果没有这句，那么类所建立的对象如果有一个改变，其他对象都会改变
+	 setmetatable(t, Class)  --将t的元表设定为Class
+	 t.x = x   --属性值初始化
+	 t.y = y
+	 return t  --返回自身
 end
 
 --这里定义类的其他方法
