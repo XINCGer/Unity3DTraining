@@ -32,3 +32,4 @@
 >* [C# List Sort 排序用法总结](https://zhuanlan.zhihu.com/p/141618333)  
 >* [什么是C#的值类型与引用类型？Class与Struct对比](https://mp.weixin.qq.com/s/RSZTSceOaVKhl3KP6X6BKg)  
 >* [LINQ 查询简介 (C#)](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)  
+>* [语言集成查询 (LINQ)](https://docs.microsoft.com/zh-cn/dotnet/csharp/linq/)  
