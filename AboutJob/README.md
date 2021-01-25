@@ -176,6 +176,7 @@
 >* [拼多多回应23岁女员工凌晨猝死：急救6小时依然无效](https://news.cnblogs.com/n/684514/)  
 >* [我在拼多多的三年](https://www.leadroyal.cn/?p=1228)  
 >* [疫情下的后厂村：网易做核酸，我在写代码](https://mp.weixin.qq.com/s/mBSgb7KbEQY6-C7fg45NCg)  
+>* [我的年终奖，泡汤了](https://mp.weixin.qq.com/s/WikZy-VTMlJxjl2YpkYlqQ)  
 
 ### 吹牛灌水  
 >* [北上广深程序员，月薪三万不如狗](https://www.cnblogs.com/bianchengniuren/p/9971046.html)  
