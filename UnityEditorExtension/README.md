@@ -46,6 +46,7 @@
 >* [AnimationClip的读取与代码生成](https://www.jianshu.com/p/80b2bc98ac5d)  
 >* [Unity3D研究院之监听Hierachy、Project等视图结构变化的事件](http://www.xuanyusong.com/archives/3053)  
 >* [如何制作MMORPG游戏地图编辑器](https://zhuanlan.zhihu.com/p/270274723)  
+>* [USubWindow](https://github.com/AsehesL/USubWindow)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
