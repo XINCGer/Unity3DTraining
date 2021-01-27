@@ -12,3 +12,4 @@
 >* [软件版本命名规范](https://www.cnblogs.com/7code/p/14206269.html)  
 >* [如何设计渲染等级](https://answer.uwa4d.com/question/5acc208b425802635474fc7d)  
 >* [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://mp.weixin.qq.com/s/pql5axto8gxSgYd4Y-GJYQ)  
+>* [Naming cheatsheet命名规则最佳实践](https://github.com/kettanaito/naming-cheatsheet)  
