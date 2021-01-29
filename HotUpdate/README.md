@@ -33,6 +33,7 @@
 * [【Unity游戏开发】加载AB和实例化操作对应的内存变化](https://zhuanlan.zhihu.com/p/135192859)  
 * [AssetBundle的原理及最佳实践](https://zhuanlan.zhihu.com/p/103669794)  
 * [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
+* [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
