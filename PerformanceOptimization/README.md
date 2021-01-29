@@ -85,6 +85,7 @@
 >* [iOS闪退日志的收集和解析](https://www.cnblogs.com/jingxin1992/p/12342168.html)  
 >* [[翻译]Unity游戏优化最佳实践](https://zhuanlan.zhihu.com/p/103691977)  
 >* [C#代码优化：拯救你的CPU耗时](https://mp.weixin.qq.com/s/a8ltaCdy-EyKEQO2sLtWGg)  
+>* [Managed code stripping](https://docs.unity3d.com/Manual/ManagedCodeStripping.html)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
