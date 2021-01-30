@@ -1,0 +1,63 @@
+﻿打分几路
+mate20：
+deviceName:HWLYA total: 29.202473958333 average:5.8404947916667 gMemScore:2.0,memScore:14.869140625 gShdrScore:2.0 procCScore:6.0 procFScore:4.3333333333333
+    XLua.StaticLuaCallbacks:Print(IntPtr)
+
+三星 galaxy s6
+deviceName:zenltechn total: 19.65625 average:3.93125 gMemScore:1.0,memScore:7.15625 gShdrScore:2.0 procCScore:6.0 procFScore:3.5
+
+华为 nexus 6p
+deviceName:angler total: 17.058463541667 average:3.4116927083333 gMemScore:1.0,memScore:5.466796875 gShdrScore:2.0 procCScore:6.0 procFScore:2.5916666666667
+
+华为荣耀7
+deviceName:HWBND-H total: 20.335104166667 average:4.0670208333333 gMemScore:1.0,memScore:7.3984375 gShdrScore:2.0 procCScore:6.0 procFScore:3.9366666666667
+
+vivo x7
+deviceName:PD1602 total: 18.32328125 average:3.66465625 gMemScore:1.0,memScore:6.98828125 gShdrScore:2.0 procCScore:6.0 procFScore:2.335
+
+function ApplicationMediator:getGameQualityId()
+    local deviceName=  he.MetaInfo:getDeviceName()
+    local average= 0
+    local gMemScore=0
+    local resultId = HIGH_QUALITY_ID
+    if __ANDROID then
+        local gMem = SystemInfo.graphicsMemorySize;
+        local gShdr = SystemInfo.graphicsShaderLevel;
+        local mem = SystemInfo.systemMemorySize;
+        local procC = SystemInfo.processorCount;
+        local procF = SystemInfo.processorFrequency;
+         
+
+        gMemScore = gMem / 1024 * graphicsMemoryWeight * multiThreadWeight;
+        local   memScore = mem / 512 * memoryWeight;
+        local   gShdrScore = gShdr / 25 * graphicsShaderWeight;
+        local   procCScore = procC * 0.75 * processorCoreWeight;
+        local   procFScore = procF / 600 *  processorFrequencyWeight;
+
+        local total = gMemScore + memScore + gShdrScore + procCScore + procFScore;
+        average = total / 5;
+
+        log.i("deviceName:%s total: %s average:%s gMemScore:%s,memScore:%s gShdrScore:%s procCScore:%s procFScore:%s",
+        deviceName,
+        total,
+        average,
+        gMemScore,
+        memScore,
+        gShdrScore,
+        procCScore,
+        procFScore)
+    end
+
+    local conf= ConfigManager:getInstance():getDeviceQuality(deviceName)
+    if conf then
+        --local qualitySet=  ConfigManager:getInstance():getQuality(conf.quality)
+        resultId=conf.quality
+    else
+        if  average>0 and average< 4  then
+            resultId= LOW_QUALITY_ID
+        elseif gMemScore>0 and gMemScore<1.1 then
+                resultId= LOW_QUALITY_ID
+        end
+    end
+    return  resultId
+ end
