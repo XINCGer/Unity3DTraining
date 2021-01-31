@@ -105,3 +105,4 @@
 * [记忆中的像素块褪色了吗？用开源的体素编辑器重新做个 3D 的吧！](https://www.cnblogs.com/xueweihan/p/14298163.html)  
 * [DocFxForUnity](https://github.com/NormandErwan/DocFxForUnity)   
 * [UnityCoverFlow——Unity3D UI CoverFlow and other Layout options](https://github.com/IainS1986/UnityCoverFlow)  
+* [docfx 做一个和微软一样的文档平台](https://blog.lindexi.com/post/docfx-做一个和微软一样的文档平台.html)  
