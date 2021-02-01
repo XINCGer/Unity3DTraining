@@ -106,3 +106,4 @@
 * [DocFxForUnity](https://github.com/NormandErwan/DocFxForUnity)   
 * [UnityCoverFlow——Unity3D UI CoverFlow and other Layout options](https://github.com/IainS1986/UnityCoverFlow)  
 * [docfx 做一个和微软一样的文档平台](https://blog.lindexi.com/post/docfx-做一个和微软一样的文档平台.html)  
+* [NavMeshPlus](https://github.com/h8man/NavMeshPlus)  
