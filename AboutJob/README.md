@@ -129,6 +129,7 @@
 >* [为什么当代生活会变成「一切皆可内卷」？](https://mp.weixin.qq.com/s/AbjgiYWZGnW_H_mI5vNOBA)  
 >* [漫画 | 人到中年，一地鸡毛](https://www.cnblogs.com/susouth/p/14184358.html)  
 >* [国内互联网公司为什么加班这么狠？](https://mp.weixin.qq.com/s/eOVeGe8Ie14ntYQloXi0Gg)  
+>* [“互联网留守儿童”：大厂员工的下一代](https://news.cnblogs.com/n/687546/)  
 
 ### 互联网编年史2018    
 >* [魔都互联网人的2018：留下与离开，都不是意外](https://mp.weixin.qq.com/s/7wxN8osRmc86Mv7gJa48Vg)  
