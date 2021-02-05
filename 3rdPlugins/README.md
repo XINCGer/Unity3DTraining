@@ -110,3 +110,4 @@
 * [Unity Git Hooks](https://github.com/doitian/unity-git-hooks)  
 * [UndoPro - command-based undo system integrated into Unity's default system](https://github.com/Seneral/UndoPro)  
 * [最后一战MOBA源码](https://github.com/jakeowner/lastbattle)  
+* [NaughtyAttributes is an extension for the Unity Inspector](https://github.com/dbrizov/NaughtyAttributes)  
