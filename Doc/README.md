@@ -65,3 +65,4 @@
 >* [Unity3D之空间转换学习笔记（一）：场景物体变换](https://www.cnblogs.com/hammerc/p/4638418.html)  
 >* [十分钟了解20条Unity使用技巧！](https://mp.weixin.qq.com/s/0OEhIQ_oCeVLewCaa2vG9w)  
 >* [Unity 2020.2 优化了 Time.deltaTime，以实现更流畅的游戏体验](https://mp.weixin.qq.com/s/1kK-1YqZnMeeEqFLrWKRaQ)  
+>* [IDEA Debug使用教程](https://www.cnblogs.com/yourbatman/p/14384153.html)  
