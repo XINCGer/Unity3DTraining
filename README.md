@@ -60,6 +60,7 @@
 >* [54.求职工作培训与养生等](./AboutJob)  
 
 ## 友情链接  
+* [xasset 快速强大的Unity资源系统](https://github.com/xasset/xasset)  
 * [anything_about_game(夜莺人行自走库)](https://github.com/killop/anything_about_game)  
 * [JingFengJi(静风霁的博客)](https://www.jingfengji.tech/)  
 * [狂飙的博客](https://networm.me/)  
