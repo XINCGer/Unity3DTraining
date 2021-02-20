@@ -43,6 +43,7 @@
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
 * [Unity SRP Batcher的工作原理](https://zhuanlan.zhihu.com/p/165574008)  
 * [Scriptable Render Pipeline Doc](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/image-quality/)  
+* [URP 系列教程 | 多相机玩法攻略](https://mp.weixin.qq.com/s/RvImZ-twed643wJK-taAEA)  
 
 ### GAMES101-现代计算机图形学入门-闫令琪
 * [链接](https://www.bilibili.com/video/BV1X7411F744)  
