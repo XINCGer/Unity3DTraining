@@ -14,3 +14,4 @@
 >* [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://mp.weixin.qq.com/s/pql5axto8gxSgYd4Y-GJYQ)  
 >* [Naming cheatsheet命名规则最佳实践](https://github.com/kettanaito/naming-cheatsheet)  
 >* [手机设备定档与划分](./Mobilephone_division)  
+>* [如何搭建一支拖垮公司的技术团队？](https://mp.weixin.qq.com/s/e_so3ESiTdhC-73qE79Xrg)  
