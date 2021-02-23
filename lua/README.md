@@ -26,6 +26,7 @@
 >* [24.tolua各个平台的编译](https://blog.csdn.net/Rhett_Yuan/article/details/79656306)  
 >* [25.tolua学习资料](https://github.com/xinzhuzi/Record/tree/master/source/_posts/Unity/ToLua)  
 >* [26.基于原型的Lua面向对象系统](https://github.com/kurapica/PLoop/blob/master/README-zh.md)  
+>* [27.记一次Lua语言中死循环查错](https://www.cnblogs.com/lijiajia/p/10817407.html)  
 
 
 ### lua书籍  
