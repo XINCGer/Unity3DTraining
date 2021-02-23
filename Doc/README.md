@@ -69,3 +69,4 @@
 >* [IDEA Debug使用教程](https://www.cnblogs.com/yourbatman/p/14384153.html)  
 >* [Unity 技术大会干货盘点：这些爆款游戏的创作技术，你也能用](https://mp.weixin.qq.com/s/e_WyuvT0SXLdsYiwuunAUw)  
 >* [值得收藏！Unity B 站教程大集合，让大神带你弯道超车](https://mp.weixin.qq.com/s/cCYOKc6LEuqipceGH8dGeQ)   
+>* [m1款MacBook Air 使用3个月总结及原生运行于apple芯片架构软件推荐](https://www.cnblogs.com/dereen/p/m1_mac_software.html)  
