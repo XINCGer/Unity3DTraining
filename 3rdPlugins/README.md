@@ -49,8 +49,6 @@
 * [LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump)  
 * [Unity博主营地｜Unity常用插件汇总](https://mp.weixin.qq.com/s/OvBe1BFr9NtYFKcvDFPEww)  
 * [“开箱即用”的Unity独立游戏开发工具 TinaX Framework](https://tinax.corala.space/#/)  
-* [以一抵十，年度精华教程大汇总](https://mp.weixin.qq.com/s/kIWzak2KiVr6-NltDwVRHA)  
-* [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
 * [最「水」的资源插件汇总，强烈建议你收藏](https://mp.weixin.qq.com/s/dWeC7pJf1237_qW0T6_Kew)  
 * [工具使用：推荐一款发现优化场景无用组件的工具Maintainer](https://gameinstitute.qq.com/community/detail/107644#commit)  
 * [Unity通用渲染管线Shader日志输出工具](https://mp.weixin.qq.com/s/tT7bF3__eueOWMyHIHAnAg)  
