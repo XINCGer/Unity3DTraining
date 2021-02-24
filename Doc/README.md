@@ -70,3 +70,5 @@
 >* [Unity 技术大会干货盘点：这些爆款游戏的创作技术，你也能用](https://mp.weixin.qq.com/s/e_WyuvT0SXLdsYiwuunAUw)  
 >* [值得收藏！Unity B 站教程大集合，让大神带你弯道超车](https://mp.weixin.qq.com/s/cCYOKc6LEuqipceGH8dGeQ)   
 >* [m1款MacBook Air 使用3个月总结及原生运行于apple芯片架构软件推荐](https://www.cnblogs.com/dereen/p/m1_mac_software.html)  
+>* [以一抵十，年度精华教程大汇总](https://mp.weixin.qq.com/s/kIWzak2KiVr6-NltDwVRHA)  
+>* [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
