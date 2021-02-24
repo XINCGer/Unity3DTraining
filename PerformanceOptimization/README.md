@@ -89,6 +89,7 @@
 >* [不同内存的安卓与苹果机型上(1G,2G,3G,4G...)，游戏内存的峰值一般最高多少能保证不闪退](https://answer.uwa4d.com/question/5b8e2f5f339d267d357c6eda)  
 >* [Unity 内存分析](https://networm.me/2020/12/13/unity-memory-profile/)  
 >* [记一次Lua语言中死循环查错](https://www.cnblogs.com/lijiajia/p/10817407.html)  
+>* [Lua优化——认识局部变量中的常见陷阱](https://mp.weixin.qq.com/s/pUEEBIZl2EowO_S8BiYbeA)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
