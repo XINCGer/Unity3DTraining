@@ -111,3 +111,4 @@
 * [NaughtyAttributes is an extension for the Unity Inspector](https://github.com/dbrizov/NaughtyAttributes)  
 * [i18n.lua_- A very complete i18n lib for Lua](https://github.com/kikito/i18n.lua)  
 * [Smart Hierarchy](https://github.com/neon-age/Smart-Hierarchy)  
+* [FbxSharp Project : FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
