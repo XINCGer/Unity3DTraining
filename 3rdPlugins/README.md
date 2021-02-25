@@ -112,3 +112,4 @@
 * [i18n.lua_- A very complete i18n lib for Lua](https://github.com/kikito/i18n.lua)  
 * [Smart Hierarchy](https://github.com/neon-age/Smart-Hierarchy)  
 * [FbxSharp Project : FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
+* [高效率 QQ 机器人框架](https://github.com/mamoe/mirai)  
