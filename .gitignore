@@ -302,3 +302,5 @@ Temp/
 
 *.sln
 !/LearningOpenGL/*/*.sln
+!/XlsxTools/*/*.sln
+!/XlsxTools/*/*.csproj
