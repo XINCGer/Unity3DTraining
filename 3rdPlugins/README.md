@@ -113,3 +113,5 @@
 * [Smart Hierarchy](https://github.com/neon-age/Smart-Hierarchy)  
 * [FbxSharp Project : FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
 * [高效率 QQ 机器人框架](https://github.com/mamoe/mirai)  
+* [Animation Compression Library](https://github.com/nfrechette/acl)  
+* [Animation Compression Library Unreal Engine 4 Plugin](https://github.com/nfrechette/acl-ue4-plugin)  
