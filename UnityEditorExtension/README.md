@@ -47,6 +47,7 @@
 >* [Unity3D研究院之监听Hierachy、Project等视图结构变化的事件](http://www.xuanyusong.com/archives/3053)  
 >* [如何制作MMORPG游戏地图编辑器](https://zhuanlan.zhihu.com/p/270274723)  
 >* [USubWindow](https://github.com/AsehesL/USubWindow)  
+>* [Unity3D研究院之系统内置系统图标大整理](https://www.xuanyusong.com/archives/3777)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
