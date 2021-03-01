@@ -62,5 +62,6 @@
 ## 友情链接  
 * [xasset 快速强大的Unity资源系统](https://github.com/xasset/xasset)  
 * [anything_about_game(夜莺人行自走库)](https://github.com/killop/anything_about_game)  
+* [JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，小白也能快速上手，轻松制作可以热更新的游戏](https://github.com/JasonXuDeveloper/JEngine)  
 * [JingFengJi(静风霁的博客)](https://www.jingfengji.tech/)  
 * [狂飙的博客](https://networm.me/)  
