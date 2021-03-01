@@ -125,3 +125,4 @@
 >* [C#代码优化：斩断伸向堆内存的“黑手”](https://mp.weixin.qq.com/s/IS1cbxB-79W0F1P-QRxOJg)  
 >* [【厚积薄发】Lua全局变量代码规范](https://mp.weixin.qq.com/s/hLZ1tMJy8TpyXxmliulQdw)  
 >* [【厚积薄发】ShaderLab占用疑问](https://mp.weixin.qq.com/s/XOGgE1HAlp0aTPrXtUNkFQ)  
+>* [【厚积薄发】如何定位Unity死循环导致的完全卡死](https://mp.weixin.qq.com/s/SsljS-HCuZnRr6RmybodSg)  
