@@ -34,6 +34,7 @@
 * [AssetBundle的原理及最佳实践](https://zhuanlan.zhihu.com/p/103669794)  
 * [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
+* [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
