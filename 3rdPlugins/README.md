@@ -117,3 +117,4 @@
 * [Animation Compression Library Unreal Engine 4 Plugin](https://github.com/nfrechette/acl-ue4-plugin)  
 * [XMLib 动作游戏开发套件](https://github.com/XINCGer/Unity3DTraining/blob/master/3rdPlugins/XMLib.md)  
 * [Lua核心工具包](https://github.com/iwiniwin/LuaKit)  
+* [OneSignal-Unity-SDK](https://github.com/OneSignal/OneSignal-Unity-SDK)  
