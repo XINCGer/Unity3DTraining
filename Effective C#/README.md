@@ -33,3 +33,4 @@
 >* [什么是C#的值类型与引用类型？Class与Struct对比](https://mp.weixin.qq.com/s/RSZTSceOaVKhl3KP6X6BKg)  
 >* [LINQ 查询简介 (C#)](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)  
 >* [语言集成查询 (LINQ)](https://docs.microsoft.com/zh-cn/dotnet/csharp/linq/)  
+>* [帮你理清 C# 委托、事件、Action、Func](https://mp.weixin.qq.com/s/V6u4fsrlY9tSVUKQty7eDA)  
