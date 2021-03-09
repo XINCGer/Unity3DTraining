@@ -52,3 +52,6 @@
 ### GAMES101-现代计算机图形学入门-闫令琪
 * [链接](https://www.bilibili.com/video/BV1X7411F744)  
 
+### 电子书  
+* [Physically Based Rendering - 3rd Edition](http://www.pbr-book.org/3ed-2018/contents.html)  
+
