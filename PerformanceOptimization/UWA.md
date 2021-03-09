@@ -126,3 +126,4 @@
 >* [【厚积薄发】Lua全局变量代码规范](https://mp.weixin.qq.com/s/hLZ1tMJy8TpyXxmliulQdw)  
 >* [【厚积薄发】ShaderLab占用疑问](https://mp.weixin.qq.com/s/XOGgE1HAlp0aTPrXtUNkFQ)  
 >* [【厚积薄发】如何定位Unity死循环导致的完全卡死](https://mp.weixin.qq.com/s/SsljS-HCuZnRr6RmybodSg)  
+>* [【厚积薄发】RenderTexture导致UI花屏的问题](https://mp.weixin.qq.com/s/cbUj35Y2j2k1BBEDWIbGTg)  
