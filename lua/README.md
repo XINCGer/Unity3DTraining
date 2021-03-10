@@ -28,6 +28,7 @@
 >* [26.基于原型的Lua面向对象系统](https://github.com/kurapica/PLoop/blob/master/README-zh.md)  
 >* [27.记一次Lua语言中死循环查错](https://www.cnblogs.com/lijiajia/p/10817407.html)  
 >* [28.NewbieGameCoder的tolua_runtime(lua5.3分支)](https://github.com/NewbieGameCoder/tolua_runtime)  
+>* [29.tolua编译集成lua-protobuf指南](https://john.js.org/2020/11/02/ToLua-Compile-With-lua-protobuf/)  
 
 
 ### lua书籍  
