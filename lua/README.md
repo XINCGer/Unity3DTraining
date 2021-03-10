@@ -29,6 +29,7 @@
 >* [27.记一次Lua语言中死循环查错](https://www.cnblogs.com/lijiajia/p/10817407.html)  
 >* [28.NewbieGameCoder的tolua_runtime(lua5.3分支)](https://github.com/NewbieGameCoder/tolua_runtime)  
 >* [29.tolua编译集成lua-protobuf指南](https://john.js.org/2020/11/02/ToLua-Compile-With-lua-protobuf/)  
+>* [30.如何编译tolua runtime库(NewbieGameCoder)](https://github.com/NewbieGameCoder/tolua_runtime/wiki)  
 
 
 ### lua书籍  
