@@ -50,6 +50,7 @@
 * [A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)  
 * [[Unity]URP排坑 持续更新](https://blog.glowtree.cn/blog/?p=415)  
 * [Unity的URP项目开启](https://blog.csdn.net/zakerhero/article/details/106160451)  
+* [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
 
 ### GAMES101-现代计算机图形学入门-闫令琪
 * [链接](https://www.bilibili.com/video/BV1X7411F744)  
