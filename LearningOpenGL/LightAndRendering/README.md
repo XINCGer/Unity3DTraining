@@ -4,3 +4,4 @@
 >* [Unity3D灯光与渲染学习之（一）：天空盒、灯光以及色彩空间](https://blog.csdn.net/s1314_JHC/article/details/80618820)  
 >* [Unity3D灯光与渲染学习之（二）：全局、烘焙以及混合光照](https://blog.csdn.net/s1314_JHC/article/details/80619312)  
 >* [Unity3D灯光与渲染学习之（三）：探针使用、后处理与批处理](https://blog.csdn.net/s1314_JHC/article/details/80619851)  
+>* [Unity灯光烘焙设置详解【2019】](https://zhuanlan.zhihu.com/p/78999142)  
