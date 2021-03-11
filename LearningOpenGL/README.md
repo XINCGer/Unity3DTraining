@@ -49,6 +49,7 @@
 * [URP 系列教程 | 能讲讲如何在 URP 中使用 SRP Batcher 吗？安排上](https://mp.weixin.qq.com/s/QM448TeUfqc81pwMm3BBvw)  
 * [A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)  
 * [[Unity]URP排坑 持续更新](https://blog.glowtree.cn/blog/?p=415)  
+* [Unity的URP项目开启](https://blog.csdn.net/zakerhero/article/details/106160451)  
 
 ### GAMES101-现代计算机图形学入门-闫令琪
 * [链接](https://www.bilibili.com/video/BV1X7411F744)  
