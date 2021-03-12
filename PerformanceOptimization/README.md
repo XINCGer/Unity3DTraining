@@ -72,6 +72,7 @@
 >* [【Unity优化】DrawCall与Batch](https://www.cnblogs.com/hearthstone/p/13357821.html)  
 >* [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/wei_yuan_2012/article/details/88677172)  
 >* [关于Unity动画系统优化，你可能遇到这些问题](https://blog.uwa4d.com/archives/QA_Animator-1.html)  
+>* [Unity动画文件Animation的压缩和优化总结](https://mp.weixin.qq.com/s/dbkcKmdhQPDbKhK3aRjT5w)  
 >* [Anim动画压缩优化探究总结](AnimOptimization.md)  
 >* [iOS app内存分析套路](https://www.cnblogs.com/bigfeng/p/6178301.html)  
 >* [《Unity游戏优化》第2版总结思维导图](./Unity性能优化.png)  
