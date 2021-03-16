@@ -72,3 +72,4 @@
 >* [m1款MacBook Air 使用3个月总结及原生运行于apple芯片架构软件推荐](https://www.cnblogs.com/dereen/p/m1_mac_software.html)  
 >* [以一抵十，年度精华教程大汇总](https://mp.weixin.qq.com/s/kIWzak2KiVr6-NltDwVRHA)  
 >* [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
+>* [开发 2D 游戏必看，实用技巧大汇总](https://mp.weixin.qq.com/s/I6HtITjsHpgpmoLUXXZgDQ)  
