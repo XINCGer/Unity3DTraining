@@ -127,3 +127,4 @@
 >* [【厚积薄发】ShaderLab占用疑问](https://mp.weixin.qq.com/s/XOGgE1HAlp0aTPrXtUNkFQ)  
 >* [【厚积薄发】如何定位Unity死循环导致的完全卡死](https://mp.weixin.qq.com/s/SsljS-HCuZnRr6RmybodSg)  
 >* [【厚积薄发】RenderTexture导致UI花屏的问题](https://mp.weixin.qq.com/s/cbUj35Y2j2k1BBEDWIbGTg)  
+>* [【厚积薄发】下载AssetBundle的Mono内存问题](https://mp.weixin.qq.com/s/TD-asTIaHfEssFPtgvulRg)  
