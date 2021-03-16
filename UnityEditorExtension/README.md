@@ -54,6 +54,7 @@
 >* [【unity实用技能】Unity画一条带箭头的线](https://blog.51cto.com/13638120/2103459)  
 >* [查找丢失组件的预制体](https://www.cnblogs.com/bzyzhang/p/6485918.html)  
 >* [missing prefab 检查](https://my.oschina.net/u/4318809/blog/4313046)  
+>* [UnityBookMarkSystem](https://github.com/Ribosome2/UnityBookMarkSystem)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
