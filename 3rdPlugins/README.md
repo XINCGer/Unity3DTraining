@@ -122,4 +122,5 @@
 * [IllegalWordsDetection高效率的简单敏感词检测](https://github.com/NewbieGameCoder/IllegalWordsDetection)  
 * [UTween](https://github.com/ls9512/UTween)  
 * [搜代码费时又费力？这里有一个开源神器帮你快速搞定！](https://www.cnblogs.com/xueweihan/p/14545827.html)  
+* [Project Auditor](https://github.com/Unity-Technologies/ProjectAuditor)  
 
