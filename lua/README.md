@@ -31,6 +31,7 @@
 >* [29.tolua编译集成lua-protobuf指南](https://john.js.org/2020/11/02/ToLua-Compile-With-lua-protobuf/)  
 >* [30.如何编译tolua runtime库(NewbieGameCoder)](https://github.com/NewbieGameCoder/tolua_runtime/wiki)  
 >* [31.Unity开发：tolua升级Lua5.3后编译打包指南](https://zhuanlan.zhihu.com/p/71832614)  
+>* [32.Lua编程入门](https://www.kancloud.cn/thinkphp/lua-guide/43805)  
 
 
 ### lua书籍  
