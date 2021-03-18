@@ -35,6 +35,7 @@
 * [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 * [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
+* [内置的shader怎么打包？](https://answer.uwa4d.com/question/58e8d7c074c2cac90afa6f36)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
