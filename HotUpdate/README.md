@@ -36,6 +36,7 @@
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 * [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
 * [内置的shader怎么打包？](https://answer.uwa4d.com/question/58e8d7c074c2cac90afa6f36)  
+* [Packages 目录下 Shader 打包](https://answer.uwa4d.com/question/5f3d10b19424416784ef1c82)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
