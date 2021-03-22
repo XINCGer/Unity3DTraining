@@ -55,6 +55,7 @@
 >* [查找丢失组件的预制体](https://www.cnblogs.com/bzyzhang/p/6485918.html)  
 >* [missing prefab 检查](https://my.oschina.net/u/4318809/blog/4313046)  
 >* [UnityBookMarkSystem](https://github.com/Ribosome2/UnityBookMarkSystem)  
+>* [Unity编辑器---代码锁定场景物体不可点击选中](https://blog.csdn.net/qc_falldawn/article/details/100975888)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
