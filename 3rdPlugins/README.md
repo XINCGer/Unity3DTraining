@@ -124,5 +124,4 @@
 * [搜代码费时又费力？这里有一个开源神器帮你快速搞定！](https://www.cnblogs.com/xueweihan/p/14545827.html)  
 * [Project Auditor](https://github.com/Unity-Technologies/ProjectAuditor)  
 * [用于在 Unity3D 中获取Android 和 iOS 平台上唯一机器码的插件](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier)  
-* [Unity3D | 插件资源分享](https://github.com/764424567/Unity-plugin)  
 
