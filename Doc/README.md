@@ -74,3 +74,4 @@
 >* [15个行业案例，帮你站上巨人的肩膀](https://mp.weixin.qq.com/s/AZsrDUFC-MOe1w2iBhvVuA)  
 >* [开发 2D 游戏必看，实用技巧大汇总](https://mp.weixin.qq.com/s/I6HtITjsHpgpmoLUXXZgDQ)  
 >* [Git 本地和repo上仓库的清洗](https://blog.csdn.net/zjx923759789/article/details/83120279)  
+>* [git: 如何减少.git文件的大小？](https://blog.csdn.net/LOI_QER/article/details/107911115)  
