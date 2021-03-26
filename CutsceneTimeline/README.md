@@ -6,3 +6,4 @@
 >* [[干货分享]Unity3D 深入解析Timeline编辑器](https://www.jianshu.com/p/527e74eb59ca)  
 >* [Unity中用Timeline实现动画特写（上）](https://zhuanlan.zhihu.com/p/83607025)  
 >* [用Timeline实现动画特写（下）](https://zhuanlan.zhihu.com/p/84820028)  
+>* [【Unity】TimeLine系列教程——编排剧情！](https://zhuanlan.zhihu.com/p/29188275)  
