@@ -130,3 +130,4 @@
 >* [【厚积薄发】下载AssetBundle的Mono内存问题](https://mp.weixin.qq.com/s/TD-asTIaHfEssFPtgvulRg)  
 >* [【厚积薄发】Addressable资源热更新疑问](https://mp.weixin.qq.com/s/DOE_vzxjY592JTtGzJKK7g)  
 >* [【厚积薄发】如何优化UI中大量使用SetActive的问题](https://mp.weixin.qq.com/s/4Avhdxcy93qJmhPZnwLOKA)  
+>* [Unity性能优化系列—渲染模块](https://mp.weixin.qq.com/s/cPGW-siLkycEHKvre0aPtw)  
