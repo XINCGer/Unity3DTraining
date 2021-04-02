@@ -61,6 +61,7 @@
 >* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  
 >* [jfinal cms是一个java开发的功能强大的信息咨询网站](https://github.com/jflyfox/jfinal_cms)  
 >* [Vue前台高仿 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的在线教育网站及后台管理](https://github.com/mtianyan/OnlineMooc)  
+>* [MeEdu - 基于 Laravel 开发的在线教育点播系统](https://github.com/Qsnh/meedu)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
