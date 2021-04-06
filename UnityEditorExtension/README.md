@@ -56,6 +56,7 @@
 >* [missing prefab 检查](https://my.oschina.net/u/4318809/blog/4313046)  
 >* [UnityBookMarkSystem](https://github.com/Ribosome2/UnityBookMarkSystem)  
 >* [Unity编辑器---代码锁定场景物体不可点击选中](https://blog.csdn.net/qc_falldawn/article/details/100975888)  
+>* [How to raycast from mouse position in scene view?](https://stackoverflow.com/questions/58975095/how-to-raycast-from-mouse-position-in-scene-view)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
