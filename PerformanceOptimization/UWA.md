@@ -131,3 +131,4 @@
 >* [【厚积薄发】Addressable资源热更新疑问](https://mp.weixin.qq.com/s/DOE_vzxjY592JTtGzJKK7g)  
 >* [【厚积薄发】如何优化UI中大量使用SetActive的问题](https://mp.weixin.qq.com/s/4Avhdxcy93qJmhPZnwLOKA)  
 >* [Unity性能优化系列—渲染模块](https://mp.weixin.qq.com/s/cPGW-siLkycEHKvre0aPtw)  
+>* [【厚积薄发】Addressable编辑器相关开发问题](https://mp.weixin.qq.com/s/evyDv9H7lLCrTj-dZ8PZiA)  
