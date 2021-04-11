@@ -40,6 +40,7 @@
 * [【十天自制软渲染器】DAY 01：图形学学习建议与环境搭建](https://www.cnblogs.com/skychx/p/toyrenderer-day01-env-setup.html)  
 * [用 Unity 制作写实渲染，画面实现上需要注意的一些问题](https://mp.weixin.qq.com/s/Z7pbIsc4T09WkaOILvFuJw)  
 * [大世界树木阴影方案集合](https://mp.weixin.qq.com/s/rufDfzb_jkCHsZOrXjveOg)  
+* [Unity3D 实用技巧 - Unity Shader 汇总式学习·实战篇 - 阴影](https://mp.weixin.qq.com/s/9HPC8j8WMBHXrLAv5ZJ5rg)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
