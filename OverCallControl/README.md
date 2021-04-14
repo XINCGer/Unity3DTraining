@@ -15,3 +15,4 @@
 >* [Naming cheatsheet命名规则最佳实践](https://github.com/kettanaito/naming-cheatsheet)  
 >* [手机设备定档与划分](./Mobilephone_division)  
 >* [如何搭建一支拖垮公司的技术团队？](https://mp.weixin.qq.com/s/e_so3ESiTdhC-73qE79Xrg)  
+>* [一个技术总监的忠告：你精通那么多技术，为何还是做不好一个项目？](https://www.cnblogs.com/siyuanwai/p/14652810.html)  
