@@ -17,6 +17,7 @@
 >* [三款开源的节点编辑器-1](https://github.com/Siccity/xNode)  
 >* [三款开源的节点编辑器-2](https://github.com/alelievr/NodeGraphProcessor)  
 >* [三款开源的节点编辑器-3](https://github.com/Seneral/Node_Editor_Framework)  
+>* [【次时代节点编辑器】NodeGraphProcessor整合Odin](https://zhuanlan.zhihu.com/p/362259030)  
 >* [Unity日志工具——封装，跳转](https://www.iteye.com/blog/dsqiu-2263664)  
 >* [Unity 内置GUIStyle 样例预览](https://blog.csdn.net/l773575310/article/details/90033381)  
 >* [Unity 编辑器内实现预览窗口](https://blog.csdn.net/akof1314/article/details/70941447)  
