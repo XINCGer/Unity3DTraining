@@ -60,6 +60,7 @@
 >* [Unity编辑器---代码锁定场景物体不可点击选中](https://blog.csdn.net/qc_falldawn/article/details/100975888)  
 >* [How to raycast from mouse position in scene view?](https://stackoverflow.com/questions/58975095/how-to-raycast-from-mouse-position-in-scene-view)  
 >* [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders)  
+>* [无法从Project窗口拖拽GameObject到SceneView窗口](https://answer.uwa4d.com/question/6077b3b66bb31032f9791324)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
