@@ -127,4 +127,5 @@
 * [Unity.IO.Compression](https://github.com/Hitcents/Unity.IO.Compression)  
 * [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders)  
 * [SourceCounter代码行数统计工具](https://github.com/xiaohaijoe/SourceCounter)  
+* [lua-fsm](https://github.com/recih/lua-fsm)  
 
