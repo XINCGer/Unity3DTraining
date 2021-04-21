@@ -134,3 +134,4 @@
 >* [【厚积薄发】Addressable编辑器相关开发问题](https://mp.weixin.qq.com/s/evyDv9H7lLCrTj-dZ8PZiA)  
 >* [【厚积薄发】Texture Streaming的使用疑问](https://mp.weixin.qq.com/s/S_BqqU2LWVepc2jlmEzs7A)  
 >* [【厚积薄发】Unity如何直接获取深度缓冲](https://mp.weixin.qq.com/s/F9fzsxNMdQBXdWLOX1Ndgw)  
+>* [Unity性能优化系列—加载与资源管理](https://mp.weixin.qq.com/s/-vflmIhGHK4x1Fux4KvHAw)  
