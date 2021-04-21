@@ -62,6 +62,7 @@
 >* [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders)  
 >* [无法从Project窗口拖拽GameObject到SceneView窗口](https://answer.uwa4d.com/question/6077b3b66bb31032f9791324)  
 >* [“改造” VS Code 编辑器，一起写个插件吧！](https://www.cnblogs.com/xueweihan/p/14672480.html)  
+>* [美术资源自检规则工具](https://github.com/Liangzg/AssetChecker)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
