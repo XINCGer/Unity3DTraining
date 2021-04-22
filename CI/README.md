@@ -17,6 +17,8 @@
 * [细数Mac安装Homebrew踩过的坑......](https://zhuanlan.zhihu.com/p/93092044)  
 * [Jenkins安装插件很慢的解决方案](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
 * [Unity-MultiProcess-BuildPipeline多进程资源构建方案](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)  
+* >* [The new Asset Import Pipeline: Solid foundation for speeding up asset imports](https://blogs.unity3d.com/cn/2019/10/31/the-new-asset-import-pipeline-solid-foundation-for-speeding-up-asset-imports/)  
+>* [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
 
 ### Asset Import Pipeline V2
 * [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
