@@ -70,3 +70,4 @@
 
 #### 流媒体服务搭建  
 >* [RED5 PRO](https://www.red5pro.com/red5-media-server/)  
+>* [Jellyfin-The Free Software Media System](https://github.com/jellyfin/jellyfin)  
