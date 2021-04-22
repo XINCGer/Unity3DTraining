@@ -67,3 +67,6 @@
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
+
+#### 流媒体服务搭建  
+>* [RED5 PRO](https://www.red5pro.com/red5-media-server/)  
