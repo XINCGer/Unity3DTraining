@@ -76,5 +76,3 @@
 >* [Git 本地和repo上仓库的清洗](https://blog.csdn.net/zjx923759789/article/details/83120279)  
 >* [git: 如何减少.git文件的大小？](https://blog.csdn.net/LOI_QER/article/details/107911115)  
 >* [Unity编译托管插件](https://docs.unity3d.com/cn/current/Manual/UsingDLL.html)  
->* [The new Asset Import Pipeline: Solid foundation for speeding up asset imports](https://blogs.unity3d.com/cn/2019/10/31/the-new-asset-import-pipeline-solid-foundation-for-speeding-up-asset-imports/)  
->* [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
