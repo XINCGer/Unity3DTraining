@@ -42,6 +42,7 @@
 * [大世界树木阴影方案集合](https://mp.weixin.qq.com/s/rufDfzb_jkCHsZOrXjveOg)  
 * [Unity3D 实用技巧 - Unity Shader 汇总式学习·实战篇 - 阴影](https://mp.weixin.qq.com/s/9HPC8j8WMBHXrLAv5ZJ5rg)  
 * [Linux OpenGL 实践篇-10-framebuffer](https://www.cnblogs.com/xin-lover/p/8977307.html)  
+* [OpenGL ES学习之路(3.1) 着色器渲染过程、渲染方式、FrameBuffer与RenderBuffer](https://www.jianshu.com/p/dbba97339e75?tdsourcetag=s_pctim_aiomsg)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
