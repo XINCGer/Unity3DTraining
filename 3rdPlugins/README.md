@@ -130,4 +130,5 @@
 * [lua-fsm](https://github.com/recih/lua-fsm)  
 * [NaughtyCharacter-Third Person Controller for Unity](https://github.com/dbrizov/NaughtyCharacter)  
 * [multi-platform bittorrent client](https://github.com/aliakseis/LIII)  
+* [基于unity3d重写的动作系统PosePlus,回合制策略游戏实现](https://github.com/yimengfan/PosePlus_TBS)  
 
