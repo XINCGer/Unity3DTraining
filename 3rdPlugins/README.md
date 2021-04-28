@@ -134,3 +134,4 @@
 * [NaughtyBezierCurves](https://github.com/dbrizov/NaughtyBezierCurves)  
 * [Masuit.Tools包含一些常用的操作类，大都是静态类，加密解密，反射操作，动态编译等](https://github.com/ldqk/Masuit.Tools)  
 * [UnityRuntimeSpriteSheetsGenerator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator)  
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing)  
