@@ -132,3 +132,4 @@
 * [multi-platform bittorrent client](https://github.com/aliakseis/LIII)  
 * [基于unity3d重写的动作系统PosePlus,回合制策略游戏实现](https://github.com/yimengfan/PosePlus_TBS)  
 * [NaughtyBezierCurves](https://github.com/dbrizov/NaughtyBezierCurves)  
+* [Masuit.Tools包含一些常用的操作类，大都是静态类，加密解密，反射操作，动态编译等](https://github.com/ldqk/Masuit.Tools)  
