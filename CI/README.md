@@ -19,6 +19,8 @@
 * [Unity-MultiProcess-BuildPipeline多进程资源构建方案](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)  
 * >* [The new Asset Import Pipeline: Solid foundation for speeding up asset imports](https://blogs.unity3d.com/cn/2019/10/31/the-new-asset-import-pipeline-solid-foundation-for-speeding-up-asset-imports/)  
 >* [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
+>* [解决Android SDK Manager无法更新下载](https://www.cnblogs.com/hackpig/p/8502851.html)  
+>* [android sdk 无法更新,错误原因是dl.google.com的问题](https://blog.csdn.net/rdp1305442102/article/details/105535324)  
 
 ### Asset Import Pipeline V2
 * [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
