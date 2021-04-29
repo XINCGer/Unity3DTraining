@@ -9,6 +9,7 @@
 >* [Unity中用Timeline实现动画特写（上）](https://zhuanlan.zhihu.com/p/83607025)  
 >* [用Timeline实现动画特写（下）](https://zhuanlan.zhihu.com/p/84820028)  
 >* [【Unity】TimeLine系列教程——编排剧情！](https://zhuanlan.zhihu.com/p/29188275)  
+>* [Playables手册](https://docs.unity3d.com/Manual/Playables.html)  
 
 #### Cinema Director  
 >* [Cinema Director官网](http://cinema-suite.com/cinema-director/)  
