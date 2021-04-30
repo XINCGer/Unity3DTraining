@@ -18,15 +18,15 @@
 * [Jenkins安装插件很慢的解决方案](https://www.cnblogs.com/shiyixirui/p/12888322.html)  
 * [Unity-MultiProcess-BuildPipeline多进程资源构建方案](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)  
 * [The new Asset Import Pipeline: Solid foundation for speeding up asset imports](https://blogs.unity3d.com/cn/2019/10/31/the-new-asset-import-pipeline-solid-foundation-for-speeding-up-asset-imports/)  
->* [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
->* [解决Android SDK Manager无法更新下载](https://www.cnblogs.com/hackpig/p/8502851.html)  
->* [android sdk 无法更新,错误原因是dl.google.com的问题](https://blog.csdn.net/rdp1305442102/article/details/105535324)  
+* [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
+* [解决Android SDK Manager无法更新下载](https://www.cnblogs.com/hackpig/p/8502851.html)  
+* [android sdk 无法更新,错误原因是dl.google.com的问题](https://blog.csdn.net/rdp1305442102/article/details/105535324)  
 
 
 #### iOS14无法安装企业应用  
->* [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
->* [iOS14无法安装企业自签名App案例](https://zhuanlan.zhihu.com/p/268075229)  
->* [关于iOS13升级到iOS14后企业应用通过itms-services无法安装问题的解决](https://blog.csdn.net/fpf1228/article/details/109453580)  
+* [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
+* [iOS14无法安装企业自签名App案例](https://zhuanlan.zhihu.com/p/268075229)  
+* [关于iOS13升级到iOS14后企业应用通过itms-services无法安装问题的解决](https://blog.csdn.net/fpf1228/article/details/109453580)  
 
 ### Asset Import Pipeline V2
 * [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
