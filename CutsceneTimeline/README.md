@@ -11,6 +11,7 @@
 >* [【Unity】TimeLine系列教程——编排剧情！](https://zhuanlan.zhihu.com/p/29188275)  
 >* [Playables手册](https://docs.unity3d.com/Manual/Playables.html)  
 >* [[专栏作家]探索TimelinePlayableAPI，让Timeline为所欲为 ](https://www.sohu.com/a/231583446_667928)  
+>* [timeline自定义轨道Track和片段Clip实战应用（TrackAsset ，PlayableBehaviour ， PlayableAsset）](https://blog.csdn.net/js0907/article/details/108878330)  
 
 #### Cinema Director  
 >* [Cinema Director官网](http://cinema-suite.com/cinema-director/)  
