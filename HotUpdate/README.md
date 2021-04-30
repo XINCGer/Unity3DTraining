@@ -35,8 +35,16 @@
 * [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 * [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
+
+#### Shader打包与变体收集  
+* [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
+* [Unity 导出 ShaderVariantCollection](https://networm.me/2019/04/21/unity-export-shadervariantcollection/)  
+* [ShaderVariantCollection解决shader_feature丢失](https://www.dazhuanlan.com/2019/12/16/5df6a886cf4dd/)  
 * [内置的shader怎么打包？](https://answer.uwa4d.com/question/58e8d7c074c2cac90afa6f36)  
 * [Packages 目录下 Shader 打包](https://answer.uwa4d.com/question/5f3d10b19424416784ef1c82)  
+* [Unity Shader AssetBundle ShaderVariantCollection](https://blog.csdn.net/kuangben2000/article/details/104099063)  
+* [Unity3D Shader加载时机和预编译](https://www.cnblogs.com/rexzhao/p/7884905.html)  
+* [一种Shader变体收集和打包编译优化的思路](https://github.com/lujian101/ShaderVariantCollector)  
 
 ### ILRuntime相关  
 * [ILRuntime官网](https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html)  
