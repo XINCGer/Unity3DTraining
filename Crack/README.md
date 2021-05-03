@@ -4,3 +4,4 @@
 >* [游戏资源破解提取系列博客](https://blog.csdn.net/BlueEffie/category_6195048.html)  
 >* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)  
 >* [Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper)  
+>* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector)  
