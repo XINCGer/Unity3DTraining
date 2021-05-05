@@ -137,3 +137,4 @@
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing)  
 * [一款提供各种主流技术方案的Unity手游框架。包含服务端、客户端等模块，采用C++、C#、Lua语言开发](https://github.com/monitor1394/XGame)  
 * [Hierarchy 2](https://github.com/truongnguyentungduy/hierarchy-2)  
+* [Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
