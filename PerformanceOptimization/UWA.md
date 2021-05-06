@@ -136,3 +136,4 @@
 >* [【厚积薄发】Unity如何直接获取深度缓冲](https://mp.weixin.qq.com/s/F9fzsxNMdQBXdWLOX1Ndgw)  
 >* [Unity性能优化系列—加载与资源管理](https://mp.weixin.qq.com/s/-vflmIhGHK4x1Fux4KvHAw)  
 >* [【厚积薄发】在URP中的BRDF计算公式问题](https://mp.weixin.qq.com/s/1WXAbEdYoJ9baVinWzqzFQ)  
+>* [粒子系统优化——如何优化你的技能特效](https://mp.weixin.qq.com/s/0MF7TSjiGUJVkMJz4FPDhA)  
