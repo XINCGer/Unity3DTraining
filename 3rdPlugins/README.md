@@ -143,3 +143,4 @@
 * [Type References for Unity3D](https://github.com/SolidAlloy/ClassTypeReference-for-Unity)  
 * [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser)  
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook)  
+* [战双引导](https://github.com/Kengxxiao/Punishing_GrayRaven_Tab/tree/master/lua/xguide)  
