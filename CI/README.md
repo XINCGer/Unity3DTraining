@@ -21,6 +21,7 @@
 * [Unity Command line arguments](https://docs.unity3d.com/Manual/CommandLineArguments.html)  
 * [解决Android SDK Manager无法更新下载](https://www.cnblogs.com/hackpig/p/8502851.html)  
 * [android sdk 无法更新,错误原因是dl.google.com的问题](https://blog.csdn.net/rdp1305442102/article/details/105535324)  
+* [Unity和AndroidStudio导出OBB和APK](https://mp.weixin.qq.com/s/0OPx53exekwqSVjkCQouag)  
 
 
 #### iOS14无法安装企业应用  
