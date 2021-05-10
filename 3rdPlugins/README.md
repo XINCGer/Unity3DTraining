@@ -144,3 +144,4 @@
 * [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser)  
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook)  
 * [战双引导](https://github.com/Kengxxiao/Punishing_GrayRaven_Tab/tree/master/lua/xguide)  
+* [Unity Lightmap Prefab Baker](https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker)  
