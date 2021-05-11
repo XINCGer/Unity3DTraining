@@ -138,3 +138,4 @@
 >* [【厚积薄发】在URP中的BRDF计算公式问题](https://mp.weixin.qq.com/s/1WXAbEdYoJ9baVinWzqzFQ)  
 >* [粒子系统优化——如何优化你的技能特效](https://mp.weixin.qq.com/s/0MF7TSjiGUJVkMJz4FPDhA)  
 >* [美术资源检测 — 让你的网格无可挑剔](https://mp.weixin.qq.com/s/nc3z6C5Hh7Ps9D7TrBSdHg)  
+>* [【厚积薄发】Unity内置资源如何打包避免冗余](https://mp.weixin.qq.com/s/thEI6NoyCrWnkrqF9Y346g)  
