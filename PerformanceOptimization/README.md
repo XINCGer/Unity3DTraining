@@ -95,6 +95,7 @@
 >* [Unity-CSharp-Optimize-Guildline](https://github.com/ted10401/Unity-CSharp-Optimize-Guildline)  
 >* [魔改TProto优化掉100MB的Lua内存](https://mp.weixin.qq.com/s/IMRGKCdxj_srS-Oa2w8Pwg)  
 >* [Unity移动端性能优化总结](https://mp.weixin.qq.com/s/HMjb7maiX0xeqGkzbhYtng)  
+>* [Unity+Lua游戏开发的性能检测](https://mp.weixin.qq.com/s/UzOgjW4sk8V0xgmjk_iTiA)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
