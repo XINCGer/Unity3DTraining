@@ -21,3 +21,4 @@
 * [android获取设备唯一标识完美解决方案的思考以及实现方式](https://blog.csdn.net/dqliangjun/article/details/79120776)  
 * [『Unity与安卓交互』在AndroidStudio中写代码导出aar，在Unity中使用交互（小白完整版）](https://mp.weixin.qq.com/s/aZSRxoZZddw0sX1NYmr5UA)  
 * [Unity和AndroidStudio导出OBB和APK](https://mp.weixin.qq.com/s/0OPx53exekwqSVjkCQouag)  
+* [Unity的Build App Bundle直接出.aab包(提交google play的新格式)](https://mp.weixin.qq.com/s/gcCrjnlncuKapcfJGccs3w)  
