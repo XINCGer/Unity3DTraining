@@ -66,6 +66,7 @@
 >* [一个基于.Net Core开发的权限管理系统，后续会增加更多实用的功能](https://github.com/zhontai/Admin.Core)  
 >* [question2answer开源问答网站](https://github.com/q2a/question2answer)  
 >* [这可能是史上功能最全的Java权限认证框架](https://github.com/dromara/sa-token)  
+>* [基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观](https://github.com/liukuo362573/YiShaAdmin)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
