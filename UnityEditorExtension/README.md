@@ -64,6 +64,7 @@
 >* [“改造” VS Code 编辑器，一起写个插件吧！](https://www.cnblogs.com/xueweihan/p/14672480.html)  
 >* [美术资源自检规则工具](https://github.com/Liangzg/AssetChecker)  
 >* [UnityBezierTools](https://github.com/kaiware007/UnityBezierTools)  
+>* [Unity Editor 不用反射访问编辑器内部方法](https://blog.csdn.net/akof1314/article/details/111773851)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
