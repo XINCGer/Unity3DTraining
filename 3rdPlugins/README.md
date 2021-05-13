@@ -147,3 +147,4 @@
 * [Unity Lightmap Prefab Baker](https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker)  
 * [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor)  
 * [FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
+* [A bunch of code I like to have on hand while working in Unity](https://github.com/JimmyCushnie/JimmysUnityUtilities)  
