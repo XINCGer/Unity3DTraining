@@ -65,6 +65,7 @@
 >* [美术资源自检规则工具](https://github.com/Liangzg/AssetChecker)  
 >* [UnityBezierTools](https://github.com/kaiware007/UnityBezierTools)  
 >* [Unity Editor 不用反射访问编辑器内部方法](https://blog.csdn.net/akof1314/article/details/111773851)  
+>* [【Unity】由预制体实例获取预制体资源及预制体资源路径](https://blog.csdn.net/qq_21397217/article/details/109170799)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
