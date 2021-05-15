@@ -149,3 +149,4 @@
 * [FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
 * [A bunch of code I like to have on hand while working in Unity](https://github.com/JimmyCushnie/JimmysUnityUtilities)  
 * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)  
+* [Tiny modular pieces utilizing the power of Scriptable Objects](https://github.com/unity-atoms/unity-atoms)  
