@@ -52,3 +52,4 @@
 * [对C#热更新方案ILRuntime的探究](https://www.cnblogs.com/zblade/p/9041400.html)  
 * [必读！ILRuntime来实现热更新的优与劣！](https://blog.uwa4d.com/archives/TechSharing_103.html)  
 * [ILRuntime热更方案坑点](https://www.cnblogs.com/Bright-King/p/11686947.html)  
+* [《暗黑破坏神》类手游,用ILRuntime的热更新&性能测试&TestCase！](https://mp.weixin.qq.com/s/hAIfEO5EEvOGAYpBmT6h6Q)  
