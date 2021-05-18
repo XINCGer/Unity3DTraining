@@ -53,6 +53,7 @@
 >* [循序渐进nginx(三)：日志管理、http限流、https配置，http_rewrite模块，第三方模块安装，结语](https://www.cnblogs.com/progor/p/13338485.html)  
 >* [「查缺补漏」巩固你的Nginx知识体系](https://www.cnblogs.com/kkzhilu/p/13637077.html)  
 >* [写给小白的 Nginx 文章](https://www.cnblogs.com/xueweihan/p/14355053.html)  
+>* [Nginx超详细常用功能演示，够用啦](https://www.cnblogs.com/zoe-zyq/p/14779429.html)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
