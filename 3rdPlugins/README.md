@@ -154,3 +154,4 @@
 * [An alternative animator for Unity tailored for traditional animation](https://github.com/aarthificial/reanimation)  
 * [Unity-mongo-csharp-driver-dlls](https://github.com/Julian23517/Unity-mongo-csharp-driver-dlls)  
 * [A library for patching, replacing and decorating .NET and Mono methods during runtime](https://github.com/pardeike/Harmony)  
+* [二维码&条码相关库](./QRCode.md)  
