@@ -140,3 +140,4 @@
 >* [美术资源检测 — 让你的网格无可挑剔](https://mp.weixin.qq.com/s/nc3z6C5Hh7Ps9D7TrBSdHg)  
 >* [【厚积薄发】Unity内置资源如何打包避免冗余](https://mp.weixin.qq.com/s/thEI6NoyCrWnkrqF9Y346g)  
 >* [【厚积薄发】Addressable热更新资源类型的疑问](https://mp.weixin.qq.com/s/W4fiTzPwBRoK92StbtopGQ)  
+>* [Unity性能优化系列—Lua代码优化](https://mp.weixin.qq.com/s/wonY-kEMZCz2j3L5RFWnVw)  
