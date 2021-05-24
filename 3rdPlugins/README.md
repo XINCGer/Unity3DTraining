@@ -158,3 +158,4 @@
 * [Rule based SpriteAtlas Generator for Unity3D](https://github.com/UniGameTeam/UniGame.AtlasGenerator)  
 * [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)  
 * [unity-shell](https://github.com/marijnz/unity-shell)  
+* [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing)  
