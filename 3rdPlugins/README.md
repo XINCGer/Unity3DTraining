@@ -156,3 +156,4 @@
 * [A library for patching, replacing and decorating .NET and Mono methods during runtime](https://github.com/pardeike/Harmony)  
 * [二维码&条码相关库](./QRCode.md)  
 * [Rule based SpriteAtlas Generator for Unity3D](https://github.com/UniGameTeam/UniGame.AtlasGenerator)  
+* [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)  
