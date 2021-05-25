@@ -17,3 +17,4 @@
 >* [如何搭建一支拖垮公司的技术团队？](https://mp.weixin.qq.com/s/e_so3ESiTdhC-73qE79Xrg)  
 >* [一个技术总监的忠告：你精通那么多技术，为何还是做不好一个项目？](https://www.cnblogs.com/siyuanwai/p/14652810.html)  
 >* [我，管理100多人技术团队的二三事](https://www.cnblogs.com/siyuanwai/p/14738726.html)  
+>* [技术管理之新晋总监生存指南](https://www.cnblogs.com/yexiaochai/p/14805941.html)  
