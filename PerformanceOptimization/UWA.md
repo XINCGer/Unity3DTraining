@@ -141,3 +141,4 @@
 >* [【厚积薄发】Unity内置资源如何打包避免冗余](https://mp.weixin.qq.com/s/thEI6NoyCrWnkrqF9Y346g)  
 >* [【厚积薄发】Addressable热更新资源类型的疑问](https://mp.weixin.qq.com/s/W4fiTzPwBRoK92StbtopGQ)  
 >* [Unity性能优化系列—Lua代码优化](https://mp.weixin.qq.com/s/wonY-kEMZCz2j3L5RFWnVw)  
+>* [【厚积薄发】Addressable RemoteBuildPath下部分资源更新上传问题](https://mp.weixin.qq.com/s/Mkw9fzK6KF24uEPLdZV0tQ)  
