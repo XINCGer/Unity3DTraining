@@ -145,7 +145,7 @@
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook)  
 * [战双引导](https://github.com/Kengxxiao/Punishing_GrayRaven_Tab/tree/master/lua/xguide)  
 * [Unity Lightmap Prefab Baker](https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker)  
-* [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor)  
+* [SuperEditor 支持在Unity界面编辑CS脚本](https://github.com/UnitySuperEditor/SuperEditor)  
 * [FBX SDK C# bindings](https://github.com/Unity-Technologies/com.autodesk.fbx)  
 * [A bunch of code I like to have on hand while working in Unity](https://github.com/JimmyCushnie/JimmysUnityUtilities)  
 * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)  
