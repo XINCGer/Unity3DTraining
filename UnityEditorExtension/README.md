@@ -66,6 +66,8 @@
 >* [UnityBezierTools](https://github.com/kaiware007/UnityBezierTools)  
 >* [Unity Editor 不用反射访问编辑器内部方法](https://blog.csdn.net/akof1314/article/details/111773851)  
 >* [【Unity】由预制体实例获取预制体资源及预制体资源路径](https://blog.csdn.net/qq_21397217/article/details/109170799)  
+>* [Unity检测当前场景下所有资源使用情况的工具-1(待整理)](https://github.com/shandagamesTwoStupids/ResourceScanner)  
+>* [Unity检测当前场景下所有资源使用情况的工具-2(待整理)](https://github.com/RenLvDa/DetectResource)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
