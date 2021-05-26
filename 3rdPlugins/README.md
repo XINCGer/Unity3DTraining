@@ -159,3 +159,4 @@
 * [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)  
 * [unity-shell](https://github.com/marijnz/unity-shell)  
 * [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing)  
+* [DynamicMeshSplitting](https://github.com/LucasVanHooste/DynamicMeshSplitting)  
