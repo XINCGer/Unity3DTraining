@@ -160,3 +160,4 @@
 * [unity-shell](https://github.com/marijnz/unity-shell)  
 * [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing)  
 * [DynamicMeshSplitting](https://github.com/LucasVanHooste/DynamicMeshSplitting)  
+* [High performance in-memory/distributed messaging pipeline for .NET and Unity](https://github.com/Cysharp/MessagePipe)  
