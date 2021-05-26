@@ -161,3 +161,4 @@
 * [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing)  
 * [DynamicMeshSplitting](https://github.com/LucasVanHooste/DynamicMeshSplitting)  
 * [High performance in-memory/distributed messaging pipeline for .NET and Unity](https://github.com/Cysharp/MessagePipe)  
+* [参数化图片处理工具EZTextureProcessor](https://github.com/EZhex1991/EZTextureProcessor)  
