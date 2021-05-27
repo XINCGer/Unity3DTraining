@@ -57,7 +57,8 @@
 >* [51.持续集成CI(Continuous Integration)](./CI)  
 >* [52.电商与后端开发等相关的不错的资料](./ServerDevlop)  
 >* [53.游戏破解研究](./Crack)  
->* [54.求职工作培训与养生等](./AboutJob)  
+>* [54.xasset6.x公开文档收集和整理](./xasset_doc)  
+>* [55.求职工作培训与养生等](./AboutJob)  
 
 ## 友情链接  
 * [xasset 快速强大的Unity资源系统](https://github.com/xasset/xasset)  
