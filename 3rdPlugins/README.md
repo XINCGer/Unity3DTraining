@@ -162,3 +162,4 @@
 * [DynamicMeshSplitting](https://github.com/LucasVanHooste/DynamicMeshSplitting)  
 * [High performance in-memory/distributed messaging pipeline for .NET and Unity](https://github.com/Cysharp/MessagePipe)  
 * [参数化图片处理工具EZTextureProcessor](https://github.com/EZhex1991/EZTextureProcessor)  
+* [Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene](https://github.com/Roland09/PrefabPainter)  
