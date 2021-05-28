@@ -68,3 +68,4 @@
 * [狂飙的博客](https://networm.me/)  
 * [烟雨迷离半世殇](https://www.lfzxb.top/)  
 * [北冥有鱼其名为鲲的博客](https://www.cnblogs.com/xin-lover/)  
+* [ZeaLotSean的博客](https://asuka4every.top/)  
