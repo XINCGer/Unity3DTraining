@@ -19,4 +19,5 @@
 >* [我，管理100多人技术团队的二三事](https://www.cnblogs.com/siyuanwai/p/14738726.html)  
 >* [技术管理之新晋总监生存指南](https://www.cnblogs.com/yexiaochai/p/14805941.html)  
 >* [新晋总监生存指南二——建立指标](https://www.cnblogs.com/yexiaochai/p/14819888.html)  
+>* [新晋总监生存指南三——OKR，先进的管理工具](https://www.cnblogs.com/yexiaochai/p/14829246.html)  
 >* [【开发日志】《鬼山之下》前 100 个小时的制作思路分享（一）打算如何做？为什么要做？](https://mp.weixin.qq.com/s/nwtfn9GPH_OhDxAOHUJnDQ)  
