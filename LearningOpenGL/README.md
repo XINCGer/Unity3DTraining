@@ -44,6 +44,7 @@
 * [Linux OpenGL 实践篇-10-framebuffer](https://www.cnblogs.com/xin-lover/p/8977307.html)  
 * [OpenGL ES学习之路(3.1) 着色器渲染过程、渲染方式、FrameBuffer与RenderBuffer](https://www.jianshu.com/p/dbba97339e75?tdsourcetag=s_pctim_aiomsg)  
 * [Unity中RenderTexture详解以及它的用途](https://www.jianshu.com/p/fa73c0f6762d)  
+* [又卡了～从王者荣耀看Android屏幕刷新机制](https://www.cnblogs.com/jimuzz/p/14835790.html)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
