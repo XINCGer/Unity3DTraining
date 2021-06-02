@@ -70,6 +70,7 @@
 >* [基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观](https://github.com/liukuo362573/YiShaAdmin)  
 >* [JEECG BOOT 低代码开发平台（前后端分离版本）](https://github.com/zhangdaiscott/jeecg-boot)  
 >* [高颜值开源ERP系统](https://github.com/frappe/erpnext)  
+>* [Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page](https://github.com/zuramai/mazer)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
