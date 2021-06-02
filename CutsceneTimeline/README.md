@@ -16,3 +16,5 @@
 #### Cinema Director  
 >* [Cinema Director官网](http://cinema-suite.com/cinema-director/)  
 >* [Cinema Director Tutorial](https://www.youtube.com/watch?v=nD9EIlTiaBQ)  
+
+* [全新影视创作工具 Beta 版新功能概览](https://mp.weixin.qq.com/s/mPdvsmjTCKB5Dbys8PI5Yw)  
