@@ -76,3 +76,4 @@
 >* [Git 本地和repo上仓库的清洗](https://blog.csdn.net/zjx923759789/article/details/83120279)  
 >* [git: 如何减少.git文件的大小？](https://blog.csdn.net/LOI_QER/article/details/107911115)  
 >* [Unity编译托管插件](https://docs.unity3d.com/cn/current/Manual/UsingDLL.html)  
+>* [为了 Unity 技术开放日北京站，我们临时包下了隔壁会场（内附资料下载）](https://mp.weixin.qq.com/s/wW9_9Oy6k46RTPhyk6Lv8A)  
