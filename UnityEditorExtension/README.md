@@ -68,6 +68,7 @@
 >* [【Unity】由预制体实例获取预制体资源及预制体资源路径](https://blog.csdn.net/qq_21397217/article/details/109170799)  
 >* [Unity检测当前场景下所有资源使用情况的工具-1(待整理)](https://github.com/shandagamesTwoStupids/ResourceScanner)  
 >* [Unity检测当前场景下所有资源使用情况的工具-2(待整理)](https://github.com/RenLvDa/DetectResource)  
+>* [Unity编辑器扩展——向导窗口(批量处理资源)](https://mp.weixin.qq.com/s/APlfV7CNr0RL5PuuZfEtjg)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
