@@ -1,5 +1,6 @@
 ## Anim动画压缩优化探究  
 
+>* [【Unity游戏开发】初探Unity动画优化](https://www.cnblogs.com/msxh/p/14090805.html)  
 >* [如何降低动画文件的浮点数精度(UWA 王亮)](https://answer.uwa4d.com/question/593955b6c42dc04f4d8f7341)  
 >* [Unity+模型/动画的优化方案](https://zhuanlan.zhihu.com/p/27378492)  
 >* [压缩动画精度、剔除Scale曲线工具](https://uwa-public.oss-cn-beijing.aliyuncs.com/answer/attachment/public/100513/1502162694449.cs)  
