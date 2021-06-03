@@ -12,6 +12,7 @@
 >* [Playables手册](https://docs.unity3d.com/Manual/Playables.html)  
 >* [[专栏作家]探索TimelinePlayableAPI，让Timeline为所欲为 ](https://www.sohu.com/a/231583446_667928)  
 >* [timeline自定义轨道Track和片段Clip实战应用（TrackAsset ，PlayableBehaviour ， PlayableAsset）](https://blog.csdn.net/js0907/article/details/108878330)  
+>* [Unite Europe2017演讲视频--Extending Timeline with your own playables](https://www.youtube.com/watch?v=uBPRfcox5hE&t=2331s)  
 
 #### Cinema Director  
 >* [Cinema Director官网](http://cinema-suite.com/cinema-director/)  
