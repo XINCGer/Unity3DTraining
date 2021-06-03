@@ -33,6 +33,7 @@
 >* [31.Unity开发：tolua升级Lua5.3后编译打包指南](https://zhuanlan.zhihu.com/p/71832614)  
 >* [32.Lua编程入门](https://www.kancloud.cn/thinkphp/lua-guide/43805)  
 >* [33.Lua 5.1 帮助手册](https://www.wenjiangs.com/docs/lua-doc)  
+>* [34.tolua_runtime-lua5.3](https://github.com/jarjin/tolua_runtime-lua5.3)  
 
 
 ### lua书籍  
