@@ -21,4 +21,5 @@
 >* [新晋总监生存指南二——建立指标](https://www.cnblogs.com/yexiaochai/p/14819888.html)  
 >* [新晋总监生存指南三——OKR，先进的管理工具](https://www.cnblogs.com/yexiaochai/p/14829246.html)  
 >* [新晋总监生存指南四——项目执行指南，如何挽救混乱的项目](https://www.cnblogs.com/yexiaochai/p/14839111.html)  
+>* [新晋总监生存指南五——人才运营机制，技术团队如何解决造血能力](https://www.cnblogs.com/yexiaochai/p/14843274.html)  
 >* [【开发日志】《鬼山之下》前 100 个小时的制作思路分享（一）打算如何做？为什么要做？](https://mp.weixin.qq.com/s/nwtfn9GPH_OhDxAOHUJnDQ)  
