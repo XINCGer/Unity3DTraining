@@ -166,3 +166,4 @@
 * [quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)  
 * [Catmull-Rom spline implementation in Unity](https://github.com/JPBotelho/Catmull-Rom-Splines)  
 * [Astar-for-Unity](https://github.com/sharpaccent/Astar-for-Unity)  
+* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)  
