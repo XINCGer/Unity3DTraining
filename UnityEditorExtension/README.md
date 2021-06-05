@@ -7,17 +7,13 @@
 
 ### Unity编辑器拓展  
 >* [提供一些UnityEditor工具链开发的常用小技巧与示例](https://github.com/XINCGer/UnityToolchainsTrick)  
+>* [节点编辑器汇总](./NodeEditorCollection)  
 >* [Unity3D编辑器插件扩展和组件扩展](http://www.cnblogs.com/rond/p/7652624.html)  
 >* [开发unity插件——一次搞定unity编辑器常用功能](https://yq.aliyun.com/articles/69190)  
->* [节点编辑器](.//NodeEditor)  
 >* [多重弹出窗口编辑器与界面层级管理](./MultiEditorWindow)  
 >* [odin编辑器拓展](https://odininspector.com/tutorials/getting-started)  
 >* [Unity插件开发基础—浅谈序列化系统](https://blog.uwa4d.com/archives/2025.html)  
 >* [Odin插件入门教程](http://tonytang1990.github.io/2019/05/15/Odin%E6%8F%92%E4%BB%B6/)  
->* [三款开源的节点编辑器-1](https://github.com/Siccity/xNode)  
->* [三款开源的节点编辑器-2](https://github.com/alelievr/NodeGraphProcessor)  
->* [三款开源的节点编辑器-3](https://github.com/Seneral/Node_Editor_Framework)  
->* [【次时代节点编辑器】NodeGraphProcessor整合Odin](https://zhuanlan.zhihu.com/p/362259030)  
 >* [Unity日志工具——封装，跳转](https://www.iteye.com/blog/dsqiu-2263664)  
 >* [Unity 内置GUIStyle 样例预览](https://blog.csdn.net/l773575310/article/details/90033381)  
 >* [Unity 编辑器内实现预览窗口](https://blog.csdn.net/akof1314/article/details/70941447)  
