@@ -98,6 +98,7 @@
 >* [Unity移动端性能优化总结](https://mp.weixin.qq.com/s/HMjb7maiX0xeqGkzbhYtng)  
 >* [Unity+Lua游戏开发的性能检测](https://mp.weixin.qq.com/s/UzOgjW4sk8V0xgmjk_iTiA)  
 >* [Unity内存管理你应该知道的底层原理](https://mp.weixin.qq.com/s/FQv1oT0eb-xLucEBcD00Bw)  
+>* [【笔记】Unity内存管理底层黑盒揭秘](https://mp.weixin.qq.com/s/IUK_USRmXInnY1nr2_MRcw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
