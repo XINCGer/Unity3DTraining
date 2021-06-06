@@ -167,3 +167,4 @@
 * [Catmull-Rom spline implementation in Unity](https://github.com/JPBotelho/Catmull-Rom-Splines)  
 * [Astar-for-Unity](https://github.com/sharpaccent/Astar-for-Unity)  
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)  
+* [分析Unity资源，如贴图、精灵图、旧版图集, 新版图集SpriteAtlas，支持AB包资源冗余](https://github.com/AMikeW/UnityResourceStaticAnalyzeTool)  
