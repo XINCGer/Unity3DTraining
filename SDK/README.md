@@ -26,3 +26,4 @@
 
 ### 库的跨平台编译  
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
+* [Unity3D跨平台动态库编译---记kcp基于CMake的各平台构建实践](https://www.cnblogs.com/SChivas/p/7854100.html)  
