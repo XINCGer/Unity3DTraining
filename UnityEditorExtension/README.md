@@ -65,6 +65,7 @@
 >* [Unity检测当前场景下所有资源使用情况的工具-1(待整理)](https://github.com/shandagamesTwoStupids/ResourceScanner)  
 >* [Unity检测当前场景下所有资源使用情况的工具-2(待整理)](https://github.com/RenLvDa/DetectResource)  
 >* [Unity编辑器扩展——向导窗口(批量处理资源)](https://mp.weixin.qq.com/s/APlfV7CNr0RL5PuuZfEtjg)  
+>* [技能编辑器的设计实现](https://zhuanlan.zhihu.com/p/158430393)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
