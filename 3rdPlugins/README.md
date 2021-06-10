@@ -170,4 +170,5 @@
 * [分析Unity资源，如贴图、精灵图、旧版图集, 新版图集SpriteAtlas，支持AB包资源冗余](https://github.com/AMikeW/UnityResourceStaticAnalyzeTool)  
 * [Lightweight toolset for creating concurrent networking systems for multiplayer games](https://github.com/nxrighthere/NetStack)  
 * [Asset Usage Detector for Unity 3D](https://github.com/yasirkula/UnityAssetUsageDetector)  
+* [MyBox is a set of attributes, tools and extensions for Unity](https://github.com/Deadcows/MyBox)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
