@@ -23,6 +23,7 @@
 * [android sdk 无法更新,错误原因是dl.google.com的问题](https://blog.csdn.net/rdp1305442102/article/details/105535324)  
 * [Unity和AndroidStudio导出OBB和APK](https://mp.weixin.qq.com/s/0OPx53exekwqSVjkCQouag)  
 * [Android平台app打包时遇到的问题：从Could not resolve com.android.tools.build:gradle:3.0.0.说起](https://blog.csdn.net/weixin_42097173/article/details/80745044)  
+* [GitHub Actions 文档](https://docs.github.com/cn/actions/guides/about-packaging-with-github-actions)  
 
 
 #### iOS14无法安装企业应用  
