@@ -35,6 +35,7 @@
 * [【Unity游戏开发】SpriteAtlas与AssetBundle最佳食用方案](https://www.cnblogs.com/msxh/p/14194756.html)  
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 * [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
+* [静态包、动态包有什么区别？何时使用增量更新？Addressables 更新流程大梳理](https://mp.weixin.qq.com/s/2WJRhZM61OrBQxtglMSERg)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
