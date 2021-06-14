@@ -25,6 +25,7 @@
 * [Android平台app打包时遇到的问题：从Could not resolve com.android.tools.build:gradle:3.0.0.说起](https://blog.csdn.net/weixin_42097173/article/details/80745044)  
 * [GitHub Actions 文档](https://docs.github.com/cn/actions/guides/about-packaging-with-github-actions)  
 * [macOS Catalina 使用Unity导出 android IL2cpp 包出现无法打开clang/clang++，因为无法验证开发者问题](https://blog.csdn.net/qq_33464225/article/details/109327555)  
+* [无法打开“clang”,因为无法确认开发者的身份](https://blog.csdn.net/hyb1234hi/article/details/106469613)  
 
 
 #### iOS14无法安装企业应用  
