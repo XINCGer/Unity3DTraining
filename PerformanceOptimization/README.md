@@ -99,6 +99,7 @@
 >* [Unity+Lua游戏开发的性能检测](https://mp.weixin.qq.com/s/UzOgjW4sk8V0xgmjk_iTiA)  
 >* [Unity内存管理你应该知道的底层原理](https://mp.weixin.qq.com/s/FQv1oT0eb-xLucEBcD00Bw)  
 >* [【笔记】Unity内存管理底层黑盒揭秘](https://mp.weixin.qq.com/s/IUK_USRmXInnY1nr2_MRcw)  
+>* [Arm 和 Unity 联合推出：适用于移动应用程序的 3D 美术优化](https://learn.u3d.cn/tutorial/arm-he-unity-lian-he-tui-chu-gua-yong-yu-yi-dong-ying-yong-cheng-xu-de-3d-mei-zhu-you-hua#)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
