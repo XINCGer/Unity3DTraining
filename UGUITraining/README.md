@@ -26,3 +26,4 @@
 >* [Unity：语言国际化实现](https://blog.csdn.net/qq_30473517/article/details/98758811)  
 >* [Unity3D研究院之3D界面与2D界面的结合（一百二十四）](https://www.xuanyusong.com/archives/4783)  
 >* [RectTransform知识点总结](./RectTransform.md)    
+>* [NGUI与非NGUI的Render层级解决方案](https://mp.weixin.qq.com/s/lQyltLmasZmZKZ-OJ7OOHw)  
