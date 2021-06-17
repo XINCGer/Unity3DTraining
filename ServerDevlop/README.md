@@ -73,6 +73,7 @@
 >* [高颜值开源ERP系统](https://github.com/frappe/erpnext)  
 >* [Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page](https://github.com/zuramai/mazer)  
 >* [停车场系统源码，停车场小程序，智能停车](https://github.com/981011512/--)  
+>* [CentOS 30分钟部署 .net core 在线客服系统](https://www.cnblogs.com/sheng_chao/p/14889995.html)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
