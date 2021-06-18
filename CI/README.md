@@ -27,6 +27,7 @@
 * [macOS Catalina 使用Unity导出 android IL2cpp 包出现无法打开clang/clang++，因为无法验证开发者问题](https://blog.csdn.net/qq_33464225/article/details/109327555)  
 * [无法打开“clang”,因为无法确认开发者的身份](https://blog.csdn.net/hyb1234hi/article/details/106469613)  
 * [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
+* [Github Action 精华指南](https://zhuanlan.zhihu.com/p/164744104)  
 
 
 #### iOS14无法安装企业应用  
