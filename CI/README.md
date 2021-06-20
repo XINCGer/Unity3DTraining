@@ -29,6 +29,7 @@
 * [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 * [Github Action 精华指南](https://zhuanlan.zhihu.com/p/164744104)  
 * [Jenkins中上游项目并行后再触发下游项目，并传递参数](https://blog.csdn.net/weixin_42143550/article/details/102731248)  
+* [jenkins触发下游job，并传递参数](https://blog.csdn.net/wan_zaiyunduan/article/details/104291128)  
 
 
 #### iOS14无法安装企业应用  
