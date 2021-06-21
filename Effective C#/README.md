@@ -34,3 +34,4 @@
 >* [LINQ 查询简介 (C#)](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)  
 >* [语言集成查询 (LINQ)](https://docs.microsoft.com/zh-cn/dotnet/csharp/linq/)  
 >* [帮你理清 C# 委托、事件、Action、Func](https://mp.weixin.qq.com/s/V6u4fsrlY9tSVUKQty7eDA)  
+>* [C# Async/Await原理剖析](https://blog.csdn.net/weixin_43990579/article/details/105417652)  
