@@ -172,4 +172,5 @@
 * [Asset Usage Detector for Unity 3D](https://github.com/yasirkula/UnityAssetUsageDetector)  
 * [MyBox is a set of attributes, tools and extensions for Unity](https://github.com/Deadcows/MyBox)  
 * [FastGithub-github定制版的dns服务，解析访问github最快的ip](https://www.cnblogs.com/kewei/p/14888764.html)  
+* [LipSync for Unity3D 根据语音生成口型动画 支持fmod](https://github.com/huailiang/LipSync)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
