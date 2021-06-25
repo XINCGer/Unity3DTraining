@@ -47,6 +47,7 @@
 >* [41.TypeScript资料收集](./TypeScript)  
 >* [42.Macanim动画系统](./MacanimSystem)  
 >* [43.动力学骨骼研究(仿王者荣耀头发、衣物飘动效果)](./DynamicBones)  
+>* [44.技能系统相关知识收集 ](./AboutSkill)  
 >* [45.人物换装系统](./ChangeCharacter)  
 >* [46.剧情动画与Timeline研究](./CutsceneTimeline)  
 >* [47.2D原生平台游戏](./2DPlatformer)  
