@@ -72,6 +72,7 @@
 >* [【Unity 编辑器】扩展总结三：自定义Inspector面板](https://mp.weixin.qq.com/s/rWat9DutZBi8t1idernxtA)  
 >* [【Unity 编辑器】扩展总结五：Gizmos辅助调试工具](https://mp.weixin.qq.com/s/5piJQ6gRC6zZMV4Z6xzgBA)  
 >* [【Unity 编辑器】扩展总结六：扩展Scene视图](https://mp.weixin.qq.com/s/Wmt4JC-LK9z5u6vOafB_Hw)  
+>* [【Unity 编辑器】扩展总结七：数组或list集合的显示方式](https://mp.weixin.qq.com/s/8ANiIlsjOEZQEvQtr96Xug)  
 >* [【Unity 编辑器】扩展总结八：EditorPrefs、ScriptableObject、Undo](https://mp.weixin.qq.com/s/hgaGrTjb3nEjbK2Z1eaBww)  
 >* [【Unity 编辑器】扩展总结九：GUIStyle、GUISkin](https://mp.weixin.qq.com/s/Ye5mA0BS_ZATq37d1Iw0yQ)  
 
