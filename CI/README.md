@@ -32,6 +32,7 @@
 * [jenkins触发下游job，并传递参数](https://blog.csdn.net/wan_zaiyunduan/article/details/104291128)  
 * [【超详细】7z的详解和7z-zip的控制台参数说明](https://ssherun.blog.csdn.net/article/details/108372398)  
 * [Jenkins配置主从节点实例](https://blog.csdn.net/jackyzhousales/article/details/81840278)  
+* [jenkins配置从节点](https://www.cnblogs.com/jsonhc/p/7372359.html)  
 
 
 #### iOS14无法安装企业应用  
