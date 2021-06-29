@@ -101,6 +101,7 @@
 >* [【笔记】Unity内存管理底层黑盒揭秘](https://mp.weixin.qq.com/s/IUK_USRmXInnY1nr2_MRcw)  
 >* [Arm 和 Unity 联合推出：适用于移动应用程序的 3D 美术优化](https://learn.u3d.cn/tutorial/arm-he-unity-lian-he-tui-chu-gua-yong-yu-yi-dong-ying-yong-cheng-xu-de-3d-mei-zhu-you-hua#)  
 >* [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://mp.weixin.qq.com/s/Swxq2Rn2aFSL5FwBWABhDg)  
+>* [【厚积薄发】iOS导出AssetBundle需要30个小时的解决办法](https://mp.weixin.qq.com/s/a8Xqs3czb8mu-k8sXFNSKw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
