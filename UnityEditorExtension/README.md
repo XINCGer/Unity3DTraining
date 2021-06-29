@@ -75,6 +75,7 @@
 >* [【Unity 编辑器】扩展总结七：数组或list集合的显示方式](https://mp.weixin.qq.com/s/8ANiIlsjOEZQEvQtr96Xug)  
 >* [【Unity 编辑器】扩展总结八：EditorPrefs、ScriptableObject、Undo](https://mp.weixin.qq.com/s/hgaGrTjb3nEjbK2Z1eaBww)  
 >* [【Unity 编辑器】扩展总结九：GUIStyle、GUISkin](https://mp.weixin.qq.com/s/Ye5mA0BS_ZATq37d1Iw0yQ)  
+>* [【Unity编辑器】扩展总结十：AssetPostprocessor资源导入管线](https://mp.weixin.qq.com/s/wEOm_Owh5pKI_ZESOBrnlQ)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
