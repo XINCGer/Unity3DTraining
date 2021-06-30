@@ -78,6 +78,7 @@
 >* [【Unity编辑器】扩展总结十：AssetPostprocessor资源导入管线](https://mp.weixin.qq.com/s/wEOm_Owh5pKI_ZESOBrnlQ)  
 >* [Unity批量刷草工具及优化](https://blog.csdn.net/canqiushi/article/details/106200395)  
 >* [Unity SceneView 鼠标所在网格位置](https://blog.csdn.net/akof1314/article/details/78639075)  
+>* [SceneView 获取鼠标位置](https://www.cnblogs.com/zhaoqingqing/p/3801342.html)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
