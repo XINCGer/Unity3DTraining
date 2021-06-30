@@ -76,6 +76,7 @@
 >* [【Unity 编辑器】扩展总结八：EditorPrefs、ScriptableObject、Undo](https://mp.weixin.qq.com/s/hgaGrTjb3nEjbK2Z1eaBww)  
 >* [【Unity 编辑器】扩展总结九：GUIStyle、GUISkin](https://mp.weixin.qq.com/s/Ye5mA0BS_ZATq37d1Iw0yQ)  
 >* [【Unity编辑器】扩展总结十：AssetPostprocessor资源导入管线](https://mp.weixin.qq.com/s/wEOm_Owh5pKI_ZESOBrnlQ)  
+>* [Unity批量刷草工具及优化](https://blog.csdn.net/canqiushi/article/details/106200395)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
