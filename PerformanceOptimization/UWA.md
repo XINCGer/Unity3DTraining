@@ -144,3 +144,4 @@
 >* [【厚积薄发】Addressable RemoteBuildPath下部分资源更新上传问题](https://mp.weixin.qq.com/s/Mkw9fzK6KF24uEPLdZV0tQ)  
 >* [【厚积薄发】如何管理大型游戏的美术资源工程](https://mp.weixin.qq.com/s/KMNgBsENWDiYKQg_aBvuPw)  
 >* [【厚积薄发】Font Texture的内存值异常高](https://mp.weixin.qq.com/s/_PTCSEpBDcLBnyL937gO8A)  
+>* [Unity性能优化 — 动画模块](https://mp.weixin.qq.com/s/qgaDF4oNTbfF4Iw5L6Dy3Q)  
