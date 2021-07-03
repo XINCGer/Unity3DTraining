@@ -80,6 +80,7 @@
 >* [Unity SceneView 鼠标所在网格位置](https://blog.csdn.net/akof1314/article/details/78639075)  
 >* [SceneView 获取鼠标位置](https://www.cnblogs.com/zhaoqingqing/p/3801342.html)  
 >* [Unity3D研究院之自动计算所有子对象包围盒（六）](https://www.xuanyusong.com/archives/3461)  
+>* [Unity动态绘制曲线Mesh的代码](https://blog.csdn.net/lzdidiv/article/details/53736068)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
