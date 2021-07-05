@@ -174,4 +174,5 @@
 * [FastGithub-github定制版的dns服务，解析访问github最快的ip](https://www.cnblogs.com/kewei/p/14888764.html)  
 * [LipSync for Unity3D 根据语音生成口型动画 支持fmod](https://github.com/huailiang/LipSync)  
 * [pkg-doctor包体医生](https://github.com/taptap/pkg-doctor)  
+* [unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
