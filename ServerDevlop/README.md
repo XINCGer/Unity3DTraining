@@ -76,6 +76,7 @@
 >* [停车场系统源码，停车场小程序，智能停车](https://github.com/981011512/--)  
 >* [CentOS 30分钟部署 .net core 在线客服系统](https://www.cnblogs.com/sheng_chao/p/14889995.html)  
 >* [Web File Browser](https://github.com/filebrowser/filebrowser)  
+>* [小说精品屋-plus是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统](https://github.com/201206030/novel-plus)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
