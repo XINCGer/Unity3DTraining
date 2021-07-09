@@ -83,6 +83,7 @@
 >* [Unity动态绘制曲线Mesh的代码](https://blog.csdn.net/lzdidiv/article/details/53736068)  
 >* [UnityEditor编辑器扩展（二）--- 改变鼠标](https://zhuanlan.zhihu.com/p/26824159)  
 >* [Unity编辑器扩展-拉UGUI的prefab入场景时挂在鼠标下的Canvas上](https://blog.csdn.net/yudianxia/article/details/79635414)  
+>* [Unity动态生成水体mesh](https://mp.weixin.qq.com/s/n2iTmcP_CJX2RxiddOSBsw)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
