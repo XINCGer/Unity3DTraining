@@ -102,6 +102,7 @@
 >* [Arm 和 Unity 联合推出：适用于移动应用程序的 3D 美术优化](https://learn.u3d.cn/tutorial/arm-he-unity-lian-he-tui-chu-gua-yong-yu-yi-dong-ying-yong-cheng-xu-de-3d-mei-zhu-you-hua#)  
 >* [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://mp.weixin.qq.com/s/Swxq2Rn2aFSL5FwBWABhDg)  
 >* [【GC原理(上)】判断对象存活算法、四种引用、回收方法区](https://mp.weixin.qq.com/s/Mzf9QXNGRLP0otfdG3mBSQ)  
+>* [【GC原理(下)】：4种垃圾收集算法及7种垃圾收集器](https://mp.weixin.qq.com/s/Zf9o5PtMvUKntTi9cTyFSg)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
