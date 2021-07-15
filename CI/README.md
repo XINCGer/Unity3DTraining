@@ -34,6 +34,7 @@
 * [Jenkins配置主从节点实例](https://blog.csdn.net/jackyzhousales/article/details/81840278)  
 * [jenkins配置从节点](https://www.cnblogs.com/jsonhc/p/7372359.html)  
 * [Jenkins 进阶篇 - 节点配置 ](https://www.cnblogs.com/liudecai/p/14931120.html)  
+* [Jenkins2权威指南1-基础知识与流水线执行流程](https://pdf.us/2019/11/27/3723.html)  
 
 
 #### iOS14无法安装企业应用  
