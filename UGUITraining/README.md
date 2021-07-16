@@ -28,3 +28,4 @@
 >* [RectTransform知识点总结](./RectTransform.md)    
 >* [NGUI与非NGUI的Render层级解决方案](https://mp.weixin.qq.com/s/lQyltLmasZmZKZ-OJ7OOHw)  
 >* [UGUI与鼠标控制知识点](./DragImageUGUI)  
+>* [使用unity UGUI制作各种类型摇杆](https://zhuanlan.zhihu.com/p/266077243)  
