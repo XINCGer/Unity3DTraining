@@ -146,3 +146,4 @@
 >* [【厚积薄发】Font Texture的内存值异常高](https://mp.weixin.qq.com/s/_PTCSEpBDcLBnyL937gO8A)  
 >* [Unity性能优化 — 动画模块](https://mp.weixin.qq.com/s/qgaDF4oNTbfF4Iw5L6Dy3Q)  
 >* [【厚积薄发】iOS导出AssetBundle需要30个小时的解决办法](https://mp.weixin.qq.com/s/a8Xqs3czb8mu-k8sXFNSKw)  
+>* [【厚积薄发】HttpWebRequest下载大文件速度变低问题](https://mp.weixin.qq.com/s/zihXBPVjpLBEV7oBVVBzOw)  
