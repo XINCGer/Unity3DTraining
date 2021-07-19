@@ -104,6 +104,7 @@
 >* [【GC原理(上)】判断对象存活算法、四种引用、回收方法区](https://mp.weixin.qq.com/s/Mzf9QXNGRLP0otfdG3mBSQ)  
 >* [【GC原理(下)】：4种垃圾收集算法及7种垃圾收集器](https://mp.weixin.qq.com/s/Zf9o5PtMvUKntTi9cTyFSg)  
 >* [优化移动游戏性能 | 来自Unity顶级工程师的性能分析、内存与代码架构小贴士](https://mp.weixin.qq.com/s/XNxa0oeW25R_mwCgKWp11w)  
+>* [UWA本地资源检测文档](https://mp.weixin.qq.com/s/gh4uMHFvhgeEuzrWTtwgjQ)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
