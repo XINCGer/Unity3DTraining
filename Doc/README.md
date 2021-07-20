@@ -80,3 +80,4 @@
 >* [基于行为树的MOBA技能系统：总目录](https://www.lfzxb.top/nkgmoba-totaltabs/)  
 >* [Game Developer Guides](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/overview.html#)  
 >* [Unity技术开放日杭州站圆满落幕，最新技术案例尽在文中（内附资料下载）](https://mp.weixin.qq.com/s/KKL7TEFgfVi6sx0Un-PlAA)  
+>* [椭圆弧参数角和扫略角之间的转化](https://blog.csdn.net/baidu_38621657/article/details/87900665)  
