@@ -23,6 +23,7 @@
 * [Unity和AndroidStudio导出OBB和APK](https://mp.weixin.qq.com/s/0OPx53exekwqSVjkCQouag)  
 * [Unity的Build App Bundle直接出.aab包(提交google play的新格式)](https://mp.weixin.qq.com/s/gcCrjnlncuKapcfJGccs3w)  
 * [AndroidJavaProxy资料收集](./AndroidJavaProxy)  
+* [C# 与 其他Native API 的交互总结](https://mp.weixin.qq.com/s/RblUFfoOcQrG-_t8blwxhQ)  
 
 ### 库的跨平台编译  
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
