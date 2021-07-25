@@ -178,4 +178,5 @@
 * [Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples](https://github.com/luxkun/ReGoap)  
 * [CPU and memory profiling tools for Unity3D](https://github.com/larryhou/MemoryProfiler)  
 * [ILSpy](https://github.com/icsharpcode/ILSpy)  
+* [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
