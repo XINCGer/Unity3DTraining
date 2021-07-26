@@ -148,3 +148,4 @@
 >* [【厚积薄发】iOS导出AssetBundle需要30个小时的解决办法](https://mp.weixin.qq.com/s/a8Xqs3czb8mu-k8sXFNSKw)  
 >* [【厚积薄发】HttpWebRequest下载大文件速度变低问题](https://mp.weixin.qq.com/s/zihXBPVjpLBEV7oBVVBzOw)  
 >* [【厚积薄发】关于纹理勾选sRGB的疑惑](https://mp.weixin.qq.com/s/exJCvSkWVDsK04e5dN7w5w)  
+>* [【厚积薄发】背包优化问题](https://mp.weixin.qq.com/s/EaDcthdNxk238XileIK2tg)  
