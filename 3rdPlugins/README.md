@@ -179,4 +179,5 @@
 * [CPU and memory profiling tools for Unity3D](https://github.com/larryhou/MemoryProfiler)  
 * [ILSpy](https://github.com/icsharpcode/ILSpy)  
 * [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy)  
+* [UnityBookPageCurl](https://github.com/Dandarawy/UnityBookPageCurl)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
