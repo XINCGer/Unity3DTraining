@@ -79,6 +79,7 @@
 >* [Web File Browser](https://github.com/filebrowser/filebrowser)  
 >* [小说精品屋-plus是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统](https://github.com/201206030/novel-plus)  
 >* [人人可用的开源数据可视化分析工具dataease](https://github.com/dataease/dataease)  
+>* [An enterprise-grade Cloud-Native application platform for Kubernetes](https://github.com/erda-project/erda)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
