@@ -80,6 +80,7 @@
 >* [小说精品屋-plus是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统](https://github.com/201206030/novel-plus)  
 >* [人人可用的开源数据可视化分析工具dataease](https://github.com/dataease/dataease)  
 >* [An enterprise-grade Cloud-Native application platform for Kubernetes](https://github.com/erda-project/erda)  
+>* [自动化运维平台：CMDB、CI/CD、DevOps、资产管理、任务编排、持续交付、运维管理、基于Django + REST framework + Vue 运维发布平台，UI自动化测试平台](https://github.com/small-flying-pigs/devops-api)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
