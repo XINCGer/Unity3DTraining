@@ -18,4 +18,9 @@
 >* [Cinema Director官网](http://cinema-suite.com/cinema-director/)  
 >* [Cinema Director Tutorial](https://www.youtube.com/watch?v=nD9EIlTiaBQ)  
 
+#### Slate Cinematic Sequencer  
+>* [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/slate-cinematic-sequencer-56558)  
+>* [官网](https://slate.paradoxnotion.com/)  
+>* [官方文档](https://slate.paradoxnotion.com/documentation/)  
+
 * [全新影视创作工具 Beta 版新功能概览](https://mp.weixin.qq.com/s/mPdvsmjTCKB5Dbys8PI5Yw)  
