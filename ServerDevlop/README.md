@@ -25,6 +25,7 @@
 >* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)  
 >* [jforgame，一个用java编写的轻量级高性能手游服务端框架](https://github.com/kingston-csj/jforgame)  
 >* [基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器](https://github.com/leeveel/GeekServer)  
+>* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
 
 #### 游戏后端服务器框架  
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
