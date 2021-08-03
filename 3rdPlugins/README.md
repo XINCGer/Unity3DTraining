@@ -182,4 +182,5 @@
 * [UnityBookPageCurl](https://github.com/Dandarawy/UnityBookPageCurl)  
 * [Unity3D-ConvexHull](https://github.com/hont127/Unity3D-ConvexHull)  
 * [Unity Skinned Mesh Renderer Decals](https://github.com/naelstrof/SkinnedMeshDecals)  
+* [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
