@@ -40,3 +40,6 @@
 >* [《Lua设计与实现》随书源代码](https://github.com/lichuang/Lua-Source-Internal)  
 >* [Lua 5.1.4版本代码注释](https://github.com/lichuang/Lua-5.1.4-codedump)  
 >* [自己动手实现Lua：虚拟机、编译器和标准库](https://github.com/zxh0/luago-book)  
+
+### lua加密与破解
+* [链接](./LuaEncrypt)  
