@@ -82,3 +82,4 @@
 >* [椭圆弧参数角和扫略角之间的转化](https://blog.csdn.net/baidu_38621657/article/details/87900665)  
 >* [圆和椭圆的参数方程](https://www.cnblogs.com/wanghai0666/p/5891493.html)  
 >* [游戏开发中不同时区下的时间问题](https://www.cnblogs.com/iwiniwin/p/15055565.html)  
+>* [使用 PicGo + Github + JSD 搭建免费图床](https://asuka4every.top/build-your-own-img-host/)  
