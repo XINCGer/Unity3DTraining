@@ -183,4 +183,5 @@
 * [Unity3D-ConvexHull](https://github.com/hont127/Unity3D-ConvexHull)  
 * [Unity Skinned Mesh Renderer Decals](https://github.com/naelstrof/SkinnedMeshDecals)  
 * [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)  
+* [Unity NavMesh 2D Pathfinding](https://github.com/h8man/NavMeshPlus)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
