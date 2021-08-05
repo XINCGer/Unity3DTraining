@@ -5,3 +5,4 @@
 * [Lua程序逆向之Luac字节码与反汇编](https://zhuanlan.zhihu.com/p/31217856)  
 * [Lua 修改虚拟机实战2 - 字节码顺序](https://www.jianshu.com/p/19307e5cf55c)  
 * [random-lua-opcodes](https://github.com/frimin/random-lua-opcodes)  
+* [BetterLua51OpcodeDefinitions](https://github.com/KikoTheDon/BetterLua51OpcodeDefinitions)  
