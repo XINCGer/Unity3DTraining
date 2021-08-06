@@ -182,4 +182,5 @@
 * [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)  
 * [Unity NavMesh 2D Pathfinding](https://github.com/h8man/NavMeshPlus)  
 * [Edit Xcode build settings from the command line](https://github.com/mulle-nat/mulle-xcode-settings)  
+* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
