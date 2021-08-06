@@ -184,4 +184,5 @@
 * [Unity Skinned Mesh Renderer Decals](https://github.com/naelstrof/SkinnedMeshDecals)  
 * [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)  
 * [Unity NavMesh 2D Pathfinding](https://github.com/h8man/NavMeshPlus)  
+* [Edit Xcode build settings from the command line](https://github.com/mulle-nat/mulle-xcode-settings)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
