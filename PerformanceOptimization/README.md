@@ -106,6 +106,7 @@
 >* [优化移动游戏性能 | 来自Unity顶级工程师的性能分析、内存与代码架构小贴士](https://mp.weixin.qq.com/s/XNxa0oeW25R_mwCgKWp11w)  
 >* [UWA本地资源检测文档](https://mp.weixin.qq.com/s/gh4uMHFvhgeEuzrWTtwgjQ)  
 >* [shadowmap的压缩技巧!](https://mp.weixin.qq.com/s/MD1C0eAJpjtcdJpo6X4VdA)  
+>* [探索游戏中的LOD技术 - 网格简化！](https://mp.weixin.qq.com/s/xRa_JAYu3ndJ0Kg6alztJw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
