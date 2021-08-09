@@ -107,6 +107,7 @@
 >* [UWA本地资源检测文档](https://mp.weixin.qq.com/s/gh4uMHFvhgeEuzrWTtwgjQ)  
 >* [shadowmap的压缩技巧!](https://mp.weixin.qq.com/s/MD1C0eAJpjtcdJpo6X4VdA)  
 >* [探索游戏中的LOD技术 - 网格简化！](https://mp.weixin.qq.com/s/xRa_JAYu3ndJ0Kg6alztJw)  
+>* [总结目前常见的Crash日志收集工具](http://levent-j.com/2018/12/08/survey-crash-report/)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
