@@ -88,6 +88,7 @@
 >* [Creating a Node Based Editor in Unity](https://oguzkonya.com/creating-node-based-editor-unity/)  
 >* [Draw.cs](https://gist.github.com/nothke/82dccc121457541fcce32aea7744618a)  
 >* [TreeView官方文档](https://docs.unity3d.com/Manual/TreeViewAPI.html)  
+>* [AdvancedDropdown](https://docs.unity3d.com/ScriptReference/IMGUI.Controls.AdvancedDropdown.html)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
