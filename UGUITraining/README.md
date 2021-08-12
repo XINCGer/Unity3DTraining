@@ -31,3 +31,4 @@
 >* [使用unity UGUI制作各种类型摇杆](https://zhuanlan.zhihu.com/p/266077243)  
 >* [UGUI拖拽和范围限制](https://blog.csdn.net/qq_24733765/article/details/108860744)  
 >* [UGUI限制ui在屏幕内或指定区域内](http://www.u3d8.com/?p=1964)  
+>* [【UGUI源码分析】Unity遮罩之Mask详细解读](https://www.cnblogs.com/iwiniwin/p/15131528.html)  
