@@ -46,3 +46,6 @@
 
 ### Asset Import Pipeline V2
 * [Asset Import Pipeline V2相关知识](./AssetPiplineV2)  
+
+### iOS TestFlight与上架  
+* [iOS App 上架流程（新快捷版）（Xcode8.0以后）](https://www.jianshu.com/p/873d32a559a9)  
