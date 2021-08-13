@@ -50,3 +50,4 @@
 ### iOS TestFlight与上架  
 * [iOS App 上架流程（新快捷版）（Xcode8.0以后）](https://www.jianshu.com/p/873d32a559a9)  
 * [TestFlight用法 包教包会（内部测试篇）](https://www.jianshu.com/p/4be185e4069c)  
+* [TestFlight使用之外部测试 包教包会](https://www.jianshu.com/p/c6411fbe5781)  
