@@ -189,4 +189,5 @@
 * [remotepvrtool](https://github.com/cloudwu/remotepvrtool)  
 * [Pure Lua timerwheel implementation](https://github.com/Tieske/timerwheel.lua)  
 * [LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump)  
+* [基于ParadoxNotion Slate的帧同步技能编辑器](https://github.com/wqaetly/SkillEditorBasedOnSlate)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
