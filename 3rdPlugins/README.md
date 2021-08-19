@@ -190,4 +190,5 @@
 * [Pure Lua timerwheel implementation](https://github.com/Tieske/timerwheel.lua)  
 * [LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump)  
 * [基于ParadoxNotion Slate的帧同步技能编辑器](https://github.com/wqaetly/SkillEditorBasedOnSlate)  
+* [XUGL](https://github.com/monitor1394/XUGL)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
