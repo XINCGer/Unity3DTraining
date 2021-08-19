@@ -23,4 +23,5 @@
 >* [protobuf-net使用教程](https://www.cnblogs.com/sifenkesi/p/4045392.html)  
 >* [使用C#进行二进制序列化与反序列化](https://blog.csdn.net/sinat_34791632/article/details/79722525)  
 >* [Unity 网络连接数量限制](https://networm.me/2017/01/15/unity-connection-limit/)  
+>* [为 Unity 设置数据库 (SQLite)](https://stackoverflow.com/questions/50753569/setup-database-sqlite-for-unity)  
 
