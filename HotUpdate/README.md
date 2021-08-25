@@ -38,6 +38,7 @@
 * [静态包、动态包有什么区别？何时使用增量更新？Addressables 更新流程大梳理](https://mp.weixin.qq.com/s/2WJRhZM61OrBQxtglMSERg)  
 * [Unity 引擎资源管理代码分析 (1)](https://cloud.tencent.com/developer/article/1005786)  
 * [Unity引擎资源管理代码分析 (2)](https://cloud.tencent.com/developer/article/1005843)  
+* [Unity 引擎资源管理代码分析(3)](https://cloud.tencent.com/developer/article/1005853)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
