@@ -49,6 +49,7 @@
 * [[图形学]一篇光线追踪的入门](https://mp.weixin.qq.com/s/QjLyFst-HsMzlBm84NX4TA)  
 * [【Unity】深度图（Depth Texture）实战技巧](https://mp.weixin.qq.com/s/1CT33nMBEJnKIQbGKyMi0A)  
 * [XPL: Unity引擎的高品质后处理库](https://github.com/QianMo/X-PostProcessing-Library)  
+* [Unity Basic Shader](https://github.com/ipud2/Unity-Basic-Shader)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
