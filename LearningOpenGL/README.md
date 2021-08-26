@@ -50,6 +50,7 @@
 * [【Unity】深度图（Depth Texture）实战技巧](https://mp.weixin.qq.com/s/1CT33nMBEJnKIQbGKyMi0A)  
 * [XPL: Unity引擎的高品质后处理库](https://github.com/QianMo/X-PostProcessing-Library)  
 * [Unity Basic Shader](https://github.com/ipud2/Unity-Basic-Shader)  
+* [[干货]Unity 标准PBR材质 美术向数据流程](https://mp.weixin.qq.com/s/kh9sBNZ0sK9dfrqU8XPQTA)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
