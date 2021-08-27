@@ -33,3 +33,4 @@
 >* [UGUI限制ui在屏幕内或指定区域内](http://www.u3d8.com/?p=1964)  
 >* [【UGUI源码分析】Unity遮罩之Mask详细解读](https://www.cnblogs.com/iwiniwin/p/15131528.html)  
 >* [【UGUI源码分析】Unity遮罩之RectMask2D详细解读](https://www.cnblogs.com/iwiniwin/p/15170384.html)  
+>* [Unity遮罩之Mask、RectMask2D与Sprite Mask适用场景分析](https://www.cnblogs.com/iwiniwin/p/15191362.html)  
