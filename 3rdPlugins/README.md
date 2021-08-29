@@ -192,4 +192,5 @@
 * [基于ParadoxNotion Slate的帧同步技能编辑器](https://github.com/wqaetly/SkillEditorBasedOnSlate)  
 * [XUGL](https://github.com/monitor1394/XUGL)  
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator)  
+* [UnityAddressablesBuildLayoutExplorer](https://github.com/pschraut/UnityAddressablesBuildLayoutExplorer)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
