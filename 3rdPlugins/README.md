@@ -193,4 +193,5 @@
 * [XUGL](https://github.com/monitor1394/XUGL)  
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator)  
 * [UnityAddressablesBuildLayoutExplorer](https://github.com/pschraut/UnityAddressablesBuildLayoutExplorer)  
+* [可快速搭建私人网盘的开源项目](https://github.com/filebrowser/filebrowser)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
