@@ -152,3 +152,4 @@
 >* [【厚积薄发】UGUI和粒子特效的穿插使用问题](https://mp.weixin.qq.com/s/faxx3HuePRmeAKwWgtKI6Q)  
 >* [【厚积薄发】URP管线下如何查看Overdraw](https://mp.weixin.qq.com/s/95zKhafVJMx-QJg_PPYIQg)  
 >* [【厚积薄发】纹理的外部格式对其内存的影响](https://mp.weixin.qq.com/s/W9WS_Fy3oa1JiU_D2WFudQ)  
+>* [【厚积薄发】Lua代码内存泄漏的疑惑](https://mp.weixin.qq.com/s/jVYbPnXtTck6o99c4Q8Y8w)  
