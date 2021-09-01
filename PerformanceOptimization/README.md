@@ -113,6 +113,7 @@
 >* [如何根据侑虎（UWA）的性能报告，分析出性能问题？](https://www.zhihu.com/question/407417865/answer/1356438425)  
 >* [移动游戏优化指南(Unity官方中文课堂)](https://learn.u3d.cn/tutorial/mobile-game-optimization)  
 >* [Unity 技术开放日 | 绝对干货 - 引擎源码及渲染管线在《航海王热血航线》项目中的深度定制](https://mp.weixin.qq.com/s/FKMC2PW15eSicfa3sD4oqg)  
+>* [Unity性能优化 — UI模块](https://mp.weixin.qq.com/s/tYuEDNDYKlrUn933BWheHw)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
