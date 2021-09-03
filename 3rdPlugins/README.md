@@ -195,4 +195,5 @@
 * [UnityAddressablesBuildLayoutExplorer](https://github.com/pschraut/UnityAddressablesBuildLayoutExplorer)  
 * [可快速搭建私人网盘的开源项目](https://github.com/filebrowser/filebrowser)  
 * [UnityFx.Async](https://github.com/Arvtesh/UnityFx.Async)  
+* [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
