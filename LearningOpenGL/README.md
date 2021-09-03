@@ -3,6 +3,8 @@
 * [https://learnopengl.com/](https://learnopengl.com/)  
 * [Learning OpenGL中文版](https://learnopengl-cn.readthedocs.io/zh/latest/)  
 * [Learning OpenGL GitBook地址](https://learnopengl-cn.github.io/)  
+* [Omnimatte: Associating Objects and Their Effects in Video](https://omnimatte.github.io/)  
+* [omnimatte](https://github.com/erikalu/omnimatte)  
 * [Unity官方图形学教程](https://unity3d.com/cn/learn/tutorials/s/graphics)  
 * [Unity 灯光与渲染相关](./LightAndRendering/README.md)  
 * [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)  
