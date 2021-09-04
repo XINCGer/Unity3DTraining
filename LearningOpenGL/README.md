@@ -54,6 +54,7 @@
 * [Unity Basic Shader](https://github.com/ipud2/Unity-Basic-Shader)  
 * [[干货]Unity 标准PBR材质 美术向数据流程](https://mp.weixin.qq.com/s/kh9sBNZ0sK9dfrqU8XPQTA)  
 * [Unity Shader 调试技巧!](https://mp.weixin.qq.com/s/ogxBvpu8CFt3eKaArM3Z8Q)  
+* [无缝大世界手游的草的一种渲染方案](https://mp.weixin.qq.com/s/E4OKRqy30EwBou0nkMw2_A)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
