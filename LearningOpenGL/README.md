@@ -53,6 +53,7 @@
 * [XPL: Unity引擎的高品质后处理库](https://github.com/QianMo/X-PostProcessing-Library)  
 * [Unity Basic Shader](https://github.com/ipud2/Unity-Basic-Shader)  
 * [[干货]Unity 标准PBR材质 美术向数据流程](https://mp.weixin.qq.com/s/kh9sBNZ0sK9dfrqU8XPQTA)  
+* [Unity Shader 调试技巧!](https://mp.weixin.qq.com/s/ogxBvpu8CFt3eKaArM3Z8Q)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
