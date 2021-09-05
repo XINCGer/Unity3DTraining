@@ -25,5 +25,8 @@
 
 * [全新影视创作工具 Beta 版新功能概览](https://mp.weixin.qq.com/s/mPdvsmjTCKB5Dbys8PI5Yw)  
 
+#### 视频播放控制  
+* [Unity视频播放控制](https://mp.weixin.qq.com/s/iUmR2KPFwNX_PU9vWBmc6Q)  
+
 #### 博客  
 >* [单机RPG游戏的剧情动画生成套件DialogueSystem工作流与工具简介](https://zhuanlan.zhihu.com/p/339964212)  
