@@ -6,6 +6,7 @@
 >* [如何实现一个强大的MMO技能系统！](https://mp.weixin.qq.com/s/2Tha5RWFKSw6-nLSUj1CGg)  
 >* [基于行为树的MOBA技能系统：总目录](https://www.lfzxb.top/nkgmoba-totaltabs/)  
 >* [Unity怎么去实现ACT战斗?](https://mp.weixin.qq.com/s/MHPMqEl7cebUrSzz9HCLig)  
+>* [实现行为树黑板模块0GC赋值功能](https://zhuanlan.zhihu.com/p/205410980)  
 
 #### 实现库  
 >* [XMLib 动作游戏开发套件](https://github.com/XINCGer/Unity3DTraining/blob/master/AboutSkill/XMLib.md)  
