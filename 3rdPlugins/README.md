@@ -197,4 +197,5 @@
 * [UnityFx.Async](https://github.com/Arvtesh/UnityFx.Async)  
 * [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise)  
 * [EPPlus](https://github.com/JanKallman/EPPlus)  
+* [EPPlus 5-Excel spreadsheets for .NET](https://github.com/EPPlusSoftware/EPPlus)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
