@@ -91,6 +91,8 @@
 >* [TreeView官方文档](https://docs.unity3d.com/Manual/TreeViewAPI.html)  
 >* [AdvancedDropdown](https://docs.unity3d.com/ScriptReference/IMGUI.Controls.AdvancedDropdown.html)  
 >* [AssetDatabase.FindAssets Not Working](https://forum.unity.com/threads/assetdatabase-findassets-not-working.587062/)  
+>* [EPPlus简介](https://www.jianshu.com/p/b7f588ccf26b)  
+>* [EPPlus](https://github.com/JanKallman/EPPlus)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
