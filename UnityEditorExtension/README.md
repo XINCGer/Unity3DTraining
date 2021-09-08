@@ -93,6 +93,7 @@
 >* [AssetDatabase.FindAssets Not Working](https://forum.unity.com/threads/assetdatabase-findassets-not-working.587062/)  
 >* [EPPlus简介](https://www.jianshu.com/p/b7f588ccf26b)  
 >* [EPPlus](https://github.com/JanKallman/EPPlus)  
+>* [EPPlus 5-Excel spreadsheets for .NET](https://github.com/EPPlusSoftware/EPPlus)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
