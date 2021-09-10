@@ -115,6 +115,7 @@
 >* [Unity 技术开放日 | 绝对干货 - 引擎源码及渲染管线在《航海王热血航线》项目中的深度定制](https://mp.weixin.qq.com/s/FKMC2PW15eSicfa3sD4oqg)  
 >* [Unity性能优化 — UI模块](https://mp.weixin.qq.com/s/tYuEDNDYKlrUn933BWheHw)  
 >* [游戏特效优化指南—贴图篇](https://mp.weixin.qq.com/s/8oBl730UBQKMBJgUcWO-1A)  
+>* [《使命召唤》手游方案：codm 贴图压缩算法分析与实现](https://mp.weixin.qq.com/s/H0ojL-XJhrXSsRH06SZW_Q)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
