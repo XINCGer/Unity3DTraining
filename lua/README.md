@@ -34,6 +34,7 @@
 >* [32.Lua编程入门](https://www.kancloud.cn/thinkphp/lua-guide/43805)  
 >* [33.Lua 5.1 帮助手册](https://www.wenjiangs.com/docs/lua-doc)  
 >* [34.tolua_runtime-lua5.3](https://github.com/jarjin/tolua_runtime-lua5.3)  
+>* [35.仿制lua解释器的项目](https://github.com/Manistein/dummylua-tutorial)  
 
 
 ### lua书籍  
