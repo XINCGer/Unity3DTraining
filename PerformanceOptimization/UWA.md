@@ -155,3 +155,4 @@
 >* [【厚积薄发】Lua代码内存泄漏的疑惑](https://mp.weixin.qq.com/s/jVYbPnXtTck6o99c4Q8Y8w)  
 >* [【厚积薄发】关于AI逻辑写在Lua中的问题](https://mp.weixin.qq.com/s/g1VlWSqZyo1JCvh1VU-Bvg)  
 >* [【厚积薄发】AlphaTest烘焙的阴影不正确](https://mp.weixin.qq.com/s/RyQ52rmqtVCnXWlJsfUJ9Q)  
+>* [“本地资源检测” 上手指南，玩转最前沿的优化黑科技！](https://mp.weixin.qq.com/s/bE1kzjbSECiNaB793rfgcw)  
