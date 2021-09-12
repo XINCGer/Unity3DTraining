@@ -157,3 +157,4 @@
 >* [【厚积薄发】AlphaTest烘焙的阴影不正确](https://mp.weixin.qq.com/s/RyQ52rmqtVCnXWlJsfUJ9Q)  
 >* [“本地资源检测” 上手指南，玩转最前沿的优化黑科技！](https://mp.weixin.qq.com/s/bE1kzjbSECiNaB793rfgcw)  
 >* [由《原神》谈游戏性能优化](https://mp.weixin.qq.com/s/XGniJeRJSEY9dXIvmc7UBQ)  
+>* [【厚积薄发】AI插件推荐](https://mp.weixin.qq.com/s/dcqDP6M6wDYRIhGwHap-0Q)  
