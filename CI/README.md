@@ -55,3 +55,4 @@
 ### il2cpp  
 * [IL2CPP Overview](https://docs.unity3d.com/Manual/IL2CPP.html)  
 * [An introduction to IL2CPP internals](https://blog.unity.com/technology/an-introduction-to-ilcpp-internals?_ga=2.187282792.1133497839.1631591825-153368541.1631591825)  
+* [Unity将来时：IL2CPP是什么？](https://zhuanlan.zhihu.com/p/19972689)  
