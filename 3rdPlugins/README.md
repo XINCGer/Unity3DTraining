@@ -199,4 +199,5 @@
 * [EPPlus](https://github.com/JanKallman/EPPlus)  
 * [EPPlus 5-Excel spreadsheets for .NET](https://github.com/EPPlusSoftware/EPPlus)  
 * [A .NET library for distributed synchronization](https://github.com/madelson/DistributedLock)  
+* [SimpleFolderIcon](https://github.com/SeaeeesSan/SimpleFolderIcon)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
