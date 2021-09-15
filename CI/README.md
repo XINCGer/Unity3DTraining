@@ -57,3 +57,4 @@
 * [An introduction to IL2CPP internals](https://blog.unity.com/technology/an-introduction-to-ilcpp-internals?_ga=2.187282792.1133497839.1631591825-153368541.1631591825)  
 * [Unity将来时：IL2CPP是什么？](https://zhuanlan.zhihu.com/p/19972689)  
 * [简单了解Mono和IL2CPP](https://www.dazhuanlan.com/hj1234/topics/1288820)  
+* [用Unity制作游戏，你需要深入了解一下IL2CPP](http://www.gameres.com/339671.html)  
