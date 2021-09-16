@@ -110,3 +110,6 @@
 #### CDN与网盘  
 >* [自制网盘](https://mp.weixin.qq.com/s/7QOlqykLyzGKvE4gQDG0Xg)  
 >* [高性能利器：CDN我建议你好好学一下！](https://www.cnblogs.com/jaycekon/p/15213441.html)  
+
+#### Linux  
+>* [Linux内核完全注释PDF](http://www.oldlinux.org/download/CLK-5.0.1-WithCover.pdf)  
