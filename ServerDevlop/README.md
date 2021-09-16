@@ -113,3 +113,4 @@
 
 #### Linux  
 >* [Linux内核完全注释PDF](http://www.oldlinux.org/download/CLK-5.0.1-WithCover.pdf)  
+>* [《Linux操作系统实现原理》资源](http://www.oldlinux.org/Book-Lite/)  
