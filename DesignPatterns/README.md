@@ -33,5 +33,5 @@
 * [我曾想深入了解的：依赖倒置、控制反转、依赖注入](https://www.cnblogs.com/sunchong/p/12242994.html)  
 * [帮你整理了一份设计模式速查手册](https://www.cnblogs.com/xibei/p/12362992.html)  
 * [Design Patterns Written in Unity3D](https://github.com/QianMo/Unity-Design-Pattern)  
-
+* [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)  
 
