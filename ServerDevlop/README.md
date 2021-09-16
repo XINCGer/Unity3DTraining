@@ -39,6 +39,7 @@
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
+>* [带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）](https://github.com/huangz1990/redis-3.0-annotated)  
 
 #### Node.js  
 >* [通过Nginx的auth_request以及ExpressJS构建权限验证系统](https://segmentfault.com/a/1190000005933091)  
