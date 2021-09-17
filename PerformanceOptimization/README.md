@@ -116,6 +116,7 @@
 >* [Unity性能优化 — UI模块](https://mp.weixin.qq.com/s/tYuEDNDYKlrUn933BWheHw)  
 >* [游戏特效优化指南—贴图篇](https://mp.weixin.qq.com/s/8oBl730UBQKMBJgUcWO-1A)  
 >* [《使命召唤》手游方案：codm 贴图压缩算法分析与实现](https://mp.weixin.qq.com/s/H0ojL-XJhrXSsRH06SZW_Q)  
+>* [优化移动端游戏性能 | 来自Unity顶级工程师的物理、UI和音频设置小贴士](https://mp.weixin.qq.com/s/egAWR4HH0D05M9pBqNXQJQ)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
