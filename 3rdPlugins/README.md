@@ -202,4 +202,5 @@
 * [SimpleFolderIcon](https://github.com/SeaeeesSan/SimpleFolderIcon)  
 * [FindReferencesInProject2](https://github.com/networm/FindReferencesInProject2)  
 * [Path-Creator](https://github.com/SebLague/Path-Creator)  
+* [Injects INotifyPropertyChanged code into properties at compile time](https://github.com/Fody/PropertyChanged)  
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
