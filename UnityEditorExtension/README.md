@@ -94,6 +94,7 @@
 >* [EPPlus简介](https://www.jianshu.com/p/b7f588ccf26b)  
 >* [EPPlus](https://github.com/JanKallman/EPPlus)  
 >* [EPPlus 5-Excel spreadsheets for .NET](https://github.com/EPPlusSoftware/EPPlus)  
+>* [UnityEditor Unity的模块](https://while.work/unityeditor-unity)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
