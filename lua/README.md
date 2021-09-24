@@ -44,3 +44,7 @@
 
 ### lua加密与破解
 * [链接](./LuaEncrypt)  
+
+### Lua热更新  
+* [lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate)  
+* [LuaRuntimeHotfix](https://github.com/756915370/LuaRuntimeHotfix)  
