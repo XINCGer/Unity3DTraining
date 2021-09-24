@@ -27,6 +27,7 @@
 * [在游戏中播放cg视频遇到的问题](https://www.cnblogs.com/zhaoqingqing/p/15143061.html)  
 * [【Unity3D】Android App Bundle（aab）打包上架Google Play介绍](https://www.cnblogs.com/jeffxun/p/15142855.html)  
 * [BugSplat](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unity)  
+* [Unity异常处理与分析](https://github.com/sundxing/Unity-Excpetion-Crash)  
 
 ### 库的跨平台编译  
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
