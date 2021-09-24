@@ -58,3 +58,8 @@
 * [Unity将来时：IL2CPP是什么？](https://zhuanlan.zhihu.com/p/19972689)  
 * [简单了解Mono和IL2CPP](https://www.dazhuanlan.com/hj1234/topics/1288820)  
 * [用Unity制作游戏，你需要深入了解一下IL2CPP](http://www.gameres.com/339671.html)  
+
+### iOS重签名  
+* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  
+* [iOS包重签名技术知识](https://juejin.cn/post/6844904050228461575)  
+* [iOS软件包ipa重签名详解](https://www.jianshu.com/p/609109d41628)  
