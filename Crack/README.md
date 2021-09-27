@@ -6,3 +6,4 @@
 >* [Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper)  
 >* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector)  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
+>* [A simple Unity library for cheating prevention](https://github.com/ookii-tsuki/SafeValues)  
