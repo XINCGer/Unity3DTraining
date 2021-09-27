@@ -207,3 +207,4 @@
 * [C# / Unity Project to work on 3D realtime audio visualizers](https://github.com/jamesmoessis/audiovisuals)  
 * [Write scripts with the power of C# and .NET](https://github.com/mayuki/Chell)  
 * [四叉树/八叉树场景动态加载](https://github.com/AsehesL/SceneSeparateDemo)  
+* [A simple Unity library for cheating prevention](https://github.com/ookii-tsuki/SafeValues)  
