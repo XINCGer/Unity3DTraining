@@ -35,3 +35,4 @@
 >* [【UGUI源码分析】Unity遮罩之RectMask2D详细解读](https://www.cnblogs.com/iwiniwin/p/15170384.html)  
 >* [Unity遮罩之Mask、RectMask2D与Sprite Mask适用场景分析](https://www.cnblogs.com/iwiniwin/p/15191362.html)  
 >* [Unity_uGUI_Advance_Reference](https://github.com/heppoko/Unity_uGUI_Advance_Reference)  
+>* [Unity红点系统（Lua语言实现）](https://www.blinkedu.cn/index.php/2021/08/20/213/)  
