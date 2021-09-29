@@ -26,4 +26,5 @@
 >* [为 Unity 设置数据库 (SQLite)](https://stackoverflow.com/questions/50753569/setup-database-sqlite-for-unity)  
 >* [Unity工具—Mono.Data.Sqlite 使用](https://zhuanlan.zhihu.com/p/112232175)  
 >* [Ftp实现文件同步](https://www.cnblogs.com/huhangfei/p/4989176.html)  
+>* [Unity实现断点续传下载功能](https://www.blinkedu.cn/index.php/2021/08/19/unity%e5%ae%9e%e7%8e%b0%e6%96%ad%e7%82%b9%e7%bb%ad%e4%bc%a0%e4%b8%8b%e8%bd%bd%e5%8a%9f%e8%83%bd/)  
 
