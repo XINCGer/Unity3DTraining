@@ -36,6 +36,7 @@
 * [ 如何隐藏你的热更新 bundle 文件？](https://www.cnblogs.com/skychx/p/how-to-hide-bundle.html)  
 * [InjectFix——C#热修复方案分析 & 使用流程](https://blog.csdn.net/qq_33726878/article/details/112525690)  
 * [静态包、动态包有什么区别？何时使用增量更新？Addressables 更新流程大梳理](https://mp.weixin.qq.com/s/2WJRhZM61OrBQxtglMSERg)  
+* [Unity中使用AES加密方式进行AssetBundle加密](http://www.blinkedu.cn/index.php/2020/12/10/unity%E4%B8%AD%E4%BD%BF%E7%94%A8aes%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8Cassetbundle%E5%8A%A0%E5%AF%86/)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
