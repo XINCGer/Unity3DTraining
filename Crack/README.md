@@ -7,6 +7,8 @@
 >* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)  
 >* [Riru-Il2CppDumper](https://github.com/Perfare/Riru-Il2CppDumper)  
 >* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector)  
+>* [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower/)  
+>* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
@@ -17,4 +19,3 @@
 >* [Unity中使用AES加密方式进行AssetBundle加密](http://www.blinkedu.cn/index.php/2020/12/10/unity%E4%B8%AD%E4%BD%BF%E7%94%A8aes%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8Cassetbundle%E5%8A%A0%E5%AF%86/)  
 >* [Unity加密方案](https://www.cnblogs.com/linn/p/12758703.html)  
 >* [Unity il2cpp global-metadata.dat 加密方案](https://fairguard.blog.csdn.net/article/details/115197721)  
->* [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower/)  
