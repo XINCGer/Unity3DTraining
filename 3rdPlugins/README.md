@@ -208,3 +208,4 @@
 * [四叉树/八叉树场景动态加载](https://github.com/AsehesL/SceneSeparateDemo)  
 * [A simple Unity library for cheating prevention](https://github.com/ookii-tsuki/SafeValues)  
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
+* [Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
