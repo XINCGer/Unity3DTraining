@@ -21,3 +21,5 @@
 >* [Unity il2cpp global-metadata.dat 加密方案](https://fairguard.blog.csdn.net/article/details/115197721)  
 >* [发布到steam的unity(Il2cpp)游戏破解方法](http://www.manongjc.com/detail/22-jgukdrdlpebkoqx.html)  
 >* [IDA静态分析与动态分析](https://zhuanlan.zhihu.com/p/38983223)  
+>* [il2cpp Unity手游逆向破解修改](https://www.jianshu.com/p/a34942d01d2e)  
+>* [安卓U3D逆向从Assembly-CSharp到il2cpp](https://www.kanxue.com/book-24-116.htm)  
