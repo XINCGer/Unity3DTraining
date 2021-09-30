@@ -3,3 +3,4 @@
 * [基于ET框架致敬LOL的Moba游戏](https://gitee.com/NKG_admin/NKGMobaBasedOnET)   
 * [金庸群侠传3D重制版](https://github.com/jynew/jynew)  
 * [Darkest Dungeon port in Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)  
+* [Stride Game Engine (formerly Xenko)](https://github.com/stride3d/stride)  
