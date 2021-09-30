@@ -19,3 +19,5 @@
 >* [Unity中使用AES加密方式进行AssetBundle加密](http://www.blinkedu.cn/index.php/2020/12/10/unity%E4%B8%AD%E4%BD%BF%E7%94%A8aes%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8Cassetbundle%E5%8A%A0%E5%AF%86/)  
 >* [Unity加密方案](https://www.cnblogs.com/linn/p/12758703.html)  
 >* [Unity il2cpp global-metadata.dat 加密方案](https://fairguard.blog.csdn.net/article/details/115197721)  
+>* [发布到steam的unity(Il2cpp)游戏破解方法](http://www.manongjc.com/detail/22-jgukdrdlpebkoqx.html)  
+>* [IDA静态分析与动态分析](https://zhuanlan.zhihu.com/p/38983223)  
