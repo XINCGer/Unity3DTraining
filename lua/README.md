@@ -35,6 +35,8 @@
 >* [33.Lua 5.1 帮助手册](https://www.wenjiangs.com/docs/lua-doc)  
 >* [34.tolua_runtime-lua5.3](https://github.com/jarjin/tolua_runtime-lua5.3)  
 >* [35.仿制lua解释器的项目](https://github.com/Manistein/dummylua-tutorial)  
+>* [36.深入xLua实现原理之C#如何调用Lua](https://www.cnblogs.com/iwiniwin/p/15323970.html)  
+>* [37.深入xLua实现原理之Lua如何调用C#](https://www.cnblogs.com/iwiniwin/p/15307368.html)  
 
 
 ### lua书籍  
