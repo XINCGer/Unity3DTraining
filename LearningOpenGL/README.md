@@ -69,8 +69,9 @@
 * [Unity URP/SRP 渲染管线浅入深出【匠】](https://mp.weixin.qq.com/s/i4smZfIkbGfFxTKvlz4eZQ)  
 * [【Unity】SRP底层渲染流程及原理](https://mp.weixin.qq.com/s/EAlFztuMZ2xwyzK02NyfSg)  
 
-### GAMES101-现代计算机图形学入门-闫令琪
-* [链接](https://www.bilibili.com/video/BV1X7411F744)  
+### 视频教程
+* [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
+* [技术美术TA-庄懂b站空间](https://space.bilibili.com/6373917)   
 
 ### 电子书  
 * [Physically Based Rendering - 3rd Edition](http://www.pbr-book.org/3ed-2018/contents.html)  
