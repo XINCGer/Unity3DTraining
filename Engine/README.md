@@ -8,3 +8,6 @@
 
 ## 物理  
 * [A cross-platform, realtime physics engine for all .NET app](https://github.com/notgiven688/jitterphysics)  
+
+## 渲染  
+* [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
