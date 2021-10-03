@@ -161,3 +161,4 @@
 >* [【厚积薄发】AI插件推荐](https://mp.weixin.qq.com/s/dcqDP6M6wDYRIhGwHap-0Q)  
 >* [【厚积薄发】Lua与C#传参](https://mp.weixin.qq.com/s/vZiGe93rqxCaGyMG9ckI3w)  
 >* [【厚积薄发】TextMeshPro备用字体疑问](https://mp.weixin.qq.com/s/6WdaK_Ngwpqv_2zihUf0TA)  
+>* [【厚积薄发】游戏项目中如何制定资源管理与加载策略](https://mp.weixin.qq.com/s/KMNGWWkpqg84KF66UguVPw)  
