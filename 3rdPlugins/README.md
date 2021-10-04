@@ -209,3 +209,4 @@
 * [A simple Unity library for cheating prevention](https://github.com/ookii-tsuki/SafeValues)  
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
 * [Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
+* [C++ Profiler For Games](https://github.com/bombomby/optick)  
