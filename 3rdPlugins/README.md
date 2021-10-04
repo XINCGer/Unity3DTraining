@@ -210,3 +210,4 @@
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
 * [Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
 * [C++ Profiler For Games](https://github.com/bombomby/optick)  
+* [prefab-painter](https://github.com/alexanderameye/prefab-painter)  
