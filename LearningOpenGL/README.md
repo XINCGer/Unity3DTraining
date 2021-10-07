@@ -68,6 +68,7 @@
 * [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
 * [Unity URP/SRP 渲染管线浅入深出【匠】](https://mp.weixin.qq.com/s/i4smZfIkbGfFxTKvlz4eZQ)  
 * [【Unity】SRP底层渲染流程及原理](https://mp.weixin.qq.com/s/EAlFztuMZ2xwyzK02NyfSg)  
+* [狐狸菌的urp教程](https://fungusfox.gitee.io/tags/urp/)  
 
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
