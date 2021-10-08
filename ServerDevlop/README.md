@@ -85,6 +85,7 @@
 >* [自动化运维平台：CMDB、CI/CD、DevOps、资产管理、任务编排、持续交付、运维管理、基于Django + REST framework + Vue 运维发布平台，UI自动化测试平台](https://github.com/small-flying-pigs/devops-api)  
 >* [The Single Sign-On Multi-Factor portal for web apps](https://github.com/authelia/authelia)  
 >* [开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台](https://github.com/o2oa/o2oa)  
+>* [在线考试系统，springboot+vue前后端分离的一个项目](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
