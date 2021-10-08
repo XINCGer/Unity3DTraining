@@ -211,3 +211,4 @@
 * [Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
 * [C++ Profiler For Games](https://github.com/bombomby/optick)  
 * [prefab-painter](https://github.com/alexanderameye/prefab-painter)  
+* [CatAsset Unity AssetBundle资源管理框架](https://github.com/CatImmortal/CatAsset)  
