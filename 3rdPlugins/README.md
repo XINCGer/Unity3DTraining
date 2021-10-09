@@ -213,3 +213,4 @@
 * [prefab-painter](https://github.com/alexanderameye/prefab-painter)  
 * [CatAsset Unity AssetBundle资源管理框架](https://github.com/CatImmortal/CatAsset)  
 * [基于unity的RPG解密游戏框架](https://github.com/cafel176/RPGFrameWork)  
+* [Transform controller in Game View for Unity](https://github.com/mattatz/unity-transform-control)  
