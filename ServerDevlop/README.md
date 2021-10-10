@@ -16,6 +16,9 @@
 #### Java技术  
 >* [冷饭新炒：理解JDK中UUID的底层实现](https://www.cnblogs.com/throwable/p/14343086.html)  
 
+#### IM即时通讯  
+>* [OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目](https://github.com/OpenIMSDK/Open-IM-Server)  
+
 #### 游戏后端技术  
 >* [Go游戏服务端框架从零搭建（一）— 架构设计](https://www.cnblogs.com/niudanshui/p/11864281.html)  
 >* [在C#中使用二叉树实时计算海量用户积分排名的实现](https://www.cnblogs.com/hohoa/p/12145689.html)  
