@@ -56,6 +56,7 @@
 * [Unity Shader 调试技巧!](https://mp.weixin.qq.com/s/ogxBvpu8CFt3eKaArM3Z8Q)  
 * [无缝大世界手游的草的一种渲染方案](https://mp.weixin.qq.com/s/E4OKRqy30EwBou0nkMw2_A)  
 * [游戏特效的套路归纳——刀光篇](https://mp.weixin.qq.com/s/4QpaxhAym0X2PE0xuDNQ2A)  
+* [针对Unity的Shader参考大全](https://github.com/taecg/ShaderReference)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
