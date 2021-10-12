@@ -65,6 +65,7 @@
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
+>* [AspNetCore打造一个“最安全”的api接口](https://www.cnblogs.com/xuejiaming/p/15384015.html)  
 >* [开源的 Java 后台管理框架——EL-ADMIN](https://www.cnblogs.com/xueweihan/p/14244798.html)   
 >* [Meiam.System - .NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架](https://github.com/91270/Meiam.System)  
 >* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  
