@@ -218,3 +218,4 @@
 * [UnityWindowsFileDrag&Drop](https://github.com/Bunny83/UnityWindowsFileDrag-Drop)  
 * [UnityGUIChartEditor](https://github.com/alessandroTironi/UnityGUIChartEditor)  
 * [REX-Diagnostics](https://github.com/thorgeirk11/REX-Diagnostics)  
+* [Spine Timeline](https://github.com/5argon/SpineTimeline)  
