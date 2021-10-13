@@ -58,6 +58,7 @@
 * [游戏特效的套路归纳——刀光篇](https://mp.weixin.qq.com/s/4QpaxhAym0X2PE0xuDNQ2A)  
 * [针对Unity的Shader参考大全](https://github.com/taecg/ShaderReference)  
 * [Lua bindings for OpenGL](https://github.com/stetre/moongl)  
+* [Unity中Compute Shader的基础介绍与使用](https://mp.weixin.qq.com/s/ikE35VXJNDEJwu1p4nZMGg)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
