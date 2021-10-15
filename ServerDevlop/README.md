@@ -98,6 +98,7 @@
 >* [RED5 PRO](https://www.red5pro.com/red5-media-server/)  
 >* [Jellyfin-The Free Software Media System](https://github.com/jellyfin/jellyfin)  
 >* [SRS OuXuli，简单高效的实时视频服务器](https://github.com/ossrs/srs)  
+>* [音视频流媒体权威资料整理](https://github.com/0voice/audio_video_streaming)  
 
 #### 应用分发  
 >* [ipa-server](https://github.com/iineva/ipa-server/blob/main/README_zh.md)  
