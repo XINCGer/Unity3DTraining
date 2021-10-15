@@ -25,3 +25,4 @@
 >* [新晋总监生存指南终章——构建技术团队信息通道](https://www.cnblogs.com/yexiaochai/p/14863325.html)  
 >* [技术管理进阶——技术总监的第一要务](https://www.cnblogs.com/yexiaochai/p/14915151.html)  
 >* [【开发日志】《鬼山之下》前 100 个小时的制作思路分享（一）打算如何做？为什么要做？](https://mp.weixin.qq.com/s/nwtfn9GPH_OhDxAOHUJnDQ)  
+>* [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)  
