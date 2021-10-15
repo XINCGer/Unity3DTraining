@@ -119,6 +119,7 @@
 >* [浅谈Unity内存管理(视频版)](https://www.bilibili.com/video/av79798486/)  
 >* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 >* [iOS Memory 内存详解](https://mp.weixin.qq.com/s/YpJa3LeTFz9UFOUcs5Bitg)  
+>* [Unity 特效性能分析工具](https://github.com/sunbrando/ParticleEffectProfiler)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
