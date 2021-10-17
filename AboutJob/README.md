@@ -11,6 +11,7 @@
 >* [海澜访谈录——对于负责招聘的HR，如果看待候选人的一些疑问解答？](https://aihailan.com/1189-2/)  
 >* [Unity面试题总结](https://github.com/Lafree317/Unity-InterviewQuestion)  
 >* [反向面试](https://github.com/yifeikong/reverse-interview-zh)  
+>* [那些头部游戏公司的面试经验！](https://mp.weixin.qq.com/s/yf3Mz78SnhpBGLyGxRrefw)  
 >* [2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结](https://github.com/0voice/algorithm-structure)  
 >* [精选面试tips整理](https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/interview_tip)  
 >* [水曜日鸡面试指南1——游戏开发社招求职面试指南①——前期准备](https://blog.csdn.net/j756915370/article/details/109688883)  
