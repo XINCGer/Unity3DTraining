@@ -220,3 +220,4 @@
 * [REX-Diagnostics](https://github.com/thorgeirk11/REX-Diagnostics)  
 * [Spine Timeline](https://github.com/5argon/SpineTimeline)  
 * [ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler)  
+* [Memory instrumentation tool for android app&game developers](https://github.com/Tencent/loli_profiler)  
