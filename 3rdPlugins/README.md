@@ -224,3 +224,4 @@
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  
 * [Unity-Helpers](https://github.com/mikecann/Unity-Helpers)  
 * [FindReferencesInProject2](https://github.com/networm/FindReferencesInProject2)  
+* [ripgrep](https://github.com/BurntSushi/ripgrep)  
