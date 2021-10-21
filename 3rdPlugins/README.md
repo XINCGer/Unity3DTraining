@@ -223,3 +223,4 @@
 * [Memory instrumentation tool for android app&game developers](https://github.com/Tencent/loli_profiler)  
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  
 * [Unity-Helpers](https://github.com/mikecann/Unity-Helpers)  
+* [FindReferencesInProject2](https://github.com/networm/FindReferencesInProject2)  
