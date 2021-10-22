@@ -105,6 +105,8 @@
 >* [《使命召唤》手游方案：codm 贴图压缩算法分析与实现](https://mp.weixin.qq.com/s/H0ojL-XJhrXSsRH06SZW_Q)  
 >* [优化移动端游戏性能 | 来自Unity顶级工程师的物理、UI和音频设置小贴士](https://mp.weixin.qq.com/s/egAWR4HH0D05M9pBqNXQJQ)  
 >* [物理调试可视化](https://docs.unity3d.com/cn/current/Manual/PhysicsDebugVisualization.html)  
+>* [Unity粒子系统去GameObject化](https://mp.weixin.qq.com/s/B1_sen_ak_wRcurbBlFoLg)  
+
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
 >* [Unity内存管理你应该知道的底层原理](https://mp.weixin.qq.com/s/FQv1oT0eb-xLucEBcD00Bw)  
@@ -120,7 +122,6 @@
 >* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 >* [iOS Memory 内存详解](https://mp.weixin.qq.com/s/YpJa3LeTFz9UFOUcs5Bitg)  
 >* [Unity 特效性能分析工具](https://github.com/sunbrando/ParticleEffectProfiler)  
->* [Unity粒子系统去GameObject化](https://mp.weixin.qq.com/s/B1_sen_ak_wRcurbBlFoLg)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
