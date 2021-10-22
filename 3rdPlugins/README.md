@@ -225,3 +225,4 @@
 * [Unity-Helpers](https://github.com/mikecann/Unity-Helpers)  
 * [FindReferencesInProject2](https://github.com/networm/FindReferencesInProject2)  
 * [ripgrep](https://github.com/BurntSushi/ripgrep)  
+* [C# string零GC补充方案](https://github.com/871041532/zstring)  
