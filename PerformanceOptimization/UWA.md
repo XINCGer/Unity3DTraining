@@ -164,3 +164,4 @@
 >* [【厚积薄发】游戏项目中如何制定资源管理与加载策略](https://mp.weixin.qq.com/s/KMNGWWkpqg84KF66UguVPw)  
 >* [【厚积薄发】使用Sprite Packer对UI图集进行打包的问题](https://mp.weixin.qq.com/s/9ioZdw9GXSrqSBx7X0Ruqw)  
 >* [【厚积薄发】Shader打AssetBundle包变体丢失问题](https://mp.weixin.qq.com/s/R4ccrYKMcxny5fg4CoNEYQ)  
+>* [【厚积薄发】AssetBundle异步加载被中断的问题](https://mp.weixin.qq.com/s/eNh0lknPJcdUYuOgGnKtGg)  
