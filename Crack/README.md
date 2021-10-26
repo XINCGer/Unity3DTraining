@@ -23,3 +23,4 @@
 >* [IDA静态分析与动态分析](https://zhuanlan.zhihu.com/p/38983223)  
 >* [il2cpp Unity手游逆向破解修改](https://www.jianshu.com/p/a34942d01d2e)  
 >* [安卓U3D逆向从Assembly-CSharp到il2cpp](https://www.kanxue.com/book-24-116.htm)  
+>* [加壳到底是怎么回事？](https://zhuanlan.zhihu.com/p/208660624)  
