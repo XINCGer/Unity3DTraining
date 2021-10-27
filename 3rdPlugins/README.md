@@ -226,3 +226,4 @@
 * [FindReferencesInProject2](https://github.com/networm/FindReferencesInProject2)  
 * [ripgrep](https://github.com/BurntSushi/ripgrep)  
 * [C# string零GC补充方案](https://github.com/871041532/zstring)  
+* [Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)  
