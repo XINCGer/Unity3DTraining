@@ -229,3 +229,4 @@
 * [Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)  
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser)  
 * [perf-doctor](https://github.com/taptap/perf-doctor)  
+* [render-doctor](https://github.com/taptap/render-doctor)  
