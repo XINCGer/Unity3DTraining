@@ -228,3 +228,4 @@
 * [C# string零GC补充方案](https://github.com/871041532/zstring)  
 * [Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)  
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser)  
+* [perf-doctor](https://github.com/taptap/perf-doctor)  
