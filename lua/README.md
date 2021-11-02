@@ -37,6 +37,7 @@
 >* [35.仿制lua解释器的项目](https://github.com/Manistein/dummylua-tutorial)  
 >* [36.深入xLua实现原理之C#如何调用Lua](https://www.cnblogs.com/iwiniwin/p/15323970.html)  
 >* [37.深入xLua实现原理之Lua如何调用C#](https://www.cnblogs.com/iwiniwin/p/15307368.html)  
+>* [38.深入理解xLua基于IL代码注入的热更新原理](https://www.cnblogs.com/iwiniwin/p/15474919.html)  
 
 
 ### lua书籍  
