@@ -230,3 +230,4 @@
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser)  
 * [perf-doctor](https://github.com/taptap/perf-doctor)  
 * [render-doctor](https://github.com/taptap/render-doctor)  
+* [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker)  
