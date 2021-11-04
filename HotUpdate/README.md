@@ -38,6 +38,7 @@
 * [Unity中使用AES加密方式进行AssetBundle加密](http://www.blinkedu.cn/index.php/2020/12/10/unity%E4%B8%AD%E4%BD%BF%E7%94%A8aes%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8Cassetbundle%E5%8A%A0%E5%AF%86/)  
 * [CatAsset Unity AssetBundle资源管理框架](https://github.com/CatImmortal/CatAsset)  
 * [A C# hot reload framework for Unity3D, based on Mono's MONO_AOT_MODE_INTERP mode](https://github.com/loongly/PureScript)  
+* [AssetBundle详解与休闲游戏如何设计Bundle结构](https://blog.csdn.net/lanazyit/article/details/108552429)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
