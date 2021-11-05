@@ -233,3 +233,4 @@
 * [AssetBundleChecker](https://github.com/wotakuro/AssetBundleChecker)  
 * [unity-intersections](https://github.com/mattatz/unity-intersections)  
 * [UnityRuntimeNodeEditor](https://github.com/cemuka/UnityRuntimeNodeEditor)  
+* [Unity2D Pixel Perfect Collider](https://github.com/RandomiaGaming/Unity2DPixelPerfectCollider)  
