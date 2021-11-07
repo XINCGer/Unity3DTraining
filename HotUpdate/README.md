@@ -49,6 +49,7 @@
 * [Unity Shader AssetBundle ShaderVariantCollection](https://blog.csdn.net/kuangben2000/article/details/104099063)  
 * [Unity3D Shader加载时机和预编译](https://gameinstitute.qq.com/community/detail/118869)  
 * [一种Shader变体收集和打包编译优化的思路](https://github.com/lujian101/ShaderVariantCollector)  
+* [如何理解Shader.Parse 和 Shader.CreateGpuProgram](https://answer.uwa4d.com/question/58dbb737901de5f21c6569c2)  
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
 
 ### ILRuntime相关  
