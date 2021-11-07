@@ -47,7 +47,7 @@
 * [内置的shader怎么打包？](https://answer.uwa4d.com/question/58e8d7c074c2cac90afa6f36)  
 * [Packages 目录下 Shader 打包](https://answer.uwa4d.com/question/5f3d10b19424416784ef1c82)  
 * [Unity Shader AssetBundle ShaderVariantCollection](https://blog.csdn.net/kuangben2000/article/details/104099063)  
-* [Unity3D Shader加载时机和预编译](https://www.cnblogs.com/rexzhao/p/7884905.html)  
+* [Unity3D Shader加载时机和预编译](https://gameinstitute.qq.com/community/detail/118869)  
 * [一种Shader变体收集和打包编译优化的思路](https://github.com/lujian101/ShaderVariantCollector)  
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
 
