@@ -25,3 +25,4 @@
 >* [安卓U3D逆向从Assembly-CSharp到il2cpp](https://www.kanxue.com/book-24-116.htm)  
 >* [加壳到底是怎么回事？](https://zhuanlan.zhihu.com/p/208660624)  
 >* [RSA加密](./RSA)  
+>* [MD5加密+加盐](https://www.cnblogs.com/peaceliu/p/7825706.html)  
