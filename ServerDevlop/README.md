@@ -39,6 +39,7 @@
 >* [网游服务端架构](https://imsoul.blog.csdn.net/article/details/105733515)  
 >* [经典游戏服务器端架构概述](https://blog.csdn.net/xchysl/article/details/79477988)  
 >* [skynet游戏服务器框架分享](https://www.cnblogs.com/left69/p/14241929.html)  
+>* [Skynet 日志文件服务](https://github.com/Veinin/skynet-logger)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
