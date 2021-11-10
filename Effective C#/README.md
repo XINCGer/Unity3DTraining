@@ -39,3 +39,4 @@
 >* [一文说通C#中的异步编程](https://www.cnblogs.com/tiger-wang/p/13357981.html)  
 >* [C#中的9个“黑魔法”](https://zhuanlan.zhihu.com/p/121792448)  
 >* [c#动态设置attribute](https://www.cnblogs.com/jacle169/archive/2013/04/20/3032113.html)  
+>* [在C#序列化中保存字典](http://ask.sov5.cn/q/7hBfSdNfiP)  
