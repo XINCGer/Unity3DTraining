@@ -39,6 +39,7 @@
 * [CatAsset Unity AssetBundle资源管理框架](https://github.com/CatImmortal/CatAsset)  
 * [A C# hot reload framework for Unity3D, based on Mono's MONO_AOT_MODE_INTERP mode](https://github.com/loongly/PureScript)  
 * [AssetBundle详解与休闲游戏如何设计Bundle结构](https://blog.csdn.net/lanazyit/article/details/108552429)  
+* [Unity增量更新BsDiff（也适用于整包的增量更新）](https://mp.weixin.qq.com/s/xnXH_ZjteIuFn2uL5fk9ow)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
