@@ -238,3 +238,4 @@
 * [EZAddresser](https://github.com/Haruma-K/EZAddresser)  
 * [C++ Profiler For Games](https://github.com/bombomby/optick)  
 * [bsdiff](https://github.com/mendsley/bsdiff)  
+* [LuaHelper](https://github.com/Tencent/LuaHelper)  
