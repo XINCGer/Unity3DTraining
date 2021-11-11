@@ -26,3 +26,4 @@
 >* [加壳到底是怎么回事？](https://zhuanlan.zhihu.com/p/208660624)  
 >* [RSA加密](./RSA)  
 >* [MD5加密+加盐](https://www.cnblogs.com/peaceliu/p/7825706.html)  
+>* [XOR加密解密](./XOR)  
