@@ -8,6 +8,7 @@
 >* [Unity怎么去实现ACT战斗?](https://mp.weixin.qq.com/s/MHPMqEl7cebUrSzz9HCLig)  
 >* [实现行为树黑板模块0GC赋值功能](https://zhuanlan.zhihu.com/p/205410980)  
 >* [Unity——技能系统（一）](https://www.cnblogs.com/littleperilla/p/15536595.html)  
+>* [Unity——技能系统（二）](https://www.cnblogs.com/littleperilla/p/15539394.html)  
 
 #### 实现库  
 >* [XMLib 动作游戏开发套件](https://github.com/XINCGer/Unity3DTraining/blob/master/AboutSkill/XMLib.md)  
