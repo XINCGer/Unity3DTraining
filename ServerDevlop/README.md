@@ -92,6 +92,7 @@
 >* [开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台](https://github.com/o2oa/o2oa)  
 >* [在线考试系统，springboot+vue前后端分离的一个项目](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)  
 >* [Next Terminal是一个轻量级堡垒机系统](https://github.com/dushixiang/next-terminal)  
+>* [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
