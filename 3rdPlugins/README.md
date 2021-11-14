@@ -240,3 +240,4 @@
 * [bsdiff](https://github.com/mendsley/bsdiff)  
 * [LuaHelper](https://github.com/Tencent/LuaHelper)  
 * [Dynamic scrollView based on UGUI](https://github.com/aillieo/UnityDynamicScrollView)  
+* [Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)  
