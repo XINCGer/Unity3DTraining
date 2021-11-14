@@ -29,6 +29,7 @@
 * [BugSplat](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unity)  
 * [Unity异常处理与分析](https://github.com/sundxing/Unity-Excpetion-Crash)  
 * [一文读懂Android进程及TCP动态心跳保活](https://www.cnblogs.com/xiaxveliang/p/15478580.html)  
+* [Unity3D与iOS的交互](https://www.jianshu.com/p/1ab65bee6692)  
 
 ### 库的跨平台编译  
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
