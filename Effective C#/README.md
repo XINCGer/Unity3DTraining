@@ -27,7 +27,7 @@
 >* [c# 按位与，按位或](https://www.cnblogs.com/mili3/archive/2013/03/07/2947564.html)  
 >* [利用按位取反（~）从复合枚举值里清除枚举值](https://blog.csdn.net/hchaoh/article/details/84698752)  
 >* [新版 C# 高效率编程指南](https://www.cnblogs.com/hez2010/p/13724904.html)  
->* [C# Type.GetType 返回NULL 问题解决记录](https://www.cnblogs.com/qhbm/p/9958944.html)  
+>* [C# Type.GetType 返回NULL 问题解决记录](https://blog.csdn.net/qq_17347313/article/details/102834781)  
 >* [.NET/C# 判断某个类是否是泛型类型或泛型接口的子类型](https://www.cnblogs.com/walterlv/p/10236419.html)  
 >* [C# List Sort 排序用法总结](https://zhuanlan.zhihu.com/p/141618333)  
 >* [什么是C#的值类型与引用类型？Class与Struct对比](https://mp.weixin.qq.com/s/RSZTSceOaVKhl3KP6X6BKg)  
