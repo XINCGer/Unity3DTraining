@@ -36,3 +36,4 @@
 >* [Unity遮罩之Mask、RectMask2D与Sprite Mask适用场景分析](https://www.cnblogs.com/iwiniwin/p/15191362.html)  
 >* [Unity_uGUI_Advance_Reference](https://github.com/heppoko/Unity_uGUI_Advance_Reference)  
 >* [Unity红点系统（Lua语言实现）](https://www.blinkedu.cn/index.php/2021/08/20/213/)  
+>* [UGUI特效层级和裁剪问题](https://blog.csdn.net/m0_46712616/article/details/121385875)  
