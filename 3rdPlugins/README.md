@@ -244,3 +244,4 @@
 * [A Unity Editor script for automating Rhubarb lip sync animation](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)  
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)  
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)  
+* [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background)  
