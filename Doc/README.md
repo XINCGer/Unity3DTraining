@@ -86,3 +86,4 @@
 >* [使用 PicGo + Github + JSD 搭建免费图床](https://asuka4every.top/build-your-own-img-host/)  
 >* [基于Unity的A星寻路算法（绝对简单完整版本）](https://www.cnblogs.com/xinzhilinger/p/15131136.html)  
 >* [正则表达式匹配各种特殊字符](https://www.jb51.net/article/167287.htm)  
+>* [从游戏随机地图：浅谈生成艺术！](https://mp.weixin.qq.com/s/-ciHVEYR9GAOZvprHbA3hA)  
