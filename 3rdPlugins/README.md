@@ -246,3 +246,4 @@
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)  
 * [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background)  
 * [A simple audio encoder, decoder, noise reduction library for Unity](https://github.com/tkmn0/Caress.Unity)  
+* [Decompilation Tools and High Productivity Utilities](https://github.com/badamczewski/PowerUp)  
