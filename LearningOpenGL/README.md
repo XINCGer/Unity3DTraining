@@ -61,6 +61,7 @@
 * [Unity中Compute Shader的基础介绍与使用](https://mp.weixin.qq.com/s/ikE35VXJNDEJwu1p4nZMGg)  
 * [Open book about math and programming](https://github.com/liuxinyu95/unplugged)  
 * [A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android](https://github.com/google/angle)  
+* [Unity实现二维波方程交互水面与实时焦散](https://github.com/AsehesL/UnityWaveEquation)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
