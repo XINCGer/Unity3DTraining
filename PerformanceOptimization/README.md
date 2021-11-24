@@ -108,6 +108,7 @@
 >* [Unity粒子系统去GameObject化](https://mp.weixin.qq.com/s/B1_sen_ak_wRcurbBlFoLg)  
 >* [Profiler Detailed内存中NotSaved/AssetBundles和Other/SerializedFile有什么区别](https://answer.uwa4d.com/question/6040d8bdcfa35d5b536698b4)  
 >* [AssetBundle-Dependencies](https://gnoph.github.io/unity-dev-notes/2018/01/17/AssetBundle-Dependencies.html)  
+>* [Assets中的Shader，是否只要开始运行就会直接加进内存](https://answer.uwa4d.com/question/619cce5ed8413e18eb241eb5)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
