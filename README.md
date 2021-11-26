@@ -60,7 +60,7 @@
 >* [54.xasset 公开文档收集和整理](./xasset_doc)  
 >* [55.C++ 实用仓库](./CPlusPlus)  
 >* [56.Python在游戏中的实用库](./PythonInGame)  
->* [56.求职工作培训与养生等](./AboutJob)  
+>* [57.求职工作培训与养生等](./AboutJob)  
 
 ## 友情链接  
 * [xasset 快速强大的Unity资源系统](https://github.com/xasset/xasset)  
