@@ -12,6 +12,7 @@
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
+* [Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2](https://github.com/google/filament)  
 
 ## 开源引擎  
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
