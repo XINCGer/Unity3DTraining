@@ -136,3 +136,6 @@
 
 #### AI与机器人  
 >* [🌿 中文近义词：聊天机器人，智能问答工具包](https://github.com/chatopera/Synonyms)  
+
+#### 物联网  
+>* [CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system](https://github.com/IceWhaleTech/CasaOS)  
