@@ -54,7 +54,7 @@
 >* [NodeJS+Express+MongoDB简单实现数据库的操作](https://www.jianshu.com/p/f814750c89ef)  
 >* [mongoose基本用法](https://www.jianshu.com/p/9b20c1e2f373)  
 
-#### Nginx  
+#### Nginx与代理服务器  
 >* [Nginx跨域配置](https://www.cnblogs.com/itzgr/p/13343387.html)  
 >* [为什么我推荐Nginx作为后端服务器代理](https://www.cnblogs.com/felordcn/p/13363331.html)  
 >* [【Nginx】如何使用Nginx搭建流媒体服务器实现直播？看完这篇我会了！！](https://www.cnblogs.com/binghe001/p/13363105.html)  
@@ -63,6 +63,7 @@
 >* [写给小白的 Nginx 文章](https://www.cnblogs.com/xueweihan/p/14355053.html)  
 >* [Nginx超详细常用功能演示，够用啦](https://www.cnblogs.com/zoe-zyq/p/14779429.html)  
 >* [Nginx实战部署常用功能演示(超详细版)，绝对给力](https://www.cnblogs.com/zoe-zyq/p/14843709.html)  
+>* [一款轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
