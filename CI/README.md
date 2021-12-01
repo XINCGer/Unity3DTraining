@@ -38,6 +38,7 @@
 * [Jenkins官方文档](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)  
 * [幕后揭密：Unity工作流的速度提升](https://unity.cn/projects/behind-the-scenes-speeding-up-unity-workflows)  
 * [Cannot build Unity 2020 projects using command-line on macOS with Xcode 10 or 11](https://forum.unity.com/threads/cannot-build-unity-2020-projects-using-command-line-on-macos-with-xcode-10-or-11.1084085/)  
+* [Jenkins使用痛点小析](https://www.jianshu.com/p/000c2331b891)  
 
 
 #### iOS14无法安装企业应用  
