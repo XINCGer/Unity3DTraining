@@ -41,6 +41,7 @@
 * [Jenkins使用痛点小析](https://www.jianshu.com/p/000c2331b891)  
 * [Jenkins升级版本](https://www.cnblogs.com/QuestionsZhang/p/11178850.html)  
 * [Jenkins 主备master-slave模式搭建](https://www.cnblogs.com/zndxall/p/8297356.html)  
+* [Throttle Concurrent Builds](https://plugins.jenkins.io/throttle-concurrents/)  
 
 
 #### iOS14无法安装企业应用  
