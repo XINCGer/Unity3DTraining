@@ -43,7 +43,7 @@
 * [Jenkins 主备master-slave模式搭建](https://www.cnblogs.com/zndxall/p/8297356.html)  
 * [Throttle Concurrent Builds](https://plugins.jenkins.io/throttle-concurrents/)  
 * [Scoring Load Balancer](https://plugins.jenkins.io/scoring-load-balancer/)  
-
+* [使用终端连接smb](https://www.jianshu.com/p/ed010606adc2)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
