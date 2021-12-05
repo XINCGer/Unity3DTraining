@@ -62,6 +62,7 @@
 * [Open book about math and programming](https://github.com/liuxinyu95/unplugged)  
 * [A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android](https://github.com/google/angle)  
 * [Unity实现二维波方程交互水面与实时焦散](https://github.com/AsehesL/UnityWaveEquation)  
+* [Multi-functional shader for the Particle System that supports Universal Render Pipeline](https://github.com/CyberAgentGameEntertainment/NovaShader)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
