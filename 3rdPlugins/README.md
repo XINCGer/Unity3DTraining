@@ -252,3 +252,4 @@
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)  
 * [Unity-Bridge-API](https://github.com/neon-age/Unity-Bridge-API)  
 * [Kogane.PackageToAsset](https://github.com/baba-s/Kogane.PackageToAsset)  
+* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer)  
