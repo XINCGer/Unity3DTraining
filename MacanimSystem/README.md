@@ -9,3 +9,7 @@
 * [[干货笔记/长文]Unity动画系统!](https://mp.weixin.qq.com/s/XhQk0oqYG4OP6m7V2vWg2Q)  
 * [学习笔记---3dMax动画系统（基础入门篇）](https://zhuanlan.zhihu.com/p/76529448)  
 * [当3dMax遇上Unity3d---模型导入的前后你需要注意的地方](https://zhuanlan.zhihu.com/p/56413668)  
+
+
+### Blend Shape资料收集  
+* [](./Blend Shape)  
