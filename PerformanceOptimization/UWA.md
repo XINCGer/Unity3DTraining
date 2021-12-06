@@ -170,3 +170,4 @@
 >* [【厚积薄发】使用后处理Alpha通道丢失的问题](https://mp.weixin.qq.com/s/3CVSxPI8URd0fefAjsNppA)  
 >* [【厚积薄发】DLL混淆问题](https://mp.weixin.qq.com/s/VNGRAVh72QvjpZPEmrZdeA)  
 >* [【厚积薄发】Unity优化点概述](https://mp.weixin.qq.com/s/s9mspd-QgDDGaz6Cs8hiWQ)  
+>* [【厚积薄发】在UI上制作动画的方案选择](https://mp.weixin.qq.com/s/b4VjsoFcmGlW7beQaKi_zQ)  
