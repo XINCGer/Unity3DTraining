@@ -64,6 +64,7 @@
 * [Unity实现二维波方程交互水面与实时焦散](https://github.com/AsehesL/UnityWaveEquation)  
 * [Multi-functional shader for the Particle System that supports Universal Render Pipeline](https://github.com/CyberAgentGameEntertainment/NovaShader)  
 * [【干货】菜鸡的TA知识阶段性总结](https://mp.weixin.qq.com/s/gpLgNSViD5qOEKwi8Eil8A)  
+* [【干货】菜鸡的渲染管线总结！](https://mp.weixin.qq.com/s/bkZm0oFiSxI8lYmgI1k4AQ)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
