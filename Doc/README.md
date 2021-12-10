@@ -88,3 +88,4 @@
 >* [正则表达式匹配各种特殊字符](https://www.jb51.net/article/167287.htm)  
 >* [从游戏随机地图：浅谈生成艺术！](https://mp.weixin.qq.com/s/-ciHVEYR9GAOZvprHbA3hA)  
 >* [collecting books, papers and docs](https://github.com/Kensuke-Hinata/statistic)  
+>* [一套随机地图的生成方案](https://mp.weixin.qq.com/s/ZECog7Qf5Pxx6om0DSg5bg)  
