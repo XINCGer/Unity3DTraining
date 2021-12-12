@@ -255,3 +255,4 @@
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer)  
 * [成熟完备灵活的游戏配置解决方案](https://github.com/focus-creative-games/luban)  
 * [Web browser based Realtime Untiy3D Log viewer](https://github.com/5minlab/sagiri)  
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)  
