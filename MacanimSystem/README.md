@@ -12,4 +12,4 @@
 
 
 ### Blend Shape资料收集  
-* [](./Blend Shape)  
+* [Blend Shape资料收集](./Blend Shape)  
