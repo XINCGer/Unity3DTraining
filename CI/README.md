@@ -44,6 +44,8 @@
 * [Throttle Concurrent Builds](https://plugins.jenkins.io/throttle-concurrents/)  
 * [Scoring Load Balancer](https://plugins.jenkins.io/scoring-load-balancer/)  
 * [使用终端连接smb](https://www.jianshu.com/p/ed010606adc2)  
+* [iOS中关于苹果审核IPv6的问题](https://blog.csdn.net/u013602835/article/details/53505096)  
+* [【指南】本地如何搭建IPv6环境测试你的APP](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545529&idx=5&sn=0d0323cfd40441eb49a6b7c6b3792bfb&scene=23&srcid=0613ZfE6L2COVxj3Lad9fIWm#rd)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
