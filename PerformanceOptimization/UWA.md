@@ -171,3 +171,4 @@
 >* [【厚积薄发】DLL混淆问题](https://mp.weixin.qq.com/s/VNGRAVh72QvjpZPEmrZdeA)  
 >* [【厚积薄发】Unity优化点概述](https://mp.weixin.qq.com/s/s9mspd-QgDDGaz6Cs8hiWQ)  
 >* [【厚积薄发】在UI上制作动画的方案选择](https://mp.weixin.qq.com/s/b4VjsoFcmGlW7beQaKi_zQ)  
+>* [【厚积薄发】高通芯片GPU是否有类似于HSR功能](https://mp.weixin.qq.com/s/SSO9_9VWCb5EJrOWPvu9Qw)  
