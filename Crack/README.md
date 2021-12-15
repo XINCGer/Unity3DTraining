@@ -27,3 +27,4 @@
 >* [RSA加密](./RSA)  
 >* [MD5加密+加盐](https://www.cnblogs.com/peaceliu/p/7825706.html)  
 >* [XOR加密解密](./XOR)  
+>* [Unity AssetBundle 加密](https://www.cnblogs.com/nafio/p/11811265.html)  
