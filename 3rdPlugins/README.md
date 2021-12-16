@@ -260,3 +260,4 @@
 * [DotNetJS](https://github.com/Elringus/DotNetJS)  
 * [GrassBending](https://github.com/Elringus/GrassBending)  
 * [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D)  
+* [unity-text-typer](https://github.com/redbluegames/unity-text-typer)  
