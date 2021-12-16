@@ -65,6 +65,7 @@
 * [Multi-functional shader for the Particle System that supports Universal Render Pipeline](https://github.com/CyberAgentGameEntertainment/NovaShader)  
 * [【干货】菜鸡的TA知识阶段性总结](https://mp.weixin.qq.com/s/gpLgNSViD5qOEKwi8Eil8A)  
 * [【干货】菜鸡的渲染管线总结！](https://mp.weixin.qq.com/s/bkZm0oFiSxI8lYmgI1k4AQ)  
+* [图形学3D渲染管线学习](https://www.cnblogs.com/littleperilla/p/15667021.html)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
