@@ -262,3 +262,4 @@
 * [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D)  
 * [unity-text-typer](https://github.com/redbluegames/unity-text-typer)  
 * [UnityHook](https://github.com/HearthSim/UnityHook)  
+* [FuzzySharp](https://github.com/JakeBayer/FuzzySharp)  
