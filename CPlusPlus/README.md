@@ -3,3 +3,4 @@
 >* [C++ IPC Library](https://github.com/mutouyun/cpp-ipc)  
 >* [MiniScript](https://github.com/JoeStrout/miniscript)  
 >* [LANDrop](https://github.com/LANDrop/LANDrop)  
+>* [jit-tutorial](https://github.com/spencertipping/jit-tutorial)  
