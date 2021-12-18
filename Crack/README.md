@@ -29,3 +29,4 @@
 >* [XOR加密解密](./XOR)  
 >* [Unity AssetBundle 加密](https://www.cnblogs.com/nafio/p/11811265.html)  
 >* [Unity AssetBundle高效加密案例分享](https://www.cnblogs.com/nafio/p/11811251.html)  
+>* [AssetBundle的几种加密方式](https://zhuanlan.zhihu.com/p/382888420)  
