@@ -4,6 +4,7 @@
 * [Unity 引擎资源管理代码分析 (1)](https://cloud.tencent.com/developer/article/1005786)  
 * [Unity引擎资源管理代码分析 (2)](https://cloud.tencent.com/developer/article/1005843)  
 * [Unity 引擎资源管理代码分析(3)](https://cloud.tencent.com/developer/article/1005853)  
+* [[U3D]StreamedBinaryRead::TransferSTLStyleArray崩溃分析](https://zhuanlan.zhihu.com/p/59394832)  
 
 
 ## 物理  
