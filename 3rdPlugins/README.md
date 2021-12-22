@@ -266,3 +266,4 @@
 * [HSV color picker for Unity UI](https://github.com/judah4/HSV-Color-Picker-Unity)  
 * [Reflexil](https://github.com/sailro/Reflexil)  
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket)  
+* [unity-auto-attach-component-attributes](https://github.com/Nrjwolf/unity-auto-attach-component-attributes)  
