@@ -42,6 +42,7 @@
 * [Unity增量更新BsDiff（也适用于整包的增量更新）](https://mp.weixin.qq.com/s/xnXH_ZjteIuFn2uL5fk9ow)  
 * [AssetBundle异步加载被中断的问题](https://answer.uwa4d.com/question/5af3db530e95a527a7a81d31)  
 * [Unity增量更新BsDiff（也适用于整包的增量更新）](https://mp.weixin.qq.com/s/xnXH_ZjteIuFn2uL5fk9ow)  
+* [UE热更新：资源的二进制补丁方案](https://cloud.tencent.com/developer/article/1874827)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
