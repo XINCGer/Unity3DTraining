@@ -67,6 +67,7 @@
 * [【干货】菜鸡的渲染管线总结！](https://mp.weixin.qq.com/s/bkZm0oFiSxI8lYmgI1k4AQ)  
 * [图形学3D渲染管线学习](https://www.cnblogs.com/littleperilla/p/15667021.html)  
 * [图形学之Unity渲染管线流程](https://www.cnblogs.com/littleperilla/p/15680654.html)  
+* [(Unity) Cross-fading LOD shader example](https://github.com/keijiro/CrossFadingLod)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
