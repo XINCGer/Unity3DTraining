@@ -173,3 +173,4 @@
 >* [【厚积薄发】在UI上制作动画的方案选择](https://mp.weixin.qq.com/s/b4VjsoFcmGlW7beQaKi_zQ)  
 >* [【厚积薄发】高通芯片GPU是否有类似于HSR功能](https://mp.weixin.qq.com/s/SSO9_9VWCb5EJrOWPvu9Qw)  
 >* [【厚积薄发】如何在使用Texture2DArray的时候开启Mipmap效果](https://mp.weixin.qq.com/s/NX3nIEVHDfxBddI5DaKv9A)  
+>* [【厚积薄发】Timeline技能编辑器如何提取关键帧信息](https://mp.weixin.qq.com/s/zuZM995_f56hG7AWVro_1w)  
