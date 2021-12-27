@@ -50,6 +50,7 @@
 * [Unity3D 适配IPV6](https://www.jianshu.com/p/44b04e7e4f4a/)  
 * [Unity and IPv6 Support](https://blog.unity.com/technology/unity-and-ipv6-support)  
 * [ios上如何将ipv4转化成ipv6](https://www.jianshu.com/p/ddc865b6be9b)  
+* [unity-ios-ipv6-ready](https://github.com/mopsicus/unity-ios-ipv6-ready)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
