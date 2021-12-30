@@ -10,6 +10,7 @@
 >* [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower/)  
 >* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)  
 >* [cutter](https://github.com/rizinorg/cutter)  
+>* [Hex Editor](https://github.com/WerWolv/ImHex)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
