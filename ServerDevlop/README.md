@@ -97,6 +97,7 @@
 >* [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)  
 >* [cool-admin(midway版)一个很酷的后台权限管理框架](https://github.com/cool-team-official/cool-admin-midway)  
 >* [WebPhotoshop精简版](https://github.com/leanfish2011/WebPhotoshop-Simple)  
+>* [🎥 Command line video player](https://github.com/mpv-player/mpv)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
