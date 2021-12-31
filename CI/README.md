@@ -77,3 +77,6 @@
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  
 * [iOS包重签名技术知识](https://juejin.cn/post/6844904050228461575)  
 * [iOS软件包ipa重签名详解](https://www.jianshu.com/p/609109d41628)  
+
+### ssh客户端  
+* [tabby](https://github.com/Eugeny/tabby)  
