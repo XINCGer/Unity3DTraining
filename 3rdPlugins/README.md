@@ -276,3 +276,4 @@
 * [FishNet - Networking Evolved](https://github.com/FirstGearGames/FishNet)  
 * [CurveDesigner](https://github.com/cmacmillan/CurveDesigner)  
 * [proceduralAnimation2D](https://github.com/Re50N4NC3/proceduralAnimation2D)  
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing)  
