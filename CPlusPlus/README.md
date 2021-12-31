@@ -4,3 +4,4 @@
 >* [MiniScript](https://github.com/JoeStrout/miniscript)  
 >* [LANDrop](https://github.com/LANDrop/LANDrop)  
 >* [jit-tutorial](https://github.com/spencertipping/jit-tutorial)  
+>* [JSON for Modern C++](https://github.com/nlohmann/json)  
