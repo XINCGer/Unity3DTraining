@@ -279,3 +279,4 @@
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing)  
 * [Distance Field Ambient Occlusion](https://github.com/ZephyrL/DFAO-unity)  
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D)  
+* [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager)  
