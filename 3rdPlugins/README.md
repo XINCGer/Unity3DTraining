@@ -277,3 +277,4 @@
 * [CurveDesigner](https://github.com/cmacmillan/CurveDesigner)  
 * [proceduralAnimation2D](https://github.com/Re50N4NC3/proceduralAnimation2D)  
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing)  
+* [Distance Field Ambient Occlusion](https://github.com/ZephyrL/DFAO-unity)  
