@@ -68,6 +68,7 @@
 * [图形学3D渲染管线学习](https://www.cnblogs.com/littleperilla/p/15667021.html)  
 * [图形学之Unity渲染管线流程](https://www.cnblogs.com/littleperilla/p/15680654.html)  
 * [(Unity) Cross-fading LOD shader example](https://github.com/keijiro/CrossFadingLod)  
+* [【源码】基于《原神》模型,Unity的StandardShader分析](https://mp.weixin.qq.com/s/Z6pc6gNMCAT8ukicWtrXQg)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
