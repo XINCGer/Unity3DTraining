@@ -41,3 +41,4 @@
 >* [c#动态设置attribute](https://www.cnblogs.com/jacle169/archive/2013/04/20/3032113.html)  
 >* [在C#序列化中保存字典](http://ask.sov5.cn/q/7hBfSdNfiP)  
 >* [C#中字符串优化String.Intern、IsInterned详解](https://www.jb51.net/article/129541.htm)  
+>* [await,async 我要把它翻个底朝天，这回你总该明白了吧](https://blog.csdn.net/huangxinchen520/article/details/108214146)  
