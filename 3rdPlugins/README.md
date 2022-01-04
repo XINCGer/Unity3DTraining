@@ -280,3 +280,4 @@
 * [Distance Field Ambient Occlusion](https://github.com/ZephyrL/DFAO-unity)  
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D)  
 * [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager)  
+* [Mesh Cutter](https://github.com/hugoscurti/mesh-cutter)  
