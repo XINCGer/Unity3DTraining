@@ -33,3 +33,4 @@
 >* [Unity AssetBundle高效加密案例分享](https://www.cnblogs.com/nafio/p/11811251.html)  
 >* [AssetBundle的几种加密方式](https://zhuanlan.zhihu.com/p/382888420)  
 >* [AndResGuard](https://github.com/shwenzhang/AndResGuard)  
+>* [Unity应用加固保护商业解决方案](https://h.virbox.com/vbp/docs/Unity3D%E5%BA%94%E7%94%A8%E4%BF%9D%E6%8A%A4/Android-Unity3D-APK%E5%8A%A0%E5%9B%BA%E6%B5%81%E7%A8%8B)  
