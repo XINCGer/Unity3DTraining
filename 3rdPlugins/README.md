@@ -282,3 +282,4 @@
 * [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager)  
 * [Mesh Cutter](https://github.com/hugoscurti/mesh-cutter)  
 * [Level design tools for Unity](https://github.com/sabresaurus/SabreCSG)  
+* [Animation Sequencer](https://github.com/brunomikoski/Animation-Sequencer)  
