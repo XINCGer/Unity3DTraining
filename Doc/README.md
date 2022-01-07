@@ -90,3 +90,4 @@
 >* [collecting books, papers and docs](https://github.com/Kensuke-Hinata/statistic)  
 >* [一套随机地图的生成方案](https://mp.weixin.qq.com/s/ZECog7Qf5Pxx6om0DSg5bg)  
 >* [教你Unity灯光烘焙1~2](https://mp.weixin.qq.com/s/O4B0_hw6LZTr_g6IvqBotA)  
+>* [Github如何撤销提交并清除痕迹](https://www.cnblogs.com/quickcodes/p/Github-ru-he-che-xiao-ti-jiao-bing-qing-chu-hen-ji.html)  
