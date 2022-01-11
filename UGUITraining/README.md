@@ -39,3 +39,4 @@
 >* [UGUI特效层级和裁剪问题](https://blog.csdn.net/m0_46712616/article/details/121385875)  
 >* [Unity 技术开放日 | 绝对干货 - Unity App开发利器，UIWidgets技术介绍](https://mp.weixin.qq.com/s/O1QAO7GkiLM7_Mv0llKPCQ)  
 >* [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)  
+>* [[UGUI源码一]6千字带你入门UGUI源码](https://zhuanlan.zhihu.com/p/437704772)  
