@@ -40,3 +40,4 @@
 >* [Unity 技术开放日 | 绝对干货 - Unity App开发利器，UIWidgets技术介绍](https://mp.weixin.qq.com/s/O1QAO7GkiLM7_Mv0llKPCQ)  
 >* [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)  
 >* [[UGUI源码一]6千字带你入门UGUI源码](https://zhuanlan.zhihu.com/p/437704772)  
+>* [[UGUI源码二]Unity UI重建(Rebuild)源码分析](https://zhuanlan.zhihu.com/p/448293298)  
