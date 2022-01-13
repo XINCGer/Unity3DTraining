@@ -6,6 +6,7 @@
 * [Omnimatte: Associating Objects and Their Effects in Video](https://omnimatte.github.io/)  
 * [omnimatte](https://github.com/erikalu/omnimatte)  
 * [Unity官方图形学教程](https://unity3d.com/cn/learn/tutorials/s/graphics)  
+* [TA笔记](https://www.yuque.com/sugelameiyoudi-jadcc/okgm7e)  
 * [Unity 灯光与渲染相关](./LightAndRendering/README.md)  
 * [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)  
 * [在VS2013下如何配置DirectX SDK的开发环境](https://jingyan.baidu.com/article/b7001fe199dbf00e7382dd75.html)  
