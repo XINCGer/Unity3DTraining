@@ -39,6 +39,7 @@
 >* [UGUI特效层级和裁剪问题](https://blog.csdn.net/m0_46712616/article/details/121385875)  
 >* [Unity 技术开放日 | 绝对干货 - Unity App开发利器，UIWidgets技术介绍](https://mp.weixin.qq.com/s/O1QAO7GkiLM7_Mv0llKPCQ)  
 >* [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)  
+>* [DragDropComponents](https://github.com/aillieo/DragDropComponents)  
 >* [[UGUI源码一]6千字带你入门UGUI源码](https://zhuanlan.zhihu.com/p/437704772)  
 >* [[UGUI源码二]Unity UI重建(Rebuild)源码分析](https://zhuanlan.zhihu.com/p/448293298)  
 >* [[UGUI性能优化]精灵图集(Sprite Atlas)保姆式教程](https://zhuanlan.zhihu.com/p/456101373)  
