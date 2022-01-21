@@ -284,3 +284,4 @@
 * [Level design tools for Unity](https://github.com/sabresaurus/SabreCSG)  
 * [Animation Sequencer](https://github.com/brunomikoski/Animation-Sequencer)  
 * [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)  
+* [Weaver is a code weaving framework built right into Unity Engine. Based heavily off of Fody](https://github.com/ByronMayne/Weaver)  
