@@ -12,3 +12,4 @@
 * [TransitSimulator](https://github.com/DavidMcLaughlin208/TransitSimulator)  
 * [UnityRoyale-Public](https://github.com/ciro-unity/UnityRoyale-Public)  
 * [Unity制作的联机赛车游戏](https://github.com/TastSong/CrazyCar)  
+* [unity-shooting-tutorial](https://github.com/baba-s/unity-shooting-tutorial)  
