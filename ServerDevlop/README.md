@@ -132,6 +132,7 @@
 >* [高性能利器：CDN我建议你好好学一下！](https://www.cnblogs.com/jaycekon/p/15213441.html)  
 >* [Nextcloud server](https://github.com/nextcloud/server)  
 >* [📂 Web File Browser](https://github.com/filebrowser/filebrowser)  
+>* [Cyberduck](https://github.com/iterate-ch/cyberduck)  
 
 #### Samba  
 >* [Mac连接远程Linux管理文件（samba）](https://www.jianshu.com/p/fe7fd0286c4e)  
