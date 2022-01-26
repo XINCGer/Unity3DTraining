@@ -100,6 +100,7 @@
 >* [WebPhotoshop精简版](https://github.com/leanfish2011/WebPhotoshop-Simple)  
 >* [🎥 Command line video player](https://github.com/mpv-player/mpv)  
 >* [windowjs](https://github.com/windowjs/windowjs)  
+>* [漂亮清新的中后台管理模版](https://github.com/honghuangdc/soybean-admin)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
