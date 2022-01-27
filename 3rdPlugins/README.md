@@ -290,3 +290,4 @@
 * [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)  
 * [protobuf3-for-unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity)  
 * [CSharpier is an opinionated code formatter for c#](https://github.com/belav/csharpier)  
+* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector)  
