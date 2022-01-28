@@ -95,3 +95,4 @@
 >* [HtmlAgilityPack C# Html解析库](./HtmlAgilityPack.md)  
 >* [git 拉取远程分支到本地](https://blog.csdn.net/carfge/article/details/79691360)  
 >* [大地图的分块加载](https://zhuanlan.zhihu.com/p/458672730)  
+>* [git使用的一些姿势](https://www.jianshu.com/p/393d8630dafa)  
