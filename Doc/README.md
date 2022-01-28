@@ -96,3 +96,4 @@
 >* [git 拉取远程分支到本地](https://blog.csdn.net/carfge/article/details/79691360)  
 >* [大地图的分块加载](https://zhuanlan.zhihu.com/p/458672730)  
 >* [git使用的一些姿势](https://www.jianshu.com/p/393d8630dafa)  
+>* [bat/cmd将命令执行的结果赋值给变量](https://www.cnblogs.com/zndxall/p/9188300.html)  
