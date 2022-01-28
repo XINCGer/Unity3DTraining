@@ -97,3 +97,5 @@
 >* [大地图的分块加载](https://zhuanlan.zhihu.com/p/458672730)  
 >* [git使用的一些姿势](https://www.jianshu.com/p/393d8630dafa)  
 >* [bat/cmd将命令执行的结果赋值给变量](https://www.cnblogs.com/zndxall/p/9188300.html)  
+>* [iOS TimeZone](https://titanwolf.org/Network/Articles/Article?AID=9de70013-c256-40c6-97f5-127427204264)  
+>* [List of tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)  
