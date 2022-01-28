@@ -292,3 +292,4 @@
 * [CSharpier is an opinionated code formatter for c#](https://github.com/belav/csharpier)  
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector)  
 * [Raycast Visualization](https://github.com/nomnomab/RaycastVisualization)  
+* [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter)  
