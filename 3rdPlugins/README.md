@@ -294,3 +294,4 @@
 * [Raycast Visualization](https://github.com/nomnomab/RaycastVisualization)  
 * [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter)  
 * [UNITY engine RPG framework](https://github.com/delmarle/RPG-Core)  
+* [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer)  
