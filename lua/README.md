@@ -39,6 +39,7 @@
 >* [37.深入xLua实现原理之Lua如何调用C#](https://www.cnblogs.com/iwiniwin/p/15307368.html)  
 >* [38.深入理解xLua基于IL代码注入的热更新原理](https://www.cnblogs.com/iwiniwin/p/15474919.html)  
 >* [39.xlua注入源码解读](https://www.igiven.com/unity-2019-09-03-xlua-inject/)  
+>* [40.Languages that compile to Lua](https://github.com/hengestone/lua-languages)  
 
 
 ### lua书籍  
