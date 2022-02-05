@@ -115,6 +115,7 @@
 
 #### 应用分发  
 >* [ipa-server](https://github.com/iineva/ipa-server/blob/main/README_zh.md)  
+>* [开放源码的无App推送服务，iOS14+扫码即用。🚧 快应用开发中](https://github.com/easychen/pushdeer)  
 
 #### MongoDB知识点  
 >* [MongoDB知识点](./MongoDB/README.md)  
