@@ -176,3 +176,4 @@
 >* [【厚积薄发】Timeline技能编辑器如何提取关键帧信息](https://mp.weixin.qq.com/s/zuZM995_f56hG7AWVro_1w)  
 >* [【厚积薄发】如何给带透明的Sprite生成深度图](https://mp.weixin.qq.com/s/b8ynLEjToMLrEMwtTpYJsA)  
 >* [【厚积薄发】关于Gfx.WaitFroPresent的耗时问题](https://mp.weixin.qq.com/s/iNOwpp3iljf_nyEDoPTESA)  
+>* [【厚积薄发】ParticleSystem的内存会受到MaxParticles影响吗](https://mp.weixin.qq.com/s/Yoma4QMQmLkBSUlOTdbZjQ)  
