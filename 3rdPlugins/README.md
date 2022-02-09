@@ -296,3 +296,4 @@
 * [UNITY engine RPG framework](https://github.com/delmarle/RPG-Core)  
 * [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer)  
 * [hierarchy-labels](https://github.com/shniqq/hierarchy-labels)  
+* [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger (Unity)](https://github.com/Tayx94/graphy)  
