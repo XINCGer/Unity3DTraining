@@ -73,6 +73,7 @@
 * [[源码]菜鸡都能学会的Unity卡通水渲染](https://mp.weixin.qq.com/s/4DU1N2NATPO24BpOt6Ggwg)  
 * [全局光照引擎：烘焙器构件与反射构件](https://mp.weixin.qq.com/s/_WB_3ILs0rOP8Snpvk90tA)  
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
+* [Minimal Compute Shader Examples](https://github.com/cinight/MinimalCompute)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
