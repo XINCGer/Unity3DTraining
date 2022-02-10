@@ -298,3 +298,4 @@
 * [hierarchy-labels](https://github.com/shniqq/hierarchy-labels)  
 * [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger (Unity)](https://github.com/Tayx94/graphy)  
 * [City Generator](https://github.com/itsjustdel/City-Generator)  
+* [Unity-Folder-Icons](https://github.com/WooshiiDev/Unity-Folder-Icons)  
