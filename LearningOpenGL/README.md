@@ -74,6 +74,7 @@
 * [全局光照引擎：烘焙器构件与反射构件](https://mp.weixin.qq.com/s/_WB_3ILs0rOP8Snpvk90tA)  
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
 * [Minimal Compute Shader Examples](https://github.com/cinight/MinimalCompute)  
+* [[源码]详解Cubemap、IBL与球谐光照](https://mp.weixin.qq.com/s/60-c4eXnW53RUWBFewPfNQ)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
