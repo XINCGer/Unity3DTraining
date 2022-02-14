@@ -177,3 +177,4 @@
 >* [【厚积薄发】如何给带透明的Sprite生成深度图](https://mp.weixin.qq.com/s/b8ynLEjToMLrEMwtTpYJsA)  
 >* [【厚积薄发】关于Gfx.WaitFroPresent的耗时问题](https://mp.weixin.qq.com/s/iNOwpp3iljf_nyEDoPTESA)  
 >* [【厚积薄发】ParticleSystem的内存会受到MaxParticles影响吗](https://mp.weixin.qq.com/s/Yoma4QMQmLkBSUlOTdbZjQ)  
+>* [【厚积薄发】海外设备上偶现的报错处理方式](https://mp.weixin.qq.com/s/dnOZulbm9CjSCo4gIFZhAw)  
