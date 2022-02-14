@@ -303,3 +303,4 @@
 * [A .NET library for compressed bit set data structures](https://github.com/BitSetsNet/BitSetsNet)  
 * [RailgunNet](https://github.com/ashoulson/RailgunNet)  
 * [unity-regex-builder](https://github.com/karl-/unity-regex-builder)  
+* [MissingScriptType](https://github.com/SolidAlloy/MissingScriptType)  
