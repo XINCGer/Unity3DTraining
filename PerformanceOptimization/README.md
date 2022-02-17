@@ -111,6 +111,7 @@
 >* [Assets中的Shader，是否只要开始运行就会直接加进内存](https://answer.uwa4d.com/question/619cce5ed8413e18eb241eb5)  
 >* [Unity根据设备性能自动修改质量设置Quality](https://github.com/CrazyMaga/QualitySetting)  
 >* [Unity实时反射相关优化](https://mp.weixin.qq.com/s/fJBJ7uwAy0_F3QbOOFj_EQ)  
+>* [高级图形调试优化技巧 - XCode篇](https://zhuanlan.zhihu.com/p/98358937)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
