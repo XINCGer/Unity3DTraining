@@ -304,3 +304,4 @@
 * [RailgunNet](https://github.com/ashoulson/RailgunNet)  
 * [unity-regex-builder](https://github.com/karl-/unity-regex-builder)  
 * [MissingScriptType](https://github.com/SolidAlloy/MissingScriptType)  
+* [BitPacking](https://github.com/Cobo3/BitPacking)  
