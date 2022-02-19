@@ -306,3 +306,4 @@
 * [MissingScriptType](https://github.com/SolidAlloy/MissingScriptType)  
 * [BitPacking](https://github.com/Cobo3/BitPacking)  
 * [Mesh-Carving-Unity](https://github.com/eman2XR/Mesh-Carving-Unity)  
+* [A 100% native C# implementation of ZeroMQ for .NET](https://github.com/zeromq/netmq)  
