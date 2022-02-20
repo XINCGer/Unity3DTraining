@@ -25,11 +25,7 @@
 >* [Xcode发布测试版本,直接通过Safari在线安装ipa](https://blog.csdn.net/csdwd/article/details/52297786)  
 >* [手把手叫你 制作一个不需要任何工具 从网页上安装ipa包的办法](https://blog.csdn.net/kingmax54212008/article/details/56278134)  
 >* [mac 安装nginx并配置SSL实现Https访问](https://www.jianshu.com/p/fc1e81efc867)  
->* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)  
->* [jforgame，一个用java编写的轻量级高性能手游服务端框架](https://github.com/kingston-csj/jforgame)  
->* [基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器](https://github.com/leeveel/GeekServer)  
->* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
->* [SparkServer](https://github.com/Manistein/SparkServer)  
+>* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)   
 
 #### 游戏后端服务器框架  
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
@@ -42,6 +38,11 @@
 >* [skynet游戏服务器框架分享](https://www.cnblogs.com/left69/p/14241929.html)  
 >* [Skynet 日志文件服务](https://github.com/Veinin/skynet-logger)  
 >* [skynet通用模块，各种轮子，不解释快上车](https://github.com/yiyajunjun/bewater)  
+>* [skynet脚手架](https://github.com/zhandouxiaojiji/skynet-creator)  
+>* [jforgame，一个用java编写的轻量级高性能手游服务端框架](https://github.com/kingston-csj/jforgame)  
+>* [基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器](https://github.com/leeveel/GeekServer)  
+>* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
+>* [SparkServer](https://github.com/Manistein/SparkServer) 
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
