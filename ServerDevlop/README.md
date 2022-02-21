@@ -69,6 +69,7 @@
 >* [一款轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)  
 >* [reverse-proxy](https://github.com/microsoft/reverse-proxy)  
 >* [Nginx 基础入门](https://www.cnblogs.com/48xz/p/15781821.html)  
+>* [Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
