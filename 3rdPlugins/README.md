@@ -310,3 +310,4 @@
 * [packetnet](https://github.com/dotpcap/packetnet)  
 * [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)  
 * [uLipSync](https://github.com/hecomi/uLipSync)  
+* [Procedural Animation in Unity](https://github.com/Sopiro/Unity-Procedural-Animation)  
