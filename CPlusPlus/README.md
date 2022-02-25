@@ -7,3 +7,4 @@
 >* [jit-tutorial](https://github.com/spencertipping/jit-tutorial)  
 >* [JSON for Modern C++](https://github.com/nlohmann/json)  
 >* [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp)  
+>* [open-source binary diff, delta/differential compression tools](https://github.com/jmacd/xdelta)  
