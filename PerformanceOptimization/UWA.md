@@ -178,3 +178,4 @@
 >* [【厚积薄发】关于Gfx.WaitFroPresent的耗时问题](https://mp.weixin.qq.com/s/iNOwpp3iljf_nyEDoPTESA)  
 >* [【厚积薄发】ParticleSystem的内存会受到MaxParticles影响吗](https://mp.weixin.qq.com/s/Yoma4QMQmLkBSUlOTdbZjQ)  
 >* [【厚积薄发】海外设备上偶现的报错处理方式](https://mp.weixin.qq.com/s/dnOZulbm9CjSCo4gIFZhAw)  
+>* [【厚积薄发】2D项目大量物品图标Draw Call优化方案](https://mp.weixin.qq.com/s/6A8iE52uauxv45AkvFjclg)  
