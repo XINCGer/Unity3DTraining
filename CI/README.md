@@ -52,6 +52,7 @@
 * [ios上如何将ipv4转化成ipv6](https://www.jianshu.com/p/ddc865b6be9b)  
 * [unity-ios-ipv6-ready](https://github.com/mopsicus/unity-ios-ipv6-ready)  
 * [ipv6地址后怎么加端口](https://www.west.cn/docs/63945.html)  
+* [谈一谈Unity 的 Scriptable Build Pipeline](https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.19/manual/index.html)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
