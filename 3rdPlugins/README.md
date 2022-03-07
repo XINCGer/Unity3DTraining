@@ -317,3 +317,4 @@
 * [C# Websocket Implementation](https://github.com/statianzo/Fleck)  
 * [behavior tree for lua](https://github.com/zhandouxiaojiji/behavior3lua)  
 * [collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)  
+* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)  
