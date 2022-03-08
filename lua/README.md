@@ -40,7 +40,7 @@
 >* [38.深入理解xLua基于IL代码注入的热更新原理](https://www.cnblogs.com/iwiniwin/p/15474919.html)  
 >* [39.xlua注入源码解读](https://www.igiven.com/unity-2019-09-03-xlua-inject/)  
 >* [40.Languages that compile to Lua](https://github.com/hengestone/lua-languages)  
-
+>* [41.[源码]Lua垃圾回收详解](https://mp.weixin.qq.com/s/kwka9ANBp87FNzGboHyQCg)  
 
 ### lua书籍  
 >* [《Lua设计与实现》随书源代码](https://github.com/lichuang/Lua-Source-Internal)  
