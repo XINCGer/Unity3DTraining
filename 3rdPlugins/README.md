@@ -320,3 +320,4 @@
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)  
 * [UnityEngine.CullingGroup API for everyone](https://github.com/mackysoft/Vision)  
 * [luacheck](https://github.com/mpeterv/luacheck)  
+* [NativeWebSocket](https://github.com/endel/NativeWebSocket)  
