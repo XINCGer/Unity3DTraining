@@ -10,3 +10,4 @@
 >* [open-source binary diff, delta/differential compression tools](https://github.com/jmacd/xdelta)  
 >* [A Small C Compiler](https://github.com/rui314/8cc)  
 >* [The Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library)  
+>* [Bloaty McBloatface: a size profiler for binaries](https://github.com/google/bloaty)  
