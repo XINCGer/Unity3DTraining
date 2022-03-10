@@ -9,3 +9,4 @@
 >* [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp)  
 >* [open-source binary diff, delta/differential compression tools](https://github.com/jmacd/xdelta)  
 >* [A Small C Compiler](https://github.com/rui314/8cc)  
+>* [The Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library)  
