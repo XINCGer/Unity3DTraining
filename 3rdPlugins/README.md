@@ -321,3 +321,4 @@
 * [UnityEngine.CullingGroup API for everyone](https://github.com/mackysoft/Vision)  
 * [luacheck](https://github.com/mpeterv/luacheck)  
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket)  
+* [Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)  
