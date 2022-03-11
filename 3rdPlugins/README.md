@@ -323,3 +323,4 @@
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket)  
 * [Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)  
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF)  
+* [VContainer](https://github.com/hadashiA/VContainer)  
