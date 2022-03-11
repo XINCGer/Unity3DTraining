@@ -322,3 +322,4 @@
 * [luacheck](https://github.com/mpeterv/luacheck)  
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket)  
 * [Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)  
+* [NativeSDF](https://github.com/Amarcolina/NativeSDF)  
