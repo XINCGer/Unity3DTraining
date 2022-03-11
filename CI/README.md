@@ -75,6 +75,7 @@
 * [简单了解Mono和IL2CPP](https://www.dazhuanlan.com/hj1234/topics/1288820)  
 * [用Unity制作游戏，你需要深入了解一下IL2CPP](http://www.gameres.com/339671.html)  
 * [关于优化的二三事：Unity 2020 LTS中的托管代码剥离](https://mp.weixin.qq.com/s/YlWLVJaHmZUCdXDdFwYz-A)  
+* [How to add compiler or linker flags for il2cpp invocation](https://answers.unity.com/questions/1610105/how-to-add-compiler-or-linker-flags-for-il2cpp-inv.html)  
 
 ### iOS重签名  
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  
