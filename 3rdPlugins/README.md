@@ -324,3 +324,4 @@
 * [Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)  
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF)  
 * [VContainer](https://github.com/hadashiA/VContainer)  
+* [roblox-lua-promise](https://github.com/evaera/roblox-lua-promise)  
