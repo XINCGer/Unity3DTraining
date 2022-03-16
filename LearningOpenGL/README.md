@@ -90,6 +90,7 @@
 * [【Unity】SRP底层渲染流程及原理](https://mp.weixin.qq.com/s/EAlFztuMZ2xwyzK02NyfSg)  
 * [狐狸菌的urp教程](https://fungusfox.gitee.io/tags/urp/)  
 * [Customized High-Quality Rendering Pipeline in Unity3D](https://github.com/MaxwellGengYF/Unity-MPipeline)  
+* [Unity URP/SRP 渲染管线浅入深出](https://blog.csdn.net/qq_26292661/article/details/116234991)  
 
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
