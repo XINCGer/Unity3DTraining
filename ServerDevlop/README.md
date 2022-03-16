@@ -106,6 +106,7 @@
 >* [windowjs](https://github.com/windowjs/windowjs)  
 >* [漂亮清新的中后台管理模版](https://github.com/honghuangdc/soybean-admin)  
 >* [monaco-editor](https://github.com/microsoft/monaco-editor)  
+>* [NosCore](https://github.com/NosCoreIO/NosCore)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
