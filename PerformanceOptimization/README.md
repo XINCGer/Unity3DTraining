@@ -64,6 +64,7 @@
 >* [3分钟就能掌握的视频/音频优化技巧！](https://mp.weixin.qq.com/s/Chk6g9ur4t_8z1hrGb-6Dw)  
 >* [Batch, Draw Call, Setpass Call详解](https://zhuanlan.zhihu.com/p/76562300)  
 >* [【Unity优化】DrawCall与Batch](https://www.cnblogs.com/hearthstone/p/13357821.html)  
+>* [DrawCall，Batches，SetPass calls是什么？原理？](https://blog.csdn.net/qq_30259857/article/details/110062397)  
 >* [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/wei_yuan_2012/article/details/88677172)  
 >* [关于Unity动画系统优化，你可能遇到这些问题](https://blog.uwa4d.com/archives/QA_Animator-1.html)  
 >* [Unity动画文件Animation的压缩和优化总结](https://mp.weixin.qq.com/s/dbkcKmdhQPDbKhK3aRjT5w)  
