@@ -75,6 +75,7 @@
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
 * [Minimal Compute Shader Examples](https://github.com/cinight/MinimalCompute)  
 * [[源码]详解Cubemap、IBL与球谐光照](https://mp.weixin.qq.com/s/60-c4eXnW53RUWBFewPfNQ)  
+* [Untiy Chinese Painting Rendering](https://github.com/boringsky/Unity_ChinesePainting)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
