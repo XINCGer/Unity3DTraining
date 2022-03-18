@@ -105,6 +105,7 @@
 >* [现在主流的IDE的查找定义和引用是如何实现的？](https://www.zhihu.com/question/65708406)  
 >* [CustomEditor CustomPropertyDrawer](https://blog.csdn.net/linuxheik/article/details/88870418)  
 >* [PropertyDrawer](https://docs.unity3d.com/cn/2020.2/ScriptReference/PropertyDrawer.html)  
+>* [Unity Duplicate Event](https://answers.unity.com/questions/1274030/unity-duplicate-event.html)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
