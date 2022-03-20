@@ -12,3 +12,4 @@
 >* [The Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library)  
 >* [Bloaty McBloatface: a size profiler for binaries](https://github.com/google/bloaty)  
 >* [awesome-cpp](https://github.com/fffaraz/awesome-cpp)  
+>* [Lossy PNG compressor](https://github.com/kornelski/pngquant)  
