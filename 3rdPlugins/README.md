@@ -325,3 +325,4 @@
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF)  
 * [VContainer](https://github.com/hadashiA/VContainer)  
 * [roblox-lua-promise](https://github.com/evaera/roblox-lua-promise)  
+* [UnlimitedScrollUI](https://github.com/Brian-Jiang/UnlimitedScrollUI)  
