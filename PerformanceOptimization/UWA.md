@@ -181,3 +181,4 @@
 >* [【厚积薄发】2D项目大量物品图标Draw Call优化方案](https://mp.weixin.qq.com/s/6A8iE52uauxv45AkvFjclg)  
 >* [【厚积薄发】ProtoBuf-net Serializer.Serialize产生大量的GC](https://mp.weixin.qq.com/s/uPuhLsFY9s2KZaJan5Oxbw)  
 >* [【厚积薄发】Shader Graph和Amplify Shader Editor有哪些区别](https://mp.weixin.qq.com/s/4WzXzPbOgDn7bpRLShW4bw)  
+>* [【厚积薄发】ToLua或XLua中的虚拟机是否独立于Unity的主线程](https://mp.weixin.qq.com/s/ek5ioZH29WycFc_ijIOHNg)  
