@@ -69,3 +69,8 @@
 ### Lua热更新  
 * [lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate)  
 * [LuaRuntimeHotfix](https://github.com/756915370/LuaRuntimeHotfix)  
+
+### huatuo热更新  
+* [huatuo c#热更新](https://www.zhihu.com/column/c_1489549396035870720)  
+* [huatuo trial project](https://github.com/focus-creative-games/huatuo_trial)  
+* [huatuo](https://github.com/focus-creative-games/huatuo)  
