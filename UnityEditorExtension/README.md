@@ -106,6 +106,7 @@
 >* [CustomEditor CustomPropertyDrawer](https://blog.csdn.net/linuxheik/article/details/88870418)  
 >* [PropertyDrawer](https://docs.unity3d.com/cn/2020.2/ScriptReference/PropertyDrawer.html)  
 >* [Unity Duplicate Event](https://answers.unity.com/questions/1274030/unity-duplicate-event.html)  
+>* [Hierarchy-Window-Extensions](https://github.com/nomnomab/Hierarchy-Window-Extensions)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
