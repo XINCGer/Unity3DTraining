@@ -14,3 +14,4 @@
 >* [awesome-cpp](https://github.com/fffaraz/awesome-cpp)  
 >* [Lossy PNG compressor](https://github.com/kornelski/pngquant)  
 >* [Zopfli Compression Algorithm is a compression library programmed in C](https://github.com/google/zopfli)  
+>* [astc-codec](https://github.com/google/astc-codec)  
