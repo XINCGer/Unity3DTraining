@@ -93,6 +93,9 @@
 * [Customized High-Quality Rendering Pipeline in Unity3D](https://github.com/MaxwellGengYF/Unity-MPipeline)  
 * [Unity URP/SRP 渲染管线浅入深出](https://blog.csdn.net/qq_26292661/article/details/116234991)  
 
+### PRB  
+* [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
+
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
 * [技术美术TA-庄懂b站空间](https://space.bilibili.com/6373917)   
