@@ -328,3 +328,4 @@
 * [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter)  
 * [Mesh simplification for Unity](https://github.com/Whinarn/UnityMeshSimplifier)  
 * [PixelArtTool](https://github.com/unitycoder/PixelArtTool)  
+* [LipSync-Pro](https://github.com/Rtyper/LipSync-Pro)  
