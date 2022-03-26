@@ -329,3 +329,4 @@
 * [Mesh simplification for Unity](https://github.com/Whinarn/UnityMeshSimplifier)  
 * [PixelArtTool](https://github.com/unitycoder/PixelArtTool)  
 * [LipSync-Pro](https://github.com/Rtyper/LipSync-Pro)  
+* [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder)  
