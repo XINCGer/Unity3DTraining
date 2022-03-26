@@ -38,3 +38,4 @@
 * [Unity3D跨平台动态库编译---记kcp基于CMake的各平台构建实践](https://www.cnblogs.com/SChivas/p/7854100.html)  
 * [iOS App 的编译过程](https://blog.csdn.net/aas319/article/details/78606342)  
 * [细说iOS静态库和动态库](https://juejin.cn/post/6844904031937101838)  
+* [一篇较为详细的iOS动态库静态库的使用方法总结](https://www.shangmayuan.com/a/a19bb1770fc74a95bdc79538.html)  
