@@ -37,3 +37,4 @@
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
 * [Unity3D跨平台动态库编译---记kcp基于CMake的各平台构建实践](https://www.cnblogs.com/SChivas/p/7854100.html)  
 * [iOS App 的编译过程](https://blog.csdn.net/aas319/article/details/78606342)  
+* [细说iOS静态库和动态库](https://juejin.cn/post/6844904031937101838)  
