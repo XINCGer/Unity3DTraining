@@ -69,7 +69,6 @@
 >* [关于Unity动画系统优化，你可能遇到这些问题](https://blog.uwa4d.com/archives/QA_Animator-1.html)  
 >* [Unity动画文件Animation的压缩和优化总结](https://mp.weixin.qq.com/s/dbkcKmdhQPDbKhK3aRjT5w)  
 >* [Anim动画压缩优化探究总结](AnimOptimization.md)  
->* [iOS app内存分析套路](https://www.cnblogs.com/bigfeng/p/6178301.html)  
 >* [《Unity游戏优化》第2版总结思维导图](./Unity性能优化.png)  
 >* [[2018.1]Unity贴图压缩格式设置](https://zhuanlan.zhihu.com/p/113366420)  
 >* [Unity减小安装包的体积（210MB减小到7MB）](https://www.cnblogs.com/wxjblog/p/14038849.html)  
@@ -131,6 +130,8 @@
 >* [浅谈Unity内存管理(视频版)](https://www.bilibili.com/video/av79798486/)  
 >* [浅谈 Unity 内存管理(文字版)](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)  
 >* [iOS Memory 内存详解](https://mp.weixin.qq.com/s/YpJa3LeTFz9UFOUcs5Bitg)  
+>* [iOS app内存分析套路](https://www.cnblogs.com/bigfeng/p/6178301.html)  
+>* [iOS内存监测原理文章](https://github.com/wzpziyi1/MemoryDetector)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
