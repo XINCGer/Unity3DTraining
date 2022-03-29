@@ -330,3 +330,4 @@
 * [PixelArtTool](https://github.com/unitycoder/PixelArtTool)  
 * [LipSync-Pro](https://github.com/Rtyper/LipSync-Pro)  
 * [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder)  
+* [A C# priority queue optimized for pathfinding applications](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp)  
