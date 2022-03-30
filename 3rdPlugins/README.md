@@ -331,3 +331,4 @@
 * [LipSync-Pro](https://github.com/Rtyper/LipSync-Pro)  
 * [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder)  
 * [A C# priority queue optimized for pathfinding applications](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp)  
+* [YooAsset是一个基于Unity3D引擎的资源管理插件](https://github.com/tuyoogame/YooAsset)  
