@@ -74,3 +74,4 @@
 * [huatuo c#热更新](https://www.zhihu.com/column/c_1489549396035870720)  
 * [huatuo trial project](https://github.com/focus-creative-games/huatuo_trial)  
 * [huatuo](https://github.com/focus-creative-games/huatuo)  
+* [划时代的代码热更新方案huatuo源码流程解析](https://www.lfzxb.top/huatuo-source-analyze/)  
