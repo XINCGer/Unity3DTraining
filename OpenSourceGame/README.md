@@ -17,3 +17,4 @@
 * [在 Unity3D 上重现暴雪的经典 RTS 游戏星际争霸](https://github.com/coconauts/startcraft-unity3d)  
 * [3D Chess Game made in Unity](https://github.com/SacuL/3D-Chess-Unity)  
 * [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO)  
+* [Match 3 game template](https://github.com/ChebanovDD/MatchSweets)  
