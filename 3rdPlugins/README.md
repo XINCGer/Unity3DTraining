@@ -334,3 +334,4 @@
 * [YooAsset是一个基于Unity3D引擎的资源管理插件](https://github.com/tuyoogame/YooAsset)  
 * [ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor)  
 * [OSM-City-Engine](https://github.com/BerkeCagkanToptas/OSM-City-Engine)  
+* [High performance LINQ implementation with minimal heap allocations](https://github.com/NetFabric/NetFabric.Hyperlinq)  
