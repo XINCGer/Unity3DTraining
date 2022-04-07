@@ -16,3 +16,4 @@
 >* [Zopfli Compression Algorithm is a compression library programmed in C](https://github.com/google/zopfli)  
 >* [astc-codec](https://github.com/google/astc-codec)  
 >* [C/C++学习，后端开发进阶指南](https://github.com/balloonwj/CppGuide)  
+>* [C11 Lock-free Stack](https://github.com/skeeto/lstack)  
