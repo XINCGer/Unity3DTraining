@@ -18,6 +18,7 @@
 >* [C/C++学习，后端开发进阶指南](https://github.com/balloonwj/CppGuide)  
 >* [C11 Lock-free Stack](https://github.com/skeeto/lstack)  
 >* [Minimal HMAC-SHA256 implementation in C / C++](https://github.com/h5p9sl/hmac_sha256)  
+>* [UNIX-like operating system written in C and C++](https://github.com/heatd/Onyx)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
