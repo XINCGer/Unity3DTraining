@@ -110,6 +110,7 @@
 >* [NosCore](https://github.com/NosCoreIO/NosCore)  
 >* [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
 >* [铃铛游戏(棋牌)管理后台](https://github.com/huangtao/gameld-admin)  
+>* [HC小区物业管理系统](https://github.com/fatedier/frp)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
