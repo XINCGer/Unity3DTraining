@@ -145,6 +145,7 @@
 >* [Nextcloud server](https://github.com/nextcloud/server)  
 >* [📂 Web File Browser](https://github.com/filebrowser/filebrowser)  
 >* [Cyberduck](https://github.com/iterate-ch/cyberduck)  
+>* [file-chunk是一款针对大文件，超大文件上传的全方位解决方案](https://github.com/yangrds/file-chunk)  
 
 #### Samba  
 >* [Mac连接远程Linux管理文件（samba）](https://www.jianshu.com/p/fe7fd0286c4e)  
