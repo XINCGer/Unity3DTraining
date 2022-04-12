@@ -82,6 +82,11 @@
 * [iOS包重签名技术知识](https://juejin.cn/post/6844904050228461575)  
 * [iOS软件包ipa重签名详解](https://www.jianshu.com/p/609109d41628)  
 
+### iOS 应用上传  
+* [Xcode11 使用终端上传ipa](https://www.jianshu.com/p/56d57eef81de)  
+* [Xcode11 之后上传 ipa文件到APP store](https://www.jianshu.com/p/767ab0f5c8e9)  
+* [上传工具](https://help.apple.com/app-store-connect/#/devb1c185036)  
+
 ### ssh客户端  
 * [tabby](https://github.com/Eugeny/tabby)  
 * [MobaXterm](https://mobaxterm.mobatek.net/)  
