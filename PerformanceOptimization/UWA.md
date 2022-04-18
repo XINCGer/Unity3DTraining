@@ -184,3 +184,4 @@
 >* [【厚积薄发】ToLua或XLua中的虚拟机是否独立于Unity的主线程](https://mp.weixin.qq.com/s/ek5ioZH29WycFc_ijIOHNg)  
 >* [【厚积薄发】资源打包关系依赖树](https://mp.weixin.qq.com/s/GPtBoLuuZUMVOLKwvcVFvA)  
 >* [【厚积薄发】AssetBundle加载的TMP字体材质赋值失败](https://mp.weixin.qq.com/s/6iWnsx4eaK0rzlhizb0fmQ)  
+>* [【厚积薄发】Unity性能优化分析思路](https://mp.weixin.qq.com/s/VzSyQfjnnnZwh2Rof2qzlQ)  
