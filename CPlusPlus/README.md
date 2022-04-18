@@ -20,6 +20,7 @@
 >* [Minimal HMAC-SHA256 implementation in C / C++](https://github.com/h5p9sl/hmac_sha256)  
 >* [UNIX-like operating system written in C and C++](https://github.com/heatd/Onyx)  
 >* [A C++ library for interacting with JSON](https://github.com/open-source-parsers/jsoncpp)  
+>* [FlatBuffers: Memory Efficient Serialization Library](https://github.com/google/flatbuffers)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
