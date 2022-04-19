@@ -116,6 +116,7 @@
 >* [Enabling Frame Capture](https://developer.apple.com/documentation/metal/debugging_tools/enabling_frame_capture)  
 >* [Unity 特效性能分析工具](https://github.com/sunbrando/ParticleEffectProfiler)  
 >* [Unity3D游戏GC优化总结---protobuf-net无GC版本优化实践 ](https://www.cnblogs.com/SChivas/p/7898166.html)  
+>* [ASTC纹理压缩格式介绍](https://mp.weixin.qq.com/s/4Yjg2mm2LwtQS1qE9eGneA)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
