@@ -43,3 +43,4 @@
 >* [[UGUI源码一]6千字带你入门UGUI源码](https://zhuanlan.zhihu.com/p/437704772)  
 >* [[UGUI源码二]Unity UI重建(Rebuild)源码分析](https://zhuanlan.zhihu.com/p/448293298)  
 >* [[UGUI性能优化]精灵图集(Sprite Atlas)保姆式教程](https://zhuanlan.zhihu.com/p/456101373)  
+>* [Unity UI Playables](https://github.com/Haruma-K/UnityUIPlayables)  
