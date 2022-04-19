@@ -113,6 +113,7 @@
 >* [铃铛游戏(棋牌)管理后台](https://github.com/huangtao/gameld-admin)  
 >* [HC小区物业管理系统](https://github.com/java110/MicroCommunity)  
 >* [基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用](https://github.com/pipipi-pikachu/PPTist)  
+>* [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
