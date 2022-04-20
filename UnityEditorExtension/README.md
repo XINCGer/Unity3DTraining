@@ -118,6 +118,8 @@
 * [基于Python的Maya插件开发](https://www.cnblogs.com/meteoric_cry/p/15905357.html)  
 * [《Maya 插件开发》Python环境设置](https://zhuanlan.zhihu.com/p/372501230)  
 * [MAYA-PYTHON教程](https://zhuanlan.zhihu.com/p/354889664)   
+* [Maya API Reference](https://download.autodesk.com/us/maya/2009help/API/)  
+* [Maya Commands](https://help.autodesk.com/cloudhelp/2019/CHS/Maya-Tech-Docs/CommandsPython/)  
 
 ### 修改源码相关  
 * [使用Mono.Cecil实现IL代码注入](https://www.jianshu.com/p/a5276aadccdd?from=singlemessage)  
