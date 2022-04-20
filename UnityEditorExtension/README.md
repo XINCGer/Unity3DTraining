@@ -113,6 +113,12 @@
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
 
+### Maya插件开发  
+* [Python 编写Maya插件，从0到1（一）](https://zhuanlan.zhihu.com/p/79546139)  
+* [基于Python的Maya插件开发](https://www.cnblogs.com/meteoric_cry/p/15905357.html)  
+* [《Maya 插件开发》Python环境设置](https://zhuanlan.zhihu.com/p/372501230)  
+* [MAYA-PYTHON教程](https://zhuanlan.zhihu.com/p/354889664)   
+
 ### 修改源码相关  
 * [使用Mono.Cecil实现IL代码注入](https://www.jianshu.com/p/a5276aadccdd?from=singlemessage)  
 * [Mono.Cecil 初探（一）：实现AOP](https://www.cnblogs.com/huangmianwu/p/5833924.html)  
