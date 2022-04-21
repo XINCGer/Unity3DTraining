@@ -22,6 +22,7 @@
 >* [A C++ library for interacting with JSON](https://github.com/open-source-parsers/jsoncpp)  
 >* [FlatBuffers: Memory Efficient Serialization Library](https://github.com/google/flatbuffers)  
 >* [recastnavigation](https://github.com/recastnavigation/recastnavigation)  
+>* [Read binary Excel files from C/C++](https://github.com/libxls/libxls)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
