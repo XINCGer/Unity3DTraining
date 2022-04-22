@@ -44,6 +44,7 @@
 >* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
 >* [SparkServer](https://github.com/Manistein/SparkServer) 
 >* [skynet 管理后台](https://github.com/hanxi/skynet-admin)  
+>* [一个基于lua的分布式游戏服务器引擎框架](https://github.com/xiyoo0812/quanta)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
