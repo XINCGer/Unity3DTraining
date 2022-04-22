@@ -28,4 +28,5 @@
 >* [Ftp实现文件同步](https://www.cnblogs.com/huhangfei/p/4989176.html)  
 >* [Unity实现断点续传下载功能](https://www.blinkedu.cn/index.php/2021/08/19/unity%e5%ae%9e%e7%8e%b0%e6%96%ad%e7%82%b9%e7%bb%ad%e4%bc%a0%e4%b8%8b%e8%bd%bd%e5%8a%9f%e8%83%bd/)  
 >* [Unity从流中读取各种类型的数据和写入数据(利用MemoryStream关于内存数据的读写)](https://blog.csdn.net/qq_36274965/article/details/80181160)  
+>* [Unity使用UnityWebRequest上传文件到服务器的简单实现流程](https://blog.csdn.net/qq_17367039/article/details/107027470)  
 
