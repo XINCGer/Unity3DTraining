@@ -339,3 +339,4 @@
 * [Unity - Mulligan Renamer](https://github.com/redbluegames/unity-mulligan-renamer)  
 * [Unity对比工具](https://github.com/L-Lawliet/UnityCompare)  
 * [Unity自动生成各种机型分辨率效果工具](https://github.com/QiangZou/AdapterTool)  
+* [Gif decoding utility for Unity engine](https://github.com/3DI70R/Unity-GifDecoder)  
