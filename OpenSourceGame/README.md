@@ -19,3 +19,4 @@
 * [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO)  
 * [Match 3 game template](https://github.com/ChebanovDD/MatchSweets)  
 * [Unity制作的联机赛车游戏](https://github.com/TastSong/CrazyCar)  
+* [Minesweeper game is made by Unity](https://github.com/Markmax2304/MineSweeper)  
