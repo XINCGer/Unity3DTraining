@@ -341,3 +341,4 @@
 * [Unity自动生成各种机型分辨率效果工具](https://github.com/QiangZou/AdapterTool)  
 * [Gif decoding utility for Unity engine](https://github.com/3DI70R/Unity-GifDecoder)  
 * [unity prefab差异对比插件UniMerge](https://zhuanlan.zhihu.com/p/28086510)  
+* [UnityDirtyCompiler 脏脚本编译工具](https://github.com/chenwansal/UnityDirtyCompiler)  
