@@ -345,3 +345,4 @@
 * [LipSyncUE4](https://github.com/pgii/LipSyncUE4)  
 * [Peer to peer network solution for multiplayer games](https://github.com/zestylife/EuNet)  
 * [DotNetty](https://github.com/Azure/DotNetty)  
+* [sharpcompress](https://github.com/adamhathcock/sharpcompress)  
