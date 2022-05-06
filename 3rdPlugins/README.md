@@ -346,3 +346,4 @@
 * [Peer to peer network solution for multiplayer games](https://github.com/zestylife/EuNet)  
 * [DotNetty](https://github.com/Azure/DotNetty)  
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress)  
+* [Asynchronous Image Loader for Unity](https://github.com/Looooong/UnityAsyncImageLoader)  
