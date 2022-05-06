@@ -348,3 +348,4 @@
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress)  
 * [Asynchronous Image Loader for Unity](https://github.com/Looooong/UnityAsyncImageLoader)  
 * [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect)  
+* [unity-package-tools](https://github.com/jeffcampbellmakesgames/unity-package-tools)  
