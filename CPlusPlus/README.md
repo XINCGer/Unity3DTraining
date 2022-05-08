@@ -27,6 +27,7 @@
 >* [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)  
 >* [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)  
 >* [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://github.com/openscad/openscad)  
+>* [FreeCAD](https://github.com/FreeCAD/FreeCAD)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
