@@ -55,6 +55,7 @@
 * [谈一谈Unity 的 Scriptable Build Pipeline](https://zhuanlan.zhihu.com/p/366780685)  
 * [SBP官方文档](https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.19/manual/index.html)  
 * [Unity社区精华帖 | SBP - Scriptable Build Pipeline](https://mp.weixin.qq.com/s/sZIq6FfPz9JrcAhTbXX3iQ)  
+* [利用jenkins的 Active choises parameter插件进行动态参数选择](https://www.cnblogs.com/netsa/p/16086866.html)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
