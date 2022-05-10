@@ -350,3 +350,4 @@
 * [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect)  
 * [unity-package-tools](https://github.com/jeffcampbellmakesgames/unity-package-tools)  
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)  
+* [unity-autocomplete-search-field](https://github.com/marijnz/unity-autocomplete-search-field)  
