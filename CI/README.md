@@ -57,6 +57,7 @@
 * [Unity社区精华帖 | SBP - Scriptable Build Pipeline](https://mp.weixin.qq.com/s/sZIq6FfPz9JrcAhTbXX3iQ)  
 * [利用jenkins的 Active choises parameter插件进行动态参数选择](https://www.cnblogs.com/netsa/p/16086866.html)  
 * [Jenkins参数化构建犀利插件Active-Choices-Plugin](https://wiki.eryajf.net/pages/2075.html#_1-%E5%89%8D%E8%A8%80%E3%80%82)  
+* [Node and Label parameter](https://plugins.jenkins.io/nodelabelparameter/)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
