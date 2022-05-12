@@ -169,6 +169,7 @@
 #### 物联网  
 >* [CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system](https://github.com/IceWhaleTech/CasaOS)  
 >* [wumei-smart是一个简单易用的生活物联网平台](https://github.com/kerwincui/wumei-smart)  
+>* [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)  
 
 #### Git
 >* [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)  
