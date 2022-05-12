@@ -352,3 +352,4 @@
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)  
 * [unity-autocomplete-search-field](https://github.com/marijnz/unity-autocomplete-search-field)  
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)  
+* [High performance understanding for stack traces](https://github.com/benaadams/Ben.Demystifier)  
