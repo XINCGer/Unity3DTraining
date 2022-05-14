@@ -58,6 +58,7 @@
 * [利用jenkins的 Active choises parameter插件进行动态参数选择](https://www.cnblogs.com/netsa/p/16086866.html)  
 * [Jenkins参数化构建犀利插件Active-Choices-Plugin](https://wiki.eryajf.net/pages/2075.html#_1-%E5%89%8D%E8%A8%80%E3%80%82)  
 * [Node and Label parameter](https://plugins.jenkins.io/nodelabelparameter/)  
+* [iOS开发-Xcode Debug、Release、Archive、Profile、Analyze概念解释](https://www.cnblogs.com/lxlx1798/articles/12923039.html)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
