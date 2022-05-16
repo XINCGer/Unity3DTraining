@@ -127,6 +127,7 @@
 >* [SRS OuXuli，简单高效的实时视频服务器](https://github.com/ossrs/srs)  
 >* [音视频流媒体权威资料整理](https://github.com/0voice/audio_video_streaming)  
 >* [SRS是一个简单、高效、实时的视频服务器，支持RTMP、WebRTC、HLS、HTTP-FLV和SRT](https://github.com/ossrs/srs)  
+>* [RtspClientSharp](https://github.com/BogdanovKirill/RtspClientSharp)  
 
 #### 应用分发  
 >* [ipa-server](https://github.com/iineva/ipa-server/blob/main/README_zh.md)  
