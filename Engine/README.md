@@ -11,6 +11,7 @@
 * [A cross-platform, realtime physics engine for all .NET app](https://github.com/notgiven688/jitterphysics)  
 * [3DLineDetection](https://github.com/xiaohulugo/3DLineDetection)  
 * [ZEn NOde system - a simulation & rendering engine in nodes](https://github.com/zenustech/zeno)  
+* [Voxel-based fluid simulation engine for computer games](https://github.com/CubbyFlow/CubbyFlow)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
