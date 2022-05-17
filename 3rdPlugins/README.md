@@ -357,3 +357,4 @@
 * [World generator made in Unity](https://github.com/emqk/ProceduralWorld)  
 * [FusionWater](https://github.com/nailuj05/FusionWater)  
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector)  
+* [Ceto: Ocean system for Unity](https://github.com/Scrawk/Ceto)  
