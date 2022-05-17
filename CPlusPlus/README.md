@@ -28,6 +28,7 @@
 >* [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)  
 >* [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://github.com/openscad/openscad)  
 >* [FreeCAD](https://github.com/FreeCAD/FreeCAD)  
+>* [Lock-free ring buffer (MPSC)](https://github.com/rmind/ringbuf)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
