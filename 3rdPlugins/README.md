@@ -362,3 +362,4 @@
 * [Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data](https://github.com/alirezanet/Gridify)  
 * [SharedMemory](https://github.com/justinstenning/SharedMemory)  
 * [BulletSharpPInvoke](https://github.com/AndresTraks/BulletSharpPInvoke)  
+* [Iterator Library for C# and Unity](https://github.com/jacksondunstan/iterator)  
