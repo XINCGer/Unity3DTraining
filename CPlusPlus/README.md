@@ -29,6 +29,7 @@
 >* [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://github.com/openscad/openscad)  
 >* [FreeCAD](https://github.com/FreeCAD/FreeCAD)  
 >* [Lock-free ring buffer (MPSC)](https://github.com/rmind/ringbuf)  
+>* [Cap'n Proto serialization/RPC system - core tools and C++ library](https://github.com/capnproto/capnproto)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
