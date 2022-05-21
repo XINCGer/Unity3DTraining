@@ -75,6 +75,7 @@
 >* [Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)  
 >* [A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet](https://github.com/fatedier/frp)  
 >* [Nginx 文件服务器页面美化，按时间倒叙](https://www.jianshu.com/p/220776cb72df)  
+>* [nginx之日志路径配置小知识点](https://www.cnblogs.com/ybinshi/p/15701408.html)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
