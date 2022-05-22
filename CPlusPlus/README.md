@@ -30,6 +30,7 @@
 >* [FreeCAD](https://github.com/FreeCAD/FreeCAD)  
 >* [Lock-free ring buffer (MPSC)](https://github.com/rmind/ringbuf)  
 >* [Cap'n Proto serialization/RPC system - core tools and C++ library](https://github.com/capnproto/capnproto)  
+>* [video encryption for h264](https://github.com/jiulong80s/VIdeoEncryption)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
