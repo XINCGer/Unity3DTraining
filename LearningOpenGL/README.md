@@ -92,6 +92,7 @@
 * [狐狸菌的urp教程](https://fungusfox.gitee.io/tags/urp/)  
 * [Customized High-Quality Rendering Pipeline in Unity3D](https://github.com/MaxwellGengYF/Unity-MPipeline)  
 * [Unity URP/SRP 渲染管线浅入深出](https://blog.csdn.net/qq_26292661/article/details/116234991)  
+* [OverdrawForURP](https://github.com/ina-amagami/OverdrawForURP)  
 
 ### PRB  
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
