@@ -363,3 +363,4 @@
 * [SharedMemory](https://github.com/justinstenning/SharedMemory)  
 * [BulletSharpPInvoke](https://github.com/AndresTraks/BulletSharpPInvoke)  
 * [Iterator Library for C# and Unity](https://github.com/jacksondunstan/iterator)  
+* [C# library for 2D/3D geometric computation, mesh algorithms, and so on](https://github.com/gradientspace/geometry3Sharp)  
