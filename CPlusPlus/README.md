@@ -34,6 +34,7 @@
 >* [Trafficserver plugin drm 视频文件拖拽加减密处理 ---mp4](https://github.com/xieyugui/drm_mp4)  
 >* [FFmpeg](https://github.com/FFmpeg/FFmpeg)  
 >* [A cross platform OCR Library based on PaddleOCR & OnnxRuntime](https://github.com/RapidAI/RapidOCR)  
+>* [OCR离线图片文字识别命令行程序](https://github.com/hiroi-sora/PaddleOCR-json)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
