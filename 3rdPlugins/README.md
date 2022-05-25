@@ -366,3 +366,4 @@
 * [Iterator Library for C# and Unity](https://github.com/jacksondunstan/iterator)  
 * [C# library for 2D/3D geometric computation, mesh algorithms, and so on](https://github.com/gradientspace/geometry3Sharp)  
 * [Reloaded.Memory](https://github.com/Reloaded-Project/Reloaded.Memory)  
+* [Cross-platform .NET/Mono bindings for LibVLC](https://github.com/videolan/libvlcsharp)  
