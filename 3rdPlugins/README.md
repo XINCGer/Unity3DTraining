@@ -368,3 +368,4 @@
 * [Reloaded.Memory](https://github.com/Reloaded-Project/Reloaded.Memory)  
 * [Cross-platform .NET/Mono bindings for LibVLC](https://github.com/videolan/libvlcsharp)  
 * [Unity_Toys](https://github.com/rito15/Unity_Toys)  
+* [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine)  
