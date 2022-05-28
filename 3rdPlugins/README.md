@@ -370,3 +370,4 @@
 * [Unity_Toys](https://github.com/rito15/Unity_Toys)  
 * [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine)  
 * [A fully-featured deformer system for Unity](https://github.com/keenanwoodall/Deform)  
+* [A unity library to parse GIF files and extract the images as textures](https://github.com/gwaredd/mgGif)  
