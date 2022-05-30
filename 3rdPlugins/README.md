@@ -373,3 +373,4 @@
 * [A unity library to parse GIF files and extract the images as textures](https://github.com/gwaredd/mgGif)  
 * [GCFreeClosure](https://github.com/lujian101/GCFreeClosure)  
 * [LinqFaster](https://github.com/jackmott/LinqFaster)  
+* [Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span](https://github.com/jtmueller/Collections.Pooled)  
