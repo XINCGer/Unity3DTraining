@@ -374,3 +374,4 @@
 * [GCFreeClosure](https://github.com/lujian101/GCFreeClosure)  
 * [LinqFaster](https://github.com/jackmott/LinqFaster)  
 * [Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span](https://github.com/jtmueller/Collections.Pooled)  
+* [Pure C# 3D real time physics simulation library](https://github.com/bepu/bepuphysics2)  
