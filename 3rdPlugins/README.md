@@ -375,3 +375,4 @@
 * [LinqFaster](https://github.com/jackmott/LinqFaster)  
 * [Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span](https://github.com/jtmueller/Collections.Pooled)  
 * [Pure C# 3D real time physics simulation library](https://github.com/bepu/bepuphysics2)  
+* [Efficient glTF 3D import / export library for Unity](https://github.com/atteneder/glTFast)  
