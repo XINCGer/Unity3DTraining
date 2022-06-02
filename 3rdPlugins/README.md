@@ -379,3 +379,4 @@
 * [MemoryStream with ArrayPool](https://github.com/itn3000/PooledStream)  
 * [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger](https://github.com/Tayx94/graphy)  
 * [Automatic LOD generation + scene optimization](https://github.com/Unity-Technologies/AutoLOD)  
+* [UnityMeshSimplifier](https://gitee.com/tangcm/UnityMeshSimplifier/tree/master)  
