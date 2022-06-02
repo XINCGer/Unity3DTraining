@@ -380,3 +380,4 @@
 * [Graphy - Ultimate FPS Counter - Stats Monitor & Debugger](https://github.com/Tayx94/graphy)  
 * [Automatic LOD generation + scene optimization](https://github.com/Unity-Technologies/AutoLOD)  
 * [UnityMeshSimplifier](https://gitee.com/tangcm/UnityMeshSimplifier/tree/master)  
+* [MeshDecimator](https://github.com/Whinarn/MeshDecimator)  
