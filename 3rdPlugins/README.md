@@ -381,3 +381,4 @@
 * [Automatic LOD generation + scene optimization](https://github.com/Unity-Technologies/AutoLOD)  
 * [UnityMeshSimplifier](https://gitee.com/tangcm/UnityMeshSimplifier/tree/master)  
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator)  
+* [A simple selection history window for Unity](https://github.com/acoppes/unity-history-window)  
