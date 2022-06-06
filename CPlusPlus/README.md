@@ -37,6 +37,7 @@
 >* [OCR离线图片文字识别命令行程序](https://github.com/hiroi-sora/PaddleOCR-json)  
 >* [A C++ High Performance Web Server](https://github.com/linyacool/WebServer)  
 >* [Edyn is a real-time physics engine organized as an ECS](https://github.com/xissburg/edyn)  
+>* [超轻量级中文ocr](https://github.com/DayBreak-u/chineseocr_lite)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
