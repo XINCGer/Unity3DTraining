@@ -1,5 +1,6 @@
 ## 放一些乱七八糟杂七杂八的文档  
 
+>* [FFmpeg资料收集](./ffmpeg)  
 >* [Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！](https://mp.weixin.qq.com/s/iIZNynZFKDMcnXZPfx2iqA)  
 >* [GitHub不再支持密码验证解决方案：SSH免密与Token登录配置](https://www.cnblogs.com/zhoulujun/p/15141608.html)  
 >* [看完这篇还不会用Git，那我就哭了！](https://www.cnblogs.com/wupeixuan/p/11947343.html)  
