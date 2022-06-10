@@ -12,6 +12,7 @@
 >* [Unity——技能系统（三）](https://www.cnblogs.com/littleperilla/p/15540767.html)  
 >* [如何做横版动作游戏的战斗系统！](https://mp.weixin.qq.com/s/anhJsgm59kd3Y907n61ESQ)  
 >* [技能编辑器的设计实现](https://zhuanlan.zhihu.com/p/158430393)  
+>* [用Unity制作一个极具扩展性的顶视角射击游戏战斗系统](https://zhuanlan.zhihu.com/p/416805924)  
 
 #### 实现库  
 >* [XMLib 动作游戏开发套件](https://github.com/XINCGer/Unity3DTraining/blob/master/AboutSkill/XMLib.md)  
