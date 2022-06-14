@@ -384,3 +384,4 @@
 * [A simple selection history window for Unity](https://github.com/acoppes/unity-history-window)  
 * [ULiteWebView是一个极度轻量化的Unity内嵌WebView插件](https://github.com/jinglikeblue/ULiteWebView)  
 * [Prefabshop-Prefab painter for Unity](https://github.com/Raptorij/Prefabshop)  
+* [Fixed point math C# library](https://github.com/asik/FixedMath.Net)  
