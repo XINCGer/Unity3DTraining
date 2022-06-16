@@ -386,3 +386,4 @@
 * [Prefabshop-Prefab painter for Unity](https://github.com/Raptorij/Prefabshop)  
 * [Fixed point math C# library](https://github.com/asik/FixedMath.Net)  
 * [A C# port of Box2D](https://github.com/Zonciu/Box2DSharp)  
+* [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)  
