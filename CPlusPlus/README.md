@@ -42,6 +42,7 @@
 >* [UnrealPakViewer](https://github.com/jashking/UnrealPakViewer)  
 >* [Unreal Engine 4 Plugin for Lua APIs implementation](https://github.com/rdeioris/LuaMachine)  
 >* [Mesh parameterization / UV unwrapping library](https://github.com/jpcy/xatlas)  
+>* [A small C compiler](https://github.com/rui314/chibicc)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
