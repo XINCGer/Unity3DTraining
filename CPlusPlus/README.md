@@ -46,6 +46,7 @@
 >* [Spout plugin for Unity](https://github.com/keijiro/KlakSpout)  
 >* [Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos](https://github.com/filecxx/FileCentipede)  
 >* [lz4](https://github.com/lz4/lz4)  
+>* [Zstandard - Fast real-time compression algorithm](https://github.com/facebook/zstd)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
