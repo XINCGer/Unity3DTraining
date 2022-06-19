@@ -44,6 +44,7 @@
 >* [Mesh parameterization / UV unwrapping library](https://github.com/jpcy/xatlas)  
 >* [A small C compiler](https://github.com/rui314/chibicc)  
 >* [Spout plugin for Unity](https://github.com/keijiro/KlakSpout)  
+>* [Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos](https://github.com/filecxx/FileCentipede)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
