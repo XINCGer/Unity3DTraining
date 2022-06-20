@@ -189,3 +189,4 @@
 >* [【厚积薄发】使用Streaming Mipmap后纹理内存没有下降的疑问](https://mp.weixin.qq.com/s/r_pu_55pORweWOL-krbJ6A)  
 >* [【厚积薄发】如何定位游戏发热问题](https://mp.weixin.qq.com/s/RvgV1YaH_l8s4kvGyCei-Q)  
 >* [【厚积薄发】Android平台压缩纹理ETC2 VS ASTC](https://mp.weixin.qq.com/s/meDkJOLPL7p_xkjdDeiPuA)  
+>* [【厚积薄发】AB打包有的Shader没有触发IPreprocessShaders的回调](https://mp.weixin.qq.com/s/SA9btiQ4iqmg8W8gXxLJWQ)  
