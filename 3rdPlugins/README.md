@@ -392,3 +392,4 @@
 * [提供 C# 基础的功能扩展](https://github.com/CYJB/Cyjb)  
 * [LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)](https://github.com/MiloszKrajewski/K4os.Compression.LZ4)  
 * [Bonsai Behaviour Tree](https://github.com/luis-l/BonsaiBehaviourTree)  
+* [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents)  
