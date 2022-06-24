@@ -394,3 +394,4 @@
 * [Bonsai Behaviour Tree](https://github.com/luis-l/BonsaiBehaviourTree)  
 * [UnityTimelineEvents](https://github.com/georgejecook/UnityTimelineEvents)  
 * [fullserializer](https://github.com/jacobdufault/fullserializer)  
+* [C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )](https://github.com/ViewFaceCore/ViewFaceCore)  
