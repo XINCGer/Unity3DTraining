@@ -61,6 +61,7 @@
 * [iOS开发-Xcode Debug、Release、Archive、Profile、Analyze概念解释](https://www.cnblogs.com/lxlx1798/articles/12923039.html)  
 * [Unity Cache Server了解和常见问题](https://codeantenna.com/a/lxoMLpvIFY)  
 * [Unity realtime log in command line (batchmode)](https://github.com/mr-kelly/unity_realtime_log)  
+* [Unity打包前进行编译检查](https://qiita.com/k7a/items/ef5753e736d288fecc89)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
