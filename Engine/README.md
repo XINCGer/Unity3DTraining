@@ -12,6 +12,7 @@
 * [3DLineDetection](https://github.com/xiaohulugo/3DLineDetection)  
 * [ZEn NOde system - a simulation & rendering engine in nodes](https://github.com/zenustech/zeno)  
 * [Voxel-based fluid simulation engine for computer games](https://github.com/CubbyFlow/CubbyFlow)  
+* [Bounce is a 3D physics engine for games](https://github.com/irlanrobson/bounce)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
