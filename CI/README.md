@@ -63,6 +63,7 @@
 * [Unity realtime log in command line (batchmode)](https://github.com/mr-kelly/unity_realtime_log)  
 * [Unity打包前进行编译检查](https://qiita.com/k7a/items/ef5753e736d288fecc89)  
 * [[Unity 3d] 编辑器程序集编译API - 笔记](https://www.jianshu.com/p/7ffca90fa853)  
+* [app开发者需要更新此app及Xcode13遇坑](https://www.jianshu.com/p/aa6ee74a2a05)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
