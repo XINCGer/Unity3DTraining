@@ -66,6 +66,7 @@
 * [app开发者需要更新此app及Xcode13遇坑](https://www.jianshu.com/p/aa6ee74a2a05)  
 * [Unity 输出日志到命令行](https://networm.me/2019/05/19/unity-logfile-stdout/)  
 * [Executing groovy scripts on Jenkins' slaves](https://stackoverflow.com/questions/37144549/executing-groovy-scripts-on-jenkins-slaves)  
+* [RejectedAccessException: Scripts not permitted to use method jenkins.model.Jenkins getCloud](https://blog.csdn.net/chengguo570155/article/details/100908525)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
