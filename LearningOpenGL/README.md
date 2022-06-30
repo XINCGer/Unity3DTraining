@@ -77,6 +77,7 @@
 * [[源码]详解Cubemap、IBL与球谐光照](https://mp.weixin.qq.com/s/60-c4eXnW53RUWBFewPfNQ)  
 * [Untiy Chinese Painting Rendering](https://github.com/boringsky/Unity_ChinesePainting)  
 * [🐙 🐙图形学论文实现](https://github.com/AngelMonica126/GraphicAlgorithm)  
+* [Tooll 3 is an open source software to create realtime motion graphics](https://github.com/still-scene/t3)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
