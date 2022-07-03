@@ -50,6 +50,7 @@
 >* [A high performance fiber RPC network framework. 高性能协程RPC网络框架](https://github.com/zavier-wong/acid)  
 >* [C++14 coroutine-based task library for games](https://github.com/westquote/SquidTasks)  
 >* [The MongoDB Database](https://github.com/mongodb/mongo)  
+>* [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
