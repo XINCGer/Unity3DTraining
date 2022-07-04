@@ -26,6 +26,7 @@
 >* [手把手叫你 制作一个不需要任何工具 从网页上安装ipa包的办法](https://blog.csdn.net/kingmax54212008/article/details/56278134)  
 >* [mac 安装nginx并配置SSL实现Https访问](https://www.jianshu.com/p/fc1e81efc867)  
 >* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)   
+>* [30天自制C++服务器，包含教程和源代码](https://github.com/yuesong-feng/30dayMakeCppServer)  
 
 #### 游戏后端服务器框架  
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
