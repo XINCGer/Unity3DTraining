@@ -72,7 +72,8 @@
 
 ### huatuo热更新  
 * [huatuo c#热更新](https://www.zhihu.com/column/c_1489549396035870720)  
-* [huatuo trial project](https://github.com/focus-creative-games/huatuo_trial)  
-* [huatuo](https://github.com/focus-creative-games/huatuo)  
+* [huatuo trial project](https://github.com/focus-creative-games/hybridclr_trial)  
+* [huatuo](https://github.com/focus-creative-games/hybridclr)  
 * [il2cpp version which support HUAUTO interpreter](https://github.com/pirunxi/il2cpp_huatuo)  
+* [深入剖析il2cpp及huatuo实现的技术专栏](https://github.com/focus-creative-games/inspect_hybridclr)  
 * [划时代的代码热更新方案huatuo源码流程解析](https://www.lfzxb.top/huatuo-source-analyze/)  
