@@ -68,6 +68,7 @@
 * [Executing groovy scripts on Jenkins' slaves](https://stackoverflow.com/questions/37144549/executing-groovy-scripts-on-jenkins-slaves)  
 * [RejectedAccessException: Scripts not permitted to use method jenkins.model.Jenkins getCloud](https://blog.csdn.net/chengguo570155/article/details/100908525)  
 * [Python发送企业微信消息](https://www.cnblogs.com/blog-for-me/p/14743237.html)  
+* [企业微信Jenkins构建通知插件](https://github.com/jenkinsci/qy-wechat-notification-plugin)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
