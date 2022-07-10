@@ -398,3 +398,4 @@
 * [Control a camera or any other object like SceneView camera](https://github.com/XJINE/Unity_SceneCameraController)  
 * [Overdraw profiler for Unity, shows fill rate](https://github.com/ken48/UnityOverdrawMonitor)  
 * [Roslyn analyzers for Unity game developers](https://github.com/microsoft/Microsoft.Unity.Analyzers)  
+* [A native Unity plugin to handle runtime permissions on Android M+](https://github.com/yasirkula/UnityAndroidRuntimePermissions)  
