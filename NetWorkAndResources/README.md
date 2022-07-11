@@ -31,4 +31,5 @@
 >* [Unity使用UnityWebRequest上传文件到服务器的简单实现流程](https://blog.csdn.net/qq_17367039/article/details/107027470)  
 >* [Sending a form to an HTTP server (POST)](https://docs.unity3d.com/2019.4/Documentation/Manual/UnityWebRequest-SendingForm.html)  
 >* [[python]初探socket](https://www.233tw.com/unity/57149)  
+>* [Unity3D使用Socket.IO](http://www.luohanjie.com/2019-07-25/socket-io-for-unity3d.html)  
 
