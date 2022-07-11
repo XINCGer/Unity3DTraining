@@ -30,4 +30,5 @@
 >* [Unity从流中读取各种类型的数据和写入数据(利用MemoryStream关于内存数据的读写)](https://blog.csdn.net/qq_36274965/article/details/80181160)  
 >* [Unity使用UnityWebRequest上传文件到服务器的简单实现流程](https://blog.csdn.net/qq_17367039/article/details/107027470)  
 >* [Sending a form to an HTTP server (POST)](https://docs.unity3d.com/2019.4/Documentation/Manual/UnityWebRequest-SendingForm.html)  
+>* [[python]初探socket](https://www.233tw.com/unity/57149)  
 
