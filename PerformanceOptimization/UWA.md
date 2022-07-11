@@ -192,3 +192,4 @@
 >* [【厚积薄发】AB打包有的Shader没有触发IPreprocessShaders的回调](https://mp.weixin.qq.com/s/SA9btiQ4iqmg8W8gXxLJWQ)  
 >* [【厚积薄发】抓取手机端变体组合思路设想](https://mp.weixin.qq.com/s/vU5MTdo4CyQTPRC2VOFA-g)  
 >* [【厚积薄发】UWA问答精选(2022.07.04)](https://mp.weixin.qq.com/s/ZBRjy5Vn7LLyVXAQnt97QA)  
+>* [【厚积薄发】设置Application.targetFrameRate没有起作用的原因](https://mp.weixin.qq.com/s/mFzzWnIs-B03fdNm05qi3A)  
