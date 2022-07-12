@@ -402,3 +402,4 @@
 * [Implementation of a lock-free dictionary on .Net](https://github.com/VSadov/NonBlocking)  
 * [Unity-ZeroMQ-Example](https://github.com/valkjsaaa/Unity-ZeroMQ-Example)  
 * [Unity3D-Python-Communication](https://github.com/off99555/Unity3D-Python-Communication)  
+* [Python-Unity-Socket-Communication](https://github.com/Siliconifier/Python-Unity-Socket-Communication)  
