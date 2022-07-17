@@ -137,6 +137,7 @@
 >* [iOS app内存分析套路](https://www.cnblogs.com/bigfeng/p/6178301.html)  
 >* [iOS内存监测原理文章](https://github.com/wzpziyi1/MemoryDetector)  
 >* [Unity游戏内存分布概览](https://mp.weixin.qq.com/s/sRHS5n8bXu4H-nRPgYqmmA)  
+>* [关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能](https://github.com/skyming/iOS-Performance-Optimization)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
