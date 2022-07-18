@@ -5,3 +5,4 @@
 >* [C#进程调用FFmpeg操作音视频](https://blog.csdn.net/zls365365/article/details/122955348)  
 >* [FFmpeg硬件加速](https://www.bilibili.com/read/cv1570233)  
 >* [FFmpeg学习（12）——视频转码技巧之二次编码](https://blog.csdn.net/tianshan2010/article/details/104850037)  
+>* [CRF指南（x264 和 x265 中的固定码率因子）](https://blog.csdn.net/shiqian1022/article/details/88390108)  
