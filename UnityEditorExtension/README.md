@@ -113,6 +113,7 @@
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
+* [MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)  
 
 ### Maya插件开发  
 * [Python 编写Maya插件，从0到1（一）](https://zhuanlan.zhihu.com/p/79546139)  
