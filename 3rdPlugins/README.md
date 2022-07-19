@@ -403,3 +403,4 @@
 * [Unity-ZeroMQ-Example](https://github.com/valkjsaaa/Unity-ZeroMQ-Example)  
 * [Unity3D-Python-Communication](https://github.com/off99555/Unity3D-Python-Communication)  
 * [Python-Unity-Socket-Communication](https://github.com/Siliconifier/Python-Unity-Socket-Communication)  
+* [UnityPy is python module that makes it possible to extract/unpack and edit Unity assets](https://github.com/K0lb3/UnityPy)  
