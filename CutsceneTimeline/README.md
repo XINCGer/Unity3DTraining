@@ -31,3 +31,4 @@
 #### 博客  
 >* [单机RPG游戏的剧情动画生成套件DialogueSystem工作流与工具简介](https://zhuanlan.zhihu.com/p/339964212)  
 >* [近代游戏技术发展回顾，以及PCG技术的展望](https://www.gcores.com/articles/133653)  
+>* [剧情动画PCG流程及工具搭建方法](https://zhuanlan.zhihu.com/p/475553111)  
