@@ -406,3 +406,4 @@
 * [UnityPy is python module that makes it possible to extract/unpack and edit Unity assets](https://github.com/K0lb3/UnityPy)  
 * [A fast, powerful, safe and lightweight scripting language and engine for .NET](https://github.com/scriban/scriban)  
 * [PGP library for .NET / c#](https://github.com/Cinchoo/ChoPGP)  
+* [Apple Unity Plug-Ins](https://github.com/apple/unityplugins)  
