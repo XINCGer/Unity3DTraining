@@ -407,3 +407,4 @@
 * [A fast, powerful, safe and lightweight scripting language and engine for .NET](https://github.com/scriban/scriban)  
 * [PGP library for .NET / c#](https://github.com/Cinchoo/ChoPGP)  
 * [Apple Unity Plug-Ins](https://github.com/apple/unityplugins)  
+* [unity-cache-server](https://github.com/Unity-Technologies/unity-cache-server)  
