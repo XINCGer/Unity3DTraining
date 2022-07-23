@@ -65,6 +65,7 @@
 >* [🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)  
 >* [The fastest C JSON library](https://github.com/ibireme/yyjson)  
 >* [OOMDetector](https://github.com/Tencent/OOMDetector)  
+>* [腾讯柠檬清理](https://github.com/Tencent/lemon-cleaner)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
