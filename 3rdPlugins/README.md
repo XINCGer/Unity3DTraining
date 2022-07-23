@@ -408,3 +408,4 @@
 * [PGP library for .NET / c#](https://github.com/Cinchoo/ChoPGP)  
 * [Apple Unity Plug-Ins](https://github.com/apple/unityplugins)  
 * [unity-cache-server](https://github.com/Unity-Technologies/unity-cache-server)  
+* [MikuMikuRig是一款集生成控制器，自动导入动画，自动布料为一体的blender插件](https://github.com/958261649/Miku_Miku_Rig)  
