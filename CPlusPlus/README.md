@@ -72,6 +72,7 @@
 >* [Unreal Engine plugin for async task programming](https://github.com/splash-damage/future-extensions)  
 >* [Library for collision detection between two convex shapes](https://github.com/danfis/libccd)  
 >* [A native alternative to the heavy Electron Unity Hub, written in C++](https://github.com/Ravbug/UnityHubNative)  
+>* [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
