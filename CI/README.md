@@ -73,6 +73,7 @@
 * [Apple_mobile_device_types](https://gist.github.com/adamawolf/3048717)  
 * [Jenkins如何控制多个Job进行依赖（不允许同时出现资源争抢）](https://blog.csdn.net/Python_BT/article/details/123789858)  
 * [入域的Windows访问未入域的Samba服务](https://wenku.baidu.com/view/b2affeff83eb6294dd88d0d233d4b14e85243ebb.html)  
+* [Windows、Mac命令行连接SMB(带特殊字符、处理域用户、反斜杠)](https://www.jianshu.com/p/4c9535226329)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
