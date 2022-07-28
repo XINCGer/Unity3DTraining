@@ -413,3 +413,4 @@
 * [A pure C# CIL interpreter designed to load and execute managed code on IL2CPP (Unity) platforms](https://github.com/scottyboy805/dotnow-interpreter)  
 * [单机吞吐2266万tps的网络通信框架](https://github.com/NewLifeX/NewLife.Net)  
 * [性能监控软件](https://github.com/dingxiaowei/MonitorTool)  
+* [Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples](https://github.com/luxkun/ReGoap)  
