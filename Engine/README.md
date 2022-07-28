@@ -13,6 +13,7 @@
 * [ZEn NOde system - a simulation & rendering engine in nodes](https://github.com/zenustech/zeno)  
 * [Voxel-based fluid simulation engine for computer games](https://github.com/CubbyFlow/CubbyFlow)  
 * [Bounce is a 3D physics engine for games](https://github.com/irlanrobson/bounce)  
+* [A multi core friendly rigid body physics and collision detection library suitable for games and VR applications](https://github.com/jrouwe/JoltPhysics)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
