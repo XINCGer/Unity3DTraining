@@ -45,3 +45,4 @@
 >* [[UGUI性能优化]精灵图集(Sprite Atlas)保姆式教程](https://zhuanlan.zhihu.com/p/456101373)  
 >* [Unity UI Playables](https://github.com/Haruma-K/UnityUIPlayables)  
 >* [UnityUICulling](https://github.com/pschraut/UnityUICulling)  
+>* [Beautiful text outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects)  
