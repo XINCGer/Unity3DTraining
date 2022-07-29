@@ -415,3 +415,4 @@
 * [性能监控软件](https://github.com/dingxiaowei/MonitorTool)  
 * [Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples](https://github.com/luxkun/ReGoap)  
 * [Expanded Math Functionality for Unity](https://github.com/FreyaHolmer/Mathfs)  
+* [Steering, obstacle avoidance and path following behaviors for the Unity Game Engine](https://github.com/ricardojmendez/UnitySteer)  
