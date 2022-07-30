@@ -48,6 +48,7 @@
 >* [一个基于lua的分布式游戏服务器引擎框架](https://github.com/xiyoo0812/quanta)  
 >* [基于c++ & lua 实现的分布式游戏服务器框架](https://github.com/hero1s/hive)  
 >* [C++高性能分布式服务器框架](https://github.com/sylar-yin/sylar)  
+>* [A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script](https://github.com/hero1s/hive)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
