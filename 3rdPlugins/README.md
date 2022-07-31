@@ -417,3 +417,4 @@
 * [Expanded Math Functionality for Unity](https://github.com/FreyaHolmer/Mathfs)  
 * [Steering, obstacle avoidance and path following behaviors for the Unity Game Engine](https://github.com/ricardojmendez/UnitySteer)  
 * [3d Tilemap Editor for Unity](https://github.com/peartreegames/blocky-world-editor)  
+* [Generate link.xml file for unity](https://github.com/KuraiAndras/LinkerGenerator)  
