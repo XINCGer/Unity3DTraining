@@ -14,3 +14,6 @@
 
 ### Blend Shape资料收集  
 * [Blend Shape资料收集](./Blend%20Shape)  
+
+### FBX资料收集  
+* [FBX SDK 之模型分离与解析(Python/C++)](https://zhuanlan.zhihu.com/p/460279498)  
