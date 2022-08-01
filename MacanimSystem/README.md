@@ -17,3 +17,4 @@
 
 ### FBX资料收集  
 * [FBX SDK 之模型分离与解析(Python/C++)](https://zhuanlan.zhihu.com/p/460279498)  
+* [基于FBX SDK的FBX模型解析与加载 -（一）](https://blog.csdn.net/bugrunner/article/details/7210511)  
