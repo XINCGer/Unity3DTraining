@@ -418,3 +418,4 @@
 * [Steering, obstacle avoidance and path following behaviors for the Unity Game Engine](https://github.com/ricardojmendez/UnitySteer)  
 * [3d Tilemap Editor for Unity](https://github.com/peartreegames/blocky-world-editor)  
 * [Generate link.xml file for unity](https://github.com/KuraiAndras/LinkerGenerator)  
+* [Interactive JPS Search Algorithim, using Steve Rabin's algorithim](https://github.com/trgrote/JPS-Unity)  
