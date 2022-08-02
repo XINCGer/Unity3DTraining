@@ -419,3 +419,4 @@
 * [3d Tilemap Editor for Unity](https://github.com/peartreegames/blocky-world-editor)  
 * [Generate link.xml file for unity](https://github.com/KuraiAndras/LinkerGenerator)  
 * [Interactive JPS Search Algorithim, using Steve Rabin's algorithim](https://github.com/trgrote/JPS-Unity)  
+* [A pure C# implementation of xxhash algorithm](https://github.com/uranium62/xxHash)  
