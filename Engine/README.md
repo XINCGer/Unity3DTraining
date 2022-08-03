@@ -14,6 +14,7 @@
 * [Voxel-based fluid simulation engine for computer games](https://github.com/CubbyFlow/CubbyFlow)  
 * [Bounce is a 3D physics engine for games](https://github.com/irlanrobson/bounce)  
 * [A multi core friendly rigid body physics and collision detection library suitable for games and VR applications](https://github.com/jrouwe/JoltPhysics)  
+* [A small 2D physics engine](https://github.com/erincatto/box2d-lite)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
