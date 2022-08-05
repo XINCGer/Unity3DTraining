@@ -117,6 +117,8 @@
 * [MobaXterm](https://mobaxterm.mobatek.net/)  
 
 ### FastBuild  
+* [FastBuild](https://www.fastbuild.org/docs/home.html)  
 * [使用FASTBuild加速Unreal Engine编译](https://blog.csdn.net/cjw_soledad/article/details/117362397)  
 * [fastbuild support shader build](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/f99dcc9ce698b92caa788016d72c1c29e18df751)  
 * [fastbuild compress compiled object](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/280d92e19fce3af4ac86211f73aac317936f7afa)  
+* [保姆式教你使用FASTBuild对UE4进行联机编译](https://zhuanlan.zhihu.com/p/158400394)  
