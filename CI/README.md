@@ -118,3 +118,4 @@
 
 ### FastBuild  
 * [使用FASTBuild加速Unreal Engine编译](https://blog.csdn.net/cjw_soledad/article/details/117362397)  
+* [fastbuild support shader build](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/f99dcc9ce698b92caa788016d72c1c29e18df751)  
