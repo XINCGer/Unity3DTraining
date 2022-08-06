@@ -422,3 +422,4 @@
 * [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader)  
 * [TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)  
 * [Tools and libraries to glue C/C++ APIs to high-level languages](https://github.com/mono/CppSharp)  
+* [Behavior trees for Unity3D projects](https://github.com/ashblue/fluid-behavior-tree)  
