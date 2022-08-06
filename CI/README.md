@@ -124,3 +124,7 @@
 * [fastbuild compress compiled object](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/280d92e19fce3af4ac86211f73aac317936f7afa)  
 * [保姆式教你使用FASTBuild对UE4进行联机编译](https://zhuanlan.zhihu.com/p/158400394)  
 * [Utility to build Visual Studio solutions and projects with FASTBuild, supports VS2015/2017/2019](https://github.com/LendyZhang/msfastbuild)  
+
+### apple-silicon
+* [apple-silicon](https://developer.apple.com/documentation/apple-silicon)  
+
