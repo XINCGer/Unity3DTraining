@@ -425,3 +425,4 @@
 * [Behavior trees for Unity3D projects](https://github.com/ashblue/fluid-behavior-tree)  
 * [单机吞吐2266万tps的网络通信框架](https://github.com/NewLifeX/NewLife.Net)  
 * [TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)  
+* [Object pooling system for Unity](https://github.com/mackysoft/XPool)  
