@@ -426,3 +426,4 @@
 * [单机吞吐2266万tps的网络通信框架](https://github.com/NewLifeX/NewLife.Net)  
 * [TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)  
 * [Object pooling system for Unity](https://github.com/mackysoft/XPool)  
+* [Unity-AssetStreaming](https://github.com/oculus-samples/Unity-AssetStreaming)  
