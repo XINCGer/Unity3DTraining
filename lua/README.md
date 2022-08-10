@@ -41,6 +41,7 @@
 >* [39.xlua注入源码解读](https://www.igiven.com/unity-2019-09-03-xlua-inject/)  
 >* [40.Languages that compile to Lua](https://github.com/hengestone/lua-languages)  
 >* [41.[源码]Lua垃圾回收详解](https://mp.weixin.qq.com/s/kwka9ANBp87FNzGboHyQCg)  
+>* [42.LRU cache in Lua](https://github.com/starius/lua-lru)  
 
 ### lua书籍  
 >* [《Lua设计与实现》随书源代码](https://github.com/lichuang/Lua-Source-Internal)  
