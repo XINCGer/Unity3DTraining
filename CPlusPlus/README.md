@@ -81,6 +81,7 @@
 >* [The fastest and most memory efficient lattice Boltzmann CFD software](https://github.com/ProjectPhysX/FluidX3D)  
 >* [A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal](https://github.com/kingToolbox/WindTerm)  
 >* [imgui](https://github.com/ocornut/imgui)  
+>* [Combustion engine simulator that generates realistic audio](https://github.com/ange-yaghi/engine-sim)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
