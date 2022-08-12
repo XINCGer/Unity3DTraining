@@ -9,3 +9,4 @@
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
 * [学习笔记整理📚](https://github.com/arkingc/note)  
 * [30道C++经典面试题，上“战场”前一定要搞懂](https://zhuanlan.zhihu.com/p/63312216)  
+* [C++面试常见问题](https://zhuanlan.zhihu.com/p/34016871)  
