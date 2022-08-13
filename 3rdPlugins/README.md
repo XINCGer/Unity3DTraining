@@ -428,3 +428,4 @@
 * [Object pooling system for Unity](https://github.com/mackysoft/XPool)  
 * [Unity-AssetStreaming](https://github.com/oculus-samples/Unity-AssetStreaming)  
 * [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM)  
+* [BakingSheet](https://github.com/cathei/BakingSheet)  
