@@ -430,3 +430,4 @@
 * [Unity-AssetStreaming](https://github.com/oculus-samples/Unity-AssetStreaming)  
 * [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM)  
 * [BakingSheet](https://github.com/cathei/BakingSheet)  
+* [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection)  
