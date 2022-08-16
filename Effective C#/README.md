@@ -47,3 +47,4 @@
 >* [异步编程模型](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)  
 >* [C#中的异步任务类型记录](https://www.jianshu.com/p/77bcfabc3f9f)  
 >* [Async Task Types in C#](https://github.com/dotnet/roslyn/blob/main/docs/features/task-types.md)  
+>* [C#中的变量存储](https://www.jianshu.com/p/ceb5e9fd607e)  
