@@ -13,3 +13,4 @@
 * [C++面试常见问题](https://zhuanlan.zhihu.com/p/34016871)  
 * [C++经典面试题（最全，面中率最高）](https://zhuanlan.zhihu.com/p/75347892)  
 * [C++内存管理，const、mutable、static、编译过程](https://blog.csdn.net/Diligent_wu/article/details/123482018)  
+* [C++和C# struct和class的区别](https://blog.csdn.net/qq_43477024/article/details/114417191)  
