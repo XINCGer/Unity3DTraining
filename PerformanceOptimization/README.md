@@ -55,7 +55,6 @@
 >* [游戏开发：Unity中Lua造成的堆内存泄露问题](https://mp.weixin.qq.com/s/weuQjDcGPUyxZzQZEsNDxg)  
 >* [[转]Lua和Lua JIT及优化指南](https://www.cnblogs.com/zhaoqingqing/p/10397867.html)  
 >* [UnityTips:不要在发布版本中实现OnGUI方法](https://www.cnblogs.com/murongxiaopifu/p/12341204.html)  
->* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
 >* [不要忽视Managed code stripping的副作用](https://www.cnblogs.com/murongxiaopifu/p/12425817.html)  
 >* [解决Sprite Atlas打包Asset bundles时重复打包的问题](https://www.cnblogs.com/murongxiaopifu/p/12453356.html)  
 >* [如何优化几何、纹理、材料、阴影表现？TA不可不知的4个小技巧](https://mp.weixin.qq.com/s/KSkBCtKvxpt5GCnoYH8Ucg)  
@@ -138,6 +137,9 @@
 >* [iOS内存监测原理文章](https://github.com/wzpziyi1/MemoryDetector)  
 >* [Unity游戏内存分布概览](https://mp.weixin.qq.com/s/sRHS5n8bXu4H-nRPgYqmmA)  
 >* [关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能](https://github.com/skyming/iOS-Performance-Optimization)  
+>* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
+>* [Android 内存优化的总结方案](https://zhuanlan.zhihu.com/p/538929141)  
+>* [Android内存分布和优化](https://www.cnblogs.com/sevenyuan/p/13305420.html)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
