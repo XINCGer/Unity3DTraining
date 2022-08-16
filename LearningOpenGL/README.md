@@ -97,6 +97,7 @@
 * [Unity URP/SRP 渲染管线浅入深出](https://blog.csdn.net/qq_26292661/article/details/116234991)  
 * [OverdrawForURP](https://github.com/ina-amagami/OverdrawForURP)  
 * [srp shader build in batchmode](https://issuetracker.unity3d.com/issues/urp-shader-dot-renderqueue-does-not-return-the-correct-value-for-shaders-when-executing-unity-in-batchmode)  
+* [【博物纳新】HDRP Water & 云影](https://mp.weixin.qq.com/s/KS-LVX_WwPj0jVMOeyKPcA)  
 
 ### PRB  
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
