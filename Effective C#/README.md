@@ -48,3 +48,4 @@
 >* [C#中的异步任务类型记录](https://www.jianshu.com/p/77bcfabc3f9f)  
 >* [Async Task Types in C#](https://github.com/dotnet/roslyn/blob/main/docs/features/task-types.md)  
 >* [C#中的变量存储](https://www.jianshu.com/p/ceb5e9fd607e)  
+>* [深入理解.NET中的并行编程(TPL)——多线程、异步、任务和并行计算](https://zhuanlan.zhihu.com/p/242142417)  
