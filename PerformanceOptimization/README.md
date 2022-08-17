@@ -118,6 +118,8 @@
 >* [Unity 特效性能分析工具](https://github.com/sunbrando/ParticleEffectProfiler)  
 >* [Unity3D游戏GC优化总结---protobuf-net无GC版本优化实践 ](https://www.cnblogs.com/SChivas/p/7898166.html)  
 >* [ASTC纹理压缩格式介绍](https://mp.weixin.qq.com/s/4Yjg2mm2LwtQS1qE9eGneA)  
+>* [翻译: 如何使用 Xcode 的内存图调试器检测 iOS 内存泄漏并保留周期](https://blog.csdn.net/zgpeace/article/details/121299611)  
+>* [iOS性能调优系列：使用Instruments动态分析内存泄漏](https://www.ktanx.com/blog/p/893)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
@@ -140,7 +142,6 @@
 >* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
 >* [Android 内存优化的总结方案](https://zhuanlan.zhihu.com/p/538929141)  
 >* [Android内存分布和优化](https://www.cnblogs.com/sevenyuan/p/13305420.html)  
->* [iOS性能调优系列：使用Instruments动态分析内存泄漏](https://www.ktanx.com/blog/p/893)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
