@@ -6,6 +6,7 @@
 * [详解C/C++中volatile关键字](https://blog.csdn.net/weixin_44363885/article/details/92838607)  
 * [c++之多线程中“锁”（mutex）的用法](https://blog.csdn.net/weixin_42127358/article/details/123507748)  
 * [多线程之互斥锁(mutex)的使用方法](https://blog.csdn.net/duan19920101/article/details/121352669)  
+* [C++ 锁机制以及常用方法(理论+实践)](https://blog.csdn.net/qq_37457202/article/details/123543141)  
 
 ### 面试向  
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
