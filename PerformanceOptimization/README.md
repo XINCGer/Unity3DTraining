@@ -140,6 +140,7 @@
 >* [写给Unity开发者的iOS内存调试指南 0x00 前言](https://www.cnblogs.com/murongxiaopifu/p/12357406.html)  
 >* [Android 内存优化的总结方案](https://zhuanlan.zhihu.com/p/538929141)  
 >* [Android内存分布和优化](https://www.cnblogs.com/sevenyuan/p/13305420.html)  
+>* [iOS性能调优系列：使用Instruments动态分析内存泄漏](https://www.ktanx.com/blog/p/893)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
