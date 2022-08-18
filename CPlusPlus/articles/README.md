@@ -7,6 +7,7 @@
 * [c++之多线程中“锁”（mutex）的用法](https://blog.csdn.net/weixin_42127358/article/details/123507748)  
 * [多线程之互斥锁(mutex)的使用方法](https://blog.csdn.net/duan19920101/article/details/121352669)  
 * [C++ 锁机制以及常用方法(理论+实践)](https://blog.csdn.net/qq_37457202/article/details/123543141)  
+* [C++多线程并发（五）—原子操作与无锁编程](https://cloud.tencent.com/developer/article/2030919)  
 
 ### 面试向  
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
