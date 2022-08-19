@@ -432,3 +432,4 @@
 * [BakingSheet](https://github.com/cathei/BakingSheet)  
 * [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection)  
 * [System.Span for Unity-2019](https://github.com/ousttrue/dotnet.system.memory)  
+* [Fast, idiomatic C# implementation of Flatbuffers](https://github.com/jamescourtney/FlatSharp)  
