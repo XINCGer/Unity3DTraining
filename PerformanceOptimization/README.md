@@ -144,6 +144,7 @@
 >* [Android 内存优化的总结方案](https://zhuanlan.zhihu.com/p/538929141)  
 >* [Android内存分布和优化](https://www.cnblogs.com/sevenyuan/p/13305420.html)  
 >* [iOS内存深入研究](https://www.jianshu.com/p/d4dfab95368d)  
+>* [Xcode的vmmap、VM_Tracker和Allocations的调研笔记](https://zhuanlan.zhihu.com/p/379615733)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
