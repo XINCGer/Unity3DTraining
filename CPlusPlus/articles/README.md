@@ -11,6 +11,7 @@
 * [无锁原子操作&CAS](https://www.cnblogs.com/wiesslibrary/p/15725559.html)  
 
 ### 面试向  
+* [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)  
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
 * [学习笔记整理📚](https://github.com/arkingc/note)  
 * [C++面试常见问题](https://zhuanlan.zhihu.com/p/34016871)  
