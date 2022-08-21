@@ -29,6 +29,7 @@
 * [Godot Engine – Multi-platform 2D and 3D game engine](https://github.com/godotengine/godot)  
 * [Pilot – mini game engine for games104](https://github.com/BoomingTech/Pilot)  
 * [Cross mobile platform 2D&3D C++ game engine](https://github.com/fjz13/Medusa)  
+* [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
