@@ -9,6 +9,7 @@
 ### 面试、笔试、简历    
 >* [在线简历生成器](https://github.com/visiky/resume)  
 >* [马三的面试题整理](../Doc/马三的面试题整理.md)  
+>* [网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图](https://github.com/gonglei007/GameDevMind)  
 >* [海澜访谈录——对于负责招聘的HR，如果看待候选人的一些疑问解答？](https://aihailan.com/1189-2/)  
 >* [Unity面试题总结](https://github.com/Lafree317/Unity-InterviewQuestion)  
 >* [反向面试](https://github.com/yifeikong/reverse-interview-zh)  
