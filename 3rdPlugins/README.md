@@ -435,3 +435,4 @@
 * [A native Unity plugin to handle runtime permissions on Android M+](https://github.com/yasirkula/UnityAndroidRuntimePermissions)  
 * [ParrelSync](https://github.com/VeriorPies/ParrelSync)  
 * [Scene-View-Picker](https://github.com/RoyTheunissen/Scene-View-Picker)  
+* [Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
