@@ -78,6 +78,7 @@
 * [Jenkins自动化部署报Failed to get socket connection from](https://blog.csdn.net/yuxikuo_1/article/details/86751113)  
 * [cmd命令执行结果赋值给变量](https://blog.csdn.net/yzpbright/article/details/122919406)  
 * [Windows wmic命令之process进程管理](https://blog.csdn.net/yetugeng/article/details/103615205)  
+* [window10设置开机后自启动.bat文件](https://www.cnblogs.com/longronglang/p/16265587.html)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
