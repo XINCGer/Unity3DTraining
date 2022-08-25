@@ -87,6 +87,7 @@
 >* [OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)  
 >* [A high performance layer 4 load balancer](https://github.com/facebookincubator/katran)  
 >* [Unreal Engine 4 C++ examples](https://github.com/Harrison1/unrealcpp)  
+>* [简易十字链表AOI(Area Of Interest)算法实现](https://github.com/CandyMi/aoi-c)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
