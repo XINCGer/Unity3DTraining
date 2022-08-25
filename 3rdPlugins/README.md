@@ -437,3 +437,4 @@
 * [Scene-View-Picker](https://github.com/RoyTheunissen/Scene-View-Picker)  
 * [Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
 * [Terrain voxel engine with the use of Marching Cubes implemented in Unity](https://github.com/Javier-Garzo/Marching-cubes-on-Unity-3D)  
+* [A fully dynamic planar navmesh for Unity supporting agents of any size](https://github.com/dotsnav/dotsnav)  
