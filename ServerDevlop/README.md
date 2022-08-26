@@ -124,7 +124,8 @@
 >* [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)  
 >* [Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统](https://github.com/hangjob/vue-bag-admin)  
 >* [AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)  
->
+>* [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板](https://github.com/zhongshaofa/layuimini)  
+
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
 
