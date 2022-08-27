@@ -28,7 +28,7 @@
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
 * [Flax Engine – multi-platform 3D game engine](https://github.com/FlaxEngine/FlaxEngine)  
 * [Godot Engine – Multi-platform 2D and 3D game engine](https://github.com/godotengine/godot)  
-* [Pilot – mini game engine for games104](https://github.com/BoomingTech/Pilot)  
+* [Piccolo – mini game engine for games104](https://github.com/BoomingTech/Piccolo)  
 * [Cross mobile platform 2D&3D C++ game engine](https://github.com/fjz13/Medusa)  
 * [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica)  
 
