@@ -80,6 +80,7 @@
 * [Windows wmic命令之process进程管理](https://blog.csdn.net/yetugeng/article/details/103615205)  
 * [window10设置开机后自启动.bat文件](https://www.cnblogs.com/longronglang/p/16265587.html)  
 * [通过applescript自动连接smb服务器](https://qastack.cn/apple/256716/why-mac-smb-connect-fails-with-login-from-cli-but-works-from-finder-and-with-guest-account)  
+* [在Mac的terminal下连接 SMB 共享的三种方法](https://www.jianshu.com/p/1ab7849a4e0e)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
