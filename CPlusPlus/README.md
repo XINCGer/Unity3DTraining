@@ -90,6 +90,7 @@
 >* [简易十字链表AOI(Area Of Interest)算法实现](https://github.com/CandyMi/aoi-c)  
 >* [A BSD-based OS project that aims to provide an experience like and some compatibility with macOS](https://github.com/ravynsoft/ravynos)  
 >* [Cemu is a Wii U emulator](https://github.com/cemu-project/Cemu)  
+>* [aria2 - The ultra fast download utility](https://github.com/aria2/aria2)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
