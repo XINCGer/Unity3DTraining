@@ -55,3 +55,4 @@
 ### Roslyn  
 >* [roslyn](https://github.com/dotnet/roslyn)  
 >* [Roslynator](https://github.com/JosefPihrt/Roslynator)  
+>* [.NET Compiler Platform SDK](https://docs.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/)  
