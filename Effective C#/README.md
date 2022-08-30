@@ -56,3 +56,4 @@
 >* [roslyn](https://github.com/dotnet/roslyn)  
 >* [Roslynator](https://github.com/JosefPihrt/Roslynator)  
 >* [.NET Compiler Platform SDK](https://docs.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/)  
+>* [从零开始学习 dotnet 编译过程和 Roslyn 源码分析](https://www.jianshu.com/p/5b3c23cb3cf2)  
