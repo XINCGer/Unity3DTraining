@@ -54,3 +54,4 @@
 
 ### Roslyn  
 >* [roslyn](https://github.com/dotnet/roslyn)  
+>* [Roslynator](https://github.com/JosefPihrt/Roslynator)  
