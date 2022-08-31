@@ -93,6 +93,7 @@
 >* [aria2 - The ultra fast download utility](https://github.com/aria2/aria2)  
 >* [sanitizers](https://github.com/google/sanitizers)  
 >* [Metareflect is a lightweight reflection system for C++, based on LLVM and Clangs libtooling](https://github.com/Leandros/metareflect)  
+>* [Reactive programming & data binding in C++](https://github.com/KDAB/KDBindings)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
