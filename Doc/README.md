@@ -106,3 +106,4 @@
 >* [从一道算法题实现一个文本diff小工具](https://segmentfault.com/a/1190000040545382)  
 >* [LearningUnrealEngine](https://github.com/ibbles/LearningUnrealEngine)  
 >* [Unity 不同空间坐标转换中的矩阵应用](https://blog.csdn.net/xinzhilinger/article/details/122209787)  
+>* [Linux源码分析](https://github.com/liexusong/linux-source-code-analyze)  
