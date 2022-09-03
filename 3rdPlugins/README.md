@@ -445,3 +445,4 @@
 * [Generate ToString method from public properties](https://github.com/Fody/ToString)  
 * [VertexAnimation](https://github.com/maxartz15/VertexAnimation)  
 * [简单高效的多边形地图系统](https://github.com/genechiu/NavMesh)  
+* [AsmdefHelper](https://github.com/naninunenoy/AsmdefHelper)  
