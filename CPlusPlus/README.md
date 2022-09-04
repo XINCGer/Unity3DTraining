@@ -102,6 +102,7 @@
 >* [xxHash Extremely fast non-cryptographic hash algorithm](https://github.com/Cyan4973/xxHash)  
 >* [gfx - A minimalist and easy to use graphics API](https://github.com/gboisse/gfx)  
 >* [Cross-platform asynchronous I/O](https://github.com/libuv/libuv)  
+>* [Cross-platform user-friendly xlsx library for C++11](https://github.com/tfussell/xlnt)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
