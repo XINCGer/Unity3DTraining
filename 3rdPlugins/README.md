@@ -446,3 +446,4 @@
 * [VertexAnimation](https://github.com/maxartz15/VertexAnimation)  
 * [简单高效的多边形地图系统](https://github.com/genechiu/NavMesh)  
 * [AsmdefHelper](https://github.com/naninunenoy/AsmdefHelper)  
+* [Unity editor tool for baking shaders to textures](https://github.com/Cyanilux/BakeShader)  
