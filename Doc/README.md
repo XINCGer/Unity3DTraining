@@ -107,3 +107,4 @@
 >* [LearningUnrealEngine](https://github.com/ibbles/LearningUnrealEngine)  
 >* [Unity 不同空间坐标转换中的矩阵应用](https://blog.csdn.net/xinzhilinger/article/details/122209787)  
 >* [Linux源码分析](https://github.com/liexusong/linux-source-code-analyze)  
+>* [腾讯：hash函数介绍](http://www.alloyteam.com/2017/05/hash-functions-introduction/)  
