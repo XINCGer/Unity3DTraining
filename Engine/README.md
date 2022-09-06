@@ -34,3 +34,7 @@
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
+
+## games104作业  
+* [作业收集1](https://github.com/1393650770/Games104-Homework)  
+* [作业收集2](https://github.com/renbiao1024/Games104_Homework)  
