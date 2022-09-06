@@ -448,3 +448,4 @@
 * [AsmdefHelper](https://github.com/naninunenoy/AsmdefHelper)  
 * [Unity editor tool for baking shaders to textures](https://github.com/Cyanilux/BakeShader)  
 * [Embedded Typed Readonly In-Memory Document Database for .NET Core and Unity](https://github.com/Cysharp/MasterMemory)  
+* [Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications](https://github.com/bezzad/Downloader)  
