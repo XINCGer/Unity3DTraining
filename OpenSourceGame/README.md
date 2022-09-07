@@ -25,3 +25,4 @@
 * [FontainebleauDemo](https://github.com/Unity-Technologies/FontainebleauDemo)  
 * [用Unity做的一个类Moba游戏Demo](https://github.com/swordjoinmagic/MoBaDemo)  
 * [HoneySelect](https://github.com/xoyojank/HoneySelect)  
+* [A 6 pack Solitaire game in Unity](https://github.com/Nichathan-Gaming/Nichathans-Solitaire-Pack)  
