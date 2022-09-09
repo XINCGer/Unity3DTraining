@@ -103,6 +103,8 @@
 >* [gfx - A minimalist and easy to use graphics API](https://github.com/gboisse/gfx)  
 >* [Cross-platform asynchronous I/O](https://github.com/libuv/libuv)  
 >* [Cross-platform user-friendly xlsx library for C++11](https://github.com/tfussell/xlnt)  
+>* [Unreal Engine hot update manage and package plugin](https://github.com/hxhb/HotPatcher)  
+
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
