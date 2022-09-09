@@ -450,3 +450,4 @@
 * [Embedded Typed Readonly In-Memory Document Database for .NET Core and Unity](https://github.com/Cysharp/MasterMemory)  
 * [Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications](https://github.com/bezzad/Downloader)  
 * [XPool - Object Pooling System for Unity](https://github.com/mackysoft/XPool)  
+* [C# Extension Methods | Over 1000 extension methods](https://github.com/zzzprojects/Z.ExtensionMethods)  
