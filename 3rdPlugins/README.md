@@ -453,3 +453,4 @@
 * [C# Extension Methods | Over 1000 extension methods](https://github.com/zzzprojects/Z.ExtensionMethods)  
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity)  
 * [Varena is a .NET library that provides a fast and lightweight arena allocator using virtual memory](https://github.com/xoofx/Varena)  
+* [Unity设备判断高中低](https://github.com/dingxiaowei/DeviceGrading)  
