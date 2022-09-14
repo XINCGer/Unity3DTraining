@@ -7,3 +7,4 @@
 >* [Voxel Plugin for Unreal Engine](https://github.com/Phyronnaz/VoxelPlugin)  
 >* [Unreal Engine 4 C++ examples](https://github.com/Harrison1/unrealcpp)  
 >* [Unreal Engine hot update manage and package plugin](https://github.com/hxhb/HotPatcher)  
+>* [Niagara UI Renderer | Free Plugin for Unreal Engine](https://github.com/SourySK/NiagaraUIRenderer)  
