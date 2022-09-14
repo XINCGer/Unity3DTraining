@@ -457,3 +457,4 @@
 * [A PBD fluid in unity running on the GPU](https://github.com/Scrawk/PBD-Fluid-in-Unity)  
 * [GUID regenerator for Unity assets](https://github.com/jeffjadulco/unity-guid-regenerator)  
 * [A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shader](https://github.com/Sergio0694/ComputeSharp)  
+* [Creative geometry for Unity](https://github.com/IxxyXR/polyhydra-upm)  
