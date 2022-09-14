@@ -455,3 +455,4 @@
 * [Varena is a .NET library that provides a fast and lightweight arena allocator using virtual memory](https://github.com/xoofx/Varena)  
 * [Unity设备判断高中低](https://github.com/dingxiaowei/DeviceGrading)  
 * [A PBD fluid in unity running on the GPU](https://github.com/Scrawk/PBD-Fluid-in-Unity)  
+* [GUID regenerator for Unity assets](https://github.com/jeffjadulco/unity-guid-regenerator)  
