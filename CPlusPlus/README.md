@@ -97,6 +97,7 @@
 >* [gfx - A minimalist and easy to use graphics API](https://github.com/gboisse/gfx)  
 >* [Cross-platform asynchronous I/O](https://github.com/libuv/libuv)  
 >* [Cross-platform user-friendly xlsx library for C++11](https://github.com/tfussell/xlnt)  
+>* [Single file collision detection and dynamics library](https://github.com/mackron/miniphysics)  
 
 
 # C++ 文章  
