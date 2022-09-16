@@ -3,6 +3,7 @@
 ### 持续集成与打包构建  
 * [Jenkins 介绍](https://www.w3cschool.cn/jenkins/jenkins-5h3228n2.html)  
 * [Jenkins官方文档](https://jenkins.io/doc/)  
+* [Jenkins分布式与并行](https://www.cnblogs.com/rxysg/p/15681774.html)  
 * [Unity3D研究院之Jenkins的使用](http://www.xuanyusong.com/archives/3349)  
 * [Unity3D使用Jenkins进行自动打包](https://www.aliyun.com/jiaocheng/794551.html)  
 * [Unity3D研究院之脚本批量打包渠道包研究](http://www.xuanyusong.com/archives/2418?utm_source=tuicool&utm_medium=referral)  
