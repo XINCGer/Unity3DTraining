@@ -459,3 +459,4 @@
 * [A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shader](https://github.com/Sergio0694/ComputeSharp)  
 * [Creative geometry for Unity](https://github.com/IxxyXR/polyhydra-upm)  
 * [Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
+* [A small extension that adds a menu item to add folders as symlinks in Unity](https://github.com/karl-/unity-symlink-utility)  
