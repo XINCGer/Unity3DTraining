@@ -463,3 +463,4 @@
 * [High Performance Computing in C# (HPCsharp)](https://github.com/DragonSpit/HPCsharp)  
 * [SPH-Water-Simulation-With-Unity](https://github.com/MahmoudKanbar/SPH-Water-Simulation-With-Unity)  
 * [DMotion - A high level Animation Framework for Unity DOTS](https://github.com/gamedev-pro/dmotion)  
+* [EasyTimeSlicing](https://github.com/aillieo/EasyTimeSlicing)  
