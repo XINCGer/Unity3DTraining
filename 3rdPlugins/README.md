@@ -462,3 +462,4 @@
 * [A small extension that adds a menu item to add folders as symlinks in Unity](https://github.com/karl-/unity-symlink-utility)  
 * [High Performance Computing in C# (HPCsharp)](https://github.com/DragonSpit/HPCsharp)  
 * [SPH-Water-Simulation-With-Unity](https://github.com/MahmoudKanbar/SPH-Water-Simulation-With-Unity)  
+* [DMotion - A high level Animation Framework for Unity DOTS](https://github.com/gamedev-pro/dmotion)  
