@@ -49,6 +49,7 @@
 >* [基于c++ & lua 实现的分布式游戏服务器框架](https://github.com/hero1s/hive)  
 >* [C++高性能分布式服务器框架](https://github.com/sylar-yin/sylar)  
 >* [A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script](https://github.com/hero1s/hive)  
+>* [MMO game server: Unity includes a 10,000 Player scene](https://github.com/surparallel/luacluster)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
