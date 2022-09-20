@@ -32,6 +32,7 @@
 * [Cross mobile platform 2D&3D C++ game engine](https://github.com/fjz13/Medusa)  
 * [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica)  
 * [FluxEngine](https://github.com/simco50/FluxEngine)  
+* [Iris is a cross-platform game engine written in modern C++](https://github.com/irisengine/iris)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
