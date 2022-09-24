@@ -465,3 +465,4 @@
 * [DMotion - A high level Animation Framework for Unity DOTS](https://github.com/gamedev-pro/dmotion)  
 * [EasyTimeSlicing](https://github.com/aillieo/EasyTimeSlicing)  
 * [Voice chat/VoIP solution for unity](https://github.com/adrenak/univoice)  
+* [C# port of the stb_image.h](https://github.com/StbSharp/StbImageSharp)  
