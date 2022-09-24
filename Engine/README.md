@@ -10,6 +10,7 @@
 ## 物理  
 * [NVIDIA PhysX SDK](https://github.com/NVIDIAGameWorks/PhysX)  
 * [NVIDIA PhysX SDK 3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)  
+* [Bullet Physics SDK](https://github.com/bulletphysics/bullet3)  
 * [A cross-platform, realtime physics engine for all .NET app](https://github.com/notgiven688/jitterphysics)  
 * [3DLineDetection](https://github.com/xiaohulugo/3DLineDetection)  
 * [ZEn NOde system - a simulation & rendering engine in nodes](https://github.com/zenustech/zeno)  
