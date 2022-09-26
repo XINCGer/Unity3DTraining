@@ -99,6 +99,7 @@
 >* [Cross-platform user-friendly xlsx library for C++11](https://github.com/tfussell/xlnt)  
 >* [Single file collision detection and dynamics library](https://github.com/mackron/miniphysics)  
 >* [C++ header-only library for generic data validation](https://github.com/evgeniums/cpp-validator)  
+>* [A General-purpose Parallel and Heterogeneous Task Programming System](https://github.com/taskflow/taskflow)  
 
 
 # C++ 文章  
