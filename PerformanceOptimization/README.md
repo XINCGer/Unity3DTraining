@@ -122,6 +122,7 @@
 >* [翻译: 如何使用 Xcode 的内存图调试器检测 iOS 内存泄漏并保留周期](https://blog.csdn.net/zgpeace/article/details/121299611)  
 >* [iOS性能调优系列：使用Instruments动态分析内存泄漏](https://www.ktanx.com/blog/p/893)  
 >* [你所需要了解的几种纹理压缩格式原理](https://mp.weixin.qq.com/s/pUbf-JhMIUWWX8OMrbQaLw)  
+>* [分享一次查找GfxDriver内存暴涨的经历](https://mp.weixin.qq.com/s/sCwBIHmr_SBtseD0u6tWHA)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
