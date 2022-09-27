@@ -123,6 +123,7 @@
 >* [iOS性能调优系列：使用Instruments动态分析内存泄漏](https://www.ktanx.com/blog/p/893)  
 >* [你所需要了解的几种纹理压缩格式原理](https://mp.weixin.qq.com/s/pUbf-JhMIUWWX8OMrbQaLw)  
 >* [分享一次查找GfxDriver内存暴涨的经历](https://mp.weixin.qq.com/s/sCwBIHmr_SBtseD0u6tWHA)  
+>* [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
