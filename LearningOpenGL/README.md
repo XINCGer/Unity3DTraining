@@ -79,6 +79,7 @@
 * [🐙 🐙图形学论文实现](https://github.com/AngelMonica126/GraphicAlgorithm)  
 * [Tooll 3 is an open source software to create realtime motion graphics](https://github.com/still-scene/t3)  
 * [【博物纳新】网格切割算法](https://mp.weixin.qq.com/s/hS-tlEdy5dsUpObrURxhiA)  
+* [游戏资源中常见的贴图类型](https://zhuanlan.zhihu.com/p/260973533)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
