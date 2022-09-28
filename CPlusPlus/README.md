@@ -100,7 +100,7 @@
 >* [Single file collision detection and dynamics library](https://github.com/mackron/miniphysics)  
 >* [C++ header-only library for generic data validation](https://github.com/evgeniums/cpp-validator)  
 >* [A General-purpose Parallel and Heterogeneous Task Programming System](https://github.com/taskflow/taskflow)  
-
+>* [nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees](https://github.com/jlblancoc/nanoflann)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
