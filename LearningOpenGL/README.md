@@ -81,6 +81,7 @@
 * [【博物纳新】网格切割算法](https://mp.weixin.qq.com/s/hS-tlEdy5dsUpObrURxhiA)  
 * [游戏资源中常见的贴图类型](https://zhuanlan.zhihu.com/p/260973533)  
 * [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
+* [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
