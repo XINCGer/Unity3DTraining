@@ -103,6 +103,7 @@
 >* [nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees](https://github.com/jlblancoc/nanoflann)  
 >* [The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)](https://github.com/ivmai/bdwgc)  
 >* [HAP video player plugin for Unity](https://github.com/keijiro/KlakHap)  
+>* [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
