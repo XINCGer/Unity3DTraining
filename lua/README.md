@@ -54,3 +54,6 @@
 ### Lua热更新  
 * [lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate)  
 * [LuaRuntimeHotfix](https://github.com/756915370/LuaRuntimeHotfix)  
+
+### Lua性能优化工具  
+* [Lua 性能分析工具 Lua profiler tool like gperftools](https://github.com/esrrhs/pLua)  
