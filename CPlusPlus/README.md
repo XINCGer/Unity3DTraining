@@ -104,6 +104,7 @@
 >* [The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)](https://github.com/ivmai/bdwgc)  
 >* [HAP video player plugin for Unity](https://github.com/keijiro/KlakHap)  
 >* [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)  
+>* [Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes](https://github.com/TheAlgorithms/C-Plus-Plus)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
