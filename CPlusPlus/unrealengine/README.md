@@ -9,3 +9,4 @@
 >* [Unreal Engine hot update manage and package plugin](https://github.com/hxhb/HotPatcher)  
 >* [Niagara UI Renderer | Free Plugin for Unreal Engine](https://github.com/SourySK/NiagaraUIRenderer)  
 >* [PluginMobileNativeCode](https://github.com/Sovahero/PluginMobileNativeCode)  
+>* [A fighting game engine written in Unreal Engine 5](https://github.com/WistfulHopes/NightSkyEngine)  
