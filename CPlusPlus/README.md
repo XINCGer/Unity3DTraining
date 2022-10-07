@@ -107,6 +107,7 @@
 >* [Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes](https://github.com/TheAlgorithms/C-Plus-Plus)  
 >* [stb single-file public domain libraries for C/C++](https://github.com/nothings/stb)  
 >* [JoltPhysics C# bindings](https://github.com/amerkoleci/JoltPhysicsSharp)  
+>* [Real-time GUI layout designer for Dear ImGui](https://github.com/Raais/ImStudio)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
