@@ -470,3 +470,4 @@
 * [AnotherThread](https://github.com/unity3d-jp/AnotherThread)  
 * [UnityDebugSheet](https://github.com/Haruma-K/UnityDebugSheet)  
 * [Runtime-Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)  
+* [Hierarchical Finite State Machine](https://github.com/AlexBlackfrost/Unity-Hierarchical-Finite-State-Machine)  
