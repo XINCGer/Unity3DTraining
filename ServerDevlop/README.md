@@ -51,6 +51,7 @@
 >* [A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script](https://github.com/hero1s/hive)  
 >* [MMO game server: Unity includes a 10,000 Player scene](https://github.com/surparallel/luacluster)  
 >* [FireNET-Deprecated master server for creating MMO games based on CRYENGINE](https://github.com/afrostalin/FireNET)  
+>* [Fully-functional open-source server implementation for Diablo 3](https://github.com/blizzless/blizzless-diiis)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
