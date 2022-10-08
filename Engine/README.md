@@ -37,6 +37,7 @@
 * [FluxEngine](https://github.com/simco50/FluxEngine)  
 * [Iris is a cross-platform game engine written in modern C++](https://github.com/irisengine/iris)  
 * [C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web)](https://github.com/Siv3D/OpenSiv3D)  
+* [Simple DirectMedia Layer (SDL) Version 2.0](https://github.com/libsdl-org/SDL)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
