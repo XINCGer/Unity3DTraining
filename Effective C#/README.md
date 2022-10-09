@@ -6,6 +6,11 @@
 >* [C#(含Unity)unsafe指针快速反射第二篇（属性篇 ）](https://zhuanlan.zhihu.com/p/552294970)  
 >* [IntPtr 结构](https://learn.microsoft.com/zh-cn/dotnet/api/System.IntPtr?view=net-5.0)  
 >* [Marshal 类](https://learn.microsoft.com/zh-cn/dotnet/api/system.runtime.interopservices.marshal?view=net-5.0)  
+
+### unsafe  
+>* [不安全代码、指针类型和函数指针](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/unsafe-code)  
+>* [unsafe（C# 参考）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/unsafe)  
+
 ### 其他  
 >* [referencesource](https://github.com/microsoft/referencesource)  
 >* [Learning Hard C# 博客原文](https://www.kancloud.cn/wizardforcel/learning-hard-csharp/111492)  
@@ -55,6 +60,7 @@
 >* [深入理解.NET中的并行编程(TPL)——多线程、异步、任务和并行计算](https://zhuanlan.zhihu.com/p/242142417)  
 >* [任务并行库 (TPL)](https://docs.microsoft.com/zh-cn/dotnet/standard/parallel-programming/task-parallel-library-tpl?redirectedfrom=MSDN)  
 >* [基于无锁的C#并发队列实现](https://www.cnblogs.com/akxmhd/p/15305868.html)  
+
 ### Roslyn  
 >* [roslyn](https://github.com/dotnet/roslyn)  
 >* [Roslynator](https://github.com/JosefPihrt/Roslynator)  
