@@ -198,3 +198,4 @@
 >* [【厚积薄发】Unity场景物体动态合批](https://mp.weixin.qq.com/s/QaL1iivo4YC8YQUV21RJ3w)  
 >* [【厚积薄发】如何判断设备是否支持64位应用](https://mp.weixin.qq.com/s/gd55jbxSAK8laV30H09kOg)  
 >* [【厚积薄发】Target API level升级到31后Android 12启动黑屏卡死](https://mp.weixin.qq.com/s/geTyGjKdoFEJMqmwtFa0rA)  
+>* [【厚积薄发】Unity应用在手机息屏或切入后台时与正常运行之间的区别](https://mp.weixin.qq.com/s/MO-MHazOix4BqVAdZs8OGA)  
