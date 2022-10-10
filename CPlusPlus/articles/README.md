@@ -9,6 +9,8 @@
 * [C++ 锁机制以及常用方法(理论+实践)](https://blog.csdn.net/qq_37457202/article/details/123543141)  
 * [C++多线程并发（五）—原子操作与无锁编程](https://cloud.tencent.com/developer/article/2030919)  
 * [无锁原子操作&CAS](https://www.cnblogs.com/wiesslibrary/p/15725559.html)  
+* [面试必备之深入理解自旋锁](https://blog.csdn.net/qq_34337272/article/details/81252853)  
+* [悲观锁和乐观锁的区别](https://blog.csdn.net/weixin_50651363/article/details/119747515)  
 
 ### 面试向  
 * [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)  
