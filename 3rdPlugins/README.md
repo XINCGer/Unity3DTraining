@@ -472,3 +472,4 @@
 * [Runtime-Monitoring](https://github.com/JohnBaracuda/Runtime-Monitoring)  
 * [Hierarchical Finite State Machine](https://github.com/AlexBlackfrost/Unity-Hierarchical-Finite-State-Machine)  
 * [Case study on fluid dynamics, Volumetric GPU-Based fluid simulator](https://github.com/Al-Asl/Fluid-Simulator)  
+* [C++11 std::mt19937_64 for C#](https://github.com/lineplay/mt19937_64_cs)  
