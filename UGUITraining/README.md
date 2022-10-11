@@ -48,3 +48,4 @@
 >* [Beautiful text outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects)  
 >* [北京UUG-UIToolkit下一代UI系统](https://developer.unity.cn/projects/63271bfbedbc2a001e6a3920)  
 >* [UniJoystick](https://github.com/Bian-Sh/UniJoystick)  
+>* [基于UGUI的栈式导航框架，仿自Flutter路由API](https://github.com/Eashiong/StackUI)  
