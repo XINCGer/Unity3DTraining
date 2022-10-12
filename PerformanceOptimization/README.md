@@ -124,6 +124,7 @@
 >* [你所需要了解的几种纹理压缩格式原理](https://mp.weixin.qq.com/s/pUbf-JhMIUWWX8OMrbQaLw)  
 >* [分享一次查找GfxDriver内存暴涨的经历](https://mp.weixin.qq.com/s/sCwBIHmr_SBtseD0u6tWHA)  
 >* [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
+>* [游戏场景剔除之剔除算法综述](https://mp.weixin.qq.com/s/nOtRNHbIKfIDfMy1s9rxTg)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
@@ -148,7 +149,6 @@
 >* [Android内存分布和优化](https://www.cnblogs.com/sevenyuan/p/13305420.html)  
 >* [iOS内存深入研究](https://www.jianshu.com/p/d4dfab95368d)  
 >* [Xcode的vmmap、VM_Tracker和Allocations的调研笔记](https://zhuanlan.zhihu.com/p/379615733)  
->* [游戏场景剔除之剔除算法综述](https://mp.weixin.qq.com/s/nOtRNHbIKfIDfMy1s9rxTg)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
