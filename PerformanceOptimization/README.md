@@ -125,6 +125,8 @@
 >* [分享一次查找GfxDriver内存暴涨的经历](https://mp.weixin.qq.com/s/sCwBIHmr_SBtseD0u6tWHA)  
 >* [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
 >* [游戏场景剔除之剔除算法综述](https://mp.weixin.qq.com/s/nOtRNHbIKfIDfMy1s9rxTg)  
+>* [ Output Particle ](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@10.2/manual/Context-OutputPrimitive.html)  
+>* [VFX Graph and High-Definition Render Pipeline](https://blog.unity.com/technology/now-available-the-spaceship-demo-project-using-vfx-graph-and-high-definition-render)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
