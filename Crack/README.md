@@ -18,6 +18,7 @@
 >* [Il2CppDumper-ZZZ](https://github.com/Asnxthaony/Il2CppDumper-ZZZ)  
 >* [ZZZRPCDumper](https://github.com/nitrog0d/ZZZRPCDumper)  
 >* [il2cppdumper doc](https://il2cppdumper.com/reverse/going-in-dry)  
+>* [uTinyRipper](https://github.com/mafaca/UtinyRipper)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
