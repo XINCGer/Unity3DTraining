@@ -60,6 +60,7 @@
 >* [深入理解.NET中的并行编程(TPL)——多线程、异步、任务和并行计算](https://zhuanlan.zhihu.com/p/242142417)  
 >* [任务并行库 (TPL)](https://docs.microsoft.com/zh-cn/dotnet/standard/parallel-programming/task-parallel-library-tpl?redirectedfrom=MSDN)  
 >* [基于无锁的C#并发队列实现](https://www.cnblogs.com/akxmhd/p/15305868.html)  
+>* [AsyncLock: an async/await-friendly locking library for C# and .NET](https://neosmart.net/blog/2017/asynclock-an-asyncawait-friendly-locking-library-for-c-and-net/)  
 
 ### Roslyn  
 >* [roslyn](https://github.com/dotnet/roslyn)  
