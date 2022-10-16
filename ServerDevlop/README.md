@@ -191,3 +191,6 @@
 
 #### ssh  
 >* [TinySSH is small server ](https://github.com/janmojzis/tinyssh)  
+
+#### 分布式  
+>* [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)  
