@@ -200,3 +200,4 @@
 >* [【厚积薄发】Target API level升级到31后Android 12启动黑屏卡死](https://mp.weixin.qq.com/s/geTyGjKdoFEJMqmwtFa0rA)  
 >* [【厚积薄发】Unity应用在手机息屏或切入后台时与正常运行之间的区别](https://mp.weixin.qq.com/s/MO-MHazOix4BqVAdZs8OGA)  
 >* [【博物纳新】URP下的OffScreen Particle Render](https://mp.weixin.qq.com/s/Qr4XUeOIi8FgIrxqWp7uog)  
+>* [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
