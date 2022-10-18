@@ -49,3 +49,4 @@
 >* [北京UUG-UIToolkit下一代UI系统](https://developer.unity.cn/projects/63271bfbedbc2a001e6a3920)  
 >* [UniJoystick](https://github.com/Bian-Sh/UniJoystick)  
 >* [基于UGUI的栈式导航框架，仿自Flutter路由API](https://github.com/Eashiong/StackUI)  
+>* [A smart solution for Safe Area in Unity](https://github.com/su10/AutoScreen-for-Unity2021)  
