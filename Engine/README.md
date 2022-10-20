@@ -18,6 +18,7 @@
 * [Bounce is a 3D physics engine for games](https://github.com/irlanrobson/bounce)  
 * [A multi core friendly rigid body physics and collision detection library suitable for games and VR applications](https://github.com/jrouwe/JoltPhysics)  
 * [A small 2D physics engine](https://github.com/erincatto/box2d-lite)  
+* [deterministic_physics 能为3D帧同步游戏提供一致性、确定性的物理引擎](https://github.com/devlinzhou/deterministic_physics)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
