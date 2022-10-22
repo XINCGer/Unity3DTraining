@@ -112,6 +112,7 @@
 >* [A fast entity component system (ECS) for C & C++](https://github.com/SanderMertens/flecs)  
 >* [The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.](https://github.com/pocoproject/poco)  
 >* [Small, portable implementation of the C11 threads API](https://github.com/tinycthread/tinycthread)  
+>* [A tiny, URL-friendly, unique string ID generator for C++, implementation of ai's nanoid](https://github.com/mcmikecreations/nanoid_cpp)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
