@@ -201,3 +201,4 @@
 >* [【厚积薄发】Unity应用在手机息屏或切入后台时与正常运行之间的区别](https://mp.weixin.qq.com/s/MO-MHazOix4BqVAdZs8OGA)  
 >* [【博物纳新】URP下的OffScreen Particle Render](https://mp.weixin.qq.com/s/Qr4XUeOIi8FgIrxqWp7uog)  
 >* [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
+>* [【厚积薄发】如何获得一个MonoBehavior类所在cs文件的路径](https://mp.weixin.qq.com/s/Sih7Nx3Z-gfvteaAPsTRRg)  
