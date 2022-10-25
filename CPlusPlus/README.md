@@ -114,6 +114,7 @@
 >* [Small, portable implementation of the C11 threads API](https://github.com/tinycthread/tinycthread)  
 >* [A tiny, URL-friendly, unique string ID generator for C++, implementation of ai's nanoid](https://github.com/mcmikecreations/nanoid_cpp)  
 >* [Webots Robot Simulator](https://github.com/cyberbotics/webots)  
+>* [SML: C++14 State Machine Library](https://github.com/boost-ext/sml)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
