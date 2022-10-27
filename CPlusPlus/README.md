@@ -115,6 +115,7 @@
 >* [A tiny, URL-friendly, unique string ID generator for C++, implementation of ai's nanoid](https://github.com/mcmikecreations/nanoid_cpp)  
 >* [Webots Robot Simulator](https://github.com/cyberbotics/webots)  
 >* [SML: C++14 State Machine Library](https://github.com/boost-ext/sml)  
+>* [EASTL](https://github.com/electronicarts/EASTL)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
