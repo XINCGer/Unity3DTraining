@@ -109,3 +109,4 @@
 >* [Linux源码分析](https://github.com/liexusong/linux-source-code-analyze)  
 >* [腾讯：hash函数介绍](http://www.alloyteam.com/2017/05/hash-functions-introduction/)  
 >* [哈希表针对冲突的两种方式优缺点是什么](https://www.zhihu.com/question/47258682)  
+>* [开放世界技术整理 #30 黑客帝国觉醒：建筑生成](https://zhuanlan.zhihu.com/p/494481350)  
