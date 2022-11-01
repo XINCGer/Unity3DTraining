@@ -481,3 +481,4 @@
 * [SDFGI](https://github.com/Fewes/SDFGI)  
 * [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser)  
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder)  
+* [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)  
