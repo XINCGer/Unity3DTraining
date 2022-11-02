@@ -117,6 +117,7 @@
 >* [SML: C++14 State Machine Library](https://github.com/boost-ext/sml)  
 >* [EASTL](https://github.com/electronicarts/EASTL)  
 >* [udp2raw](https://github.com/wangyu-/udp2raw)  
+>* [uSockets-Miniscule cross-platform eventing, networking & crypto for async applications](https://github.com/uNetworking/uSockets)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
