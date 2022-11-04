@@ -483,3 +483,4 @@
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder)  
 * [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)  
 * [BuildReportInspector](https://github.com/Unity-Technologies/BuildReportInspector)  
+* [Unity-Saver](https://github.com/IvanMurzak/Unity-Saver)  
