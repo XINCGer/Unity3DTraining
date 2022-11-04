@@ -484,3 +484,4 @@
 * [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)  
 * [BuildReportInspector](https://github.com/Unity-Technologies/BuildReportInspector)  
 * [Unity-Saver](https://github.com/IvanMurzak/Unity-Saver)  
+* [prefab-library](https://github.com/joshcamas/prefab-library)  
