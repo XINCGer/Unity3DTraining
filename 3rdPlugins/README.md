@@ -485,3 +485,4 @@
 * [BuildReportInspector](https://github.com/Unity-Technologies/BuildReportInspector)  
 * [Unity-Saver](https://github.com/IvanMurzak/Unity-Saver)  
 * [prefab-library](https://github.com/joshcamas/prefab-library)  
+* [Unity-Native-Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing)  
