@@ -12,6 +12,7 @@
 * [无锁原子操作&CAS](https://www.cnblogs.com/wiesslibrary/p/15725559.html)  
 * [面试必备之深入理解自旋锁](https://blog.csdn.net/qq_34337272/article/details/81252853)  
 * [悲观锁和乐观锁的区别](https://blog.csdn.net/weixin_50651363/article/details/119747515)  
+* [C++ 多线程（六）：std::promise/future、std::async、std:: packaged_task](https://zhuanlan.zhihu.com/p/465092056)  
 
 ### 智能指针  
 * [C++ 智能指针](https://blog.csdn.net/TABE_/article/details/117391903)  
