@@ -488,3 +488,4 @@
 * [Unity-Native-Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing)  
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation)  
 * [unity-animation](https://github.com/KleinerHacker/unity-animation)  
+* [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)  
