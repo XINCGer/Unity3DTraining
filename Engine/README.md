@@ -8,6 +8,7 @@
 
 
 ## 物理  
+* [NVIDIA PhysX SDK 5.0](https://github.com/NVIDIA-Omniverse/PhysX)  
 * [NVIDIA PhysX SDK](https://github.com/NVIDIAGameWorks/PhysX)  
 * [NVIDIA PhysX SDK 3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)  
 * [Bullet Physics SDK](https://github.com/bulletphysics/bullet3)  
