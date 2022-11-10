@@ -30,6 +30,7 @@
 * [The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2](https://github.com/ConfettiFX/The-Forge)  
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)  
 * [ShaderLab](https://github.com/BobLChen/ShaderLab)  
+* [OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)  
 
 ## 开源引擎  
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
