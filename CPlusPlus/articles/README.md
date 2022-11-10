@@ -31,6 +31,9 @@
 ### lambda表达式  
 * [09 C++ lambda表达式](https://zhuanlan.zhihu.com/p/362323262)  
 
+### 模版元编程  
+* [C++模板元编程（一）：简介](https://zhuanlan.zhihu.com/p/378356824)  
+
 ### 面试向  
 * [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)  
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
