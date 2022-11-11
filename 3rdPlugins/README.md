@@ -490,3 +490,4 @@
 * [unity-animation](https://github.com/KleinerHacker/unity-animation)  
 * [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)  
 * [Automatically setup Camera viewports from RectTransforms in Unity](https://github.com/gilzoide/unity-camera-viewport-rect)  
+* [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution)  
