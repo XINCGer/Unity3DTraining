@@ -492,3 +492,4 @@
 * [Automatically setup Camera viewports from RectTransforms in Unity](https://github.com/gilzoide/unity-camera-viewport-rect)  
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution)  
 * [Reactive systems and other utilities for Unity DOTS](https://github.com/PanMadzior/ReactiveDots)  
+* [com.unity.demoteam.mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf)  
