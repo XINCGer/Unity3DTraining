@@ -33,6 +33,7 @@
 
 ### 模版元编程  
 * [C++模板元编程（一）：简介](https://zhuanlan.zhihu.com/p/378356824)  
+* [C++模板元编程（一）：基础知识与快速排序](https://zhuanlan.zhihu.com/p/461660321)  
 
 ### 面试向  
 * [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)  
