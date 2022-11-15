@@ -13,3 +13,4 @@
 >* [Unreal Engine 5 Plugin for a variety of Tech Art Tools and features](https://github.com/Ryan-DowlingSoka/RedTechArtTools)  
 >* [Unreal Engine 5's experimental ECS plugin](https://github.com/Megafunk/MassSample)  
 >* [UnrealEngineSkyAtmosphere](https://github.com/sebh/UnrealEngineSkyAtmosphere)  
+>* [Dialogue scripting language for Unreal Engine](https://github.com/redxdev/Supertalk)  
