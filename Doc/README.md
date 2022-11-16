@@ -112,3 +112,4 @@
 >* [开放世界技术整理 #30 黑客帝国觉醒：建筑生成](https://zhuanlan.zhihu.com/p/494481350)  
 >* [3D变换的组合与分解](https://zhuanlan.zhihu.com/p/119066087)  
 >* [Unity空间坐标转换的矩阵应用](https://zhuanlan.zhihu.com/p/453431538)  
+>* [【GDCVault】《看门狗：军团》群体 AI 框架](https://zhuanlan.zhihu.com/p/463560068)  
