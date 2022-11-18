@@ -496,3 +496,4 @@
 * [FPMath-基于 FixedMath.NET 的 Q31.32 定点数数学库](https://github.com/chenwansal/FPMath)  
 * [Unity-Gyroscope-Parallax](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)  
 * [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser)  
+* [ActiveRagdoll](https://github.com/ashleve/ActiveRagdoll)  
