@@ -497,3 +497,4 @@
 * [Unity-Gyroscope-Parallax](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)  
 * [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser)  
 * [ActiveRagdoll](https://github.com/ashleve/ActiveRagdoll)  
+* [UnityWindowsFileDrag-Drop](https://github.com/Bunny83/UnityWindowsFileDrag-Drop)  
