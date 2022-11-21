@@ -12,6 +12,7 @@
 >* [unsafe（C# 参考）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/unsafe)  
 
 ### 其他  
+>* [awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)  
 >* [referencesource](https://github.com/microsoft/referencesource)  
 >* [Learning Hard C# 博客原文](https://www.kancloud.cn/wizardforcel/learning-hard-csharp/111492)  
 >* [Unity3D中使用委托和事件](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23/Delegate_EventTraining)   
