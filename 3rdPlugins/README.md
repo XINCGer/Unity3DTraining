@@ -499,3 +499,4 @@
 * [ActiveRagdoll](https://github.com/ashleve/ActiveRagdoll)  
 * [UnityWindowsFileDrag-Drop](https://github.com/Bunny83/UnityWindowsFileDrag-Drop)  
 * [NSprites-Unity DOTS Sprite Rendering Package](https://github.com/Antoshidza/NSprites)  
+* [Box2DSharp](https://github.com/Zonciu/Box2DSharp)  
