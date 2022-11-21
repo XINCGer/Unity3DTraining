@@ -44,3 +44,4 @@
 >* [Unity应用加固保护商业解决方案](https://h.virbox.com/vbp/docs/Unity3D%E5%BA%94%E7%94%A8%E4%BF%9D%E6%8A%A4/Android-Unity3D-APK%E5%8A%A0%E5%9B%BA%E6%B5%81%E7%A8%8B)  
 >* [iOS代码混淆工具](https://github.com/netyouli/WHC_ConfuseSoftware)  
 >* [视频加密程序源代码](https://github.com/talver/SuperVideo)  
+>* [lua-crypto](https://github.com/zhandouxiaojiji/lua-crypto)  
