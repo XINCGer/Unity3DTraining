@@ -123,6 +123,7 @@
 >* [rts-path-finding](https://github.com/guinzoo/rts-path-finding)  
 >* [kdtree-cpp](https://github.com/cdalitz/kdtree-cpp)  
 >* [Argument Parser for Modern C++](https://github.com/p-ranav/argparse)  
+>* [Triton Python, C++ and Java client libraries, and GRPC-generated client](https://github.com/triton-inference-server/client)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
