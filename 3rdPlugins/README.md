@@ -501,3 +501,4 @@
 * [NSprites-Unity DOTS Sprite Rendering Package](https://github.com/Antoshidza/NSprites)  
 * [Box2DSharp](https://github.com/Zonciu/Box2DSharp)  
 * [psd-parser(Photoshop Document Parser for .Net)](https://github.com/NtreevSoft/psd-parser)  
+* [Unity-AlembicToVAT](https://github.com/Gaxil/Unity-AlembicToVAT)  
