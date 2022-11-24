@@ -108,6 +108,7 @@
 
 ### PRB  
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
+* [A mesh-based PBR decal system for Unity's universal render pipeline](https://github.com/Anatta336/driven-decals)  
 
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
