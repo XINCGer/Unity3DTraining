@@ -134,6 +134,7 @@
 
 ### IncrediBuild  
 * [IncrediBuild 联合编译-教程](https://blog.csdn.net/longji/article/details/118211274)  
+* [IncrediBuild文档](https://docs.incredibuild.cn/win/latest/windows/index.html)  
 
 ### apple-silicon
 * [apple-silicon](https://developer.apple.com/documentation/apple-silicon)  
