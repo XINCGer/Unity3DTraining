@@ -15,8 +15,6 @@
 >* [unredacter](https://github.com/BishopFox/unredacter)  
 >* [免杀姿势学习、记录、复现](https://github.com/midisec/BypassAnti-Virus)  
 >* [【日常】瞎解包原神文件记录](https://blog.jixiaob.cn/?post=49)  
->* [Il2CppDumper-ZZZ](https://github.com/Asnxthaony/Il2CppDumper-ZZZ)  
->* [ZZZRPCDumper](https://github.com/nitrog0d/ZZZRPCDumper)  
 >* [il2cppdumper doc](https://il2cppdumper.com/reverse/going-in-dry)  
 >* [uTinyRipper](https://github.com/mafaca/UtinyRipper)  
 
