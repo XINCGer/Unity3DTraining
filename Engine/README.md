@@ -21,6 +21,7 @@
 * [A small 2D physics engine](https://github.com/erincatto/box2d-lite)  
 * [deterministic_physics 能为3D帧同步游戏提供一致性、确定性的物理引擎](https://github.com/devlinzhou/deterministic_physics)  
 * [FLAT- A 2D rigid body physics engine](https://github.com/yuanming-hu/FLAT)    
+* [reactphysics3d-Open source C++ physics engine library in 3D](https://github.com/DanielChappuis/reactphysics3d)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
