@@ -126,6 +126,7 @@
 >* [Triton Python, C++ and Java client libraries, and GRPC-generated client](https://github.com/triton-inference-server/client)  
 >* [cpp-btree(Modern C++ B-tree containers)](https://github.com/Kronuz/cpp-btree)  
 >* [Gource-software version control visualization](https://github.com/acaudwell/Gource)  
+>* [tinyexpr-plusplus(Tiny recursive descent expression parser, compiler, and evaluation engine for math expressions in C++)](https://github.com/Blake-Madden/tinyexpr-plusplus)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
