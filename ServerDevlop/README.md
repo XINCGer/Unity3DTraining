@@ -164,6 +164,7 @@
 #### 内网穿透  
 >* [FastTunnel - 打造人人都能搭建的内网穿透工具](https://www.cnblogs.com/springhgui/p/15005329.html)  
 >* [一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密](https://github.com/editso/fuso)  
+>* [nps-一款轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)  
 
 #### CDN与网盘  
 >* [自制网盘](https://mp.weixin.qq.com/s/7QOlqykLyzGKvE4gQDG0Xg)  
