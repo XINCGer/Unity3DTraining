@@ -205,3 +205,4 @@
 >* [【厚积薄发】编辑器在编译Shader时的报错疑问](https://mp.weixin.qq.com/s/rRh04Vzl1t91Zhk3S08FMw)  
 >* [【厚积薄发】XCode内存和UnityProfiler内存有较大差值](https://mp.weixin.qq.com/s/DM5l3NJGQqTcnoXAeMdDPQ)  
 >* [【厚积薄发】Vulkan API的性能及兼容性](https://mp.weixin.qq.com/s/qM-6en367ljtwXC_slA8RA)  
+>* [【厚积薄发】FSR-Unity-URP 1.0 的性能和兼容性问题](https://mp.weixin.qq.com/s/xN_q18AoV05XH6dqnZ-3Cg)  
