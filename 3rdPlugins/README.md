@@ -505,3 +505,4 @@
 * [WebSocketListener(A lightweight and scalable asynchronous WebSocket listener)](https://github.com/vtortola/WebSocketListener)  
 * [AIConnectors-Unity C# API connections to StableDiffusion (Automatic1111 and Replicate.com), Dall-E, GPT-3, and possibly others in the future](https://github.com/JPhilipp/AIConnectors)  
 * [OpenKCC-Open Source Kinematic Character Controller for Unity](https://github.com/nicholas-maltbie/OpenKCC)  
+* [NativeTrees-Burst compatible Octree and Quadtree for Unity](https://github.com/bartofzo/NativeTrees)  
