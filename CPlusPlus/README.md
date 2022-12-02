@@ -130,6 +130,7 @@
 >* [yasio(A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications)](https://github.com/yasio/yasio)  
 >* [Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)  
 >* [STX-C++17 & C++ 20 error-handling and utility extensions](https://github.com/lamarrr/STX)  
+>* [flatbuffers](https://github.com/google/flatbuffers)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
