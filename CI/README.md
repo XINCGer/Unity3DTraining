@@ -143,3 +143,6 @@
 ### UE  
 * [Build Unreal Engine & games with Jenkins on GKE/GCE](https://github.com/falldamagestudio/UE-Jenkins-BuildSystem)  
 
+### 加速构建  
+* [利用多进程并行化加速Unity资源构建](https://blog.uwa4d.com/archives/USparkle_Multi_process.html)  
+
