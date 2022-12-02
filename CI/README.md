@@ -145,4 +145,4 @@
 
 ### 加速构建  
 * [利用多进程并行化加速Unity资源构建](https://blog.uwa4d.com/archives/USparkle_Multi_process.html)  
-
+* [multiprocess buildpipeline for unity](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)  
