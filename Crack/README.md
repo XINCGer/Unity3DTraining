@@ -17,6 +17,7 @@
 >* [【日常】瞎解包原神文件记录](https://blog.jixiaob.cn/?post=49)  
 >* [il2cppdumper doc](https://il2cppdumper.com/reverse/going-in-dry)  
 >* [uTinyRipper](https://github.com/mafaca/UtinyRipper)  
+>* [MusicDecrypto](https://github.com/davidxuang/MusicDecrypto)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
