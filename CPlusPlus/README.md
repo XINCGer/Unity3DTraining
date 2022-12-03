@@ -131,6 +131,7 @@
 >* [Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)  
 >* [STX-C++17 & C++ 20 error-handling and utility extensions](https://github.com/lamarrr/STX)  
 >* [flatbuffers](https://github.com/google/flatbuffers)  
+>* [uvw-Header-only, event based, tiny and easy to use libuv wrapper in modern C++](https://github.com/skypjack/uvw)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
