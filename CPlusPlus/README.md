@@ -132,6 +132,9 @@
 >* [STX-C++17 & C++ 20 error-handling and utility extensions](https://github.com/lamarrr/STX)  
 >* [flatbuffers](https://github.com/google/flatbuffers)  
 
+## Shader  
+>* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
+
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
 
