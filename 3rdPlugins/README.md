@@ -507,3 +507,4 @@
 * [OpenKCC-Open Source Kinematic Character Controller for Unity](https://github.com/nicholas-maltbie/OpenKCC)  
 * [NativeTrees-Burst compatible Octree and Quadtree for Unity](https://github.com/bartofzo/NativeTrees)  
 * [SuperScience-Gems of Unity Labs for our user-base](https://github.com/Unity-Technologies/SuperScience)  
+* [Liquid-Simulation-Liquid simulation effect created in Unity](https://github.com/ivuecode/Liquid-Simulation)  
