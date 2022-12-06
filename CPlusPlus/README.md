@@ -133,6 +133,7 @@
 >* [flatbuffers](https://github.com/google/flatbuffers)  
 >* [uvw-Header-only, event based, tiny and easy to use libuv wrapper in modern C++](https://github.com/skypjack/uvw)  
 >* [minicoro-Single header asymmetric stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)  
+>* [snmalloc-Message passing based allocator](https://github.com/microsoft/snmalloc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
