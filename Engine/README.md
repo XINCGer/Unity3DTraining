@@ -51,6 +51,7 @@
 * [Simple DirectMedia Layer (SDL) Version 2.0](https://github.com/libsdl-org/SDL)  
 * [SakuraEngine 为高性能而生的游戏运行时与工具箱](https://github.com/SakuraEngine/SakuraEngine)  
 * [Utopia Game Engine 无境游戏引擎](https://github.com/Ubpa/Utopia)  
+* [KlayGE-Cross-platform open source game engine with plugin-based architecture](https://github.com/gongminmin/KlayGE)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
