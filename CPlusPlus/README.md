@@ -139,6 +139,7 @@
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
 >* [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)  
+>* [HLSLcc-DirectX shader bytecode cross compiler](https://github.com/Unity-Technologies/HLSLcc)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
