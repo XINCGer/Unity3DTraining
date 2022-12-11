@@ -511,3 +511,4 @@
 * [DungeonGenerator-Procdural dungeon generator for Unity3D](https://github.com/vazgriz/DungeonGenerator)  
 * [Html2UnityRich-能够将Html标签转化为Unity支持的富文本标签（UGUI or TextPro）](https://github.com/Wilson403/Html2UnityRich)  
 * [SimplifyPolygon](https://github.com/vanCopper/SimplifyPolygon)  
+* [asset-relations-viewer](https://github.com/innogames/asset-relations-viewer)  
