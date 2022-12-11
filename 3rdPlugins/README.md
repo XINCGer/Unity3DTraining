@@ -509,3 +509,4 @@
 * [SuperScience-Gems of Unity Labs for our user-base](https://github.com/Unity-Technologies/SuperScience)  
 * [Liquid-Simulation-Liquid simulation effect created in Unity](https://github.com/ivuecode/Liquid-Simulation)  
 * [DungeonGenerator-Procdural dungeon generator for Unity3D](https://github.com/vazgriz/DungeonGenerator)  
+* [Html2UnityRich-能够将Html标签转化为Unity支持的富文本标签（UGUI or TextPro）](https://github.com/Wilson403/Html2UnityRich)  
