@@ -45,3 +45,4 @@
 * [C++内存管理，const、mutable、static、编译过程](https://blog.csdn.net/Diligent_wu/article/details/123482018)  
 * [C++和C# struct和class的区别](https://blog.csdn.net/qq_43477024/article/details/114417191)  
 * [C++中的extern](https://blog.csdn.net/deatharthas/article/details/113769269)  
+* [C++: static](https://zhuanlan.zhihu.com/p/38305284)  
