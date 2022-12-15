@@ -207,3 +207,4 @@
 >* [【厚积薄发】Vulkan API的性能及兼容性](https://mp.weixin.qq.com/s/qM-6en367ljtwXC_slA8RA)  
 >* [【厚积薄发】FSR-Unity-URP 1.0 的性能和兼容性问题](https://mp.weixin.qq.com/s/xN_q18AoV05XH6dqnZ-3Cg)  
 >* [【厚积薄发】无法在Unreal Engine中使用C++创建Struct](https://mp.weixin.qq.com/s/YvKPIecZrbq-OhO_7O0mIA)  
+>* [【厚积薄发】关于切换场景加载耗时的优化问题](https://mp.weixin.qq.com/s/-Zwqm1gFXEPJJWqSM5S4kA)  
