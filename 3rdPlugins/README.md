@@ -516,3 +516,4 @@
 * [MotionMatching](https://github.com/nashnie/MotionMatching)  
 * [CapFrameX-Frametime capture and analysis tool](https://github.com/CXWorld/CapFrameX)  
 * [MagicOnion-Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
+* [YamlDotNet-YamlDotNet is a .NET library for YAML](https://github.com/aaubry/YamlDotNet)  
