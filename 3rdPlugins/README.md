@@ -515,3 +515,4 @@
 * [KCP C#版 线程安全，运行时无alloc，对gc无压力](https://github.com/KumoKyaku/KCP)  
 * [MotionMatching](https://github.com/nashnie/MotionMatching)  
 * [CapFrameX-Frametime capture and analysis tool](https://github.com/CXWorld/CapFrameX)  
+* [MagicOnion-Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
