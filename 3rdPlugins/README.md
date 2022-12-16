@@ -517,3 +517,4 @@
 * [CapFrameX-Frametime capture and analysis tool](https://github.com/CXWorld/CapFrameX)  
 * [MagicOnion-Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
 * [YamlDotNet-YamlDotNet is a .NET library for YAML](https://github.com/aaubry/YamlDotNet)  
+* [VYaml-The extra fast, low memory footprint YAML library for C#, focued on .NET and Unity](https://github.com/hadashiA/VYaml)  
