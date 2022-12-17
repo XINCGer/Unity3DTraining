@@ -518,3 +518,4 @@
 * [MagicOnion-Unified Realtime/API framework for .NET platform and Unity](https://github.com/Cysharp/MagicOnion)  
 * [YamlDotNet-YamlDotNet is a .NET library for YAML](https://github.com/aaubry/YamlDotNet)  
 * [VYaml-The extra fast, low memory footprint YAML library for C#, focued on .NET and Unity](https://github.com/hadashiA/VYaml)  
+* [Mixture-Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
