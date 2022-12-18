@@ -519,3 +519,4 @@
 * [YamlDotNet-YamlDotNet is a .NET library for YAML](https://github.com/aaubry/YamlDotNet)  
 * [VYaml-The extra fast, low memory footprint YAML library for C#, focued on .NET and Unity](https://github.com/hadashiA/VYaml)  
 * [Mixture-Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
+* [G-Shark-a free and open-source geometry library designed for computational designers and software developers in the Architecture, Engineering, and Construction (AEC) industry](https://github.com/GSharker/G-Shark)  
