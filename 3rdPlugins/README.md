@@ -521,3 +521,4 @@
 * [Mixture-Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime](https://github.com/alelievr/Mixture)  
 * [G-Shark-a free and open-source geometry library designed for computational designers and software developers in the Architecture, Engineering, and Construction (AEC) industry](https://github.com/GSharker/G-Shark)  
 * [UnityDataTools-Experimental tools and libraries for reading and analyzing Unity data files](https://github.com/Unity-Technologies/UnityDataTools)  
+* [Unity GPU Vector Graphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)  
