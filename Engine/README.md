@@ -55,6 +55,7 @@
 * [Utopia Game Engine 无境游戏引擎](https://github.com/Ubpa/Utopia)  
 * [KlayGE-Cross-platform open source game engine with plugin-based architecture](https://github.com/gongminmin/KlayGE)  
 * [urho3d](https://github.com/urho3d/urho3d)  
+* [defold](https://github.com/defold/defold)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
