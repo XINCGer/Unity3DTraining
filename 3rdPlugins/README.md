@@ -522,3 +522,4 @@
 * [G-Shark-a free and open-source geometry library designed for computational designers and software developers in the Architecture, Engineering, and Construction (AEC) industry](https://github.com/GSharker/G-Shark)  
 * [UnityDataTools-Experimental tools and libraries for reading and analyzing Unity data files](https://github.com/Unity-Technologies/UnityDataTools)  
 * [Unity GPU Vector Graphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)  
+* [SimpleComputeShaderHashTable-A simple, threadsafe, lock-free hash table for Unity Compute Shaders](https://github.com/b0nes164/SimpleComputeShaderHashTable)  
