@@ -524,3 +524,4 @@
 * [Unity GPU Vector Graphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)  
 * [SimpleComputeShaderHashTable-A simple, threadsafe, lock-free hash table for Unity Compute Shaders](https://github.com/b0nes164/SimpleComputeShaderHashTable)  
 * [LLVMSharp-LLVM bindings for .NET Standard written in C# using ClangSharp](https://github.com/dotnet/LLVMSharp)  
+* [HexTiles-Unity Hex Tile Editor](https://github.com/RoryDungan/HexTiles)  
