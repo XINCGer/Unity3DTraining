@@ -526,3 +526,4 @@
 * [LLVMSharp-LLVM bindings for .NET Standard written in C# using ClangSharp](https://github.com/dotnet/LLVMSharp)  
 * [HexTiles-Unity Hex Tile Editor](https://github.com/RoryDungan/HexTiles)  
 * [UniMeshCombiner-Simple Unity Mesh Combine Tool](https://github.com/sanukin39/UniMeshCombiner)  
+* [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)  
