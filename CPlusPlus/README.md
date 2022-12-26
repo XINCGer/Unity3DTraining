@@ -138,6 +138,7 @@
 >* [mimalloc](https://github.com/microsoft/mimalloc)  
 >* [simplecpp-C++ preprocessor](https://github.com/danmar/simplecpp)  
 >* [stdexec-`std::execution`, the proposed C++ framework for asynchronous and parallel programming](https://github.com/NVIDIA/stdexec)  
+>* [voronoi-A C implementation for creating 2D voronoi diagrams](https://github.com/JCash/voronoi)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
