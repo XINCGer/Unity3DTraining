@@ -9,6 +9,7 @@
 * [【Unity笔记】ShaderLab与其底层原理浅谈](https://zhuanlan.zhihu.com/p/400470713)  
 * [【笔记】Unity内存分配和回收的底层原理](https://zhuanlan.zhihu.com/p/381859536)  
 * [【Unity】Asset简介](https://zhuanlan.zhihu.com/p/411946807)  
+* [Unity如何把一个对象从内存序列化到磁盘](https://juzhen.space/post/820kmhmbt/)  
 
 
 ## 物理  
