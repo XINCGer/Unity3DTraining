@@ -139,6 +139,7 @@
 >* [simplecpp-C++ preprocessor](https://github.com/danmar/simplecpp)  
 >* [stdexec-`std::execution`, the proposed C++ framework for asynchronous and parallel programming](https://github.com/NVIDIA/stdexec)  
 >* [voronoi-A C implementation for creating 2D voronoi diagrams](https://github.com/JCash/voronoi)  
+>* [linmath.h-a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions](https://github.com/datenwolf/linmath.h)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
