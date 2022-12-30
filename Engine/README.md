@@ -5,6 +5,7 @@
 * [Unity 引擎资源管理代码分析(2)](https://cloud.tencent.com/developer/article/1005843)  
 * [Unity 引擎资源管理代码分析(3)](https://cloud.tencent.com/developer/article/1005853)  
 * [[U3D]StreamedBinaryRead::TransferSTLStyleArray崩溃分析](https://zhuanlan.zhihu.com/p/59394832)  
+* [[U3D] GetPreloadData 崩溃分析](https://zhuanlan.zhihu.com/p/113049982)  
 * [Unity技术开放日 | 绝对干货 - 揭秘Unity的黑盒世界，“ShaderLab”底层原理浅谈](https://developer.unity.cn/projects/61289638edbc2a484ade955c)  
 * [【Unity笔记】ShaderLab与其底层原理浅谈](https://zhuanlan.zhihu.com/p/400470713)  
 * [【笔记】Unity内存分配和回收的底层原理](https://zhuanlan.zhihu.com/p/381859536)  
