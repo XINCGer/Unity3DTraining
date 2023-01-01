@@ -529,3 +529,4 @@
 * [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)  
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF)  
 * [ProceduralToolkit-Procedural generation library for Unity](https://github.com/Syomus/ProceduralToolkit)  
+* [hierarchical-pathfinding](https://github.com/hugoscurti/hierarchical-pathfinding)  
