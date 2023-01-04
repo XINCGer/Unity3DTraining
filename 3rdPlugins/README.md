@@ -533,3 +533,4 @@
 * [Modular-AI Visual behaviour & AI design tool for Unity](https://github.com/Kitbashery/Modular-AI)  
 * [Netcode.IO.NET-A pure managed C# implementation of the Netcode.IO spec](https://github.com/GlaireDaggers/Netcode.IO.NET)  
 * [APKToolGUI](https://github.com/AndnixSH/APKToolGUI)  
+* [AppIconChangerUnity-Change the app icon dynamically in Unity (iOS only)](https://github.com/kyubuns/AppIconChangerUnity)  
