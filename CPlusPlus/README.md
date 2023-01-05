@@ -142,6 +142,7 @@
 >* [linmath.h-a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions](https://github.com/datenwolf/linmath.h)  
 >* [c89str-C89-compatible, single file, public domain string library](https://github.com/mackron/c89str)  
 >* [earcut.hpp-Fast, header-only polygon triangulation](https://github.com/mapbox/earcut.hpp)  
+>* [byopen-🎉A dlopen library that bypasses mobile system limitation](https://github.com/hack0z/byopen)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
