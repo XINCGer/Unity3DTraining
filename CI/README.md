@@ -87,6 +87,7 @@
 * [java.lang.Exception: The server rejected the connection: None of the protocols were accepted](https://blog.csdn.net/weixin_30652897/article/details/99595373)  
 * [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8 Download](https://www.oracle.com/java/technologies/javase-jce8-downloads.html)  
 * [Improvements to shader build times and memory usage in 2021 LTS](https://blog.unity.com/technology/2021-lts-improvements-to-shader-build-times-and-memory-usage)  
+* [AB打包参数DisableWriteTypeTree导致崩溃](https://www.cnblogs.com/ogaligong/p/15632366.html)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
