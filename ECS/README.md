@@ -12,6 +12,7 @@
 * [actors.unity](https://github.com/PixeyeHQ/actors.unity)  
 * [A fully-featured deformer system for Unity](https://github.com/keenanwoodall/Deform)  
 * [ecs-faq](https://github.com/SanderMertens/ecs-faq)  
+* [LiteEntitySystem-Pure C# HighLevel API for multiplayer games](https://github.com/RevenantX/LiteEntitySystem)  
 
 
 ## JobSystem  
