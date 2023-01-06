@@ -1,5 +1,6 @@
 ## Learning OpenGL 与计算机图形学    
 
+* [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)  
 * [https://learnopengl.com/](https://learnopengl.com/)  
 * [Learning OpenGL中文版](https://learnopengl-cn.readthedocs.io/zh/latest/)  
 * [Learning OpenGL GitBook地址](https://learnopengl-cn.github.io/)  
