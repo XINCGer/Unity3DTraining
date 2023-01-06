@@ -143,6 +143,7 @@
 >* [c89str-C89-compatible, single file, public domain string library](https://github.com/mackron/c89str)  
 >* [earcut.hpp-Fast, header-only polygon triangulation](https://github.com/mapbox/earcut.hpp)  
 >* [byopen-🎉A dlopen library that bypasses mobile system limitation](https://github.com/hack0z/byopen)  
+>* [lnav-Log file navigator](https://github.com/tstack/lnav)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
