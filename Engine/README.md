@@ -9,6 +9,7 @@
 * [Unity3D 秘籍之 开启编辑器隐藏功能](https://zhuanlan.zhihu.com/p/91011605)  
 * [[U3D]TextureStreamingJob 崩溃分析一则](https://zhuanlan.zhihu.com/p/67941302)  
 * [Unity技术开放日 | 绝对干货 - 揭秘Unity的黑盒世界，“ShaderLab”底层原理浅谈](https://developer.unity.cn/projects/61289638edbc2a484ade955c)  
+* [Unity技术开放日 | 绝对干货 - 揭秘Unity的黑盒世界，原生对象和托管对象浅谈](https://developer.unity.cn/projects/6152e4fbedbc2a0020584027)  
 * [【Unity笔记】ShaderLab与其底层原理浅谈](https://zhuanlan.zhihu.com/p/400470713)  
 * [【笔记】Unity内存分配和回收的底层原理](https://zhuanlan.zhihu.com/p/381859536)  
 * [【Unity】Asset简介](https://zhuanlan.zhihu.com/p/411946807)  
