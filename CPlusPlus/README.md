@@ -159,6 +159,7 @@
 ## Lock-free  
 >* [concurrentqueue-A fast multi-producer, multi-consumer lock-free concurrent queue for C++11](https://github.com/cameron314/concurrentqueue)  
 >* [readerwriterqueue-A fast single-producer, single-consumer lock-free queue for C++](https://github.com/cameron314/readerwriterqueue)  
+>* [queues-A public domain lock free queues implemented in C++11](https://github.com/mstump/queues)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
