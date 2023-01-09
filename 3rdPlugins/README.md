@@ -536,3 +536,4 @@
 * [AppIconChangerUnity-Change the app icon dynamically in Unity (iOS only)](https://github.com/kyubuns/AppIconChangerUnity)  
 * [An OpenAI Rest Client for Unity (UPM)](https://github.com/RageAgainstThePixel/com.openai.unity)  
 * [unity-voronoi Voronoi mesh generator](https://github.com/komietty/unity-voronoi)  
+* [PathFinding](https://github.com/GameArki/PathFinding)  
