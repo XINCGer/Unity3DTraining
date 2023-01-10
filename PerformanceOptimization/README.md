@@ -158,6 +158,9 @@
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
 * https://github.com/networm/ShaderVariantCollectionExporter  
 
+#### RenderDoc使用  
+* [Renderdoc快速入门](https://zhuanlan.zhihu.com/p/404576672)  
+
 ### 零散知识点总结  
 * 以下是Unity官方直播中的性能优化点总结:  
 （1）新版本的asset pipeline2 采用database的存取资源，英文简称 LMDB
