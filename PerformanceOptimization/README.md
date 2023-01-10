@@ -161,6 +161,7 @@
 #### RenderDoc使用  
 * [Renderdoc快速入门](https://zhuanlan.zhihu.com/p/404576672)  
 * [GPU分析工具RenderDoc使用](https://zhuanlan.zhihu.com/p/80704313)  
+* [RenderDoc使用详解](https://zhuanlan.zhihu.com/p/568990608)  
 
 ### 零散知识点总结  
 * 以下是Unity官方直播中的性能优化点总结:  
