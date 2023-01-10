@@ -210,3 +210,4 @@
 >* [【厚积薄发】关于切换场景加载耗时的优化问题](https://mp.weixin.qq.com/s/-Zwqm1gFXEPJJWqSM5S4kA)  
 >* [【厚积薄发】AssetBundle依赖打包有哪些注意点](https://mp.weixin.qq.com/s/tyyZH-f-6d4rVL204oGEiA)  
 >* [【厚积薄发】如何优化.so mmap内存占用](https://mp.weixin.qq.com/s/Z9FBP6gjBq2yPgo_TawNDA)  
+>* [【厚积薄发】URP自带的Tone mapping性能开销问题](https://mp.weixin.qq.com/s/-szl_Se9o1HFItwRDQYwWg)  
