@@ -539,3 +539,4 @@
 * [PathFinding](https://github.com/GameArki/PathFinding)  
 * [stylised-character-controller(A stylised physics based character controller made in Unity 3D)](https://github.com/joebinns/stylised-character-controller)  
 * [Skinner-Special Effects with Skinned Mesh in Unity](https://github.com/keijiro/Skinner)  
+* [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity)  
