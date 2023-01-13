@@ -12,3 +12,4 @@
 >* [MathUtilities](https://github.com/zalo/MathUtilities)  
 >* [A 2D Physics Library for Networked Games](https://github.com/ashoulson/VolatilePhysics)  
 >* [浮力与流体仿真](https://github.com/Acceyuriko/FluidSimulation)  
+>* [havok for unity](https://docs.unity3d.com/Packages/com.havok.physics@1.0/manual/index.html)  
