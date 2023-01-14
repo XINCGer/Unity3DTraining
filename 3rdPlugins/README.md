@@ -541,3 +541,4 @@
 * [Skinner-Special Effects with Skinned Mesh in Unity](https://github.com/keijiro/Skinner)  
 * [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity)  
 * [StructLinq-Implementation in C# of LINQ concept with struct](https://github.com/reegeek/StructLinq)  
+* [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)  
