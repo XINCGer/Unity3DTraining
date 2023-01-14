@@ -146,6 +146,7 @@
 >* [lnav-Log file navigator](https://github.com/tstack/lnav)  
 >* [renderdoc-RenderDoc is a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)  
 >* [hshg-2D Hierarchical Spatial Hash Grid written in C](https://github.com/supahero1/hshg)  
+>* [brpc](https://github.com/apache/brpc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
