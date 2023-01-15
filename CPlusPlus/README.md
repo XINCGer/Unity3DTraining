@@ -147,6 +147,7 @@
 >* [renderdoc-RenderDoc is a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)  
 >* [hshg-2D Hierarchical Spatial Hash Grid written in C](https://github.com/supahero1/hshg)  
 >* [brpc](https://github.com/apache/brpc)  
+>* [gc-Simple, zero-dependency garbage collection for C](https://github.com/mkirchner/gc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
