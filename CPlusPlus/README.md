@@ -150,6 +150,7 @@
 >* [gc-Simple, zero-dependency garbage collection for C](https://github.com/mkirchner/gc)  
 >* [libtree-ldd as a tree](https://github.com/haampie/libtree)  
 >* [sokol-minimal cross-platform standalone C headers](https://github.com/floooh/sokol)  
+>* [Num-Single file header only C++ implementation of BigInteger](https://github.com/983/Num)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
