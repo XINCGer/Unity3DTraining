@@ -152,6 +152,7 @@
 >* [sokol-minimal cross-platform standalone C headers](https://github.com/floooh/sokol)  
 >* [Num-Single file header only C++ implementation of BigInteger](https://github.com/983/Num)  
 >* [box2d-Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)  
+>* [movfuscator-The single instruction C compiler](https://github.com/Battelle/movfuscator)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
