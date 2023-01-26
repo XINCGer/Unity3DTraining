@@ -110,6 +110,7 @@
 >* [AssetStudio工程导入VS各种报错解决](https://blog.csdn.net/u011779938/article/details/115298633)  
 >* [Unity代码设置ios的App Icon](https://zhuanlan.zhihu.com/p/436805895)  
 >* [ui-toolkit-manual-code-examples](https://github.com/Unity-Technologies/ui-toolkit-manual-code-examples)  
+>* [ProjectWindowDetails](https://github.com/innogames/ProjectWindowDetails)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
