@@ -17,3 +17,4 @@
 >* [Build Unreal Engine & games with Jenkins on GKE/GCE](https://github.com/falldamagestudio/UE-Jenkins-BuildSystem)  
 >* [GenericMessagePlugin-A complete event system solution for Unreal Engine : Send or Receive Message everywhere](https://github.com/wangjieest/GenericMessagePlugin)  
 >* [FFMPEGMedia-FFMPEG Media Plugin for unreal engine](https://github.com/bakjos/FFMPEGMedia)  
+>* [RedTalaria-An Unreal Engine plugin providing a set of Hermes endpoints](https://github.com/cdpred/RedTalaria)  
