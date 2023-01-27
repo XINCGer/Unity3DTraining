@@ -549,3 +549,4 @@
 * [NativeHeap](https://github.com/Amarcolina/NativeHeap)  
 * [Gobie-Simple C# source generation based on custom templates](https://github.com/GobieGenerator/Gobie)  
 * [UnityBoneTools](https://github.com/ecidevilin/UnityBoneTools)  
+* [LinqGen-Alloc-free and fast replacement for Linq, with code generation](https://github.com/cathei/LinqGen)  
