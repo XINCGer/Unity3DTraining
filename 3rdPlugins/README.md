@@ -548,3 +548,4 @@
 * [Addler-Memory management system for Unity's Addressable Asset System](https://github.com/Haruma-K/Addler)  
 * [NativeHeap](https://github.com/Amarcolina/NativeHeap)  
 * [Gobie-Simple C# source generation based on custom templates](https://github.com/GobieGenerator/Gobie)  
+* [UnityBoneTools](https://github.com/ecidevilin/UnityBoneTools)  
