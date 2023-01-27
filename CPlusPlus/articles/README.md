@@ -49,3 +49,6 @@
 * [C++和C# struct和class的区别](https://blog.csdn.net/qq_43477024/article/details/114417191)  
 * [C++中的extern](https://blog.csdn.net/deatharthas/article/details/113769269)  
 * [C++: static](https://zhuanlan.zhihu.com/p/38305284)  
+
+### memory order  
+* [如何理解 C++11 的六种 memory order？](https://www.zhihu.com/question/24301047/answer/1193956492)  
