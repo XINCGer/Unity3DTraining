@@ -46,6 +46,7 @@
 * [ShaderLab](https://github.com/BobLChen/ShaderLab)  
 * [OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)  
 * [DXE-A voxel cone traced realtime Global Illumination rendering engine in dx12, wip](https://github.com/LanLou123/DXE)  
+* [MathGeoLib-A C++ library for linear algebra and geometry manipulation for computer graphics](https://github.com/juj/MathGeoLib)  
 
 ## 开源引擎  
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
