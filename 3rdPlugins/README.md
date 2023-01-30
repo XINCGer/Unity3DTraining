@@ -552,3 +552,4 @@
 * [LinqGen-Alloc-free and fast replacement for Linq, with code generation](https://github.com/cathei/LinqGen)  
 * [Unity-GUID Implementation of a persistent serializable GUID](https://github.com/stonesheltergames/Unity-GUID)  
 * [DTCompileTimeTracker-Unity editor extension which tracks compile time](https://github.com/DarrenTsung/DTCompileTimeTracker)  
+* [GraphViewBehaviorTree](https://github.com/JamesLaFritz/GraphViewBehaviorTree)  
