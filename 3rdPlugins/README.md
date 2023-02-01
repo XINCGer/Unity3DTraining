@@ -555,3 +555,4 @@
 * [GraphViewBehaviorTree](https://github.com/JamesLaFritz/GraphViewBehaviorTree)  
 * [SimdLinq](https://github.com/Cysharp/SimdLinq)  
 * [VirtualFileSystem-C#](https://github.com/Lurler/VirtualFileSystem)  
+* [CopyOnWrite](https://github.com/microsoft/CopyOnWrite)  
