@@ -554,3 +554,4 @@
 * [DTCompileTimeTracker-Unity editor extension which tracks compile time](https://github.com/DarrenTsung/DTCompileTimeTracker)  
 * [GraphViewBehaviorTree](https://github.com/JamesLaFritz/GraphViewBehaviorTree)  
 * [SimdLinq](https://github.com/Cysharp/SimdLinq)  
+* [VirtualFileSystem-C#](https://github.com/Lurler/VirtualFileSystem)  
