@@ -113,6 +113,9 @@
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
 * [A mesh-based PBR decal system for Unity's universal render pipeline](https://github.com/Anatta336/driven-decals)  
 
+### 水墨画实现  
+* [仿宋代水墨山水画风格3D渲染 Unity实现](https://zhuanlan.zhihu.com/p/602960198)  
+
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
 * [技术美术TA-庄懂b站空间](https://space.bilibili.com/6373917)   
