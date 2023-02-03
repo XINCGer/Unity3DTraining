@@ -67,6 +67,7 @@
 * [Hazel-Hazel Engine](https://github.com/TheCherno/Hazel)  
 * [turso3d](https://github.com/cadaver/turso3d)  
 * [U3D-Open-source, cross-platform 2D and 3D game engine built in C++](https://github.com/u3d-community/U3D)  
+* [halley-A lightweight game engine written in modern C++](https://github.com/amzeratul/halley)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
