@@ -117,6 +117,7 @@
 ### 水墨画实现  
 * [仿宋代水墨山水画风格3D渲染 Unity实现](https://zhuanlan.zhihu.com/p/602960198)  
 * [Okami-Celestial-Brush](https://github.com/mixandjam/Okami-Celestial-Brush)  
+* [3D_ChineseInkPaintingStyleShader](https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader)  
 
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
