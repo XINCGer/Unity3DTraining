@@ -19,3 +19,4 @@
 >* [FFMPEGMedia-FFMPEG Media Plugin for unreal engine](https://github.com/bakjos/FFMPEGMedia)  
 >* [RedTalaria-An Unreal Engine plugin providing a set of Hermes endpoints](https://github.com/cdpred/RedTalaria)  
 >* [GASDocumentation](https://github.com/tranek/GASDocumentation)  
+>* [OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal)  
