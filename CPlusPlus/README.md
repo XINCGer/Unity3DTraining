@@ -157,6 +157,7 @@
 >* [ugc-A single-header incremental garbage collector library](https://github.com/bullno1/ugc)  
 >* [sol2-C++ library binding to Lua](https://github.com/ThePhD/sol2)  
 >* [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling)  
+>* [fluxsort-A branchless stable quicksort / mergesort hybrid](https://github.com/scandum/fluxsort)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
