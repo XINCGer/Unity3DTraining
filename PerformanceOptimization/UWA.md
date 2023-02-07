@@ -213,3 +213,4 @@
 >* [【厚积薄发】URP自带的Tone mapping性能开销问题](https://mp.weixin.qq.com/s/-szl_Se9o1HFItwRDQYwWg)  
 >* [【厚积薄发】安卓包在真机上安装时的“风险提示”问题](https://mp.weixin.qq.com/s/MX7AKX7S6Y2NAEugzvofMA)  
 >* [【厚积薄发】在Runtime下，IL2CPP与Mono打包对应的PSS内存占用问题](https://mp.weixin.qq.com/s/n6VJ9yeMYt3aNOt2801C4w)  
+>* [【厚积薄发】主界面边框流动效果长时间挂机后会卡顿](https://mp.weixin.qq.com/s/Pe7zbu997rwt8D5gamBlbw)  
