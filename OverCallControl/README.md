@@ -27,3 +27,4 @@
 >* [【开发日志】《鬼山之下》前 100 个小时的制作思路分享（一）打算如何做？为什么要做？](https://mp.weixin.qq.com/s/nwtfn9GPH_OhDxAOHUJnDQ)  
 >* [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)  
 >* [游戏项目性能优化团队的建设方案和常规流程](https://zhuanlan.zhihu.com/p/603986997)  
+>* [基于团队的持续优化之道](https://zhuanlan.zhihu.com/p/36930662)  
