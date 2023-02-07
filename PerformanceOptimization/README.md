@@ -128,6 +128,7 @@
 >* [ Output Particle ](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@10.2/manual/Context-OutputPrimitive.html)  
 >* [VFX Graph and High-Definition Render Pipeline](https://blog.unity.com/technology/now-available-the-spaceship-demo-project-using-vfx-graph-and-high-definition-render)  
 >* [Unity网格内存优化](https://mp.weixin.qq.com/s/kUmeLFksQyUwqFlCNPpQeg)  
+>* [浅析Unity引擎视角下的游戏内存优化](https://zhuanlan.zhihu.com/p/603847226)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
