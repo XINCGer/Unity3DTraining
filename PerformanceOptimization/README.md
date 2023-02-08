@@ -2,6 +2,7 @@
 
 ### 目录  
 >* [UWA厚积薄发相关优化专题](./UWA.md)  
+>* [UWA2022技术分享总结](https://zhuanlan.zhihu.com/p/599878127)  
 >* [【Unity游戏开发】性能优化之在真机上开启DeepProfile与踩坑](https://www.cnblogs.com/msxh/p/11749405.html)  
 >* [About Unity Performance Tuning knowledge book](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible)  
 >* [移动全平台性能测试分析专家PerfDog性能狗](https://perfdog.qq.com/?ADTAG=media.weixin.wetest.banner1)  
