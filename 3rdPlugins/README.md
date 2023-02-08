@@ -559,3 +559,4 @@
 * [Open AI GPT-3 and DALL-E dotnet SDK](https://github.com/betalgo/openai)  
 * [LSystemsInUnity](https://github.com/pboechat/LSystemsInUnity)  
 * [CSCore - .NET Audio Library](https://github.com/filoe/cscore)  
+* [FASTER-Fast persistent recoverable log and key-value store + cache, in C# and C++](https://github.com/microsoft/FASTER)  
