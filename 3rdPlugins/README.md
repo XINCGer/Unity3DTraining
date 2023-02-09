@@ -560,3 +560,4 @@
 * [LSystemsInUnity](https://github.com/pboechat/LSystemsInUnity)  
 * [CSCore - .NET Audio Library](https://github.com/filoe/cscore)  
 * [FASTER-Fast persistent recoverable log and key-value store + cache, in C# and C++](https://github.com/microsoft/FASTER)  
+* [ProtoPromise](https://github.com/timcassell/ProtoPromise)  
