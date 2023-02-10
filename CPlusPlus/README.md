@@ -160,6 +160,7 @@
 >* [fluxsort-A branchless stable quicksort / mergesort hybrid](https://github.com/scandum/fluxsort)  
 >* [yalantinglibs-A collection of C++20 libraries, include async_simple, coro_rpc and struct_pack](https://github.com/alibaba/yalantinglibs)  
 >* [hashcat-World's fastest and most advanced password recovery utility](https://github.com/hashcat/hashcat)  
+>* [nvtop-GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
