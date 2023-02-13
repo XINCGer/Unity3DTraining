@@ -1,6 +1,7 @@
 ## 游戏加密与破解研究  
 
 ### 破解  
+>* [game-hacking Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)  
 >* [超简单的il2cpp游戏修改教程](https://www.perfare.net/659.html)  
 >* [unity游戏生成与修改so文件教程](https://www.52pojie.cn/thread-618515-1-1.html)  
 >* [游戏资源破解提取系列博客](https://blog.csdn.net/BlueEffie/category_6195048.html)  
