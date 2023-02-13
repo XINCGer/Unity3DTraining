@@ -163,6 +163,7 @@
 >* [nvtop-GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)  
 >* [fast_io-Significantly faster input/output for C++20](https://github.com/cppfastio/fast_io)  
 >* [librg-🚀 Making multi-player gamedev simpler since 2017](https://github.com/zpl-c/librg)  
+>* [zpl-📐 Pushing the boundaries of simplicity](https://github.com/zpl-c/zpl)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
