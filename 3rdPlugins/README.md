@@ -562,3 +562,4 @@
 * [FASTER-Fast persistent recoverable log and key-value store + cache, in C# and C++](https://github.com/microsoft/FASTER)  
 * [ProtoPromise](https://github.com/timcassell/ProtoPromise)  
 * [ZLogger-Zero Allocation Text/Strcutured Logger for .NET Core and Unity, built on top of a Microsoft.Extensions.Logging](https://github.com/Cysharp/ZLogger)  
+* [guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)  
