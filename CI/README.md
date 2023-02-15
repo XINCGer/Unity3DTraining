@@ -88,6 +88,7 @@
 * [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8 Download](https://www.oracle.com/java/technologies/javase-jce8-downloads.html)  
 * [Improvements to shader build times and memory usage in 2021 LTS](https://blog.unity.com/technology/2021-lts-improvements-to-shader-build-times-and-memory-usage)  
 * [AB打包参数DisableWriteTypeTree导致崩溃](https://www.cnblogs.com/ogaligong/p/15632366.html)  
+* [Openssl生成自签名证书，简单步骤](https://ningyu1.github.io/site/post/51-ssl-cert/)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
