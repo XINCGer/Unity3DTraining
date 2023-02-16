@@ -164,6 +164,7 @@
 >* [fast_io-Significantly faster input/output for C++20](https://github.com/cppfastio/fast_io)  
 >* [librg-🚀 Making multi-player gamedev simpler since 2017](https://github.com/zpl-c/librg)  
 >* [zpl-📐 Pushing the boundaries of simplicity](https://github.com/zpl-c/zpl)  
+>* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
