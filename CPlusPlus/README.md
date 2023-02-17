@@ -165,6 +165,7 @@
 >* [librg-🚀 Making multi-player gamedev simpler since 2017](https://github.com/zpl-c/librg)  
 >* [zpl-📐 Pushing the boundaries of simplicity](https://github.com/zpl-c/zpl)  
 >* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)  
+>* [msquic-Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust](https://github.com/microsoft/msquic)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
