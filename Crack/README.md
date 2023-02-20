@@ -1,4 +1,4 @@
-## 游戏加密与破解研究  
+## 加密与破解研究  
 
 ### 破解  
 >* [game-hacking Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)  
@@ -19,6 +19,7 @@
 >* [il2cppdumper doc](https://il2cppdumper.com/reverse/going-in-dry)  
 >* [uTinyRipper](https://github.com/mafaca/UtinyRipper)  
 >* [MusicDecrypto](https://github.com/davidxuang/MusicDecrypto)  
+>* [K8CScan](https://github.com/k8gege/K8CScan)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
