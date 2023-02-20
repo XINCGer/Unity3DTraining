@@ -47,3 +47,6 @@
 >* [视频加密程序源代码](https://github.com/talver/SuperVideo)  
 >* [lua-crypto](https://github.com/zhandouxiaojiji/lua-crypto)  
 >* [O-Z-Unity-Protector-An Integrated Encryption Scheme for Unity Project(Mono & IL2CPP)](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)  
+
+### 调试  
+>* [x64dbg](https://github.com/x64dbg/x64dbg)  
