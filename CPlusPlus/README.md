@@ -168,6 +168,7 @@
 >* [msquic-Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust](https://github.com/microsoft/msquic)  
 >* [crossguid-Lightweight cross platform C++ GUID/UUID library](https://github.com/graeme-hill/crossguid)  
 >* [asio2-Header only c++ network library](https://github.com/zhllxt/asio2)  
+>* [async_simple](https://github.com/alibaba/async_simple/blob/main/README_CN.md)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
