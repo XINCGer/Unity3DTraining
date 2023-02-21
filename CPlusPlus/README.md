@@ -169,6 +169,7 @@
 >* [crossguid-Lightweight cross platform C++ GUID/UUID library](https://github.com/graeme-hill/crossguid)  
 >* [asio2-Header only c++ network library](https://github.com/zhllxt/asio2)  
 >* [async_simple](https://github.com/alibaba/async_simple/blob/main/README_CN.md)  
+>* [compressonator-Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs](https://github.com/GPUOpen-Tools/compressonator)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
