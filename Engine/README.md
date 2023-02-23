@@ -72,6 +72,7 @@
 * [halley-A lightweight game engine written in modern C++](https://github.com/amzeratul/halley)  
 * [librg-🚀 Making multi-player gamedev simpler since 2017](https://github.com/zpl-c/librg)  
 * [zpl-📐 Pushing the boundaries of simplicity](https://github.com/zpl-c/zpl)  
+* [ogre-scene-oriented, flexible 3D engine (C++, Python, C#, Java)](https://github.com/OGRECave/ogre)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
