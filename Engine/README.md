@@ -36,6 +36,7 @@
 * [Chipmunk2D-A fast and lightweight 2D game physics library](https://github.com/slembcke/Chipmunk2D)  
 * [miniphysics-Single file collision detection and dynamics library](https://github.com/mackron/miniphysics)  
 * [ImpulseEngine-Simple, open source, 2D impulse based physics engine for educational use](https://github.com/RandyGaul/ImpulseEngine)  
+* [chrono-High-performance C++ library for multiphysics and multibody dynamics simulations](https://github.com/projectchrono/chrono)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
