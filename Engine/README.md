@@ -78,6 +78,9 @@
 * [zpl-📐 Pushing the boundaries of simplicity](https://github.com/zpl-c/zpl)  
 * [ogre-scene-oriented, flexible 3D engine (C++, Python, C#, Java)](https://github.com/OGRECave/ogre)  
 
+## ECS  
+* [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
+
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
 * [游戏引擎开发实录](https://www.zhihu.com/column/c_1346828552935948288)  
