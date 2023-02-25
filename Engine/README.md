@@ -27,7 +27,7 @@
 * [ZEn NOde system - a simulation & rendering engine in nodes](https://github.com/zenustech/zeno)  
 * [Voxel-based fluid simulation engine for computer games](https://github.com/CubbyFlow/CubbyFlow)  
 * [Bounce is a 3D physics engine for games](https://github.com/irlanrobson/bounce)  
-* [JoltPhysics-A multi core friendly rigid body physics and collision detection library suitable for games and VR applications](https://github.com/jrouwe/JoltPhysics)  
+* [JoltPhysics-A multi core friendly rigid body physics and collision detection library suitable for games and VR applications](https://github.com/jrouwe/JoltPhysics) 
 * [JoltPhysicsSharp-JoltPhysics C# bindings](https://github.com/amerkoleci/JoltPhysicsSharp)  
 * [A small 2D physics engine](https://github.com/erincatto/box2d-lite)  
 * [deterministic_physics 能为3D帧同步游戏提供一致性、确定性的物理引擎](https://github.com/devlinzhou/deterministic_physics)  
@@ -37,6 +37,7 @@
 * [miniphysics-Single file collision detection and dynamics library](https://github.com/mackron/miniphysics)  
 * [ImpulseEngine-Simple, open source, 2D impulse based physics engine for educational use](https://github.com/RandyGaul/ImpulseEngine)  
 * [chrono-High-performance C++ library for multiphysics and multibody dynamics simulations](https://github.com/projectchrono/chrono)  
+* [mujoco-Multi-Joint dynamics with Contact. A general purpose physics simulator](https://github.com/deepmind/mujoco)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
