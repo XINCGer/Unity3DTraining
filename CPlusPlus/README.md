@@ -174,6 +174,7 @@
 >* [cute_headers-Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games](https://github.com/RandyGaul/cute_headers)  
 >* [meta-Header-only, non-intrusive and macro-free runtime reflection system in C++](https://github.com/skypjack/meta)  
 >* [A tiny C++ obfuscation framework](https://github.com/fritzone/obfy)  
+>* [libsodium-A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
