@@ -173,6 +173,7 @@
 >* [date-A date and time library based on the C++11/14/17 <chrono> header](https://github.com/HowardHinnant/date)  
 >* [cute_headers-Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games](https://github.com/RandyGaul/cute_headers)  
 >* [meta-Header-only, non-intrusive and macro-free runtime reflection system in C++](https://github.com/skypjack/meta)  
+>* [A tiny C++ obfuscation framework](https://github.com/fritzone/obfy)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
