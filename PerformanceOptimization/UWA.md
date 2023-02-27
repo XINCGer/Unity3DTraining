@@ -216,3 +216,4 @@
 >* [【厚积薄发】主界面边框流动效果长时间挂机后会卡顿](https://mp.weixin.qq.com/s/Pe7zbu997rwt8D5gamBlbw)  
 >* [【厚积薄发】对于字体裁剪生僻字的做法](https://mp.weixin.qq.com/s/D7U0xTLc8MVD0Sa6F7b4Xg)  
 >* [【厚积薄发】纹理开启Mipmap导致压缩失败的问题](https://mp.weixin.qq.com/s/gbdvmSJzMQ9coNF_aFxuqw)  
+>* [【厚积薄发】TMP耗时较高的优化问题](https://mp.weixin.qq.com/s/pIbNUm7c9W3krGzNq7a7ww)  
