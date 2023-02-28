@@ -48,5 +48,6 @@
 >* [lua-crypto](https://github.com/zhandouxiaojiji/lua-crypto)  
 >* [O-Z-Unity-Protector-An Integrated Encryption Scheme for Unity Project(Mono & IL2CPP)](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)  
 
-### 调试  
+### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
+>* [cutter - Free and Open Source Reverse Engineering Platform powered by rizin](https://github.com/rizinorg/cutter)  
