@@ -51,3 +51,4 @@
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
 >* [cutter - Free and Open Source Reverse Engineering Platform powered by rizin](https://github.com/rizinorg/cutter)  
+>* [radare2 - UNIX-like reverse engineering framework and command-line toolset](https://github.com/radareorg/radare2)  
