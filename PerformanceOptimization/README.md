@@ -157,6 +157,7 @@
 >* [iOS内存深入研究](https://www.jianshu.com/p/d4dfab95368d)  
 >* [Xcode的vmmap、VM_Tracker和Allocations的调研笔记](https://zhuanlan.zhihu.com/p/379615733)  
 >* [UE4/UE5 动画的原理和性能优化](https://mp.weixin.qq.com/s/pesA4Wp7ktimspaOZhnrmw)  
+>* [浅谈Unity纹理串流系统Mipmap Streaming System](https://mp.weixin.qq.com/s/ES7kMAXJlYwj-SIC_yUAjQ)  
 
 #### ShaderVariant  
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路  
