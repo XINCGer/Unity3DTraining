@@ -177,6 +177,7 @@
 >* [libsodium-A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)  
 >* [cc compare-一款可替换beycond compare, 免费使用的代码同步对比工具](https://github.com/cxasm/cc-compare)  
 >* [minivm-A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)  
+>* [dbg-macro A dbg(…) macro for C++](https://github.com/sharkdp/dbg-macro)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
