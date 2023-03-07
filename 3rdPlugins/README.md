@@ -574,3 +574,4 @@
 * [VloxyEngine-Performance oriented voxel engine for unity](https://github.com/BLaZeKiLL/VloxyEngine)  
 * [InspectorGraph](https://github.com/giantparticlegames/InspectorGraph)  
 * [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int)  
+* [KinoFog-Global fog effect for Unity](https://github.com/keijiro/KinoFog)  
