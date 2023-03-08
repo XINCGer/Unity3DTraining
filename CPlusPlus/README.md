@@ -179,6 +179,7 @@
 >* [minivm-A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)  
 >* [dbg-macro A dbg(…) macro for C++](https://github.com/sharkdp/dbg-macro)  
 >* [async.h-Stackless Async Subroutines for C](https://github.com/naasking/async.h)  
+>* [pybind11](https://github.com/pybind/pybind11)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
