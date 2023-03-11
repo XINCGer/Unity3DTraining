@@ -182,6 +182,7 @@
 >* [pybind11](https://github.com/pybind/pybind11)  
 >* [Crow-A Fast and Easy to use microframework for the web](https://github.com/CrowCpp/Crow)  
 >* [ice - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more](https://github.com/zeroc-ice/ice)  
+>* [smap-DLL scatter manual mapper](https://github.com/btbd/smap)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
