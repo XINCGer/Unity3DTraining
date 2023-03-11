@@ -181,6 +181,7 @@
 >* [async.h-Stackless Async Subroutines for C](https://github.com/naasking/async.h)  
 >* [pybind11](https://github.com/pybind/pybind11)  
 >* [Crow-A Fast and Easy to use microframework for the web](https://github.com/CrowCpp/Crow)  
+>* [ice - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more](https://github.com/zeroc-ice/ice)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
