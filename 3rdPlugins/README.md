@@ -576,3 +576,4 @@
 * [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int)  
 * [KinoFog-Global fog effect for Unity](https://github.com/keijiro/KinoFog)  
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)  
+* [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  
