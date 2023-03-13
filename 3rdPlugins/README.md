@@ -577,3 +577,4 @@
 * [KinoFog-Global fog effect for Unity](https://github.com/keijiro/KinoFog)  
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)  
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  
+* [QuadSphere](https://github.com/bicarbon8/QuadSphere)  
