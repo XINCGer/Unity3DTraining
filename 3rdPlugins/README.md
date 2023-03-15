@@ -579,3 +579,4 @@
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  
 * [QuadSphere](https://github.com/bicarbon8/QuadSphere)  
 * [Deform - A fully-featured deformer system for Unity](https://github.com/keenanwoodall/Deform)  
+* [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)  
