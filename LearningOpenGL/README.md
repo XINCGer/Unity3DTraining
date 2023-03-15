@@ -84,6 +84,7 @@
 * [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
 * [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 * [Unity空间坐标转换的矩阵应用](https://zhuanlan.zhihu.com/p/453431538)  
+* [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
