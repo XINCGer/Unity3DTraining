@@ -582,3 +582,4 @@
 * [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)  
 * [AIShader - ChatGPT-powered shader generator for Unity](https://github.com/keijiro/AIShader)  
 * [PopUnitySockets](https://github.com/NewChromantics/PopUnitySockets)  
+* [BackgroundDownload - Plugins for mobile platforms to enable file downloads in background](https://github.com/Unity-Technologies/BackgroundDownload)  
