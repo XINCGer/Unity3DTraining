@@ -580,3 +580,4 @@
 * [QuadSphere](https://github.com/bicarbon8/QuadSphere)  
 * [Deform - A fully-featured deformer system for Unity](https://github.com/keenanwoodall/Deform)  
 * [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)  
+* [AIShader - ChatGPT-powered shader generator for Unity](https://github.com/keijiro/AIShader)  
