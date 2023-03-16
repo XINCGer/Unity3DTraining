@@ -581,3 +581,4 @@
 * [Deform - A fully-featured deformer system for Unity](https://github.com/keenanwoodall/Deform)  
 * [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)  
 * [AIShader - ChatGPT-powered shader generator for Unity](https://github.com/keijiro/AIShader)  
+* [PopUnitySockets](https://github.com/NewChromantics/PopUnitySockets)  
