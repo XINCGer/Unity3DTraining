@@ -184,6 +184,7 @@
 >* [ice - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more](https://github.com/zeroc-ice/ice)  
 >* [smap-DLL scatter manual mapper](https://github.com/btbd/smap)  
 >* [UnityRenderStreaming](https://github.com/Luis797/UnityRenderStreaming)  
+>* [yoga - a cross-platform layout engine which implements Flexbox](https://github.com/facebook/yoga)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
