@@ -47,6 +47,7 @@
 >* [视频加密程序源代码](https://github.com/talver/SuperVideo)  
 >* [lua-crypto](https://github.com/zhandouxiaojiji/lua-crypto)  
 >* [O-Z-Unity-Protector-An Integrated Encryption Scheme for Unity Project(Mono & IL2CPP)](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)  
+>* [ConfuserEx - An open-source, free protector for .NET applications](https://github.com/mkaring/ConfuserEx)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
