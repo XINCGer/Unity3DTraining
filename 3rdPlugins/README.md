@@ -585,3 +585,4 @@
 * [BackgroundDownload - Plugins for mobile platforms to enable file downloads in background](https://github.com/Unity-Technologies/BackgroundDownload)  
 * [Synthic](https://github.com/rhedgeco/Synthic)  
 * [MonoGame - One framework for creating powerful cross-platform games](https://github.com/MonoGame/MonoGame)  
+* [Metatex - Metadata-only texture importer for Unity](https://github.com/keijiro/Metatex)  
