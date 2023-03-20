@@ -185,6 +185,7 @@
 >* [smap-DLL scatter manual mapper](https://github.com/btbd/smap)  
 >* [UnityRenderStreaming](https://github.com/Luis797/UnityRenderStreaming)  
 >* [yoga - a cross-platform layout engine which implements Flexbox](https://github.com/facebook/yoga)  
+>* [cpp-lazy](https://github.com/MarcDirven/cpp-lazy)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
