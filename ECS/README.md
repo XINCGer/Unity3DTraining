@@ -23,3 +23,4 @@
 * [Unity中文社区 Job System教程](https://developer.unity.cn/projects/61f68b70edbc2a16f7df9e83)  
 * [IJob API Document](https://docs.unity3d.com/2023.1/Documentation/ScriptReference/Unity.Jobs.IJob.html)  
 * [C# Job System Manual](https://docs.unity3d.com/2023.1/Documentation/Manual/JobSystem.html)  
+* [Unity JobSystem使用及技巧](https://www.cnblogs.com/FlyingZiming/p/17241013.html)  
