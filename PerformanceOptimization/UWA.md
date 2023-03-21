@@ -218,3 +218,4 @@
 >* [【厚积薄发】纹理开启Mipmap导致压缩失败的问题](https://mp.weixin.qq.com/s/gbdvmSJzMQ9coNF_aFxuqw)  
 >* [【厚积薄发】TMP耗时较高的优化问题](https://mp.weixin.qq.com/s/pIbNUm7c9W3krGzNq7a7ww)  
 >* [【厚积薄发】SRP合批问题](https://mp.weixin.qq.com/s/0ODTyT1g-_m6cwzVU8rOCQ)  
+>* [【厚积薄发】MeshRenderer如何使用GPU Instancing的材质球正常合批](https://mp.weixin.qq.com/s/X82kUv252UYDsqCvCdiDQw)  
