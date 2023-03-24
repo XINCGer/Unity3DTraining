@@ -41,3 +41,4 @@
 * [mir2 - Legend of Mir 2 - Official Public Crystal Source](https://github.com/Suprcode/mir2)  
 * [UnityMultiplayerARPG_MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)  
 * [Unity-TheWorldBeyond](https://github.com/oculus-samples/Unity-TheWorldBeyond)  
+* [ViZDoom](https://github.com/Farama-Foundation/ViZDoom)  
