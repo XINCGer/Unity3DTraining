@@ -590,3 +590,4 @@
 * [interprocess - A cross-platform shared memory queue for fast communication between processes](https://github.com/cloudtoid/interprocess)  
 * [UnityBoundingVolumeHeirachy(BVH)](https://github.com/rossborchers/UnityBoundingVolumeHeirachy)  
 * [UnityWebSocket](https://github.com/psygames/UnityWebSocket)  
+* [C-Sharp algorithms - All algorithms implemented in C#](https://github.com/TheAlgorithms/C-Sharp)  
