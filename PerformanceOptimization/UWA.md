@@ -219,3 +219,4 @@
 >* [【厚积薄发】TMP耗时较高的优化问题](https://mp.weixin.qq.com/s/pIbNUm7c9W3krGzNq7a7ww)  
 >* [【厚积薄发】SRP合批问题](https://mp.weixin.qq.com/s/0ODTyT1g-_m6cwzVU8rOCQ)  
 >* [【厚积薄发】MeshRenderer如何使用GPU Instancing的材质球正常合批](https://mp.weixin.qq.com/s/X82kUv252UYDsqCvCdiDQw)  
+>* [【厚积薄发】Unity升级后打包AssetBundle变慢](https://mp.weixin.qq.com/s/7QzSktfHJdVQE5c9f5Z_Wg)  
