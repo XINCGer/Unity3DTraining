@@ -186,6 +186,7 @@
 >* [UnityRenderStreaming](https://github.com/Luis797/UnityRenderStreaming)  
 >* [yoga - a cross-platform layout engine which implements Flexbox](https://github.com/facebook/yoga)  
 >* [cpp-lazy](https://github.com/MarcDirven/cpp-lazy)  
+>* [cpp-rotor](https://github.com/basiliscos/cpp-rotor)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
