@@ -42,3 +42,4 @@
 * [UnityMultiplayerARPG_MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)  
 * [Unity-TheWorldBeyond](https://github.com/oculus-samples/Unity-TheWorldBeyond)  
 * [ViZDoom](https://github.com/Farama-Foundation/ViZDoom)  
+* [Darklings-FightingGame](https://github.com/kidagine/Darklings-FightingGame)  
