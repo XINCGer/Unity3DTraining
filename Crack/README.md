@@ -1,5 +1,7 @@
 ## 加密与破解研究  
 
+* [awesome-game-security](https://github.com/gmh5225/awesome-game-security)  
+
 ### 破解  
 >* [game-hacking Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)  
 >* [超简单的il2cpp游戏修改教程](https://www.perfare.net/659.html)  
