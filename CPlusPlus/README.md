@@ -188,6 +188,7 @@
 >* [cpp-lazy](https://github.com/MarcDirven/cpp-lazy)  
 >* [cpp-rotor](https://github.com/basiliscos/cpp-rotor)  
 >* [rres - A simple and easy-to-use file-format to package resources](https://github.com/raysan5/rres)  
+>* [raylib - A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
