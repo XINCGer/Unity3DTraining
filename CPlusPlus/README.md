@@ -187,6 +187,7 @@
 >* [yoga - a cross-platform layout engine which implements Flexbox](https://github.com/facebook/yoga)  
 >* [cpp-lazy](https://github.com/MarcDirven/cpp-lazy)  
 >* [cpp-rotor](https://github.com/basiliscos/cpp-rotor)  
+>* [rres - A simple and easy-to-use file-format to package resources](https://github.com/raysan5/rres)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
