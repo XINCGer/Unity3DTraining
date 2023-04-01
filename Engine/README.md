@@ -87,6 +87,7 @@
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
 * [游戏引擎开发实录](https://www.zhihu.com/column/c_1346828552935948288)  
 * [手摇虚幻引擎](https://www.zhihu.com/column/c_1358890091050606592)  
+* [次世代游戏引擎中的 I/O（序）：迈向 DirectStorage](https://zhuanlan.zhihu.com/p/605381512)  
 
 ## games104作业  
 * [作业收集1](https://github.com/1393650770/Games104-Homework)  
