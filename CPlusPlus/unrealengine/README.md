@@ -21,3 +21,4 @@
 >* [GASDocumentation](https://github.com/tranek/GASDocumentation)  
 >* [OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal)  
 >* [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding)  
+>* [UltimateStarterKit](https://github.com/hfjooste/UltimateStarterKit)  
