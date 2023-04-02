@@ -597,3 +597,4 @@
 * [NativeOctree - An Octree Native Collection for Unity DOTS](https://github.com/marijnz/NativeOctree)  
 * [AsmdefHelper - Unity assembly definition utilities](https://github.com/naninunenoy/AsmdefHelper)  
 * [2D-Platform-Controller](https://github.com/david-reborn/2D-Platform-Controller)  
+* [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare)  
