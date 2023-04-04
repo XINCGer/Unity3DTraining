@@ -599,3 +599,4 @@
 * [2D-Platform-Controller](https://github.com/david-reborn/2D-Platform-Controller)  
 * [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare)  
 * [Ebook-Unity-AIProgramming](https://github.com/MinaPecheux/Ebook-Unity-AIProgramming)  
+* [Imaginator4Unity](https://github.com/NeogeneAI/Imaginator4Unity)  
