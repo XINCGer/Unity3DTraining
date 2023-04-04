@@ -598,3 +598,4 @@
 * [AsmdefHelper - Unity assembly definition utilities](https://github.com/naninunenoy/AsmdefHelper)  
 * [2D-Platform-Controller](https://github.com/david-reborn/2D-Platform-Controller)  
 * [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare)  
+* [Ebook-Unity-AIProgramming](https://github.com/MinaPecheux/Ebook-Unity-AIProgramming)  
