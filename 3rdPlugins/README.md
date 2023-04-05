@@ -600,3 +600,4 @@
 * [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare)  
 * [Ebook-Unity-AIProgramming](https://github.com/MinaPecheux/Ebook-Unity-AIProgramming)  
 * [Imaginator4Unity](https://github.com/NeogeneAI/Imaginator4Unity)  
+* [AISkyboxGenerator](https://github.com/CatDarkGame/AISkyboxGenerator)  
