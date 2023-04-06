@@ -110,6 +110,7 @@
 * [从内置转为通用渲染管线，看这个教程就够了](https://mp.weixin.qq.com/s/cee2swWWM_05lfuoQSnn8Q)  
 * [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)  
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  
+* [Boat-Simulation](https://github.com/corentin-ryr/Boat-Simulation)  
 
 ### PRB  
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
