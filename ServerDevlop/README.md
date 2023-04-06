@@ -205,3 +205,6 @@
 
 #### 分布式  
 >* [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)  
+
+#### 数据库  
+>* [ravendb - ACID Document Database](https://github.com/ravendb/ravendb)  
