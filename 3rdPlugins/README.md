@@ -601,3 +601,4 @@
 * [Ebook-Unity-AIProgramming](https://github.com/MinaPecheux/Ebook-Unity-AIProgramming)  
 * [Imaginator4Unity](https://github.com/NeogeneAI/Imaginator4Unity)  
 * [AISkyboxGenerator](https://github.com/CatDarkGame/AISkyboxGenerator)  
+* [FastScriptReload](https://github.com/handzlikchris/FastScriptReload)  
