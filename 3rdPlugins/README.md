@@ -602,3 +602,4 @@
 * [Imaginator4Unity](https://github.com/NeogeneAI/Imaginator4Unity)  
 * [AISkyboxGenerator](https://github.com/CatDarkGame/AISkyboxGenerator)  
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload)  
+* [Unity3D.IncrementalCompiler - Unity3D Incremental C# Compiler using Roslyn](https://github.com/SaladLab/Unity3D.IncrementalCompiler)  
