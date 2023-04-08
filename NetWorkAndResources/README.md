@@ -32,4 +32,5 @@
 >* [Sending a form to an HTTP server (POST)](https://docs.unity3d.com/2019.4/Documentation/Manual/UnityWebRequest-SendingForm.html)  
 >* [[python]初探socket](https://www.233tw.com/unity/57149)  
 >* [Unity3D使用Socket.IO](http://www.luohanjie.com/2019-07-25/socket-io-for-unity3d.html)  
+>* [《Exploring in UE4》Unreal回放系统剖析](https://mp.weixin.qq.com/s/k0dPE3_2DTUolcaPPAlKpA)  
 
