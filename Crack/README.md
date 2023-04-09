@@ -22,6 +22,7 @@
 >* [uTinyRipper](https://github.com/mafaca/UtinyRipper)  
 >* [MusicDecrypto](https://github.com/davidxuang/MusicDecrypto)  
 >* [K8CScan](https://github.com/k8gege/K8CScan)  
+>* [lamda-史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架](https://github.com/rev1si0n/lamda)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
