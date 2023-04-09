@@ -55,6 +55,7 @@
 * [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)  
 * [embree](https://github.com/embree/embree)  
 * [openmoonray](https://github.com/dreamworksanimation/openmoonray)  
+* [renderer-A shader-based software renderer written from scratch in C89](https://github.com/zauonlok/renderer)  
 
 ## 开源引擎  
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
