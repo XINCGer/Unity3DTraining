@@ -85,6 +85,7 @@
 * [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 * [Unity空间坐标转换的矩阵应用](https://zhuanlan.zhihu.com/p/453431538)  
 * [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)  
+* [Unity 技术开放日 | 绝对干货 - 基于Unity Probe的大世界GI方案](https://developer.unity.cn/projects/60efe674edbc2a0159e317cf)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
@@ -111,6 +112,7 @@
 * [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)  
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  
 * [Boat-Simulation](https://github.com/corentin-ryr/Boat-Simulation)  
+
 
 ### PRB  
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
