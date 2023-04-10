@@ -22,3 +22,4 @@
 >* [OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal)  
 >* [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding)  
 >* [UltimateStarterKit](https://github.com/hfjooste/UltimateStarterKit)  
+>* [channeld-ue-plugin 为虚幻引擎专用服务器提供分布式模拟能力的开源插件](https://github.com/metaworking/channeld-ue-plugin)  
