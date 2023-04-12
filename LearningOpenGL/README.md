@@ -73,7 +73,6 @@
 * [【源码】基于《原神》模型,Unity的StandardShader分析](https://mp.weixin.qq.com/s/Z6pc6gNMCAT8ukicWtrXQg)  
 * [[源码]菜鸡都能学会的Unity卡通水渲染](https://mp.weixin.qq.com/s/4DU1N2NATPO24BpOt6Ggwg)  
 * [全局光照引擎：烘焙器构件与反射构件](https://mp.weixin.qq.com/s/_WB_3ILs0rOP8Snpvk90tA)  
-* [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
 * [Minimal Compute Shader Examples](https://github.com/cinight/MinimalCompute)  
 * [[源码]详解Cubemap、IBL与球谐光照](https://mp.weixin.qq.com/s/60-c4eXnW53RUWBFewPfNQ)  
 * [Untiy Chinese Painting Rendering](https://github.com/boringsky/Unity_ChinesePainting)  
@@ -85,7 +84,6 @@
 * [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 * [Unity空间坐标转换的矩阵应用](https://zhuanlan.zhihu.com/p/453431538)  
 * [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)  
-* [Unity 技术开放日 | 绝对干货 - 基于Unity Probe的大世界GI方案](https://developer.unity.cn/projects/60efe674edbc2a0159e317cf)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
@@ -131,3 +129,7 @@
 * [Physically Based Rendering - 3rd Edition](http://www.pbr-book.org/3ed-2018/contents.html)  
 * [Games101笔记](https://www.cnblogs.com/somedayLi/category/1645593.html)  
 
+### GI  
+* [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)  
+* [Unity 技术开放日 | 绝对干货 - 基于Unity Probe的大世界GI方案](https://developer.unity.cn/projects/60efe674edbc2a0159e317cf)  
+* [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
