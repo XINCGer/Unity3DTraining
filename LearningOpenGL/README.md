@@ -94,7 +94,6 @@
 * [A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)  
 * [[Unity]URP排坑 持续更新](https://blog.glowtree.cn/blog/?p=415)  
 * [Unity的URP项目开启](https://blog.csdn.net/zakerhero/article/details/106160451)  
-* [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
 * [Unity URP/SRP 渲染管线浅入深出【匠】](https://mp.weixin.qq.com/s/i4smZfIkbGfFxTKvlz4eZQ)  
 * [【Unity】SRP底层渲染流程及原理](https://mp.weixin.qq.com/s/EAlFztuMZ2xwyzK02NyfSg)  
 * [狐狸菌的urp教程](https://fungusfox.gitee.io/tags/urp/)  
@@ -133,3 +132,4 @@
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)  
 * [Unity 技术开放日 | 绝对干货 - 基于Unity Probe的大世界GI方案](https://developer.unity.cn/projects/60efe674edbc2a0159e317cf)  
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
+* [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
