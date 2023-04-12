@@ -133,3 +133,4 @@
 * [Unity 技术开放日 | 绝对干货 - 基于Unity Probe的大世界GI方案](https://developer.unity.cn/projects/60efe674edbc2a0159e317cf)  
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
 * [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
+* [SDFGI](https://www.docdroid.net/ILIv1Qj/godot-sdfgi-plan-for-41-pdf)  
