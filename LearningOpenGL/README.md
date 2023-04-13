@@ -134,3 +134,4 @@
 * [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
 * [新版unity2019.3 全局光照GI 系统以及反射探针的详细说明教程](https://blog.csdn.net/lengyoumo/article/details/103910249)  
 * [SDFGI](https://www.docdroid.net/ILIv1Qj/godot-sdfgi-plan-for-41-pdf)  
+* [LuxGI - Hybrid GI solution, based on DDGI](https://github.com/flwmxd/LuxGI)  
