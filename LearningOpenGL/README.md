@@ -136,3 +136,4 @@
 * [SDFGI](https://www.docdroid.net/ILIv1Qj/godot-sdfgi-plan-for-41-pdf)  
 * [LuxGI - Hybrid GI solution, based on DDGI](https://github.com/flwmxd/LuxGI)  
 * [gi-study](https://github.com/JMS55/gi-study)  
+* [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
