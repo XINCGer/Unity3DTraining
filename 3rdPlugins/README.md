@@ -603,3 +603,4 @@
 * [AISkyboxGenerator](https://github.com/CatDarkGame/AISkyboxGenerator)  
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload)  
 * [Unity3D.IncrementalCompiler - Unity3D Incremental C# Compiler using Roslyn](https://github.com/SaladLab/Unity3D.IncrementalCompiler)  
+* [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
