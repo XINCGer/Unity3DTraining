@@ -605,3 +605,4 @@
 * [Unity3D.IncrementalCompiler - Unity3D Incremental C# Compiler using Roslyn](https://github.com/SaladLab/Unity3D.IncrementalCompiler)  
 * [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh)  
+* [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer)  
