@@ -222,3 +222,4 @@
 >* [【厚积薄发】Unity升级后打包AssetBundle变慢](https://mp.weixin.qq.com/s/7QzSktfHJdVQE5c9f5Z_Wg)  
 >* [【厚积薄发】Addressable卸载AssetBundle失效的疑惑](https://mp.weixin.qq.com/s/21jPOzOe6wdZ9XnfavSafw)  
 >* [【厚积薄发】ParticleSystem中的Culling Mode对耗时有怎样的影响](https://mp.weixin.qq.com/s/908MWlcaSE4gTOtT331uhA)  
+>* [【厚积薄发】获得将要生成的资源的GUID](https://mp.weixin.qq.com/s/zL2eU4Iy1JENBpGoW9t4nQ)  
