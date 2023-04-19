@@ -190,6 +190,7 @@
 >* [rres - A simple and easy-to-use file-format to package resources](https://github.com/raysan5/rres)  
 >* [raylib - A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)  
 >* [CV-CUDA](https://github.com/CVCUDA/CV-CUDA)  
+>* [terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
