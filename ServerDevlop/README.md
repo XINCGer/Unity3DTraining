@@ -85,6 +85,7 @@
 >* [nginx之日志路径配置小知识点](https://www.cnblogs.com/ybinshi/p/15701408.html)  
 >* [nginx-1.19.10 源码阅读，分析关键组件与核心运转流程， 并使用图例进行描述](https://github.com/SmartKeyerror/reading-source-code-of-nginx-1.19.10)  
 >* [hfs](https://github.com/rejetto/hfs)  
+>* [hfs2](https://github.com/rejetto/hfs2)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
