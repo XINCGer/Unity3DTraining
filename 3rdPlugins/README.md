@@ -606,3 +606,4 @@
 * [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh)  
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer)  
+* [NSprites-Unity DOTS Sprite Rendering Package](https://github.com/Antoshidza/NSprites)  
