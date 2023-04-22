@@ -202,6 +202,7 @@
 #### Git
 >* [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)  
 >* [在群晖使用Docker安装Gitlab中文版教程](https://wp.gxnas.com/12901.html)  
+>* [Nas码农篇：群晖Docker安装Gitlab](https://zhuanlan.zhihu.com/p/109834567)  
 
 #### ssh  
 >* [TinySSH is small server ](https://github.com/janmojzis/tinyssh)  
