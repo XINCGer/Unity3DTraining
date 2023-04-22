@@ -43,3 +43,4 @@
 * [Unity-TheWorldBeyond](https://github.com/oculus-samples/Unity-TheWorldBeyond)  
 * [ViZDoom](https://github.com/Farama-Foundation/ViZDoom)  
 * [Darklings-FightingGame](https://github.com/kidagine/Darklings-FightingGame)  
+* [Etherboy](https://github.com/loomnetwork/Etherboy)  
