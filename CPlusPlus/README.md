@@ -191,6 +191,7 @@
 >* [raylib - A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)  
 >* [CV-CUDA](https://github.com/CVCUDA/CV-CUDA)  
 >* [terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)  
+>* [rsync](https://github.com/WayneD/rsync)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
