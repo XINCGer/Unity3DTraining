@@ -15,6 +15,7 @@
 * [LiteEntitySystem-Pure C# HighLevel API for multiplayer games](https://github.com/RevenantX/LiteEntitySystem)  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS)  
+* [gaia-ecs](https://github.com/richardbiely/gaia-ecs)  
 
 
 ## JobSystem  
