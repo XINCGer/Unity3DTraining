@@ -137,6 +137,7 @@
 * [LuxGI - Hybrid GI solution, based on DDGI](https://github.com/flwmxd/LuxGI)  
 * [gi-study](https://github.com/JMS55/gi-study)  
 * [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
+* [SEGI-A fully-dynamic voxel-based global illumination system for Unity](https://github.com/sonicether/SEGI)  
 
 ### Volume
 * [UnityVolumeCloud](https://github.com/ShaderFallback/UnityVolumeCloud)  
