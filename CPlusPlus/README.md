@@ -193,6 +193,7 @@
 >* [terminalvideoplayer](https://github.com/TheRealOrange/terminalvideoplayer)  
 >* [rsync](https://github.com/WayneD/rsync)  
 >* [c11threads](https://github.com/jtsiomb/c11threads)  
+>* [firebuild](https://github.com/firebuild/firebuild)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
