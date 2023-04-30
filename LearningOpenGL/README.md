@@ -141,6 +141,7 @@
 
 ### Volume
 * [UnityVolumeCloud](https://github.com/ShaderFallback/UnityVolumeCloud)  
+* [unity-voxel](https://github.com/mattatz/unity-voxel)  
 
 ### AO  
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)  
