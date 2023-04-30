@@ -610,3 +610,4 @@
 * [SocoTools-Crossous's unity tools，currently contains shader variant stripper tools](https://github.com/crossous/SocoTools)  
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper)  
 * [UnityDbgDraw](https://github.com/pschraut/UnityDbgDraw)  
+* [unity-voxel](https://github.com/mattatz/unity-voxel)  
