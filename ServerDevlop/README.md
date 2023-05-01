@@ -205,6 +205,7 @@
 >* [Nas码农篇：群晖Docker安装Gitlab](https://zhuanlan.zhihu.com/p/109834567)  
 >* [使用docker方式安装的gitlab配置ssh](https://blog.csdn.net/xiang1009/article/details/124429180)  
 >* [在极狐Gitlab中使用lfs](https://forum.gitlab.cn/t/topic/1292)  
+>* [修改Docker部署gitlab的外部访问地址和端口](https://blog.csdn.net/lanwilliam/article/details/125866850)  
 
 #### ssh  
 >* [TinySSH is small server ](https://github.com/janmojzis/tinyssh)  
