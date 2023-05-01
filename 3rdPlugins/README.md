@@ -612,3 +612,4 @@
 * [UnityDbgDraw](https://github.com/pschraut/UnityDbgDraw)  
 * [unity-voxel](https://github.com/mattatz/unity-voxel)  
 * [PlayHooky-C# Runtime Hooking Library for .NET/Mono/Unity](https://github.com/wledfor2/PlayHooky)  
+* [KNN-Fast K-Nearest Neighbour Library for Unity DOTS](https://github.com/ArthurBrussee/KNN)  
