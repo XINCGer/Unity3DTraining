@@ -614,3 +614,4 @@
 * [PlayHooky-C# Runtime Hooking Library for .NET/Mono/Unity](https://github.com/wledfor2/PlayHooky)  
 * [KNN-Fast K-Nearest Neighbour Library for Unity DOTS](https://github.com/ArthurBrussee/KNN)  
 * [GameWork-Foundation](https://github.com/FronkonGames/GameWork-Foundation)  
+* [FastDeepCloner](https://github.com/AlenToma/FastDeepCloner)  
