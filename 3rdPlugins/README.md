@@ -615,3 +615,4 @@
 * [KNN-Fast K-Nearest Neighbour Library for Unity DOTS](https://github.com/ArthurBrussee/KNN)  
 * [GameWork-Foundation](https://github.com/FronkonGames/GameWork-Foundation)  
 * [FastDeepCloner](https://github.com/AlenToma/FastDeepCloner)  
+* [box2d-netstandard](https://github.com/codingben/box2d-netstandard)  
