@@ -98,3 +98,6 @@
 ## games104作业  
 * [作业收集1](https://github.com/1393650770/Games104-Homework)  
 * [作业收集2](https://github.com/renbiao1024/Games104_Homework)  
+
+## Games104文章  
+* [引擎的多任务，该如何高效管理？](https://mp.weixin.qq.com/s/ERJHUxG_3mIcGChOEuVYhw)  
