@@ -101,3 +101,4 @@
 
 ## Games104文章  
 * [引擎的多任务，该如何高效管理？](https://mp.weixin.qq.com/s/ERJHUxG_3mIcGChOEuVYhw)  
+* [一文详解游戏引擎中的JobSystem](https://mp.weixin.qq.com/s/cVxZtvQ8jVGHUH3jHLq4Dg)  
