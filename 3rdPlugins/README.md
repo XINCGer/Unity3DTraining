@@ -616,3 +616,4 @@
 * [GameWork-Foundation](https://github.com/FronkonGames/GameWork-Foundation)  
 * [FastDeepCloner](https://github.com/AlenToma/FastDeepCloner)  
 * [box2d-netstandard](https://github.com/codingben/box2d-netstandard)  
+* [Unity-Procedural-IK-Wall-Walking-Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider)  
