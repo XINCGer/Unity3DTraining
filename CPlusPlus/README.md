@@ -194,6 +194,7 @@
 >* [rsync](https://github.com/WayneD/rsync)  
 >* [c11threads](https://github.com/jtsiomb/c11threads)  
 >* [firebuild](https://github.com/firebuild/firebuild)  
+>* [fiber-job-system](https://github.com/Freeeaky/fiber-job-system)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
