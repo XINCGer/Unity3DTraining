@@ -619,3 +619,4 @@
 * [Unity-Procedural-IK-Wall-Walking-Spider](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider)  
 * [BurstFFT-FFT implementation in C# optimized for Unity's Burst compiler](https://github.com/keijiro/BurstFFT)  
 * [Unity-Animation-Sync](https://github.com/SolarianZ/Unity-Animation-Sync-Demo)  
+* [Unity-Plane-Mesh-Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter)  
