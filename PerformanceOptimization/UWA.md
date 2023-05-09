@@ -224,3 +224,4 @@
 >* [【厚积薄发】ParticleSystem中的Culling Mode对耗时有怎样的影响](https://mp.weixin.qq.com/s/908MWlcaSE4gTOtT331uhA)  
 >* [【厚积薄发】获得将要生成的资源的GUID](https://mp.weixin.qq.com/s/zL2eU4Iy1JENBpGoW9t4nQ)  
 >* [【厚积薄发】Application. targetFrameRate设置帧率慢](https://mp.weixin.qq.com/s/dPjUuBWdL5yN6PZ28RQ4QA)  
+>* [【厚积薄发】TMP的阴影性能如何](https://mp.weixin.qq.com/s/sGg6zSMnx8s_ku7FZwBrFA)  
