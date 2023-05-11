@@ -621,3 +621,4 @@
 * [Unity-Animation-Sync](https://github.com/SolarianZ/Unity-Animation-Sync-Demo)  
 * [Unity-Plane-Mesh-Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter)  
 * [TexturePanner](https://github.com/AdultLink/TexturePanner)  
+* [lambdaparser](https://github.com/nreco/lambdaparser)  
