@@ -197,6 +197,7 @@
 >* [fiber-job-system](https://github.com/Freeeaky/fiber-job-system)  
 >* [pcileech-Direct Memory Access (DMA) Attack Software](https://github.com/ufrisk/pcileech)  
 >* [azerothcore-wotlk - Complete Open Source and Modular solution for MMO](https://github.com/azerothcore/azerothcore-wotlk)  
+>* [brotli - Brotli compression format](https://github.com/google/brotli)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
