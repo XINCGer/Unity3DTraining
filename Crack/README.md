@@ -52,7 +52,8 @@
 >* [lua-crypto](https://github.com/zhandouxiaojiji/lua-crypto)  
 >* [O-Z-Unity-Protector-An Integrated Encryption Scheme for Unity Project(Mono & IL2CPP)](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)  
 >* [ConfuserEx - An open-source, free protector for .NET applications](https://github.com/mkaring/ConfuserEx)  
->* [VMProtect-Source](https://github.com/classic130/VMProtect-Source)  
+>* [VMProtect 1](https://github.com/classic130/VMProtect-Source)  
+>* [VMProtect 2](https://github.com/Obfuscator-Collections/VMProtect)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
