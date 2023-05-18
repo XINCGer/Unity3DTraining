@@ -622,3 +622,4 @@
 * [Unity-Plane-Mesh-Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter)  
 * [TexturePanner](https://github.com/AdultLink/TexturePanner)  
 * [lambdaparser](https://github.com/nreco/lambdaparser)  
+* [EditorGUISplitView](https://github.com/miguel12345/EditorGUISplitView)  
