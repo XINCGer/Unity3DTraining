@@ -200,6 +200,7 @@
 >* [brotli - Brotli compression format](https://github.com/google/brotli)  
 >* [C++ header-only fixed-point math library](https://github.com/MikeLankamp/fpm)  
 >* [spdlog - Fast C++ logging library](https://github.com/gabime/spdlog)  
+>* [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
