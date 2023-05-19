@@ -199,6 +199,7 @@
 >* [azerothcore-wotlk - Complete Open Source and Modular solution for MMO](https://github.com/azerothcore/azerothcore-wotlk)  
 >* [brotli - Brotli compression format](https://github.com/google/brotli)  
 >* [C++ header-only fixed-point math library](https://github.com/MikeLankamp/fpm)  
+>* [spdlog - Fast C++ logging library](https://github.com/gabime/spdlog)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
