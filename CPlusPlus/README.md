@@ -201,6 +201,7 @@
 >* [C++ header-only fixed-point math library](https://github.com/MikeLankamp/fpm)  
 >* [spdlog - Fast C++ logging library](https://github.com/gabime/spdlog)  
 >* [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
+>* [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
