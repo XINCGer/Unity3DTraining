@@ -1,6 +1,7 @@
 ## 加密与破解研究  
 
 * [awesome-game-security](https://github.com/gmh5225/awesome-game-security)  
+* [BadCode 恶意代码逃逸源代码](https://github.com/Rvn0xsy/BadCode)  
 
 ### 破解  
 >* [game-hacking Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)  
