@@ -59,6 +59,7 @@
 * [renderer-A shader-based software renderer written from scratch in C89](https://github.com/zauonlok/renderer)  
 * [geometry-central(Applied 3D geometry in C++, with a focus on surface meshes)](https://github.com/nmwsharp/geometry-central)  
 * [XUSG](https://github.com/StarsX/XUSG)  
+* [magnum-Lightweight and modular C++11 graphics middleware](https://github.com/mosra/magnum)  
 
 ## 动画  
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
