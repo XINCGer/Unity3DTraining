@@ -624,3 +624,4 @@
 * [lambdaparser](https://github.com/nreco/lambdaparser)  
 * [EditorGUISplitView](https://github.com/miguel12345/EditorGUISplitView)  
 * [com.unity.formats.fbx](https://github.com/Unity-Technologies/com.unity.formats.fbx)  
+* [VirtualTexture](https://github.com/jintiao/VirtualTexture)  
