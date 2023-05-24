@@ -626,3 +626,4 @@
 * [com.unity.formats.fbx](https://github.com/Unity-Technologies/com.unity.formats.fbx)  
 * [VirtualTexture](https://github.com/jintiao/VirtualTexture)  
 * [PublishersFork](https://github.com/adamgit/PublishersFork)  
+* [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)  
