@@ -56,6 +56,7 @@
 >* [ConfuserEx - An open-source, free protector for .NET applications](https://github.com/mkaring/ConfuserEx)  
 >* [VMProtect 1](https://github.com/classic130/VMProtect-Source)  
 >* [VMProtect 2](https://github.com/Obfuscator-Collections/VMProtect)  
+>* [RelocBonus - An obfuscation tool for Windows](https://github.com/nickcano/RelocBonus)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
