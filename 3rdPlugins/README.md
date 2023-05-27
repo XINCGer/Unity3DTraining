@@ -629,3 +629,4 @@
 * [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)  
 * [C# utility library. C#工具包](https://github.com/yuzhengyang/Fork)  
 * [UnityMemoryProfilerSupportKun](https://github.com/katsumasa/UnityMemoryProfilerSupportKun)  
+* [AirSticker](https://github.com/CyberAgentGameEntertainment/AirSticker)  
