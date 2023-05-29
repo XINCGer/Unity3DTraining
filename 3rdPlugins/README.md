@@ -630,3 +630,4 @@
 * [C# utility library. C#工具包](https://github.com/yuzhengyang/Fork)  
 * [UnityMemoryProfilerSupportKun](https://github.com/katsumasa/UnityMemoryProfilerSupportKun)  
 * [AirSticker](https://github.com/CyberAgentGameEntertainment/AirSticker)  
+* [Client Simulator for World Building](https://github.com/vrchat-community/ClientSim)  
