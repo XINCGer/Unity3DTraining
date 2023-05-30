@@ -226,3 +226,4 @@
 >* [【厚积薄发】Application. targetFrameRate设置帧率慢](https://mp.weixin.qq.com/s/dPjUuBWdL5yN6PZ28RQ4QA)  
 >* [【厚积薄发】TMP的阴影性能如何](https://mp.weixin.qq.com/s/sGg6zSMnx8s_ku7FZwBrFA)  
 >* [【厚积薄发】SRP Batcher在真机上失效](https://mp.weixin.qq.com/s/isWMMIrSgR-pwRYaxiMGAA)  
+>* [【厚积薄发】URP Shader FrameBuffer Fetch Mali Crash](https://mp.weixin.qq.com/s/pAPKbqqfon_7mTsLRqLm8A)  
