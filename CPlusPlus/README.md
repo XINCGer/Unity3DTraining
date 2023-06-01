@@ -206,6 +206,7 @@
 >* [libcoro C++20 coroutine library](https://github.com/jbaldwin/libcoro)  
 >* [matxscript - A high-performance, extensible Python AOT compiler](https://github.com/bytedance/matxscript)  
 >* [workflow - C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)  
+>* [Simd - C++ image processing and machine learning library with using of SIMD](https://github.com/ermig1979/Simd)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
