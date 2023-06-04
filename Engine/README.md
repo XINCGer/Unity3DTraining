@@ -60,6 +60,7 @@
 * [geometry-central(Applied 3D geometry in C++, with a focus on surface meshes)](https://github.com/nmwsharp/geometry-central)  
 * [XUSG](https://github.com/StarsX/XUSG)  
 * [magnum-Lightweight and modular C++11 graphics middleware](https://github.com/mosra/magnum)  
+* [nanovg - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations](https://github.com/memononen/nanovg)  
 
 ## 动画  
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
