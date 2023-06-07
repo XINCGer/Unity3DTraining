@@ -93,6 +93,7 @@
 * [NextEngine](https://github.com/CompilerLuke/NextEngine)  
 * [vulkan-engine](https://github.com/MohammadFakhreddin/vulkan-engine)  
 * [SpartanEngine - Game engine with an emphasis on architectural quality and performance](https://github.com/PanosK92/SpartanEngine)  
+* [source-engine](https://github.com/nillerusr/source-engine)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
