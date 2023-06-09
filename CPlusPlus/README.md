@@ -208,6 +208,7 @@
 >* [workflow - C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)  
 >* [Simd - C++ image processing and machine learning library with using of SIMD](https://github.com/ermig1979/Simd)  
 >* [stacktrace - C++ library for storing and printing backtraces](https://github.com/boostorg/stacktrace)  
+>* [FFSM2-High-Performance Flat Finite State Machine Framework](https://github.com/andrew-gresyk/FFSM2)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
