@@ -110,6 +110,7 @@
 * [作业收集2](https://github.com/renbiao1024/Games104_Homework)  
 
 ## Games104文章  
+* [GAMES104课程笔记（全22篇）](https://www.piccoloengine.com/topic/310590)  
 * [引擎的多任务，该如何高效管理？](https://mp.weixin.qq.com/s/ERJHUxG_3mIcGChOEuVYhw)  
 * [一文详解游戏引擎中的JobSystem](https://mp.weixin.qq.com/s/cVxZtvQ8jVGHUH3jHLq4Dg)  
 * [UE多线程机制](https://piccoloengine.com/topic/310472)  
