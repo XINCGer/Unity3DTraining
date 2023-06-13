@@ -634,3 +634,4 @@
 * [LowpolyConvertor](https://github.com/zd304/LowpolyConvertor)  
 * [DOTS-BehaviorTree](https://github.com/SinyavtsevIlya/DOTS-BehaviorTree)  
 * [Unity-Built-In-Attributes](https://github.com/teebarjunk/Unity-Built-In-Attributes)  
+* [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)  
