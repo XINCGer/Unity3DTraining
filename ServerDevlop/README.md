@@ -183,7 +183,8 @@
 >* [📂 Web File Browser](https://github.com/filebrowser/filebrowser)  
 >* [Cyberduck](https://github.com/iterate-ch/cyberduck)  
 >* [file-chunk是一款针对大文件，超大文件上传的全方位解决方案](https://github.com/yangrds/file-chunk)  
->* [Curve 是网易主导自研的现代化存储系统](https://github.com/opencurve/curve/)  
+>* [Curve 是网易主导自研的现代化存储系统](https://github.com/opencurve/curve/)
+>* [ceph-分布式对象、块和文件存储平台](https://github.com/ceph/ceph)  
 
 #### Samba  
 >* [Mac连接远程Linux管理文件（samba）](https://www.jianshu.com/p/fe7fd0286c4e)  
