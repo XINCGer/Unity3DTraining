@@ -154,4 +154,7 @@
 
 ### 加速构建  
 * [利用多进程并行化加速Unity资源构建](https://blog.uwa4d.com/archives/USparkle_Multi_process.html)  
-* [multiprocess buildpipeline for unity](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)  
+* [multiprocess buildpipeline for unity](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline)
+
+### Jam  
+* [Unity jam build system发展史](https://blog.csdn.net/weixin_41044151/article/details/118607654)  
