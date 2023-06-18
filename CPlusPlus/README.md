@@ -210,7 +210,8 @@
 >* [stacktrace - C++ library for storing and printing backtraces](https://github.com/boostorg/stacktrace)  
 >* [FFSM2-High-Performance Flat Finite State Machine Framework](https://github.com/andrew-gresyk/FFSM2)  
 >* [fast-hash](https://github.com/ztanml/fast-hash)
->* [sse2neon - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)  
+>* [sse2neon - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
+>* [zxing-cpp(C++ port of ZXing)](https://github.com/zxing-cpp/zxing-cpp)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
