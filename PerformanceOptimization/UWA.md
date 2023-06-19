@@ -227,4 +227,5 @@
 >* [【厚积薄发】TMP的阴影性能如何](https://mp.weixin.qq.com/s/sGg6zSMnx8s_ku7FZwBrFA)  
 >* [【厚积薄发】SRP Batcher在真机上失效](https://mp.weixin.qq.com/s/isWMMIrSgR-pwRYaxiMGAA)  
 >* [【厚积薄发】URP Shader FrameBuffer Fetch Mali Crash](https://mp.weixin.qq.com/s/pAPKbqqfon_7mTsLRqLm8A)  
->* [【厚积薄发】Wwise内存问题](https://mp.weixin.qq.com/s/_uDqPj8770h6r5fN6DBesQ)  
+>* [【厚积薄发】Wwise内存问题](https://mp.weixin.qq.com/s/_uDqPj8770h6r5fN6DBesQ)
+>* [【厚积薄发】为什么Uniy使用AssetBundle热更的时候要剔除掉.mainfest文件](https://mp.weixin.qq.com/s/xnepSZdJJ98sz7xYnWYYpg)  
