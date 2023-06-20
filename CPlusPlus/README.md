@@ -212,7 +212,8 @@
 >* [fast-hash](https://github.com/ztanml/fast-hash)
 >* [sse2neon - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
 >* [zxing-cpp(C++ port of ZXing)](https://github.com/zxing-cpp/zxing-cpp)
->* [rang-A Minimal, Header only Modern c++ library for terminal goodies](https://github.com/agauniyal/rang)  
+>* [rang-A Minimal, Header only Modern c++ library for terminal goodies](https://github.com/agauniyal/rang)
+>* [yue - A library for creating native cross-platform GUI apps](https://github.com/yue/yue)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
