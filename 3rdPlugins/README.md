@@ -638,4 +638,5 @@
 * [UnityTodo](https://github.com/somedeveloper00/UnityTodo)
 * [AsmResolver-A library for creating, reading and editing PE files and .NET modules](https://github.com/Washi1337/AsmResolver)
 * [TypeTreeDumper](https://github.com/DaZombieKiller/TypeTreeDumper/)
-* [AutumnBox - 图形化ADB工具箱](https://github.com/zsh2401/AutumnBox)  
+* [AutumnBox - 图形化ADB工具箱](https://github.com/zsh2401/AutumnBox)
+* [DotNetCorePlugins - .NET Core library for dynamically loading code](https://github.com/natemcmaster/DotNetCorePlugins)  
