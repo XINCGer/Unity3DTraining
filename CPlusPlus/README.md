@@ -214,7 +214,8 @@
 >* [zxing-cpp(C++ port of ZXing)](https://github.com/zxing-cpp/zxing-cpp)
 >* [rang-A Minimal, Header only Modern c++ library for terminal goodies](https://github.com/agauniyal/rang)
 >* [yue - A library for creating native cross-platform GUI apps](https://github.com/yue/yue)
->* [std-simd](https://github.com/VcDevel/std-simd)  
+>* [std-simd](https://github.com/VcDevel/std-simd)
+>* [nsjail - 一个轻量级的进程隔离工具](https://github.com/google/nsjail)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
