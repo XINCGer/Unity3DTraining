@@ -641,4 +641,5 @@
 * [AutumnBox - 图形化ADB工具箱](https://github.com/zsh2401/AutumnBox)
 * [DotNetCorePlugins - .NET Core library for dynamically loading code](https://github.com/natemcmaster/DotNetCorePlugins)
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
-* [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop)  
+* [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop)
+* [c2cs - Generate C# bindings from a C header](https://github.com/bottlenoselabs/c2cs)  
