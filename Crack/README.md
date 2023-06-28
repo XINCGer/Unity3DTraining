@@ -27,7 +27,8 @@
 >* [pcileech-Direct Memory Access (DMA) Attack Software](https://github.com/ufrisk/pcileech)  
 >* [Ponce](https://github.com/illera88/Ponce)  
 >* [Blackout - kill anti-malware protected processes using BYOVD](https://github.com/ZeroMemoryEx/Blackout)
->* [botw-Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)](https://github.com/zeldaret/botw)  
+>* [botw-Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)](https://github.com/zeldaret/botw)
+>* [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
