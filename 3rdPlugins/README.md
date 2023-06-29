@@ -643,4 +643,5 @@
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 * [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop)
 * [c2cs - Generate C# bindings from a C header](https://github.com/bottlenoselabs/c2cs)
-* [SharpCompilerSettingsForUnity-Change the C# compiler (csc) used on your Unity project, as you like](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)  
+* [SharpCompilerSettingsForUnity-Change the C# compiler (csc) used on your Unity project, as you like](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
+* [TextureMerge - pack/merge textures into image channels](https://github.com/Fidifis/TextureMerge)  
