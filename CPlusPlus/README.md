@@ -215,7 +215,8 @@
 >* [rang-A Minimal, Header only Modern c++ library for terminal goodies](https://github.com/agauniyal/rang)
 >* [yue - A library for creating native cross-platform GUI apps](https://github.com/yue/yue)
 >* [std-simd](https://github.com/VcDevel/std-simd)
->* [nsjail - 一个轻量级的进程隔离工具](https://github.com/google/nsjail)  
+>* [nsjail - 一个轻量级的进程隔离工具](https://github.com/google/nsjail)
+>* [darktable - darktable is an open source photography workflow application and raw developer](https://github.com/darktable-org/darktable)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
