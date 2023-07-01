@@ -6,7 +6,8 @@
 * [从硬件层面理解memory barrier](https://zhuanlan.zhihu.com/p/184912992)  
 * [详解C/C++中volatile关键字](https://blog.csdn.net/weixin_44363885/article/details/92838607)  
 * [C++移动语意 详细解释](https://www.cnblogs.com/zhangyi1357/p/16018810.html)  
-* [C++强制类型转换运算符（static_cast、reinterpret_cast、const_cast和dynamic_cast）](https://zhuanlan.zhihu.com/p/368267441)  
+* [C++强制类型转换运算符（static_cast、reinterpret_cast、const_cast和dynamic_cast）](https://zhuanlan.zhihu.com/p/368267441)
+* [理解 Memory barrier（内存屏障）](https://blog.csdn.net/world_hello_100/article/details/50131497)  
 
 ### 多线程  
 * [C++实现的无锁队列](https://blog.csdn.net/aaronjzhang/article/details/17167799)  
