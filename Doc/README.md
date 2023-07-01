@@ -115,4 +115,5 @@
 >* [出动200人，已获版号，朝夕光年这款自研UE产品遇到了哪些难题？](https://mp.weixin.qq.com/s/R0VrRAvLzqowb9V4m9zm4Q)  
 >* [四叉树、BVH树等空间数据结构](https://zhuanlan.zhihu.com/p/400749079)  
 >* [通用游戏地图解决方案设计解析](https://mp.weixin.qq.com/s/JSChyaS46d0EYnhwAW0ddA)  
->* [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)  
+>* [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
+>* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)  
