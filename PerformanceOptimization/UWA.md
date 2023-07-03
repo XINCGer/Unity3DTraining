@@ -229,4 +229,5 @@
 >* [【厚积薄发】URP Shader FrameBuffer Fetch Mali Crash](https://mp.weixin.qq.com/s/pAPKbqqfon_7mTsLRqLm8A)  
 >* [【厚积薄发】Wwise内存问题](https://mp.weixin.qq.com/s/_uDqPj8770h6r5fN6DBesQ)
 >* [【厚积薄发】为什么Uniy使用AssetBundle热更的时候要剔除掉.mainfest文件](https://mp.weixin.qq.com/s/xnepSZdJJ98sz7xYnWYYpg)
->* [【厚积薄发】AssetBundle.Unload(true)无法卸载图集](https://mp.weixin.qq.com/s/q4qAwsWFsv5NR4fD0ki43g)  
+>* [【厚积薄发】AssetBundle.Unload(true)无法卸载图集](https://mp.weixin.qq.com/s/q4qAwsWFsv5NR4fD0ki43g)
+>* [【厚积薄发】帧同步实现PuppetMaster布娃娃系统的问题](https://mp.weixin.qq.com/s/HnvoLMJAz-8fg5LJdunPbQ)  
