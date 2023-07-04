@@ -96,7 +96,8 @@
 * [SpartanEngine - Game engine with an emphasis on architectural quality and performance](https://github.com/PanosK92/SpartanEngine)  
 * [source-engine](https://github.com/nillerusr/source-engine)  
 * [Source Engine Wiki](https://developer.valvesoftware.com/wiki/Source)
-* [Overload - 3D Game engine with editor](https://github.com/adriengivry/Overload)  
+* [Overload - 3D Game engine with editor](https://github.com/adriengivry/Overload)
+* [Ursine3D](https://github.com/AustinBrunkhorst/Ursine3D)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
