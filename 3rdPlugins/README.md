@@ -646,4 +646,5 @@
 * [SharpCompilerSettingsForUnity-Change the C# compiler (csc) used on your Unity project, as you like](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
 * [TextureMerge - pack/merge textures into image channels](https://github.com/Fidifis/TextureMerge)
 * [BVHTools-BVH Tools for Unity](https://github.com/emilianavt/BVHTools)
-* [SkiaForUnity - Skia For Unity with skottie animations](https://github.com/ammariqais/SkiaForUnity)  
+* [SkiaForUnity - Skia For Unity with skottie animations](https://github.com/ammariqais/SkiaForUnity)
+* [AsyncWorkerCollection - 高性能的多线程异步工具库](https://github.com/dotnet-campus/AsyncWorkerCollection)  
