@@ -217,7 +217,8 @@
 >* [std-simd](https://github.com/VcDevel/std-simd)
 >* [nsjail - 一个轻量级的进程隔离工具](https://github.com/google/nsjail)
 >* [darktable - darktable is an open source photography workflow application and raw developer](https://github.com/darktable-org/darktable)
->* [MemoryModule - Library to load a DLL from memory](https://github.com/fancycode/MemoryModule)  
+>* [MemoryModule - Library to load a DLL from memory](https://github.com/fancycode/MemoryModule)
+>* [ApkDiffPatch](https://github.com/sisong/ApkDiffPatch)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
