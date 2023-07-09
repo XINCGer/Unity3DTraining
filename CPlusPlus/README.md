@@ -222,7 +222,8 @@
 >* [dumplib - Import library generator for x86 PE files](https://github.com/Mattiwatti/dumplib)
 >* [btop - A monitor of resources](https://github.com/aristocratos/btop)
 >* [Inject-dll-by-APC](https://github.com/3gstudent/Inject-dll-by-APC)
->* [cstl - C STL - a Server Toolbox Library for C, including JSON processing, hash maps, dynamic arrays, binary strings and more](https://github.com/facil-io/cstl)  
+>* [cstl - C STL - a Server Toolbox Library for C, including JSON processing, hash maps, dynamic arrays, binary strings and more](https://github.com/facil-io/cstl)
+>* [NumCpp](https://github.com/dpilger26/NumCpp)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
