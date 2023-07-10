@@ -224,7 +224,8 @@
 >* [Inject-dll-by-APC](https://github.com/3gstudent/Inject-dll-by-APC)
 >* [cstl - C STL - a Server Toolbox Library for C, including JSON processing, hash maps, dynamic arrays, binary strings and more](https://github.com/facil-io/cstl)
 >* [NumCpp](https://github.com/dpilger26/NumCpp)
->* [minicoro - Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)  
+>* [minicoro - Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
+>* [astc-encoder](https://github.com/ARM-software/astc-encoder)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
