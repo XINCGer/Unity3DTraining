@@ -61,7 +61,8 @@
 * [XUSG](https://github.com/StarsX/XUSG)  
 * [magnum-Lightweight and modular C++11 graphics middleware](https://github.com/mosra/magnum)  
 * [nanovg - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations](https://github.com/memononen/nanovg)
-* [SRender](https://github.com/SunXLei/SRender)  
+* [SRender](https://github.com/SunXLei/SRender)
+* [igl - intermediate Graphics Library](https://github.com/facebook/igl)  
 
 ## 动画  
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
