@@ -226,7 +226,8 @@
 >* [NumCpp](https://github.com/dpilger26/NumCpp)
 >* [minicoro - Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
 >* [astc-encoder](https://github.com/ARM-software/astc-encoder)
->* [ProcessHider](https://github.com/M00nRise/ProcessHider)  
+>* [ProcessHider](https://github.com/M00nRise/ProcessHider)
+>* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
