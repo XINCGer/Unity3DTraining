@@ -227,7 +227,8 @@
 >* [minicoro - Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
 >* [astc-encoder](https://github.com/ARM-software/astc-encoder)
 >* [ProcessHider](https://github.com/M00nRise/ProcessHider)
->* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)  
+>* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)
+>* [eventbus - A simple, header only event bus library written in modern C++17](https://github.com/DeveloperPaul123/eventbus)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
