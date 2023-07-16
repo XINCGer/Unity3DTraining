@@ -31,7 +31,8 @@
 >* [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
 >* [osmium-C++ Framework for external cheats](https://github.com/cragson/osmium)
 >* [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
->* [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET/tree/upd21-with-inst)  
+>* [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET/tree/upd21-with-inst)
+>* [UEDumper](https://github.com/Spuckwaffel/UEDumper)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
