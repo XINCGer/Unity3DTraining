@@ -228,7 +228,8 @@
 >* [astc-encoder](https://github.com/ARM-software/astc-encoder)
 >* [ProcessHider](https://github.com/M00nRise/ProcessHider)
 >* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)
->* [eventbus - A simple, header only event bus library written in modern C++17](https://github.com/DeveloperPaul123/eventbus)  
+>* [eventbus - A simple, header only event bus library written in modern C++17](https://github.com/DeveloperPaul123/eventbus)
+>* [pipe - Fundational library of cross-platform features](https://github.com/PipeRift/pipe)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
