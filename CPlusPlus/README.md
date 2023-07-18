@@ -229,7 +229,8 @@
 >* [ProcessHider](https://github.com/M00nRise/ProcessHider)
 >* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)
 >* [eventbus - A simple, header only event bus library written in modern C++17](https://github.com/DeveloperPaul123/eventbus)
->* [pipe - Fundational library of cross-platform features](https://github.com/PipeRift/pipe)  
+>* [pipe - Fundational library of cross-platform features](https://github.com/PipeRift/pipe)
+>* [InterSpec - spectral radiation analysis software](https://github.com/sandialabs/InterSpec)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
