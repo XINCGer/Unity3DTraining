@@ -92,7 +92,8 @@
 * [How to trigger Jenkins Job with Bash Script](https://birolemekli.medium.com/how-to-trigger-jenkins-job-with-bash-script-8f3457d11efc)  
 * [史上最全 Jenkins Pipeline流水线详解](https://blog.csdn.net/LinkSLA/article/details/127655372)  
 * [jenkins在pipline中触发其他job](https://www.cnblogs.com/deny/p/15430246.html)  
-* [jenkins pipeline之如何串联多个Job](https://blog.csdn.net/wxt_hillwill/article/details/118730523)  
+* [jenkins pipeline之如何串联多个Job](https://blog.csdn.net/wxt_hillwill/article/details/118730523)
+* [teamcity-symbol-server](https://github.com/JetBrains/teamcity-symbol-server)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
