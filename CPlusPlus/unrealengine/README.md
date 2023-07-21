@@ -25,4 +25,5 @@
 >* [channeld-ue-plugin 为虚幻引擎专用服务器提供分布式模拟能力的开源插件](https://github.com/metaworking/channeld-ue-plugin)  
 >* [UnrealNetImgui](https://github.com/sammyfreg/UnrealNetImgui)  
 >* [unreal-vdb](https://github.com/eidosmontreal/unreal-vdb)  
->* [DigitalLife](https://github.com/QSWWLTN/DigitalLife)  
+>* [DigitalLife](https://github.com/QSWWLTN/DigitalLife)
+>* [DualShock4-For-Unreal-Engine-5](https://github.com/DarknessFX/DualShock4-For-Unreal-Engine-5)  
