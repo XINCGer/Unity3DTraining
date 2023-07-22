@@ -231,7 +231,8 @@
 >* [eventbus - A simple, header only event bus library written in modern C++17](https://github.com/DeveloperPaul123/eventbus)
 >* [pipe - Fundational library of cross-platform features](https://github.com/PipeRift/pipe)
 >* [InterSpec - spectral radiation analysis software](https://github.com/sandialabs/InterSpec)
->* [PhaseBetweener](https://github.com/pauzii/PhaseBetweener)  
+>* [PhaseBetweener](https://github.com/pauzii/PhaseBetweener)
+>* [process_ghosting](https://github.com/hasherezade/process_ghosting)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
