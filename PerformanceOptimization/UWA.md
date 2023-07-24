@@ -232,4 +232,5 @@
 >* [【厚积薄发】AssetBundle.Unload(true)无法卸载图集](https://mp.weixin.qq.com/s/q4qAwsWFsv5NR4fD0ki43g)
 >* [【厚积薄发】帧同步实现PuppetMaster布娃娃系统的问题](https://mp.weixin.qq.com/s/HnvoLMJAz-8fg5LJdunPbQ)
 >* [【厚积薄发】如何知道游戏中不同型号GPU带宽的瓶颈](https://mp.weixin.qq.com/s/tvla2DdIElizcVwTcLh05A)
->* [【厚积薄发】特定Adreno GPU的Android设备发生冻屏问题](https://mp.weixin.qq.com/s/YQWtsGTchX9M7mj9pPn9zA)  
+>* [【厚积薄发】特定Adreno GPU的Android设备发生冻屏问题](https://mp.weixin.qq.com/s/YQWtsGTchX9M7mj9pPn9zA)
+>* [【厚积薄发】在制作PC端Game Launcher游戏启动器时涉及到的技术选型](https://mp.weixin.qq.com/s/jyBIq50waw82UJsGM8NDzg)  
