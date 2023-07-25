@@ -232,7 +232,8 @@
 >* [pipe - Fundational library of cross-platform features](https://github.com/PipeRift/pipe)
 >* [InterSpec - spectral radiation analysis software](https://github.com/sandialabs/InterSpec)
 >* [PhaseBetweener](https://github.com/pauzii/PhaseBetweener)
->* [process_ghosting](https://github.com/hasherezade/process_ghosting)  
+>* [process_ghosting](https://github.com/hasherezade/process_ghosting)
+>* [EABase](https://github.com/electronicarts/EABase)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
