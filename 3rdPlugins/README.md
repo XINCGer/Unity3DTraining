@@ -652,4 +652,5 @@
 * [AutoLevel - Free procedural level generator for unity](https://github.com/Al-Asl/AutoLevel)
 * [OpenWorldFramework](https://github.com/tiredamage42/OpenWorldFramework)
 * [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
-* [DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)  
+* [DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
+* [UnityInjection](https://github.com/labbbirder/UnityInjection)  
