@@ -1,4 +1,4 @@
-# Effective C# U3D高效C#技法训练  
+# Effective C# 高效C#技法训练  
 
 ## 目录  
 ### 指针  
@@ -31,7 +31,8 @@
 >* [【5min+】 这些C#的运算符您都认识吗？](https://www.cnblogs.com/uoyo/p/12307959.html)  
 >* [你所不知道的 C# 中的细节](https://www.cnblogs.com/hez2010/p/12606419.html)  
 >* [内存迟迟下不去，可能你就差一个GC.Collect](https://www.cnblogs.com/huangxincheng/p/12839160.html)  
->* [List的扩容机制，你真的明白吗？](https://www.cnblogs.com/huangxincheng/p/12954569.html)  
+>* [List的扩容机制，你真的明白吗？](https://www.cnblogs.com/huangxincheng/p/12954569.html)
+>* [浅析C# Dictionary实现原理](https://www.cnblogs.com/InCerry/p/10325290.html)  
 >* [使用PInvoke互操作，让C#和C++愉快的交互优势互补](https://www.cnblogs.com/huangxincheng/p/12985351.html)  
 >* [C# 中的Async 和 Await 的用法详解](https://www.cnblogs.com/yilezhu/p/10555849.html)  
 >* [.NET 异步详解](https://www.cnblogs.com/hez2010/p/async-in-dotnet.html)  
