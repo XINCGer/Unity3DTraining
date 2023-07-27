@@ -234,7 +234,8 @@
 >* [PhaseBetweener](https://github.com/pauzii/PhaseBetweener)
 >* [process_ghosting](https://github.com/hasherezade/process_ghosting)
 >* [EABase](https://github.com/electronicarts/EABase)
->* [lua-lz4](https://github.com/witchu/lua-lz4)  
+>* [lua-lz4](https://github.com/witchu/lua-lz4)
+>* [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
