@@ -653,4 +653,5 @@
 * [OpenWorldFramework](https://github.com/tiredamage42/OpenWorldFramework)
 * [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
 * [DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
-* [UnityInjection](https://github.com/labbbirder/UnityInjection)  
+* [UnityInjection](https://github.com/labbbirder/UnityInjection)
+* [Jitex - A library to modify MSIL and native code at runtime](https://github.com/Hitmasu/Jitex#Replace-Native-Code)  
