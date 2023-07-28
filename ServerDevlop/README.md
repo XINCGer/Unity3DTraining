@@ -219,4 +219,5 @@
 
 #### 数据库  
 >* [ravendb - ACID Document Database](https://github.com/ravendb/ravendb)  
->* [ByConity - ByConity is an open source cloud-native data warehouse](https://github.com/ByConity/ByConity)  
+>* [ByConity - ByConity is an open source cloud-native data warehouse](https://github.com/ByConity/ByConity)
+>* [miniob - one mini database, helping developers to learn how database works](https://github.com/oceanbase/miniob)  
