@@ -235,7 +235,8 @@
 >* [process_ghosting](https://github.com/hasherezade/process_ghosting)
 >* [EABase](https://github.com/electronicarts/EABase)
 >* [lua-lz4](https://github.com/witchu/lua-lz4)
->* [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
+>* [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+>* [wxWidgets - Cross-Platform C++ GUI Library](https://github.com/wxWidgets/wxWidgets)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
