@@ -66,7 +66,8 @@
 >* [VMProtect 2](https://github.com/Obfuscator-Collections/VMProtect)  
 >* [RelocBonus - An obfuscation tool for Windows](https://github.com/nickcano/RelocBonus)
 >* [VMPilot - VMPilot: A Modern C++ Virtual Machine SDK](https://github.com/25077667/VMPilot)
->* [SweetDreams - Implementation of Advanced Module Stomping and Heap/Stack Encryption](https://github.com/CognisysGroup/SweetDreams)  
+>* [SweetDreams - Implementation of Advanced Module Stomping and Heap/Stack Encryption](https://github.com/CognisysGroup/SweetDreams)
+>* [Promon SHIELD Reversal - Overview of Promon SHIELD's Android application protection](https://github.com/KiFilterFiberContext/promon-reversal)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
