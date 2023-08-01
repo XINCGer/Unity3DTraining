@@ -32,7 +32,8 @@
 >* [osmium-C++ Framework for external cheats](https://github.com/cragson/osmium)
 >* [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
 >* [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET/tree/upd21-with-inst)
->* [UEDumper](https://github.com/Spuckwaffel/UEDumper)  
+>* [UEDumper](https://github.com/Spuckwaffel/UEDumper)
+>* [ceserver-rawmem - CEServer for Cheat Engine 7.4 to perform DMA access to Windows processes](https://github.com/cs1ime/ceserver-rawmem)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
