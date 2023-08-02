@@ -237,7 +237,8 @@
 >* [lua-lz4](https://github.com/witchu/lua-lz4)
 >* [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 >* [wxWidgets - Cross-Platform C++ GUI Library](https://github.com/wxWidgets/wxWidgets)
->* [blazingmq - A modern high-performance open source message queuing system](https://github.com/bloomberg/blazingmq)  
+>* [blazingmq - A modern high-performance open source message queuing system](https://github.com/bloomberg/blazingmq)
+>* [epoller - epoll implementation for connections in Linux, MacOS and Windows](https://github.com/smallnest/epoller)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
