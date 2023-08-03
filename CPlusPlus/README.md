@@ -239,7 +239,8 @@
 >* [wxWidgets - Cross-Platform C++ GUI Library](https://github.com/wxWidgets/wxWidgets)
 >* [blazingmq - A modern high-performance open source message queuing system](https://github.com/bloomberg/blazingmq)
 >* [epoller - epoll implementation for connections in Linux, MacOS and Windows](https://github.com/smallnest/epoller)
->* [nolimix86 - x86 virtual machine with unlimited registers](https://github.com/francisvm/nolimix86)  
+>* [nolimix86 - x86 virtual machine with unlimited registers](https://github.com/francisvm/nolimix86)
+>* [sparsehash - C++ associative containers](https://github.com/sparsehash/sparsehash)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
