@@ -241,7 +241,8 @@
 >* [epoller - epoll implementation for connections in Linux, MacOS and Windows](https://github.com/smallnest/epoller)
 >* [nolimix86 - x86 virtual machine with unlimited registers](https://github.com/francisvm/nolimix86)
 >* [sparsehash - C++ associative containers](https://github.com/sparsehash/sparsehash)
->* [NanoSockets - Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols](https://github.com/nxrighthere/NanoSockets)  
+>* [NanoSockets - Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols](https://github.com/nxrighthere/NanoSockets)
+>* [CppDelegates - Single C++ header/source file that implements modern delegates](https://github.com/simco50/CppDelegates)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
