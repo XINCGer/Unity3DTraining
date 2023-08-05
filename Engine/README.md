@@ -38,7 +38,8 @@
 * [ImpulseEngine-Simple, open source, 2D impulse based physics engine for educational use](https://github.com/RandyGaul/ImpulseEngine)  
 * [chrono-High-performance C++ library for multiphysics and multibody dynamics simulations](https://github.com/projectchrono/chrono)  
 * [mujoco-Multi-Joint dynamics with Contact. A general purpose physics simulator](https://github.com/deepmind/mujoco)  
-* [box2d-netstandard](https://github.com/codingben/box2d-netstandard)  
+* [box2d-netstandard](https://github.com/codingben/box2d-netstandard)
+* [bepuphysics2 - Pure C# 3D real time physics simulation library, now with a higher version number](https://github.com/bepu/bepuphysics2)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
