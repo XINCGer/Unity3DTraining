@@ -234,4 +234,5 @@
 >* [【厚积薄发】如何知道游戏中不同型号GPU带宽的瓶颈](https://mp.weixin.qq.com/s/tvla2DdIElizcVwTcLh05A)
 >* [【厚积薄发】特定Adreno GPU的Android设备发生冻屏问题](https://mp.weixin.qq.com/s/YQWtsGTchX9M7mj9pPn9zA)
 >* [【厚积薄发】在制作PC端Game Launcher游戏启动器时涉及到的技术选型](https://mp.weixin.qq.com/s/jyBIq50waw82UJsGM8NDzg)
->* [【厚积薄发】MuMu模拟器运行一段时间后Device.Present耗时突然上升](https://mp.weixin.qq.com/s/HobIt99_PtAo7uDUcXXuPg)  
+>* [【厚积薄发】MuMu模拟器运行一段时间后Device.Present耗时突然上升](https://mp.weixin.qq.com/s/HobIt99_PtAo7uDUcXXuPg)
+>* [【厚积薄发】非2的幂次的ASTC纹理格式尺寸对带宽的影响](https://mp.weixin.qq.com/s/R01fPdtz0cdmIsjIjDRQlQ)  
