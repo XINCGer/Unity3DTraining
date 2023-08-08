@@ -243,7 +243,8 @@
 >* [sparsehash - C++ associative containers](https://github.com/sparsehash/sparsehash)
 >* [NanoSockets - Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols](https://github.com/nxrighthere/NanoSockets)
 >* [CppDelegates - Single C++ header/source file that implements modern delegates](https://github.com/simco50/CppDelegates)
->* [sizer - Win32/64 executable size reporting](https://github.com/aras-p/sizer)  
+>* [sizer - Win32/64 executable size reporting](https://github.com/aras-p/sizer)
+>* [Effekseer](https://github.com/effekseer/Effekseer)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
