@@ -245,7 +245,8 @@
 >* [CppDelegates - Single C++ header/source file that implements modern delegates](https://github.com/simco50/CppDelegates)
 >* [sizer - Win32/64 executable size reporting](https://github.com/aras-p/sizer)
 >* [Effekseer](https://github.com/effekseer/Effekseer)
->* [c_math_library - Highly optimized, single-header, 3D math library written in C](https://github.com/pbotmeyertron/c_math_library)  
+>* [c_math_library - Highly optimized, single-header, 3D math library written in C](https://github.com/pbotmeyertron/c_math_library)
+>* [decenc - Binary-to-text encoding/decoding algorithms implemented in C++](https://github.com/serge1/decenc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
