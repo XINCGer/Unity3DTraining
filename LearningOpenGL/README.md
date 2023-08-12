@@ -116,6 +116,9 @@
 * [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
 * [A mesh-based PBR decal system for Unity's universal render pipeline](https://github.com/Anatta336/driven-decals)  
 
+### 水体  
+* [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water)
+* 
 ### 水墨画实现  
 * [仿宋代水墨山水画风格3D渲染 Unity实现](https://zhuanlan.zhihu.com/p/602960198)  
 * [Okami-Celestial-Brush](https://github.com/mixandjam/Okami-Celestial-Brush)  
