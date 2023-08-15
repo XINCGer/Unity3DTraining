@@ -246,7 +246,8 @@
 >* [sizer - Win32/64 executable size reporting](https://github.com/aras-p/sizer)
 >* [Effekseer](https://github.com/effekseer/Effekseer)
 >* [c_math_library - Highly optimized, single-header, 3D math library written in C](https://github.com/pbotmeyertron/c_math_library)
->* [decenc - Binary-to-text encoding/decoding algorithms implemented in C++](https://github.com/serge1/decenc)  
+>* [decenc - Binary-to-text encoding/decoding algorithms implemented in C++](https://github.com/serge1/decenc)
+>* [jank - A Clojure dialect hosted on LLVM with native C++ interop](https://github.com/jank-lang/jank)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
