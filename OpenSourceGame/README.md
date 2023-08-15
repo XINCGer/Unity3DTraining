@@ -49,3 +49,4 @@ A 2D online multiplayer game taking place in a submarine travelling through the 
 * [DelayNoMoreUnity](https://github.com/genxium/DelayNoMoreUnity)  
 * [FishMMO - FishNetworking MMO Template](https://github.com/jimdroberts/FishMMO)  
 * [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity)  
+* [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite)  
