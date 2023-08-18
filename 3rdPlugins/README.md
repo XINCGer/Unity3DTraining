@@ -653,4 +653,5 @@
 * [PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [Shaman.ValueString](https://github.com/antiufo/Shaman.ValueString)
 * [unity-quadtree-octree-floodfill(Quadtree Octree flood-fill in Unity)](https://github.com/ElasticSea/unity-quadtree-octree-floodfill)
-* [TouchSocket - TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)  
+* [TouchSocket - TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)
+* [asset-pipeline](https://github.com/daihenka/asset-pipeline)  
