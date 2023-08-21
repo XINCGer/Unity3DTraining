@@ -249,7 +249,8 @@
 >* [decenc - Binary-to-text encoding/decoding algorithms implemented in C++](https://github.com/serge1/decenc)
 >* [jank - A Clojure dialect hosted on LLVM with native C++ interop](https://github.com/jank-lang/jank)
 >* [RawTherapee - A powerful cross-platform raw photo processing program](https://github.com/Beep6581/RawTherapee)
->* [CefViewCore - A common library providing clean and easy consuming of CEF](https://github.com/CefView/CefViewCore)  
+>* [CefViewCore - A common library providing clean and easy consuming of CEF](https://github.com/CefView/CefViewCore)
+>* [cppLox - A tree-walker && virtual-machine && JIT interpreter for Lox language](https://github.com/edimetia3d/cppLox)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
