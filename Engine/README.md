@@ -66,7 +66,8 @@
 * [nanovg - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations](https://github.com/memononen/nanovg)
 * [SRender](https://github.com/SunXLei/SRender)
 * [igl - intermediate Graphics Library](https://github.com/facebook/igl)
-* [smaa-cpp](https://github.com/iRi-E/smaa-cpp)  
+* [smaa-cpp](https://github.com/iRi-E/smaa-cpp)
+* [Candela - Pathtraced Realtime Engine](https://github.com/swr06/Candela)  
 
 ## 动画  
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
