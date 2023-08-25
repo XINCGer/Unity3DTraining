@@ -64,7 +64,8 @@
 >* [基于无锁的C#并发队列实现](https://www.cnblogs.com/akxmhd/p/15305868.html)  
 >* [AsyncLock: an async/await-friendly locking library for C# and .NET](https://neosmart.net/blog/2017/asynclock-an-asyncawait-friendly-locking-library-for-c-and-net/) 
 >* [.NET 零开销抽象指南](https://zhuanlan.zhihu.com/p/579403949)  
->* [托管线程处理的最佳做法](https://learn.microsoft.com/zh-cn/dotnet/standard/threading/managed-threading-best-practices)  
+>* [托管线程处理的最佳做法](https://learn.microsoft.com/zh-cn/dotnet/standard/threading/managed-threading-best-practices)
+>* [C#基础知识梳理系列九：StringBuilder](https://www.cnblogs.com/solan/archive/2012/08/06/CSharp09.html)  
 
 ### Roslyn  
 >* [roslyn](https://github.com/dotnet/roslyn)  
