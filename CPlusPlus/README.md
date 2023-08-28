@@ -252,7 +252,8 @@
 >* [CefViewCore - A common library providing clean and easy consuming of CEF](https://github.com/CefView/CefViewCore)
 >* [cppLox - A tree-walker && virtual-machine && JIT interpreter for Lox language](https://github.com/edimetia3d/cppLox)
 >* [iPlug2 - C++ Audio Plug-in Framework for desktop, mobile and web](https://github.com/iPlug2/iPlug2)
->* [coost - A tiny boost library in C++11](https://github.com/idealvin/coost)  
+>* [coost - A tiny boost library in C++11](https://github.com/idealvin/coost)
+>* [primihub - 由密码学专家团队打造的开源隐私计算平台](https://github.com/primihub/primihub)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
