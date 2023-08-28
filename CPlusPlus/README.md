@@ -253,7 +253,8 @@
 >* [cppLox - A tree-walker && virtual-machine && JIT interpreter for Lox language](https://github.com/edimetia3d/cppLox)
 >* [iPlug2 - C++ Audio Plug-in Framework for desktop, mobile and web](https://github.com/iPlug2/iPlug2)
 >* [coost - A tiny boost library in C++11](https://github.com/idealvin/coost)
->* [primihub - 由密码学专家团队打造的开源隐私计算平台](https://github.com/primihub/primihub)  
+>* [primihub - 由密码学专家团队打造的开源隐私计算平台](https://github.com/primihub/primihub)
+>* [ufbx - Single source file FBX loader](https://github.com/ufbx/ufbx)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
