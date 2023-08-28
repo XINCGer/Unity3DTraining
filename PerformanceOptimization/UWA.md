@@ -236,4 +236,5 @@
 >* [【厚积薄发】在制作PC端Game Launcher游戏启动器时涉及到的技术选型](https://mp.weixin.qq.com/s/jyBIq50waw82UJsGM8NDzg)
 >* [【厚积薄发】MuMu模拟器运行一段时间后Device.Present耗时突然上升](https://mp.weixin.qq.com/s/HobIt99_PtAo7uDUcXXuPg)
 >* [【厚积薄发】非2的幂次的ASTC纹理格式尺寸对带宽的影响](https://mp.weixin.qq.com/s/R01fPdtz0cdmIsjIjDRQlQ)
->* [【厚积薄发】为何反射探针关闭Mipmap后变成了白图](https://mp.weixin.qq.com/s/1YarnTesoJ6qZcmIwjLVdA)  
+>* [【厚积薄发】为何反射探针关闭Mipmap后变成了白图](https://mp.weixin.qq.com/s/1YarnTesoJ6qZcmIwjLVdA)
+>* [【厚积薄发】Unity 2018发布在iOS 16.3偶尔出现画面不动的问题](https://mp.weixin.qq.com/s/3v4XkrrcJezMjHIBrqm1QA)  
