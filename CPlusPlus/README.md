@@ -255,7 +255,8 @@
 >* [coost - A tiny boost library in C++11](https://github.com/idealvin/coost)
 >* [primihub - 由密码学专家团队打造的开源隐私计算平台](https://github.com/primihub/primihub)
 >* [ufbx - Single source file FBX loader](https://github.com/ufbx/ufbx)
->* [sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs)  
+>* [sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs)
+>* [sonobus](https://github.com/sonosaurus/sonobus)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
