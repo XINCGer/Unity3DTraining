@@ -656,4 +656,5 @@
 * [TouchSocket - TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架](https://github.com/RRQM/TouchSocket)
 * [asset-pipeline](https://github.com/daihenka/asset-pipeline)
 * [Vision - UnityEngine.CullingGroup API for everyone](https://github.com/mackysoft/Vision)
-* [NaResolver - 轻量化的Unity游戏插件开发框架，给你带来极佳的体验](https://github.com/MidTerm-CN/NaResolver)  
+* [NaResolver - 轻量化的Unity游戏插件开发框架，给你带来极佳的体验](https://github.com/MidTerm-CN/NaResolver)
+* [VirtualFileSystem -  A virtual file system implementation in modern C#](https://github.com/Atypical-Consulting/VirtualFileSystem)  
