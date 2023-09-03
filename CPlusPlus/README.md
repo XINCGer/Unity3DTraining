@@ -256,7 +256,8 @@
 >* [primihub - 由密码学专家团队打造的开源隐私计算平台](https://github.com/primihub/primihub)
 >* [ufbx - Single source file FBX loader](https://github.com/ufbx/ufbx)
 >* [sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs)
->* [sonobus](https://github.com/sonosaurus/sonobus)  
+>* [sonobus](https://github.com/sonosaurus/sonobus)
+>* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
