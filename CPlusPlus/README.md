@@ -258,7 +258,8 @@
 >* [sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs)
 >* [sonobus](https://github.com/sonosaurus/sonobus)
 >* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)
->* [musializer - Music Visualizer](https://github.com/tsoding/musializer)  
+>* [musializer - Music Visualizer](https://github.com/tsoding/musializer)
+>* [react-native - A framework for building native applications using React](https://github.com/facebook/react-native)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
