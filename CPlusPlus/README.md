@@ -257,7 +257,8 @@
 >* [ufbx - Single source file FBX loader](https://github.com/ufbx/ufbx)
 >* [sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs)
 >* [sonobus](https://github.com/sonosaurus/sonobus)
->* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)  
+>* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)
+>* [musializer - Music Visualizer](https://github.com/tsoding/musializer)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
