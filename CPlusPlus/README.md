@@ -259,7 +259,8 @@
 >* [sonobus](https://github.com/sonosaurus/sonobus)
 >* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)
 >* [musializer - Music Visualizer](https://github.com/tsoding/musializer)
->* [react-native - A framework for building native applications using React](https://github.com/facebook/react-native)  
+>* [react-native - A framework for building native applications using React](https://github.com/facebook/react-native)
+>* [sol2 - C++ <-> Lua API wrapper](https://github.com/ThePhD/sol2)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
