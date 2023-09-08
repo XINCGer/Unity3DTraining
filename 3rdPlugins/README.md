@@ -658,4 +658,5 @@
 * [Vision - UnityEngine.CullingGroup API for everyone](https://github.com/mackysoft/Vision)
 * [NaResolver - 轻量化的Unity游戏插件开发框架，给你带来极佳的体验](https://github.com/MidTerm-CN/NaResolver)
 * [VirtualFileSystem -  A virtual file system implementation in modern C#](https://github.com/Atypical-Consulting/VirtualFileSystem)
-* [unity-primitive-mesh-asset-creator](https://github.com/keijiro/unity-primitive-mesh-asset-creator)  
+* [unity-primitive-mesh-asset-creator](https://github.com/keijiro/unity-primitive-mesh-asset-creator)
+* [FreeScheduler](https://github.com/2881099/FreeScheduler)  
