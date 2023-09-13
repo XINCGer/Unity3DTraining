@@ -660,4 +660,5 @@
 * [VirtualFileSystem -  A virtual file system implementation in modern C#](https://github.com/Atypical-Consulting/VirtualFileSystem)
 * [unity-primitive-mesh-asset-creator](https://github.com/keijiro/unity-primitive-mesh-asset-creator)
 * [FreeScheduler](https://github.com/2881099/FreeScheduler)
-* [MagicTween](https://github.com/AnnulusGames/MagicTween)  
+* [MagicTween](https://github.com/AnnulusGames/MagicTween)
+* [unity-profiler-data-exporter](https://github.com/steve3003/unity-profiler-data-exporter)  
