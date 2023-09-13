@@ -260,7 +260,8 @@
 >* [snmalloc - Message passing based allocator](https://github.com/microsoft/snmalloc)
 >* [musializer - Music Visualizer](https://github.com/tsoding/musializer)
 >* [react-native - A framework for building native applications using React](https://github.com/facebook/react-native)
->* [sol2 - C++ <-> Lua API wrapper](https://github.com/ThePhD/sol2)  
+>* [sol2 - C++ <-> Lua API wrapper](https://github.com/ThePhD/sol2)
+>* [OpenUSD - Universal Scene Description](https://github.com/PixarAnimationStudios/OpenUSD)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
