@@ -114,7 +114,8 @@
 * [LunaLibs](https://github.com/netpipe/LunaLibs)
 * [Alpha_Engine - Game Engine For Simulation Games](https://github.com/Quark-Hell/Alpha_Engine)
 * [halflife](https://github.com/ValveSoftware/halflife)
-* [exengine - A C99 3D game engine](https://github.com/solenum/exengine)  
+* [exengine - A C99 3D game engine](https://github.com/solenum/exengine)
+* [godot-cpp C++ bindings for the Godot script API](https://github.com/godotengine/godot-cpp)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
