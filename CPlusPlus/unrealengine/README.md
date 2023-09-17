@@ -28,4 +28,5 @@
 >* [DigitalLife](https://github.com/QSWWLTN/DigitalLife)
 >* [DualShock4-For-Unreal-Engine-5](https://github.com/DarknessFX/DualShock4-For-Unreal-Engine-5)
 >* [PBCharacterMovement - HL2-style, classic FPS movement for Unreal Engine implemented in C++](https://github.com/ProjectBorealis/PBCharacterMovement)
->* [UnrealYAML](https://github.com/jwindgassen/UnrealYAML)  
+>* [UnrealYAML](https://github.com/jwindgassen/UnrealYAML)
+>* [IAUS - Infinite axis utility system in UE4 Behavior Trees](https://github.com/ProjectBorealis/IAUS)  
