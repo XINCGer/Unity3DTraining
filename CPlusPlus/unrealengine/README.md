@@ -30,4 +30,5 @@
 >* [PBCharacterMovement - HL2-style, classic FPS movement for Unreal Engine implemented in C++](https://github.com/ProjectBorealis/PBCharacterMovement)
 >* [UnrealYAML](https://github.com/jwindgassen/UnrealYAML)
 >* [IAUS - Infinite axis utility system in UE4 Behavior Trees](https://github.com/ProjectBorealis/IAUS)
->* [RedTechArtTools](https://github.com/Ryan-DowlingSoka/RedTechArtTools)  
+>* [RedTechArtTools](https://github.com/Ryan-DowlingSoka/RedTechArtTools)
+>* [UAssetAPI - A low-level .NET library for reading and writing Unreal Engine 4 game assets](https://github.com/atenfyr/UAssetAPI)  
