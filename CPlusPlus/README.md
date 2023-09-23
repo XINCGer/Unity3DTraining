@@ -266,7 +266,8 @@
 >* [cosmopolitan - build-once run-anywhere c library](https://github.com/jart/cosmopolitan)
 >* [UnityCapture](https://github.com/schellingb/UnityCapture)
 >* [Sourcetrail - free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
->* [tracy - Frame profiler](https://github.com/wolfpld/tracy)  
+>* [tracy - Frame profiler](https://github.com/wolfpld/tracy)
+>* [optick - C++ Profiler For Games](https://github.com/bombomby/optick)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
