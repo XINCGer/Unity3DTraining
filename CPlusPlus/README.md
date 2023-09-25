@@ -267,7 +267,8 @@
 >* [UnityCapture](https://github.com/schellingb/UnityCapture)
 >* [Sourcetrail - free and open-source interactive source explorer](https://github.com/CoatiSoftware/Sourcetrail)
 >* [tracy - Frame profiler](https://github.com/wolfpld/tracy)
->* [optick - C++ Profiler For Games](https://github.com/bombomby/optick)  
+>* [optick - C++ Profiler For Games](https://github.com/bombomby/optick)
+>* [physfs - A portable, flexible file i/o abstraction](https://github.com/icculus/physfs)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
