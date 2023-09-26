@@ -240,4 +240,5 @@
 >* [【厚积薄发】Unity 2018发布在iOS 16.3偶尔出现画面不动的问题](https://mp.weixin.qq.com/s/3v4XkrrcJezMjHIBrqm1QA)
 >* [【厚积薄发】从Gamma空间改为Linear空间会导致性能下降吗](https://mp.weixin.qq.com/s/pRTJ1ylT19HVvFo46wAiHg)
 >* [【厚积薄发】Unity Shader顶点数据疑问](https://mp.weixin.qq.com/s/QVGOgbRj3LGZVsvu03NQcg)
->* [【厚积薄发】手游模拟器长时间运行后，游戏掉帧且不恢复](https://mp.weixin.qq.com/s/laPx2Xi_eeVE3KoSl1qS4g)  
+>* [【厚积薄发】手游模拟器长时间运行后，游戏掉帧且不恢复](https://mp.weixin.qq.com/s/laPx2Xi_eeVE3KoSl1qS4g)
+>* [【厚积薄发】Lua在计算时出现非法值，开启Debugger之后不再触发](https://mp.weixin.qq.com/s/pp0acGvg5MhLc9sVrZwtHg)  
