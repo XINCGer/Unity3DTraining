@@ -1,6 +1,7 @@
 ## 热更新专题  
 
-* [Asset Bundle Internal Structure](https://docs.unity3d.com/540/Documentation/Manual/AssetBundleInternalStructure.html)  
+* [Asset Bundle Internal Structure](https://docs.unity3d.com/540/Documentation/Manual/AssetBundleInternalStructure.html)
+* [AssetBundlesIntro](https://docs.unity3d.com/Manual/AssetBundlesIntro.html)  
 * [程序丨入门必看：Unity资源加载及管理](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)  
 * [浅谈倩女手游中的资源更新](https://zhuanlan.zhihu.com/p/150171940)  
 * [uLua基础之C#与lua相互调用](./uLuaDemo)  
