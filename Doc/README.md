@@ -116,4 +116,5 @@
 >* [四叉树、BVH树等空间数据结构](https://zhuanlan.zhihu.com/p/400749079)  
 >* [通用游戏地图解决方案设计解析](https://mp.weixin.qq.com/s/JSChyaS46d0EYnhwAW0ddA)  
 >* [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
->* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)  
+>* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)
+>* [git_and_unity smarymerge](https://gist.github.com/Ikalou/197c414d62f45a1193fd)  
