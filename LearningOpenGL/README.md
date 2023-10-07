@@ -155,4 +155,7 @@
 * [MassiveVoxelRayTracing](https://github.com/Ushio/MassiveVoxelRayTracing)  
 
 ### AO  
-* [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)  
+* [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)
+
+### LOD  
+* [SimLOD - simultaneous-lod-generation-and-rendering](https://github.com/m-schuetz/SimLOD)  
