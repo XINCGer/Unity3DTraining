@@ -119,7 +119,8 @@
 * [exengine - A C99 3D game engine](https://github.com/solenum/exengine)
 * [godot-cpp C++ bindings for the Godot script API](https://github.com/godotengine/godot-cpp)
 * [stride - Stride Game Engine (formerly Xenko)](https://github.com/stride3d/stride)
-* [GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)  
+* [GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)
+* [dragengine](https://github.com/LordOfDragons/dragengine)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
