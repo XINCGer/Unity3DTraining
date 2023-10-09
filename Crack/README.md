@@ -4,6 +4,7 @@
 * [BadCode 恶意代码逃逸源代码](https://github.com/Rvn0xsy/BadCode)  
 
 ### 破解  
+>* [AssetStudio](https://github.com/zhangjiequan/AssetStudio)  
 >* [game-hacking Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)  
 >* [超简单的il2cpp游戏修改教程](https://www.perfare.net/659.html)  
 >* [unity游戏生成与修改so文件教程](https://www.52pojie.cn/thread-618515-1-1.html)  
