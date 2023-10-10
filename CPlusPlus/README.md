@@ -271,7 +271,8 @@
 >* [physfs - A portable, flexible file i/o abstraction](https://github.com/icculus/physfs)
 >* [IPC - Microsoft](https://github.com/microsoft/IPC)
 >* [cista - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library](https://github.com/felixguendling/cista)
->* [async - Coroutines for C++20 & asio](https://github.com/klemens-morgenstern/async)  
+>* [async - Coroutines for C++20 & asio](https://github.com/klemens-morgenstern/async)
+>* [deterministic_float - 高性能、一致性计算的软件浮点数](https://github.com/devlinzhou/deterministic_float)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
