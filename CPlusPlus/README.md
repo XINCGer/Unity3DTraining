@@ -273,7 +273,8 @@
 >* [cista - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library](https://github.com/felixguendling/cista)
 >* [async - Coroutines for C++20 & asio](https://github.com/klemens-morgenstern/async)
 >* [deterministic_float - 高性能、一致性计算的软件浮点数](https://github.com/devlinzhou/deterministic_float)
->* [libaudiodecoder - The Cross-Platform Audio Decoder API](https://github.com/asantoni/libaudiodecoder)  
+>* [libaudiodecoder - The Cross-Platform Audio Decoder API](https://github.com/asantoni/libaudiodecoder)
+>* [kuma - A network library implemented in C++](https://github.com/Jamol/kuma)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
