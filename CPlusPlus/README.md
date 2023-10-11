@@ -279,7 +279,8 @@
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
 >* [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)  
 >* [HLSLcc-DirectX shader bytecode cross compiler](https://github.com/Unity-Technologies/HLSLcc)  
->* [HLSLCrossCompiler](https://github.com/James-Jones/HLSLCrossCompiler)  
+>* [HLSLCrossCompiler](https://github.com/James-Jones/HLSLCrossCompiler)
+>* [XShaderCompiler](https://github.com/LukasBanana/XShaderCompiler)  
 
 ## WebMProject  
 >* [webmproject官网](https://www.webmproject.org/code/)  
