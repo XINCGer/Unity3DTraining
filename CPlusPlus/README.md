@@ -272,7 +272,8 @@
 >* [IPC - Microsoft](https://github.com/microsoft/IPC)
 >* [cista - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library](https://github.com/felixguendling/cista)
 >* [async - Coroutines for C++20 & asio](https://github.com/klemens-morgenstern/async)
->* [deterministic_float - 高性能、一致性计算的软件浮点数](https://github.com/devlinzhou/deterministic_float)  
+>* [deterministic_float - 高性能、一致性计算的软件浮点数](https://github.com/devlinzhou/deterministic_float)
+>* [libaudiodecoder - The Cross-Platform Audio Decoder API](https://github.com/asantoni/libaudiodecoder)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
