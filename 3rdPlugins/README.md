@@ -663,4 +663,5 @@
 * [MagicTween](https://github.com/AnnulusGames/MagicTween)
 * [unity-profiler-data-exporter](https://github.com/steve3003/unity-profiler-data-exporter)
 * [NETCore.Encrypt - NETCore encrypt and decrypt tool](https://github.com/myloveCc/NETCore.Encrypt)
-* [SmartReference](https://github.com/Brian-Jiang/SmartReference)  
+* [SmartReference](https://github.com/Brian-Jiang/SmartReference)
+* [Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)  
