@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="chuyin4" size="0.100000 0.141400" />
-    <ImageTarget name="chuyin3" size="0.100000 0.075000" />
-    <ImageTarget name="chuyin2" size="0.100000 0.141552" />
-    <ImageTarget name="chuyin" size="0.100000 0.110196" />
-  </Tracking>
-</QCARConfig>
