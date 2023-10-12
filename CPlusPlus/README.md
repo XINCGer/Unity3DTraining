@@ -274,7 +274,8 @@
 >* [async - Coroutines for C++20 & asio](https://github.com/klemens-morgenstern/async)
 >* [deterministic_float - 高性能、一致性计算的软件浮点数](https://github.com/devlinzhou/deterministic_float)
 >* [libaudiodecoder - The Cross-Platform Audio Decoder API](https://github.com/asantoni/libaudiodecoder)
->* [kuma - A network library implemented in C++](https://github.com/Jamol/kuma)  
+>* [kuma - A network library implemented in C++](https://github.com/Jamol/kuma)
+>* [wepoll: fast epoll for windows](https://github.com/piscisaureus/wepoll)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
