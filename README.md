@@ -12,7 +12,6 @@
 >* [6.寻路相关](https://github.com/XINCGer/Unity3DTraining/tree/master/Pathfinding)  
 >* [7.太空大战](https://github.com/XINCGer/Unity3DTraining/tree/master/SpaceShooter)  
 >* [8.UGUI相关](https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining)  
->* [9.AR小DEMO](https://github.com/XINCGer/Unity3DTraining/tree/master/ARTraining)  
 >* [10.游戏中的物理研究](https://github.com/XINCGer/Unity3DTraining/tree/master/PhysicsStudy)  
 >* [11.一些文档](https://github.com/XINCGer/Unity3DTraining/tree/master/Doc)   
 >* [12.一些小测试](https://github.com/XINCGer/Unity3DTraining/tree/master/SomeTest)   
