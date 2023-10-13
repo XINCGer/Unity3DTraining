@@ -664,4 +664,5 @@
 * [unity-profiler-data-exporter](https://github.com/steve3003/unity-profiler-data-exporter)
 * [NETCore.Encrypt - NETCore encrypt and decrypt tool](https://github.com/myloveCc/NETCore.Encrypt)
 * [SmartReference](https://github.com/Brian-Jiang/SmartReference)
-* [Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)  
+* [Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
+* [RuntimeAssetDatabase](https://github.com/Battlehub0x/RuntimeAssetDatabase)  
