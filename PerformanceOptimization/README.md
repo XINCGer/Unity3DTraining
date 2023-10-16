@@ -1,7 +1,7 @@
 ## 性能优化相关专题  
 
 ### 目录  
->* [UWA厚积薄发相关优化专题](./UWA.md)  
+>* [UWA厚积薄发相关优化专题](https://github.com/XINCGer/Unity3DTraining/blob/master/PerformanceOptimization/UWA.md)  
 >* [UWA2022技术分享总结](https://zhuanlan.zhihu.com/p/599878127)  
 >* [【Unity游戏开发】性能优化之在真机上开启DeepProfile与踩坑](https://www.cnblogs.com/msxh/p/11749405.html)  
 >* [About Unity Performance Tuning knowledge book](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible)  
