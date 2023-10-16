@@ -242,4 +242,5 @@
 >* [【厚积薄发】Unity Shader顶点数据疑问](https://mp.weixin.qq.com/s/QVGOgbRj3LGZVsvu03NQcg)
 >* [【厚积薄发】手游模拟器长时间运行后，游戏掉帧且不恢复](https://mp.weixin.qq.com/s/laPx2Xi_eeVE3KoSl1qS4g)
 >* [【厚积薄发】Lua在计算时出现非法值，开启Debugger之后不再触发](https://mp.weixin.qq.com/s/pp0acGvg5MhLc9sVrZwtHg)
->* [【厚积薄发】开启多线程渲染后出现大量的Crash信息](https://mp.weixin.qq.com/s/lp76elsqrg_oWqatwLcjBA)  
+>* [【厚积薄发】开启多线程渲染后出现大量的Crash信息](https://mp.weixin.qq.com/s/lp76elsqrg_oWqatwLcjBA)
+>* [【厚积薄发】游戏在小米设备上因自适应刷新率功能，帧率减半](https://mp.weixin.qq.com/s/mUK-_0idUqoCUdlTUWfxiw)  
