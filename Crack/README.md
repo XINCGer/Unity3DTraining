@@ -74,7 +74,8 @@
 >* [SweetDreams - Implementation of Advanced Module Stomping and Heap/Stack Encryption](https://github.com/CognisysGroup/SweetDreams)
 >* [Promon SHIELD Reversal - Overview of Promon SHIELD's Android application protection](https://github.com/KiFilterFiberContext/promon-reversal)
 >* [SafeLine - 一款足够简单、足够好用、足够强的免费 WAF](https://github.com/chaitin/SafeLine)
->* [fusor - Obfuscator based on logic-bombs](https://github.com/zzrcxb/fusor)  
+>* [fusor - Obfuscator based on logic-bombs](https://github.com/zzrcxb/fusor)
+>* [XKCP - eXtended Keccak Code Package](https://github.com/XKCP/XKCP)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
