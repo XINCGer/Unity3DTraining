@@ -33,7 +33,8 @@
 * [在unity中使用ijkplayer解析4k/hls/rtsp/rtmp](https://www.gero.pub/2017/10/26/how-to-use-ijkplayer-in-unity/)  
 * [xCrash](https://github.com/iqiyi/xCrash)  
 * [Play Asset Delivery](https://docs.unity3d.com/Manual/play-asset-delivery.html#generated-asset-packs)
-* [Android生成jks](https://blog.51cto.com/u_16175430/6815131)  
+* [Android生成jks](https://blog.51cto.com/u_16175430/6815131)
+* [app备案-证书公钥和md5](https://zhuanlan.zhihu.com/p/654397278)  
 
 ### 库的跨平台编译  
 * [C、C++打包成.dll .so .a 给Unity使用](https://my.oschina.net/u/4391471/blog/3298047)  
