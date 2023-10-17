@@ -276,7 +276,8 @@
 >* [libaudiodecoder - The Cross-Platform Audio Decoder API](https://github.com/asantoni/libaudiodecoder)
 >* [kuma - A network library implemented in C++](https://github.com/Jamol/kuma)
 >* [wepoll: fast epoll for windows](https://github.com/piscisaureus/wepoll)
->* [CVector](https://github.com/rswinkle/CVector)  
+>* [CVector](https://github.com/rswinkle/CVector)
+>* [type_list](https://github.com/marzer/type_list)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
