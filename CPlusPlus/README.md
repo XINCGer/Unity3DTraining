@@ -277,7 +277,8 @@
 >* [kuma - A network library implemented in C++](https://github.com/Jamol/kuma)
 >* [wepoll: fast epoll for windows](https://github.com/piscisaureus/wepoll)
 >* [CVector](https://github.com/rswinkle/CVector)
->* [type_list](https://github.com/marzer/type_list)  
+>* [type_list](https://github.com/marzer/type_list)
+>* [mpv - 🎥 Command line video player](https://github.com/mpv-player/mpv)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
