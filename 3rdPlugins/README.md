@@ -666,4 +666,5 @@
 * [SmartReference](https://github.com/Brian-Jiang/SmartReference)
 * [Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
 * [RuntimeAssetDatabase](https://github.com/Battlehub0x/RuntimeAssetDatabase)
-* [Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer)  
+* [Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
+* [PrimeTween - High-performance, allocation-free tween library for Unity](https://github.com/KyryloKuzyk/PrimeTween)  
