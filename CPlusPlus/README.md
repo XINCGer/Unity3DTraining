@@ -280,7 +280,8 @@
 >* [type_list](https://github.com/marzer/type_list)
 >* [mpv - 🎥 Command line video player](https://github.com/mpv-player/mpv)
 >* [smhasher - Hash function quality and speed tests](https://github.com/rurban/smhasher)
->* [openh264 - Open Source H.264 Codec](https://github.com/cisco/openh264)  
+>* [openh264 - Open Source H.264 Codec](https://github.com/cisco/openh264)
+>* [cpp-dump](https://github.com/philip82148/cpp-dump)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
