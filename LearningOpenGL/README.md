@@ -155,7 +155,8 @@
 * [unity-voxel](https://github.com/mattatz/unity-voxel)
 * [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)
 * [MassiveVoxelRayTracing](https://github.com/Ushio/MassiveVoxelRayTracing)
-* [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree)  
+* [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree)
+* [VoxelSpace](https://github.com/s-macke/VoxelSpace)  
 
 ### AO  
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)
