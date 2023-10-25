@@ -158,7 +158,8 @@
 * [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)
 * [MassiveVoxelRayTracing](https://github.com/Ushio/MassiveVoxelRayTracing)
 * [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree)
-* [VoxelSpace](https://github.com/s-macke/VoxelSpace)  
+* [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+* [MesoEngine - A high resolution voxel engine](https://github.com/yuchengzhong/MesoEngine)  
 
 ### AO  
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)
