@@ -668,4 +668,5 @@
 * [RuntimeAssetDatabase](https://github.com/Battlehub0x/RuntimeAssetDatabase)
 * [Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
 * [PrimeTween - High-performance, allocation-free tween library for Unity](https://github.com/KyryloKuzyk/PrimeTween)
-* [MiniExcel - Fast, Low-Memory, Easy Excel .NET helper](https://github.com/mini-software/MiniExcel)  
+* [MiniExcel - Fast, Low-Memory, Easy Excel .NET helper](https://github.com/mini-software/MiniExcel)
+* [YetAnotherHttpHandler](https://github.com/Cysharp/YetAnotherHttpHandler)  
