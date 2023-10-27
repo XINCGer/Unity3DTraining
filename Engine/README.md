@@ -122,7 +122,8 @@
 * [stride - Stride Game Engine (formerly Xenko)](https://github.com/stride3d/stride)
 * [GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)
 * [dragengine](https://github.com/LordOfDragons/dragengine)
-* [StarryX - [Early developing] This is another more radical fork of cocos2d-x game engine](https://github.com/wzhengsen/StarryX)  
+* [StarryX - [Early developing] This is another more radical fork of cocos2d-x game engine](https://github.com/wzhengsen/StarryX)
+* [DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
