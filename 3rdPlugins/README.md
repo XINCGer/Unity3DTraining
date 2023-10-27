@@ -669,4 +669,5 @@
 * [Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
 * [PrimeTween - High-performance, allocation-free tween library for Unity](https://github.com/KyryloKuzyk/PrimeTween)
 * [MiniExcel - Fast, Low-Memory, Easy Excel .NET helper](https://github.com/mini-software/MiniExcel)
-* [YetAnotherHttpHandler](https://github.com/Cysharp/YetAnotherHttpHandler)  
+* [YetAnotherHttpHandler](https://github.com/Cysharp/YetAnotherHttpHandler)
+* [UnityCameraSystem_CC - 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统](https://github.com/LeahLee13/UnityCameraSystem_CC)  
