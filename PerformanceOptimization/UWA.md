@@ -244,4 +244,5 @@
 >* [【厚积薄发】Lua在计算时出现非法值，开启Debugger之后不再触发](https://mp.weixin.qq.com/s/pp0acGvg5MhLc9sVrZwtHg)
 >* [【厚积薄发】开启多线程渲染后出现大量的Crash信息](https://mp.weixin.qq.com/s/lp76elsqrg_oWqatwLcjBA)
 >* [【厚积薄发】游戏在小米设备上因自适应刷新率功能，帧率减半](https://mp.weixin.qq.com/s/mUK-_0idUqoCUdlTUWfxiw)
->* [【厚积薄发】iOS渲染卡死应该如何解决](https://mp.weixin.qq.com/s/eHEolVgHb_PuY5-z6bOl0g)  
+>* [【厚积薄发】iOS渲染卡死应该如何解决](https://mp.weixin.qq.com/s/eHEolVgHb_PuY5-z6bOl0g)
+>* [【厚积薄发】Unity的粒子总是丢材质](https://mp.weixin.qq.com/s/o2skT29_mC8GASIXq7B9kg)  
