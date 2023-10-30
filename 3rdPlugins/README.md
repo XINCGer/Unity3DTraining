@@ -556,7 +556,7 @@
 * [ProtoPromise](https://github.com/timcassell/ProtoPromise)  
 * [ZLogger-Zero Allocation Text/Strcutured Logger for .NET Core and Unity, built on top of a Microsoft.Extensions.Logging](https://github.com/Cysharp/ZLogger)  
 * [guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)  
-* [MethodDecorator](https://github.com/Fody/MethodDecorator)  
+* [MethodDecorator - Compile time decorator pattern via IL rewriting](https://github.com/Fody/MethodDecorator)  
 * [Unity-Threading](https://github.com/Enderlook/Unity-Threading) 
 * [ContextSteering-Unity](https://github.com/RubenFrans/ContextSteering-Unity)  
 * [BNAO-A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity](https://github.com/Fewes/BNAO)  
