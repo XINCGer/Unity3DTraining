@@ -168,7 +168,7 @@
 >* [msquic-Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust](https://github.com/microsoft/msquic)  
 >* [crossguid-Lightweight cross platform C++ GUID/UUID library](https://github.com/graeme-hill/crossguid)  
 >* [asio2-Header only c++ network library](https://github.com/zhllxt/asio2)  
->* [async_simple](https://github.com/alibaba/async_simple/blob/main/README_CN.md)  
+>* [async_simple - 阿里巴巴开源的轻量级C++异步框架](https://github.com/alibaba/async_simple)  
 >* [compressonator-Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs](https://github.com/GPUOpen-Tools/compressonator)  
 >* [date-A date and time library based on the C++11/14/17 <chrono> header](https://github.com/HowardHinnant/date)  
 >* [cute_headers-Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games](https://github.com/RandyGaul/cute_headers)  
