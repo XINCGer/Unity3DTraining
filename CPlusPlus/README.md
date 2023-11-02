@@ -286,7 +286,8 @@
 >* [OrangeC - OrangeC Compiler And Tool Chain](https://github.com/LADSoft/OrangeC)
 >* [docopt.cpp - C++11 port of docopt](https://github.com/docopt/docopt.cpp)
 >* [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders)
->* [eventpp - Event Dispatcher and callback list for C++](https://github.com/wqking/eventpp)  
+>* [eventpp - Event Dispatcher and callback list for C++](https://github.com/wqking/eventpp)
+>* [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
