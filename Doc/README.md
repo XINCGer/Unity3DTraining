@@ -119,4 +119,5 @@
 >* [通用游戏地图解决方案设计解析](https://mp.weixin.qq.com/s/JSChyaS46d0EYnhwAW0ddA)  
 >* [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
 >* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)
->* [git_and_unity smarymerge](https://gist.github.com/Ikalou/197c414d62f45a1193fd)  
+>* [git_and_unity smarymerge](https://gist.github.com/Ikalou/197c414d62f45a1193fd)
+>* [更高效地利用内存空间！Unity正逐步移植到CoreCLR GC](https://mp.weixin.qq.com/s/eTtRvOn8gGUIglqTOyhI4g)  
