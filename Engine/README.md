@@ -124,7 +124,8 @@
 * [dragengine](https://github.com/LordOfDragons/dragengine)
 * [StarryX - [Early developing] This is another more radical fork of cocos2d-x game engine](https://github.com/wzhengsen/StarryX)
 * [DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
-* [The-Forge](https://github.com/ConfettiFX/The-Forge)  
+* [The-Forge](https://github.com/ConfettiFX/The-Forge)
+* [MxEngine - C++ open source 3D game engine](https://github.com/asc-community/MxEngine)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
