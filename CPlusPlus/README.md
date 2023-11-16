@@ -287,7 +287,8 @@
 >* [docopt.cpp - C++11 port of docopt](https://github.com/docopt/docopt.cpp)
 >* [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders)
 >* [eventpp - Event Dispatcher and callback list for C++](https://github.com/wqking/eventpp)
->* [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h)  
+>* [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h)
+>* [cereal - A C++11 library for serialization](https://github.com/USCiLab/cereal)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
