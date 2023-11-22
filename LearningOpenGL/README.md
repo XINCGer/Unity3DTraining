@@ -139,7 +139,8 @@
 
 ### 电子书  
 * [Physically Based Rendering - 3rd Edition](http://www.pbr-book.org/3ed-2018/contents.html)  
-* [Games101笔记](https://www.cnblogs.com/somedayLi/category/1645593.html)  
+* [Games101笔记](https://www.cnblogs.com/somedayLi/category/1645593.html)
+* [Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN)  
 
 ### GI  
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)  
