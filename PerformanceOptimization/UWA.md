@@ -246,4 +246,5 @@
 >* [【厚积薄发】游戏在小米设备上因自适应刷新率功能，帧率减半](https://mp.weixin.qq.com/s/mUK-_0idUqoCUdlTUWfxiw)
 >* [【厚积薄发】iOS渲染卡死应该如何解决](https://mp.weixin.qq.com/s/eHEolVgHb_PuY5-z6bOl0g)
 >* [【厚积薄发】Unity的粒子总是丢材质](https://mp.weixin.qq.com/s/o2skT29_mC8GASIXq7B9kg)
->* [【厚积薄发】关于AssetBundle禁用TypeTree之后的一些可序列化的问题](https://mp.weixin.qq.com/s/V4dScDS4PUz2RYx-w7f2tA)  
+>* [【厚积薄发】关于AssetBundle禁用TypeTree之后的一些可序列化的问题](https://mp.weixin.qq.com/s/V4dScDS4PUz2RYx-w7f2tA)
+>* [【厚积薄发】Unity 2022 LTS版本的稳定性](https://mp.weixin.qq.com/s/Zo0FhOyK9gPNSYQhvH8sfw)  
