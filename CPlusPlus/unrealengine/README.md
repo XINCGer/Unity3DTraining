@@ -37,4 +37,5 @@
 >* [GASShooter](https://github.com/tranek/GASShooter)
 >* [cashgenUE - Runtime Procedural Terrain Generator for UnrealEngine](https://github.com/midgen/cashgenUE)
 >* [VRM4U](https://github.com/ruyo/VRM4U)
->* [VirtualizationPlus](https://github.com/VesCodes/VirtualizationPlus)  
+>* [VirtualizationPlus](https://github.com/VesCodes/VirtualizationPlus)
+>* [Unreal-Engine-4.x-Scripting-with-C-Cookbook---Second-edition](https://github.com/PacktPublishing/Unreal-Engine-4.x-Scripting-with-C-Cookbook---Second-edition)  
