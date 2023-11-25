@@ -290,7 +290,8 @@
 >* [httpserver.h - Single header library for writing non-blocking HTTP servers in C](https://github.com/jeremycw/httpserver.h)
 >* [cereal - A C++11 library for serialization](https://github.com/USCiLab/cereal)
 >* [hashmap.c](https://github.com/tidwall/hashmap.c)
->* [BVHView - A simple viewer for the .bvh animation file format](https://github.com/orangeduck/BVHView)  
+>* [BVHView - A simple viewer for the .bvh animation file format](https://github.com/orangeduck/BVHView)
+>* [mpsc-queue - A C11 implementation of D. Vyukov MPSC queue](https://github.com/grivet/mpsc-queue)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
