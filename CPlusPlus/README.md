@@ -291,7 +291,8 @@
 >* [cereal - A C++11 library for serialization](https://github.com/USCiLab/cereal)
 >* [hashmap.c](https://github.com/tidwall/hashmap.c)
 >* [BVHView - A simple viewer for the .bvh animation file format](https://github.com/orangeduck/BVHView)
->* [mpsc-queue - A C11 implementation of D. Vyukov MPSC queue](https://github.com/grivet/mpsc-queue)  
+>* [mpsc-queue - A C11 implementation of D. Vyukov MPSC queue](https://github.com/grivet/mpsc-queue)
+>* [libvfs - Small module based vfs library in c](https://github.com/topfs2/libvfs)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
