@@ -292,7 +292,8 @@
 >* [hashmap.c](https://github.com/tidwall/hashmap.c)
 >* [BVHView - A simple viewer for the .bvh animation file format](https://github.com/orangeduck/BVHView)
 >* [mpsc-queue - A C11 implementation of D. Vyukov MPSC queue](https://github.com/grivet/mpsc-queue)
->* [libvfs - Small module based vfs library in c](https://github.com/topfs2/libvfs)  
+>* [libvfs - Small module based vfs library in c](https://github.com/topfs2/libvfs)
+>* [draco - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds](https://github.com/google/draco)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
