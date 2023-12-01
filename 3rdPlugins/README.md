@@ -673,4 +673,5 @@
 * [UnityCameraSystem_CC - 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统](https://github.com/LeahLee13/UnityCameraSystem_CC)
 * [MipmapStreaming](https://github.com/kuronekoyang/MipmapStreaming)
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections)
-* [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D)  
+* [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D)
+* [Vibration - Use custom vibrations on mobile with this native Plugin for Unity (Android & iOS)](https://github.com/BenoitFreslon/Vibration)  
