@@ -295,7 +295,8 @@
 >* [libvfs - Small module based vfs library in c](https://github.com/topfs2/libvfs)
 >* [draco - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds](https://github.com/google/draco)
 >* [velox - A C++ vectorized database acceleration library](https://github.com/facebookincubator/velox)
->* [loguru - A lightweight C++ logging library](https://github.com/emilk/loguru)  
+>* [loguru - A lightweight C++ logging library](https://github.com/emilk/loguru)
+>* [tinyexpr - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions](https://github.com/codeplea/tinyexpr)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
