@@ -294,7 +294,8 @@
 >* [mpsc-queue - A C11 implementation of D. Vyukov MPSC queue](https://github.com/grivet/mpsc-queue)
 >* [libvfs - Small module based vfs library in c](https://github.com/topfs2/libvfs)
 >* [draco - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds](https://github.com/google/draco)
->* [velox - A C++ vectorized database acceleration library](https://github.com/facebookincubator/velox)  
+>* [velox - A C++ vectorized database acceleration library](https://github.com/facebookincubator/velox)
+>* [loguru - A lightweight C++ logging library](https://github.com/emilk/loguru)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
