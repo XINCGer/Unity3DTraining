@@ -248,4 +248,5 @@
 >* [【厚积薄发】Unity的粒子总是丢材质](https://mp.weixin.qq.com/s/o2skT29_mC8GASIXq7B9kg)
 >* [【厚积薄发】关于AssetBundle禁用TypeTree之后的一些可序列化的问题](https://mp.weixin.qq.com/s/V4dScDS4PUz2RYx-w7f2tA)
 >* [【厚积薄发】Unity 2022 LTS版本的稳定性](https://mp.weixin.qq.com/s/Zo0FhOyK9gPNSYQhvH8sfw)  
->* [【厚积薄发】如何拆解Unity 2022.3版本的AssetBundle](https://mp.weixin.qq.com/s/7oq42yRJvOEbk50Vj5MDpw)  
+>* [【厚积薄发】如何拆解Unity 2022.3版本的AssetBundle](https://mp.weixin.qq.com/s/7oq42yRJvOEbk50Vj5MDpw)
+>* [【厚积薄发】Unity升级到2022版本后，打开Spine会卡住](https://mp.weixin.qq.com/s/P5Sib1DUCaimbBPKNLbqWw)  
