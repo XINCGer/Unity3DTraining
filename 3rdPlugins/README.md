@@ -674,4 +674,5 @@
 * [MipmapStreaming](https://github.com/kuronekoyang/MipmapStreaming)
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections)
 * [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D)
-* [Vibration - Use custom vibrations on mobile with this native Plugin for Unity (Android & iOS)](https://github.com/BenoitFreslon/Vibration)  
+* [Vibration - Use custom vibrations on mobile with this native Plugin for Unity (Android & iOS)](https://github.com/BenoitFreslon/Vibration)
+* [ncalc - Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)  
