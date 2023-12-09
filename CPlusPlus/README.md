@@ -297,7 +297,8 @@
 >* [velox - A C++ vectorized database acceleration library](https://github.com/facebookincubator/velox)
 >* [loguru - A lightweight C++ logging library](https://github.com/emilk/loguru)
 >* [tinyexpr - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions](https://github.com/codeplea/tinyexpr)
->* [microps - An implementation of a small TCP/IP protocol stack for learning](https://github.com/pandax381/microps)  
+>* [microps - An implementation of a small TCP/IP protocol stack for learning](https://github.com/pandax381/microps)
+>* [httpserver - Http server is written on C++14 language](https://github.com/awwit/httpserver)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
