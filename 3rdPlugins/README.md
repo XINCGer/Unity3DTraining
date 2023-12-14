@@ -676,4 +676,5 @@
 * [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D)
 * [Vibration - Use custom vibrations on mobile with this native Plugin for Unity (Android & iOS)](https://github.com/BenoitFreslon/Vibration)
 * [ncalc - Mathematical Expressions Evaluator for .NET](https://github.com/ncalc/ncalc)
-* [DotFastLZ - a port of FastLZ, Small and portable byte-aligned LZ77 compression for C#](https://github.com/ikpil/DotFastLZ)  
+* [DotFastLZ - a port of FastLZ, Small and portable byte-aligned LZ77 compression for C#](https://github.com/ikpil/DotFastLZ)
+* [ExcelDna - Free and easy .NET for Excel. This repository contains the core Excel-DNA library](https://github.com/Excel-DNA/ExcelDna)  
