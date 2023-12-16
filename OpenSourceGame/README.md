@@ -50,4 +50,5 @@ A 2D online multiplayer game taking place in a submarine travelling through the 
 * [FishMMO - FishNetworking MMO Template](https://github.com/jimdroberts/FishMMO)  
 * [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity)  
 * [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite)
-* [DungeonShooting - 一款由Godot开发的地牢射击游戏](https://github.com/xlljc/DungeonShooting)  
+* [DungeonShooting - 一款由Godot开发的地牢射击游戏](https://github.com/xlljc/DungeonShooting)
+* [CityBuilder3D - It is a 3D city builder game rendered in opengl implemented in c++](https://github.com/TamasPetii/CityBuilder3D)  
