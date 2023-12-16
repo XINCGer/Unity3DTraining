@@ -679,4 +679,5 @@
 * [DotFastLZ - a port of FastLZ, Small and portable byte-aligned LZ77 compression for C#](https://github.com/ikpil/DotFastLZ)
 * [ExcelDna - Free and easy .NET for Excel. This repository contains the core Excel-DNA library](https://github.com/Excel-DNA/ExcelDna)
 * [com.unity.editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
-* [DeepCopy - Simple & efficient library for deep copying .NET objects](https://github.com/ReubenBond/DeepCopy)  
+* [DeepCopy - Simple & efficient library for deep copying .NET objects](https://github.com/ReubenBond/DeepCopy)
+* [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)  
