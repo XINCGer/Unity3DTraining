@@ -250,4 +250,5 @@
 >* [【厚积薄发】Unity 2022 LTS版本的稳定性](https://mp.weixin.qq.com/s/Zo0FhOyK9gPNSYQhvH8sfw)  
 >* [【厚积薄发】如何拆解Unity 2022.3版本的AssetBundle](https://mp.weixin.qq.com/s/7oq42yRJvOEbk50Vj5MDpw)
 >* [【厚积薄发】Unity升级到2022版本后，打开Spine会卡住](https://mp.weixin.qq.com/s/P5Sib1DUCaimbBPKNLbqWw)
->* [【厚积薄发】Addressables资源如何进行完整性校验](https://mp.weixin.qq.com/s/Rd0c-MDTI4ghlR6lw0ejiQ)  
+>* [【厚积薄发】Addressables资源如何进行完整性校验](https://mp.weixin.qq.com/s/Rd0c-MDTI4ghlR6lw0ejiQ)
+>* [【厚积薄发】大家现在都是怎么实现热更新的](https://mp.weixin.qq.com/s/rRkctl_LjTyvnn-j6RrwSQ)  
