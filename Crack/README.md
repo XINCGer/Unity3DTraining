@@ -38,7 +38,8 @@
 >* [KrakenMask - Sleep obfuscation](https://github.com/RtlDallas/KrakenMask)
 >* [system_trace_tool - 内核驱动加载/卸载痕迹清理](https://github.com/FiYHer/system_trace_tool)
 >* [bochspwn](https://github.com/googleprojectzero/bochspwn)
->* [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)  
+>* [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
+>* [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx)  
 
 ### 加密  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
