@@ -42,6 +42,7 @@
 >* [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx)  
 
 ### 加密  
+>* [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)  
 >* [IL2Cpp简易加密方法](https://blog.csdn.net/ZhangDi2017/article/details/93502914)  
 >* [A simple Unity library for cheating prevention](https://github.com/ookii-tsuki/SafeValues)  
 >* [对Unity生成的DLL进行加密](http://www.360doc.com/content/17/0921/11/110467_688885323.shtml)  
