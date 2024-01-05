@@ -300,7 +300,8 @@
 >* [tinyexpr - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions](https://github.com/codeplea/tinyexpr)
 >* [microps - An implementation of a small TCP/IP protocol stack for learning](https://github.com/pandax381/microps)
 >* [httpserver - Http server is written on C++14 language](https://github.com/awwit/httpserver)
->* [assimp - The official Open-Asset-Importer-Library Repository](https://github.com/assimp/assimp)  
+>* [assimp - The official Open-Asset-Importer-Library Repository](https://github.com/assimp/assimp)
+>* [uthash - C macros for hash tables and more](https://github.com/troydhanson/uthash)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
