@@ -48,7 +48,8 @@
 * [Unity资产管理与更新系统的一种实现方式](https://mp.weixin.qq.com/s/yaA5mG7jsZwQpD3yOKZuAA)  
 * [2020版本AssetBundle的结构分析](https://www.bilibili.com/read/cv15116475)  
 * [[U3D]StreamedBinaryRead::TransferSTLStyleArray崩溃分析](https://zhuanlan.zhihu.com/p/59394832)  
-* [Pak files - Virtual file system](https://simoncoenen.com/blog/programming/PakFiles)  
+* [Pak files - Virtual file system](https://simoncoenen.com/blog/programming/PakFiles)
+* [江娱Unity手游代码热更新技术演进](https://zhuanlan.zhihu.com/p/676793950)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
