@@ -301,7 +301,8 @@
 >* [microps - An implementation of a small TCP/IP protocol stack for learning](https://github.com/pandax381/microps)
 >* [httpserver - Http server is written on C++14 language](https://github.com/awwit/httpserver)
 >* [assimp - The official Open-Asset-Importer-Library Repository](https://github.com/assimp/assimp)
->* [uthash - C macros for hash tables and more](https://github.com/troydhanson/uthash)  
+>* [uthash - C macros for hash tables and more](https://github.com/troydhanson/uthash)
+>* [ExcaliburHash](https://github.com/SergeyMakeev/ExcaliburHash)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
