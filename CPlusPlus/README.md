@@ -303,7 +303,8 @@
 >* [assimp - The official Open-Asset-Importer-Library Repository](https://github.com/assimp/assimp)
 >* [uthash - C macros for hash tables and more](https://github.com/troydhanson/uthash)
 >* [ExcaliburHash](https://github.com/SergeyMakeev/ExcaliburHash)
->* [parson - Lightweight JSON library written in C](https://github.com/kgabis/parson)  
+>* [parson - Lightweight JSON library written in C](https://github.com/kgabis/parson)
+>* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
