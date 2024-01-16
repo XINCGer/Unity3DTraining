@@ -680,4 +680,5 @@
 * [ExcelDna - Free and easy .NET for Excel. This repository contains the core Excel-DNA library](https://github.com/Excel-DNA/ExcelDna)
 * [com.unity.editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
 * [DeepCopy - Simple & efficient library for deep copying .NET objects](https://github.com/ReubenBond/DeepCopy)
-* [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)  
+* [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)
+* [ZString - Zero Allocation StringBuilder for .NET and Unity](https://github.com/Cysharp/ZString)  
