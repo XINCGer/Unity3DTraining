@@ -234,7 +234,6 @@
 * [bsdiff](https://github.com/mendsley/bsdiff)  
 * [LuaHelper](https://github.com/Tencent/LuaHelper)  
 * [Dynamic scrollView based on UGUI](https://github.com/aillieo/UnityDynamicScrollView)  
-* [Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)  
 * [A Unity Editor script for automating Rhubarb lip sync animation](https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer)  
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)  
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)  
@@ -681,4 +680,3 @@
 * [com.unity.editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
 * [DeepCopy - Simple & efficient library for deep copying .NET objects](https://github.com/ReubenBond/DeepCopy)
 * [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)
-* [ZString - Zero Allocation StringBuilder for .NET and Unity](https://github.com/Cysharp/ZString)  
