@@ -17,7 +17,8 @@
 * [深入剖析 Unity 协程的实现原理](https://blog.sunweizhe.cn/2020/05/08/%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90Unity%E5%8D%8F%E7%A8%8B%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
 * [Unity AssetBundle文件格式解析](https://chenanbao.github.io/2020/01/08/AssetBundle/)
 * [Alan Liu's Blog](https://alanliu90.hatenablog.com/archive)
-* [Asset Bundle 格式简析](https://blog.csdn.net/TorstenZhou/article/details/107360345)  
+* [Asset Bundle 格式简析](https://blog.csdn.net/TorstenZhou/article/details/107360345)
+* [研究快速修改Unity构建包内的资源文件](https://zhuanlan.zhihu.com/p/677543237)  
 
 ## UnrealEngine分析  
 * [虚幻引擎编译系统总结](https://mp.weixin.qq.com/s/33nGKBrEl2W9Q8vBbd66pw)  
