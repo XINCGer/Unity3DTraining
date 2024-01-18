@@ -127,7 +127,8 @@
 * [DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
 * [The-Forge](https://github.com/ConfettiFX/The-Forge)
 * [MxEngine - C++ open source 3D game engine](https://github.com/asc-community/MxEngine)
-* [blade - a cross platform 3d engine using c++98](https://github.com/crazii/blade)  
+* [blade - a cross platform 3d engine using c++98](https://github.com/crazii/blade)
+* [Ant game engine](https://github.com/ejoy/ant)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
