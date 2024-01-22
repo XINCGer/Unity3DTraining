@@ -304,7 +304,8 @@
 >* [uthash - C macros for hash tables and more](https://github.com/troydhanson/uthash)
 >* [ExcaliburHash](https://github.com/SergeyMakeev/ExcaliburHash)
 >* [parson - Lightweight JSON library written in C](https://github.com/kgabis/parson)
->* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)  
+>* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)
+>* [tlsf - Two-Level Segregated Fit memory allocator implementation](https://github.com/mattconte/tlsf)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
