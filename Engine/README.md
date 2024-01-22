@@ -21,7 +21,8 @@
 * [研究快速修改Unity构建包内的资源文件](https://zhuanlan.zhihu.com/p/677543237)  
 
 ## UnrealEngine分析  
-* [虚幻引擎编译系统总结](https://mp.weixin.qq.com/s/33nGKBrEl2W9Q8vBbd66pw)  
+* [虚幻引擎编译系统总结](https://mp.weixin.qq.com/s/33nGKBrEl2W9Q8vBbd66pw)
+* [解析UE动画系统——核心实现](https://mp.weixin.qq.com/s/wdpZiHAegrtRV97VAXMsrA)  
 
 ## 物理  
 * [NVIDIA PhysX SDK 5.0](https://github.com/NVIDIA-Omniverse/PhysX)  
