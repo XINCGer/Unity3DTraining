@@ -48,7 +48,8 @@
 * [box2d-netstandard](https://github.com/codingben/box2d-netstandard)
 * [bepuphysics2 - Pure C# 3D real time physics simulation library, now with a higher version number](https://github.com/bepu/bepuphysics2)
 * [The Open Dynamics Engine (ODE)](https://github.com/thomasmarsh/ODE)
-* [IrrPAL - repository for Irrlicht and PAL physics integration](https://github.com/netpipe/IrrPAL)  
+* [IrrPAL - repository for Irrlicht and PAL physics integration](https://github.com/netpipe/IrrPAL)
+* [manifold - Geometry library for topological robustness](https://github.com/elalish/manifold)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
