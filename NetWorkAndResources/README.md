@@ -37,4 +37,5 @@
 >* [「Linux」——select和epoll详解](https://zhuanlan.zhihu.com/p/179071801)  
 
 ### FlatBffers  
->* [深入浅出FlatBuffers原理](https://zhuanlan.zhihu.com/p/391109273)  
+>* [深入浅出FlatBuffers原理](https://zhuanlan.zhihu.com/p/391109273)
+>* [数据序列化组件PB与FB对比](https://juzii.gitee.io/2020/03/02/protobuf-vs-flatbuffer/)  
