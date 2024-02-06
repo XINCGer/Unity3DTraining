@@ -255,4 +255,5 @@
 >* [【厚积薄发】Screen.SetResolution和URP的RenderScale有什么区别](https://mp.weixin.qq.com/s/Pqn0OgKq9_7uPFl16QoHPA)
 >* [【厚积薄发】UseContentHash选项能否在打包AssetBundle时计算可靠的Hash](https://mp.weixin.qq.com/s/6WR6GSKXjuq5CTz75PMmOA)
 >* [【厚积薄发】Unity出AAB包资源加载过慢](https://mp.weixin.qq.com/s/hC_jHbctG22Kfpjh20OXKA)
->* [【厚积薄发】如何在FBX剔除Lit.shader依赖](https://mp.weixin.qq.com/s/PCriJb8QBNtK7FiYyIWCjw)  
+>* [【厚积薄发】如何在FBX剔除Lit.shader依赖](https://mp.weixin.qq.com/s/PCriJb8QBNtK7FiYyIWCjw)
+>* [【厚积薄发】限制Unity帧率的方式](https://mp.weixin.qq.com/s/dbTc2ff_Dtcjldz24auueg)  
