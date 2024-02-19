@@ -680,3 +680,4 @@
 * [com.unity.editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
 * [DeepCopy - Simple & efficient library for deep copying .NET objects](https://github.com/ReubenBond/DeepCopy)
 * [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)
+* [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)  
