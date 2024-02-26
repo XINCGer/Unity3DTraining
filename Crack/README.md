@@ -79,7 +79,8 @@
 >* [fusor - Obfuscator based on logic-bombs](https://github.com/zzrcxb/fusor)
 >* [XKCP - eXtended Keccak Code Package](https://github.com/XKCP/XKCP)
 >* [Marble](https://github.com/hackerhouse-opensource/Marble)
->* [WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher)  
+>* [WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher)
+>* [UnityResolve.hpp -About Unity引擎C++接口 | Unity Engine C++ API](https://github.com/issuimo/UnityResolve.hpp)  
 
 ### 调试与逆向工具包  
 >* [x64dbg](https://github.com/x64dbg/x64dbg)  
