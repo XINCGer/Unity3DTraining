@@ -258,4 +258,5 @@
 >* [【厚积薄发】如何在FBX剔除Lit.shader依赖](https://mp.weixin.qq.com/s/PCriJb8QBNtK7FiYyIWCjw)
 >* [【厚积薄发】限制Unity帧率的方式](https://mp.weixin.qq.com/s/dbTc2ff_Dtcjldz24auueg)
 >* [【厚积薄发】Unreadable-Mesh内存占用翻倍问题](https://mp.weixin.qq.com/s/2az4s-qv2POGkzCEBsT4dw)
->* [【厚积薄发】在TMP中计算书名号《》高度的问题](https://mp.weixin.qq.com/s/B_gWbiPAf3ehvz9GIa5Kwg)  
+>* [【厚积薄发】在TMP中计算书名号《》高度的问题](https://mp.weixin.qq.com/s/B_gWbiPAf3ehvz9GIa5Kwg)
+>* [【厚积薄发】Unity引擎关于APP后台下载支持的实现问题](https://mp.weixin.qq.com/s/sZ1wKWaM1BU0eoUyV82qyQ)  
