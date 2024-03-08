@@ -39,7 +39,8 @@
 >* [system_trace_tool - 内核驱动加载/卸载痕迹清理](https://github.com/FiYHer/system_trace_tool)
 >* [bochspwn](https://github.com/googleprojectzero/bochspwn)
 >* [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
->* [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx)  
+>* [SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx)
+>* [Metadata - A tool that decrypt/convert customized metadata files](https://github.com/RazTools/Metadata)  
 
 ### 加密  
 >* [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)  
