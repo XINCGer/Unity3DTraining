@@ -682,4 +682,5 @@
 * [ProjectWindowHistory - Editor extension that allows Undo/Redo on Unity ProjectWindow](https://github.com/Yusuke57/ProjectWindowHistory)
 * [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)
 * [SynicSugar-Unity High-level Networking Library for Mobile and Small-party Games with Epic Online Services](https://github.com/skeyll/SynicSugar)
-* [AOI - c# AOI algorithm for cross linked list](https://github.com/qq362946/AOI)  
+* [AOI - c# AOI algorithm for cross linked list](https://github.com/qq362946/AOI)
+* [EasyCompressor](https://github.com/mjebrahimi/EasyCompressor)  
