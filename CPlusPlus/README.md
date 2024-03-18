@@ -309,7 +309,7 @@
 >* [cppcoro- A library of C++ coroutine abstractions for the coroutines TS](https://github.com/lewissbaker/cppcoro)
 >* [c_std - Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 >* [NativeThreadpool - Work, timer, and wait callback example using solely Native Windows APIs](https://github.com/fin3ss3g0d/NativeThreadpool)
->  [TimeSync - TimeSync: Time Synchronization Library in Portable C++](https://github.com/catid/TimeSync)
+>  [TimeSync - TimeSync: Time Synchronization Library in Portable C++](https://github.com/catid/TimeSync)  
 >  [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool)  
 
 ## Shader  
