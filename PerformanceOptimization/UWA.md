@@ -260,4 +260,5 @@
 >* [【厚积薄发】Unreadable-Mesh内存占用翻倍问题](https://mp.weixin.qq.com/s/2az4s-qv2POGkzCEBsT4dw)
 >* [【厚积薄发】在TMP中计算书名号《》高度的问题](https://mp.weixin.qq.com/s/B_gWbiPAf3ehvz9GIa5Kwg)
 >* [【厚积薄发】Unity引擎关于APP后台下载支持的实现问题](https://mp.weixin.qq.com/s/sZ1wKWaM1BU0eoUyV82qyQ)
->* [【厚积薄发】用Compute Shader处理图像数据后在安卓机上不能正常显示渲染纹理](https://mp.weixin.qq.com/s/fKH6Q3c5Ofto9_31Wr5gRQ)  
+>* [【厚积薄发】用Compute Shader处理图像数据后在安卓机上不能正常显示渲染纹理](https://mp.weixin.qq.com/s/fKH6Q3c5Ofto9_31Wr5gRQ)
+>  [【厚积薄发】AssetBundle在移动设备上丢失](https://mp.weixin.qq.com/s/OZOTuNMVj0cpjFnmNVPzgA)  
