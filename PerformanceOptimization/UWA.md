@@ -263,4 +263,5 @@
 >* [【厚积薄发】用Compute Shader处理图像数据后在安卓机上不能正常显示渲染纹理](https://mp.weixin.qq.com/s/fKH6Q3c5Ofto9_31Wr5gRQ)
 >  [【厚积薄发】AssetBundle在移动设备上丢失](https://mp.weixin.qq.com/s/OZOTuNMVj0cpjFnmNVPzgA)
 >  [【厚积薄发】Unity中如何实现草的LOD](https://mp.weixin.qq.com/s/IpuUTobHNhlILSp7ILMSZQ)  
->  [【厚积薄发】内置管线升级到SBP，如何复用之前打包的AssetBundle](https://mp.weixin.qq.com/s/y2w1RSoB1L7sCzaLJWaAhA)  
+>  [【厚积薄发】内置管线升级到SBP，如何复用之前打包的AssetBundle](https://mp.weixin.qq.com/s/y2w1RSoB1L7sCzaLJWaAhA)
+>  [【厚积薄发】PlayerSettings.WebGL.emscriptenArgs设置无效的问题](https://mp.weixin.qq.com/s/mJ9I_CvMjk9eIfv89SXkGw)  
