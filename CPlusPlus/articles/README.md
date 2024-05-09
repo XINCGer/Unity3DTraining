@@ -18,7 +18,8 @@
 * [C++多线程并发（五）—原子操作与无锁编程](https://cloud.tencent.com/developer/article/2030919)  
 * [无锁原子操作&CAS](https://www.cnblogs.com/wiesslibrary/p/15725559.html)  
 * [面试必备之深入理解自旋锁](https://blog.csdn.net/qq_34337272/article/details/81252853)  
-* [悲观锁和乐观锁的区别](https://blog.csdn.net/weixin_50651363/article/details/119747515)  
+* [悲观锁和乐观锁的区别](https://blog.csdn.net/weixin_50651363/article/details/119747515)
+* [【C/C++面试必备】详解C/C++中volatile关键字](https://blog.csdn.net/qq_44918090/article/details/125749268)  
 
 #### C++多线程编程系列  
 * [C++ 多线程（一）：生产者 - 消费者模型](https://zhuanlan.zhihu.com/p/361956060)  
