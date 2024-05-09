@@ -83,6 +83,7 @@
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
 
 ## 开源引擎  
+* [Game Engines with Source: Learning from the best](https://github.com/redorav/public_source_engines)  
 * [OpenGraphic - Graphic Engine & Game Engine lists](https://github.com/Gforcex/OpenGraphic)  
 * [Game engine created using OpenGL and C++](https://github.com/MrFrenik/Enjon)  
 * [Flax Engine – multi-platform 3D game engine](https://github.com/FlaxEngine/FlaxEngine)  
