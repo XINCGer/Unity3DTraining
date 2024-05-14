@@ -266,4 +266,5 @@
 >  [【厚积薄发】内置管线升级到SBP，如何复用之前打包的AssetBundle](https://mp.weixin.qq.com/s/y2w1RSoB1L7sCzaLJWaAhA)
 >  [【厚积薄发】PlayerSettings.WebGL.emscriptenArgs设置无效的问题](https://mp.weixin.qq.com/s/mJ9I_CvMjk9eIfv89SXkGw)
 >  [【厚积薄发】如何优化Unity发布iOS编译出来的Framework文件过大问题](https://mp.weixin.qq.com/s/swzU2elhqMOOpukIftH1Yw)
->  [【厚积薄发】java.lang.NoSuchMethodError的不明崩溃问题](https://mp.weixin.qq.com/s/YSRmYCZ7QveFxnT4fg2smA)  
+>  [【厚积薄发】java.lang.NoSuchMethodError的不明崩溃问题](https://mp.weixin.qq.com/s/YSRmYCZ7QveFxnT4fg2smA)
+>  [【厚积薄发】Text Mesh Pro图文混排如何对任何图片都能实现](https://mp.weixin.qq.com/s/MqxpIIFGdjmdrWKZmXsYbw)  
