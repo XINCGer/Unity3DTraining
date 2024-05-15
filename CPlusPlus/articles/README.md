@@ -44,7 +44,7 @@
 
 ### debugging  
 * [InsightEngineering](https://github.com/DebugPrivilege/InsightEngineering)
-* 
+  
 ### 面试向  
 * [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)  
 * [static全局变量与普通的全局变量](https://blog.csdn.net/qq_22238021/article/details/79533711)  
@@ -55,7 +55,8 @@
 * [C++内存管理，const、mutable、static、编译过程](https://blog.csdn.net/Diligent_wu/article/details/123482018)  
 * [C++和C# struct和class的区别](https://blog.csdn.net/qq_43477024/article/details/114417191)  
 * [C++中的extern](https://blog.csdn.net/deatharthas/article/details/113769269)  
-* [C++: static](https://zhuanlan.zhihu.com/p/38305284)  
+* [C++: static](https://zhuanlan.zhihu.com/p/38305284)
+* [C/C++const关键字详解（全网最全）](https://blog.csdn.net/weixin_44049823/article/details/128735316)  
 
 ### memory order  
 * [如何理解 C++11 的六种 memory order？](https://www.zhihu.com/question/24301047/answer/1193956492)  
