@@ -60,4 +60,7 @@
 
 ### memory order  
 * [如何理解 C++11 的六种 memory order？](https://www.zhihu.com/question/24301047/answer/1193956492)  
-* [std::memory_order](https://zh.cppreference.com/w/cpp/atomic/memory_order)  
+* [std::memory_order](https://zh.cppreference.com/w/cpp/atomic/memory_order)
+
+### 引用  
+* [c++ 返回值与返回引用以及生命周期总结](https://zhuanlan.zhihu.com/p/605428903)  
