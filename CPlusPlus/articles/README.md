@@ -63,4 +63,5 @@
 * [std::memory_order](https://zh.cppreference.com/w/cpp/atomic/memory_order)
 
 ### 引用  
-* [c++ 返回值与返回引用以及生命周期总结](https://zhuanlan.zhihu.com/p/605428903)  
+* [c++ 返回值与返回引用以及生命周期总结](https://zhuanlan.zhihu.com/p/605428903)
+* [C++中不要随便返回对象的引用](https://blog.51cto.com/u_13933750/3229708)  
