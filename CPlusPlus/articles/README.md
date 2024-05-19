@@ -57,7 +57,8 @@
 * [C++中的extern](https://blog.csdn.net/deatharthas/article/details/113769269)  
 * [C++: static](https://zhuanlan.zhihu.com/p/38305284)
 * [C/C++const关键字详解（全网最全）](https://blog.csdn.net/weixin_44049823/article/details/128735316)
-* [C/C++ 中的static关键字](https://zhuanlan.zhihu.com/p/37439983)  
+* [C/C++ 中的static关键字](https://zhuanlan.zhihu.com/p/37439983)
+* [C++ static详解,类中的static用法说明](https://blog.csdn.net/weixin_43222324/article/details/106999558)  
 
 ### memory order  
 * [如何理解 C++11 的六种 memory order？](https://www.zhihu.com/question/24301047/answer/1193956492)  
