@@ -268,4 +268,5 @@
 >  [【厚积薄发】如何优化Unity发布iOS编译出来的Framework文件过大问题](https://mp.weixin.qq.com/s/swzU2elhqMOOpukIftH1Yw)
 >  [【厚积薄发】java.lang.NoSuchMethodError的不明崩溃问题](https://mp.weixin.qq.com/s/YSRmYCZ7QveFxnT4fg2smA)
 >  [【厚积薄发】Text Mesh Pro图文混排如何对任何图片都能实现](https://mp.weixin.qq.com/s/MqxpIIFGdjmdrWKZmXsYbw)
->  [【厚积薄发】简单Mesh多线程合并，使用什么库性能更高](https://mp.weixin.qq.com/s/L1cHL3RoVL-X6XaQJ00U5w)  
+>  [【厚积薄发】简单Mesh多线程合并，使用什么库性能更高](https://mp.weixin.qq.com/s/L1cHL3RoVL-X6XaQJ00U5w)
+>  [【厚积薄发】如何选择Unity的4种批处理方式](https://mp.weixin.qq.com/s/wmXMkgxBcXOznihgU69qTA)  
