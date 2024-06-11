@@ -19,7 +19,8 @@
 * [Alan Liu's Blog](https://alanliu90.hatenablog.com/archive)
 * [Asset Bundle 格式简析](https://blog.csdn.net/TorstenZhou/article/details/107360345)
 * [研究快速修改Unity构建包内的资源文件](https://zhuanlan.zhihu.com/p/677543237)
-* [Unity Asset Bundles tips and pitfalls](https://blog.unity.com/engine-platform/unity-asset-bundles-tips-pitfalls)  
+* [Unity Asset Bundles tips and pitfalls](https://blog.unity.com/engine-platform/unity-asset-bundles-tips-pitfalls)
+* [Unity Asset Bundles，不可不知的使用技巧和误区](https://mp.weixin.qq.com/s/2wMpO9h7aCcv3gpVBJxQDA)  
 
 ## UnrealEngine分析  
 * [虚幻引擎编译系统总结](https://mp.weixin.qq.com/s/33nGKBrEl2W9Q8vBbd66pw)
