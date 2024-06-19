@@ -1,8 +1,5 @@
 # Unity3D--Training
-【Unity杂货铺】unity大杂烩~    
-本项目由[JetBranins](https://www.jetbrains.com/?from=Unity3DTraining)赞助相关开发工具  
-<a href="https://www.jetbrains.com/?from=Unity3DTraining"><img src="https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/images/jetbrains.png" width = "150" height = "150" div align=center /></a>
-
+【Unity杂货铺】unity大杂烩~   
 ## 目录  
 >* [1.收集整理一些第三方库和插件](https://github.com/XINCGer/Unity3DTraining/tree/master/3rdPlugins)  
 >* [2.月光跑酷3D版](https://github.com/XINCGer/Unity3DTraining/tree/master/3DMoonRunner)
@@ -57,6 +54,9 @@
 >* [52.Python在游戏中的实用库](https://github.com/XINCGer/Unity3DTraining/tree/master/PythonInGame)  
 >* [53.求职工作培训与养生等](https://github.com/XINCGer/Unity3DTraining/tree/master/AboutJob)  
 
+本项目已加入 HelloGitHub 徽章计划  
+<a href="https://hellogithub.com/repository/01f97c45ff134f8fa2af1f5a61d7bdf2" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=01f97c45ff134f8fa2af1f5a61d7bdf2&claim_uid=1P4wxSvrEyZidfq" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## 友情链接  
 * [xasset 快速强大的Unity资源系统](https://github.com/xasset/xasset)  
 * [anything_about_game(夜莺人行自走库)](https://github.com/killop/anything_about_game)  
@@ -66,4 +66,4 @@
 * [烟雨迷离半世殇](https://www.lfzxb.top/)  
 * [北冥有鱼其名为鲲的博客](https://www.cnblogs.com/xin-lover/)  
 * [ZeaLotSean的博客](https://asuka4every.top/)
-* [Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)
+* [Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)  
