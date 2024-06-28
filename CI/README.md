@@ -142,7 +142,8 @@
 * [保姆式教你使用FASTBuild对UE4进行联机编译](https://zhuanlan.zhihu.com/p/158400394)  
 * [Utility to build Visual Studio solutions and projects with FASTBuild, supports VS2015/2017/2019](https://github.com/LendyZhang/msfastbuild)  
 * [FASTBuild-Dashboard](https://github.com/hillin/FASTBuild-Dashboard)
-* [使用Fastbuild加快UnrealEngine编译速度](https://blueroses.top/2021/11/04/shi-yong-fastbuild-jia-kuai-unrealengine-bian-yi-su-du/)  
+* [使用Fastbuild加快UnrealEngine编译速度](https://blueroses.top/2021/11/04/shi-yong-fastbuild-jia-kuai-unrealengine-bian-yi-su-du/)
+* [笔记_fastbuild](https://github.com/sbfhy/note_fastbuild/tree/master/files)  
 
 ### IncrediBuild  
 * [IncrediBuild 联合编译-教程](https://blog.csdn.net/longji/article/details/118211274)  
