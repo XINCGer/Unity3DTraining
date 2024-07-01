@@ -270,4 +270,5 @@
 >  [【厚积薄发】Text Mesh Pro图文混排如何对任何图片都能实现](https://mp.weixin.qq.com/s/MqxpIIFGdjmdrWKZmXsYbw)
 >  [【厚积薄发】简单Mesh多线程合并，使用什么库性能更高](https://mp.weixin.qq.com/s/L1cHL3RoVL-X6XaQJ00U5w)
 >  [【厚积薄发】如何选择Unity的4种批处理方式](https://mp.weixin.qq.com/s/wmXMkgxBcXOznihgU69qTA)
->  [【厚积薄发】iOS包ShaderVariantCollection预热慢问题](https://mp.weixin.qq.com/s/kM-b_NtV91WmsnUSBqVklg)  
+>  [【厚积薄发】iOS包ShaderVariantCollection预热慢问题](https://mp.weixin.qq.com/s/kM-b_NtV91WmsnUSBqVklg)
+>  [【厚积薄发】如何计算弧线弹道的落地位置](https://mp.weixin.qq.com/s/XCfblEGa9ZJIUH_MvDakfQ)  
