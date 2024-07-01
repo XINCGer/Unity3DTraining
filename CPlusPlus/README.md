@@ -313,7 +313,8 @@
 >  [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool)
 >  [TinySoundFont](https://github.com/schellingb/TinySoundFont)
 >  [tinyfecVPN](https://github.com/wangyu-/tinyfecVPN)
->  [ladybird-Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)  
+>  [ladybird-Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
+>  [FiberTaskingLib - A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies](https://github.com/RichieSams/FiberTaskingLib)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
