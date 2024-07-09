@@ -686,4 +686,5 @@
 * [EasyCompressor](https://github.com/mjebrahimi/EasyCompressor)
 * [PsdParser - PSD file parser library for C#](https://github.com/manju-summoner/PsdParser)
 * [bzPSD - PSD loader for .NET written entirely in managed C#](https://github.com/bizzehdee/bzPSD)
-* [npoi](https://github.com/nissl-lab/npoi)  
+* [npoi](https://github.com/nissl-lab/npoi)
+* [SocketIOUnity](https://github.com/itisnajim/SocketIOUnity)  
