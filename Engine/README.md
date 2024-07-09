@@ -52,7 +52,8 @@
 * [The Open Dynamics Engine (ODE)](https://github.com/thomasmarsh/ODE)
 * [IrrPAL - repository for Irrlicht and PAL physics integration](https://github.com/netpipe/IrrPAL)
 * [manifold - Geometry library for topological robustness](https://github.com/elalish/manifold)
-* [QuarkPhysics](https://github.com/erayzesen/QuarkPhysics)  
+* [QuarkPhysics](https://github.com/erayzesen/QuarkPhysics)
+* [havok-2013](https://github.com/sigmaco/havok-2013)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
