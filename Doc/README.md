@@ -121,4 +121,5 @@
 >* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)
 >* [git_and_unity smarymerge](https://gist.github.com/Ikalou/197c414d62f45a1193fd)
 >* [更高效地利用内存空间！Unity正逐步移植到CoreCLR GC](https://mp.weixin.qq.com/s/eTtRvOn8gGUIglqTOyhI4g)
->* [UE4 RoboMerge 部署方法](https://zhuanlan.zhihu.com/p/597540557)  
+>* [UE4 RoboMerge 部署方法](https://zhuanlan.zhihu.com/p/597540557)
+>* [文件I/O的内核缓冲](https://www.cnblogs.com/yungyu16/p/13051582.html)  
