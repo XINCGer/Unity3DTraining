@@ -687,4 +687,5 @@
 * [PsdParser - PSD file parser library for C#](https://github.com/manju-summoner/PsdParser)
 * [bzPSD - PSD loader for .NET written entirely in managed C#](https://github.com/bizzehdee/bzPSD)
 * [npoi](https://github.com/nissl-lab/npoi)
-* [SocketIOUnity](https://github.com/itisnajim/SocketIOUnity)  
+* [SocketIOUnity](https://github.com/itisnajim/SocketIOUnity)
+* [ImKeyframeReduction](https://github.com/phi16/ImKeyframeReduction)  
