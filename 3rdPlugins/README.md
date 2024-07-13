@@ -688,4 +688,5 @@
 * [bzPSD - PSD loader for .NET written entirely in managed C#](https://github.com/bizzehdee/bzPSD)
 * [npoi](https://github.com/nissl-lab/npoi)
 * [SocketIOUnity](https://github.com/itisnajim/SocketIOUnity)
-* [ImKeyframeReduction](https://github.com/phi16/ImKeyframeReduction)  
+* [ImKeyframeReduction](https://github.com/phi16/ImKeyframeReduction)
+* [AsyncRAT-C-Sharp Open-Source Remote Administration Tool For Windows C# (RAT)](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)  
