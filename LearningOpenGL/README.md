@@ -88,7 +88,8 @@
 * [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)
 * [MSAA-Visualization](https://github.com/keijiro/MSAA-Visualization)
 * [当我们谈Raytracing时我们在谈些什么](https://mp.weixin.qq.com/s/f3czSYy6QBVNfrzQ3Hwm-g)
-* [Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity)  
+* [Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity)
+* [四种体积光的写法](https://mp.weixin.qq.com/s/dP9-ZzeM37dgyVRataQAWA)  
 
 ### URP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
