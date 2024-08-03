@@ -691,4 +691,5 @@
 * [ImKeyframeReduction](https://github.com/phi16/ImKeyframeReduction)
 * [AsyncRAT-C-Sharp Open-Source Remote Administration Tool For Windows C# (RAT)](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
 * [SDFTextureGenerator](https://github.com/cecarlsen/SDFTextureGenerator)
-* [Gitostory](https://github.com/emirkivrak/Gitostory)  
+* [Gitostory](https://github.com/emirkivrak/Gitostory)
+* [com.nebukam.job-assist](https://github.com/Nebukam/com.nebukam.job-assist)  
