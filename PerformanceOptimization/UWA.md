@@ -275,4 +275,5 @@
 >  [【厚积薄发】设置DepthBufferBits和设置DepthStencilFormat的区别](https://mp.weixin.qq.com/s/qjbWtImNB6G17TJViPSgXg)
 >  [【厚积薄发】WebGL-编译报错，如何定位sendfile报错位置](https://mp.weixin.qq.com/s/h1a7iErFQ-AFh2FiWHLNYw)
 >  [【厚积薄发】如何解决部分设备分辨率不适配](https://mp.weixin.qq.com/s/bP5zcxhtuFj3wZCRoYsBWA)
->  [【厚积薄发】PuerTS和HybridCLR哪个更适合开发微信小游戏](https://mp.weixin.qq.com/s/SZxi9_n27QmHjs2i4sryIg)  
+>  [【厚积薄发】PuerTS和HybridCLR哪个更适合开发微信小游戏](https://mp.weixin.qq.com/s/SZxi9_n27QmHjs2i4sryIg)
+>  [【厚积薄发】TcpSocket在切后台后如何保活](https://mp.weixin.qq.com/s/o3mHnSQc8czZKh5sWnjHEg)  
