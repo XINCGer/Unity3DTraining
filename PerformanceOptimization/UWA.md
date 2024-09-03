@@ -277,4 +277,5 @@
 >  [【厚积薄发】如何解决部分设备分辨率不适配](https://mp.weixin.qq.com/s/bP5zcxhtuFj3wZCRoYsBWA)
 >  [【厚积薄发】PuerTS和HybridCLR哪个更适合开发微信小游戏](https://mp.weixin.qq.com/s/SZxi9_n27QmHjs2i4sryIg)
 >  [【厚积薄发】TcpSocket在切后台后如何保活](https://mp.weixin.qq.com/s/o3mHnSQc8czZKh5sWnjHEg)
->  [【厚积薄发】使用Addressables+ SpriteAtlas打包产生冗余](https://mp.weixin.qq.com/s/eJiDGZ-OBv7-jUcKIeY38Q)  
+>  [【厚积薄发】使用Addressables+ SpriteAtlas打包产生冗余](https://mp.weixin.qq.com/s/eJiDGZ-OBv7-jUcKIeY38Q)
+>  [【厚积薄发】使用SBP打AssetBundle时脚本引用丢失](https://mp.weixin.qq.com/s/ziTzQQC7RJthKcGjlEQmmw)  
