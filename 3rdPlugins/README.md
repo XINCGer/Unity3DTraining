@@ -692,4 +692,5 @@
 * [AsyncRAT-C-Sharp Open-Source Remote Administration Tool For Windows C# (RAT)](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
 * [SDFTextureGenerator](https://github.com/cecarlsen/SDFTextureGenerator)
 * [Gitostory](https://github.com/emirkivrak/Gitostory)
-* [com.nebukam.job-assist](https://github.com/Nebukam/com.nebukam.job-assist)  
+* [com.nebukam.job-assist](https://github.com/Nebukam/com.nebukam.job-assist)
+* [.Net-Bridge](https://github.com/tr8dr/.Net-Bridge)  
