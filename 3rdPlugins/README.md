@@ -693,4 +693,5 @@
 * [SDFTextureGenerator](https://github.com/cecarlsen/SDFTextureGenerator)
 * [Gitostory](https://github.com/emirkivrak/Gitostory)
 * [com.nebukam.job-assist](https://github.com/Nebukam/com.nebukam.job-assist)
-* [.Net-Bridge](https://github.com/tr8dr/.Net-Bridge)  
+* [.Net-Bridge](https://github.com/tr8dr/.Net-Bridge)
+* [UnityMeshSimplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier)  
