@@ -40,4 +40,5 @@
 >* [VirtualizationPlus](https://github.com/VesCodes/VirtualizationPlus)
 >* [Unreal-Engine-4.x-Scripting-with-C-Cookbook---Second-edition](https://github.com/PacktPublishing/Unreal-Engine-4.x-Scripting-with-C-Cookbook---Second-edition)
 >* [UnrealCSharp](https://github.com/crazytuzi/UnrealCSharp)
->* [UE4_MotionMatching](https://github.com/Hethger/UE4_MotionMatching-)  
+>* [UE4_MotionMatching](https://github.com/Hethger/UE4_MotionMatching-)
+>* [UnrealSpecifiers](https://github.com/fjz13/UnrealSpecifiers)  
