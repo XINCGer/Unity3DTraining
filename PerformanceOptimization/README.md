@@ -133,7 +133,8 @@
 >* [【Unity】引擎编译时间优化](https://zhuanlan.zhihu.com/p/601065788)
 >* [Unity Shader变体优化与故障排除技巧](https://mp.weixin.qq.com/s/0l6SkXNwuoRzFt9Xg0ZV4A)
 >* [Unity大咖作客 | 知乎大V「放牛的星星」，是这么做性能优化的](https://www.bilibili.com/read/cv12145909/)
->* [Unite Shanghai 2024 游戏生态专场 | 《合金弹头：觉醒》框架演化之路](https://mp.weixin.qq.com/s/VBu5s_yGToBuasKH1dvV7w)  
+>* [Unite Shanghai 2024 游戏生态专场 | 《合金弹头：觉醒》框架演化之路](https://mp.weixin.qq.com/s/VBu5s_yGToBuasKH1dvV7w)
+>* [解析团结引擎实时全局光照系统技术能力](https://mp.weixin.qq.com/s/gZISRiX6a0a7CKsb4-J0sg)  
 
 #### 底层原理  
 >* [Understanding the managed heap](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity4-1.html)  
