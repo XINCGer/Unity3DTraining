@@ -153,7 +153,8 @@
 * [gi-study](https://github.com/JMS55/gi-study)  
 * [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)  
 * [SEGI-A fully-dynamic voxel-based global illumination system for Unity](https://github.com/sonicether/SEGI)
-* [Probe-Based Global Illumination](https://mp.weixin.qq.com/s/AmlQOAdxn6tImdC3gdk2ag)  
+* [Probe-Based Global Illumination](https://mp.weixin.qq.com/s/AmlQOAdxn6tImdC3gdk2ag)
+* [解析团结引擎实时全局光照系统技术能力](https://mp.weixin.qq.com/s/gZISRiX6a0a7CKsb4-J0sg?poc_token=HPhGCmej2hUy8037kG3E5zOuxdNgbbM9O8kCzm9N)  
 
 ### Volume
 * [UnityVolumeCloud](https://github.com/ShaderFallback/UnityVolumeCloud)  
