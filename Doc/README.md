@@ -115,7 +115,7 @@
 >* [3D变换的组合与分解](https://zhuanlan.zhihu.com/p/119066087)  
 >* [【GDCVault】《看门狗：军团》群体 AI 框架](https://zhuanlan.zhihu.com/p/463560068)  
 >* [出动200人，已获版号，朝夕光年这款自研UE产品遇到了哪些难题？](https://mp.weixin.qq.com/s/R0VrRAvLzqowb9V4m9zm4Q)  
->* [四叉树、BVH树等空间数据结构](https://zhuanlan.zhihu.com/p/400749079)  
+>* [空间数据结构(四叉树/八叉树/BVH树/BSP树/k-d树)](https://www.cnblogs.com/KillerAery/p/10878367.htm)  
 >* [通用游戏地图解决方案设计解析](https://mp.weixin.qq.com/s/JSChyaS46d0EYnhwAW0ddA)  
 >* [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
 >* [【Unity】使用dmp文件定位Player崩溃原因 ](https://www.cnblogs.com/caiger-blog/p/16211519.html)
