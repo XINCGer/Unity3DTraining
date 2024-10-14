@@ -155,7 +155,8 @@
 * [SEGI-A fully-dynamic voxel-based global illumination system for Unity](https://github.com/sonicether/SEGI)
 * [Probe-Based Global Illumination](https://mp.weixin.qq.com/s/AmlQOAdxn6tImdC3gdk2ag)
 * [解析团结引擎实时全局光照系统技术能力](https://mp.weixin.qq.com/s/gZISRiX6a0a7CKsb4-J0sg?poc_token=HPhGCmej2hUy8037kG3E5zOuxdNgbbM9O8kCzm9N)
-* [通俗易懂的 ShadowMap](https://zhuanlan.zhihu.com/p/690617671)  
+* [通俗易懂的 ShadowMap](https://zhuanlan.zhihu.com/p/690617671)
+* [图形学基础 - 阴影 - ShadowMap及其延伸](https://zhuanlan.zhihu.com/p/384446688)  
 
 ### Volume
 * [UnityVolumeCloud](https://github.com/ShaderFallback/UnityVolumeCloud)  
