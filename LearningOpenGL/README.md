@@ -172,4 +172,7 @@
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion)
 
 ### LOD  
-* [SimLOD - simultaneous-lod-generation-and-rendering](https://github.com/m-schuetz/SimLOD)  
+* [SimLOD - simultaneous-lod-generation-and-rendering](https://github.com/m-schuetz/SimLOD)
+
+### 阴影  
+* [Unity改造URP的CSM阴影](https://zhuanlan.zhihu.com/p/691367954)  
