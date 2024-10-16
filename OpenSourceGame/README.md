@@ -52,4 +52,5 @@ A 2D online multiplayer game taking place in a submarine travelling through the 
 * [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite)
 * [DungeonShooting - 一款由Godot开发的地牢射击游戏](https://github.com/xlljc/DungeonShooting)
 * [CityBuilder3D - It is a 3D city builder game rendered in opengl implemented in c++](https://github.com/TamasPetii/CityBuilder3D)
-* [Thrive - The main repository for the development of the evolution game Thrive](https://github.com/Revolutionary-Games/Thrive)  
+* [Thrive - The main repository for the development of the evolution game Thrive](https://github.com/Revolutionary-Games/Thrive)
+* [laya3.x引擎 + nodejs 开发的网络麻将](https://github.com/liumengniu/majiang)  
