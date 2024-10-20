@@ -316,7 +316,8 @@
 >  [FiberTaskingLib - A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies](https://github.com/RichieSams/FiberTaskingLib)
 >  [blink - A tool which allows you to edit source code of any MSVC C++ project live at runtime](https://github.com/crosire/blink)
 >  [tiny-utf8 Unicode (UTF-8) capable std::string](https://github.com/DuffsDevice/tiny-utf8)
->  [asyncplusplus - Async++ concurrency framework for C++11](https://github.com/Amanieu/asyncplusplus)  
+>  [asyncplusplus - Async++ concurrency framework for C++11](https://github.com/Amanieu/asyncplusplus)
+>  [Flexible, user expandable 2D animation software for Linux and Windows](https://github.com/MaurycyLiebner/enve)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
