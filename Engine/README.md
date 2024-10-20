@@ -80,7 +80,8 @@
 * [igl - intermediate Graphics Library](https://github.com/facebook/igl)
 * [smaa-cpp](https://github.com/iRi-E/smaa-cpp)
 * [Candela - Pathtraced Realtime Engine](https://github.com/swr06/Candela)
-* [skia Skia is a complete 2D graphic library for drawing Text, Geometries, and Images](https://github.com/google/skia)  
+* [skia Skia is a complete 2D graphic library for drawing Text, Geometries, and Images](https://github.com/google/skia)
+* [Friction Graphics](https://github.com/friction2d/friction)  
 
 ## 动画  
 * [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
