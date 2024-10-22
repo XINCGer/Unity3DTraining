@@ -280,4 +280,5 @@
 >  [【厚积薄发】使用Addressables+ SpriteAtlas打包产生冗余](https://mp.weixin.qq.com/s/eJiDGZ-OBv7-jUcKIeY38Q)
 >  [【厚积薄发】使用SBP打AssetBundle时脚本引用丢失](https://mp.weixin.qq.com/s/ziTzQQC7RJthKcGjlEQmmw)
 >  [【厚积薄发】为什么同一个Camera有两个RenderSingleCamera的耗时](https://mp.weixin.qq.com/s/Oa6I-7EDJUL6dTYvB2v9wQ)
->  [【厚积薄发】升级Unity后产生的Objects内存泄露现象](https://mp.weixin.qq.com/s/A3JEqoicgVDw7PXvBbaRKQ)  
+>  [【厚积薄发】升级Unity后产生的Objects内存泄露现象](https://mp.weixin.qq.com/s/A3JEqoicgVDw7PXvBbaRKQ)
+>  [【厚积薄发】如果想用ECS实现技能系统有什么好的思路](https://mp.weixin.qq.com/s/YjRd1wt1ajErodpsWQdAgg)  
