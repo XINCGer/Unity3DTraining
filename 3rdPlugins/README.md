@@ -694,4 +694,5 @@
 * [Gitostory](https://github.com/emirkivrak/Gitostory)
 * [com.nebukam.job-assist](https://github.com/Nebukam/com.nebukam.job-assist)
 * [.Net-Bridge](https://github.com/tr8dr/.Net-Bridge)
-* [UnityMeshSimplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier)  
+* [UnityMeshSimplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier)
+* [ComputeSharp](https://github.com/Sergio0694/ComputeSharp)  
