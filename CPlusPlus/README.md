@@ -317,7 +317,8 @@
 >  [blink - A tool which allows you to edit source code of any MSVC C++ project live at runtime](https://github.com/crosire/blink)  
 >  [tiny-utf8 Unicode (UTF-8) capable std::string](https://github.com/DuffsDevice/tiny-utf8)  
 >  [asyncplusplus - Async++ concurrency framework for C++11](https://github.com/Amanieu/asyncplusplus)  
->  [Flexible, user expandable 2D animation software for Linux and Windows](https://github.com/MaurycyLiebner/enve)  
+>  [Flexible, user expandable 2D animation software for Linux and Windows](https://github.com/MaurycyLiebner/enve)
+>  [json.cpp - JSON for Classic C++](https://github.com/jart/json.cpp)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
