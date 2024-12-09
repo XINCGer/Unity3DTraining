@@ -141,7 +141,8 @@
 * [Ant game engine](https://github.com/ejoy/ant)
 * [butano - Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine)
-* [bgfx](https://github.com/bkaradzic/bgfx)  
+* [bgfx](https://github.com/bkaradzic/bgfx)
+* [Castor3D - Multi-OS 3D engine](https://github.com/DragonJoker/Castor3D)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
