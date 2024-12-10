@@ -60,4 +60,4 @@
 * [Lua 性能分析工具 Lua profiler tool like gperftools](https://github.com/esrrhs/pLua)
 
 ### Lua JIT  
-*[LuaJIT-5.3.6 多线程 垃圾回收](https://github.com/Yu2erer/LuaJIT-5.3.6)  
+* [LuaJIT-5.3.6 多线程 垃圾回收](https://github.com/Yu2erer/LuaJIT-5.3.6)  
