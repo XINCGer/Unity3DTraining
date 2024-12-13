@@ -320,7 +320,8 @@
 >* [Flexible, user expandable 2D animation software for Linux and Windows](https://github.com/MaurycyLiebner/enve)
 >* [json.cpp - JSON for Classic C++](https://github.com/jart/json.cpp)
 >* [luaaa - C++ to LUA binding tool in a single](https://github.com/gengyong/luaaa)
->* [utf8.h - single header utf8 string functions for C and C++](https://github.com/sheredom/utf8.h)  
+>* [utf8.h - single header utf8 string functions for C and C++](https://github.com/sheredom/utf8.h)
+>* [verysleepy - Very Sleepy, a sampling CPU profiler for Windows](https://github.com/VerySleepy/verysleepy)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
