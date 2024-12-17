@@ -336,7 +336,18 @@
 ## Lock-free  
 >* [concurrentqueue-A fast multi-producer, multi-consumer lock-free concurrent queue for C++11](https://github.com/cameron314/concurrentqueue)  
 >* [readerwriterqueue-A fast single-producer, single-consumer lock-free queue for C++](https://github.com/cameron314/readerwriterqueue)  
->* [queues-A public domain lock free queues implemented in C++11](https://github.com/mstump/queues)  
+>* [queues-A public domain lock free queues implemented in C++11](https://github.com/mstump/queues)
+
+## malloc  
+>* [mimalloc](https://github.com/microsoft/mimalloc)
+>* [snmalloc](https://github.com/microsoft/snmalloc)
+>* [jemalloc](https://github.com/jemalloc/jemalloc)
+>* [tlsf](https://github.com/mattconte/tlsf)
+>* [dlmalloc](https://github.com/ennorehling/dlmalloc)
+>* [malloc tech](https://github.com/HarshTrivedi/malloc)
+>* [glibc](https://github.com/lattera/glibc/tree/master)
+>* [mimalloc-bench](https://github.com/daanx/mimalloc-bench)
+>* [tcmalloc](https://github.com/google/tcmalloc)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
