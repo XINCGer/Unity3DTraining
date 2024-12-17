@@ -286,4 +286,5 @@
 >* [【厚积薄发】如何区分实例化网格中的每个实例](https://mp.weixin.qq.com/s/pZVrjer-kuyPghMDSDSVhw)
 >* [【厚积薄发】MemoryProfiler中Graphics/No Name内存怎么排查](https://mp.weixin.qq.com/s/9cGjJYMTmm92-uHr96yqVg)
 >* [【厚积薄发】如何解决穿插易导致半透明物体合批失败](https://mp.weixin.qq.com/s/NKKpeHtznoQNzEtrW0gEeg)
->* [【厚积薄发】为什么Unity里的变体数和UWA工具测出来的不一样](https://mp.weixin.qq.com/s/oYlJBRHr5brb356inPUJHA)  
+>* [【厚积薄发】为什么Unity里的变体数和UWA工具测出来的不一样](https://mp.weixin.qq.com/s/oYlJBRHr5brb356inPUJHA)
+>* [【厚积薄发】关于il2cpp.so裁剪的问题](https://mp.weixin.qq.com/s/L0VE9bYan2T4a8c08ZGUPA)  
