@@ -347,7 +347,8 @@
 >* [malloc tech](https://github.com/HarshTrivedi/malloc)
 >* [glibc](https://github.com/lattera/glibc/tree/master)
 >* [mimalloc-bench](https://github.com/daanx/mimalloc-bench)
->* [tcmalloc](https://github.com/google/tcmalloc)  
+>* [tcmalloc](https://github.com/google/tcmalloc)
+>* [glibc](https://ftp.gnu.org/gnu/glibc/)  
 
 # C++ 文章  
 [C++文章整理](./articles/README.md)  
