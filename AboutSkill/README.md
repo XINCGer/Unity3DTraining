@@ -23,7 +23,8 @@
 >* [全新的技能系统](https://github.com/dreamanlan/CSharpGameFramework/blob/master/Doc/SkillDsl.txt)  
 >* [a roguelike framework for C# with ECS and Unity integration](https://github.com/azsdaja/Osnowa)  
 >* [XCSkillEditor_Unity](https://github.com/smartgrass/XCSkillEditor_Unity)
->* [MDDSkillEngine](https://gitee.com/flamesky/MDDSkillEngine)  
+>* [MDDSkillEngine](https://gitee.com/flamesky/MDDSkillEngine)
+>* [gameplay-ability-system-for-unity](https://github.com/No78Vino/gameplay-ability-system-for-unity)  
 
 #### 成品  
 >* [用Unity做的一个类Moba游戏Demo](https://github.com/swordjoinmagic/MoBaDemo)  
