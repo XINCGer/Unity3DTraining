@@ -3,7 +3,6 @@
 #### 技术文章  
 >* [游戏开发中的GamePlay技术专栏](https://www.zhihu.com/column/c_1253986063259426816)  
 >* [MMORPG技能系统:AOI、技能、Buff、子弹、特效、运动、动画...](https://mp.weixin.qq.com/s/XsIdVsOukU5HFku4dMuYZQ)  
->* [如何实现一个强大的MMO技能系统！](https://mp.weixin.qq.com/s/2Tha5RWFKSw6-nLSUj1CGg)  
 >* [基于行为树的MOBA技能系统：总目录](https://www.lfzxb.top/nkgmoba-totaltabs/)  
 >* [Unity怎么去实现ACT战斗?](https://mp.weixin.qq.com/s/MHPMqEl7cebUrSzz9HCLig)  
 >* [实现行为树黑板模块0GC赋值功能](https://zhuanlan.zhihu.com/p/205410980)  
