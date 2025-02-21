@@ -697,4 +697,5 @@
 * [UnityMeshSimplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier)
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp)
 * [LitMotion - Lightning-fast and Zero Allocation Tween Library for Unity](https://github.com/AnnulusGames/LitMotion)
-* [whisper.unity](https://github.com/Macoron/whisper.unity)  
+* [whisper.unity](https://github.com/Macoron/whisper.unity)
+* [ClassifiedConsoleWindow](https://github.com/Goatman1996/ClassifiedConsoleWindow)  
