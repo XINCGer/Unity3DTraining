@@ -144,7 +144,8 @@
 >* [vue-office](https://github.com/501351981/vue-office)
 >* [netdata-Real-time performance monitoring](https://github.com/netdata/netdata)
 >* [ffmpeg-commander - 🛠️ FFmpeg Command Generator Web UI](https://github.com/alfg/ffmpeg-commander)
->* [pyroscope](https://github.com/grafana/pyroscope?tab=readme-ov-file)  
+>* [pyroscope](https://github.com/grafana/pyroscope?tab=readme-ov-file)
+>* [FileCodeBox](https://github.com/vastsa/FileCodeBox)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
