@@ -289,4 +289,5 @@
 >* [【厚积薄发】为什么Unity里的变体数和UWA工具测出来的不一样](https://mp.weixin.qq.com/s/oYlJBRHr5brb356inPUJHA)
 >* [【厚积薄发】关于il2cpp.so裁剪的问题](https://mp.weixin.qq.com/s/L0VE9bYan2T4a8c08ZGUPA)
 >* [【厚积薄发】开发微信小程序游戏，有没有类似Debug真机图形的方法](https://mp.weixin.qq.com/s/uImI8Rs5js02w0RQCY9rHw)
->* [【厚积薄发】OpenGL中Shader LOD失效](https://mp.weixin.qq.com/s/ZJHTXFibbwIscusBqu_ScA)  
+>* [【厚积薄发】OpenGL中Shader LOD失效](https://mp.weixin.qq.com/s/ZJHTXFibbwIscusBqu_ScA)
+>* [【厚积薄发】iOS进程增加内存上限的接口](https://mp.weixin.qq.com/s/ewf7AFKm6zwzayo-SCYVww)  
