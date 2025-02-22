@@ -149,7 +149,8 @@
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine)
 * [bgfx](https://github.com/bkaradzic/bgfx)
 * [Castor3D - Multi-OS 3D engine](https://github.com/DragonJoker/Castor3D)
-* [limonEngine - 3D FPS game engine with full dynamic lighting and shadows](https://github.com/enginmanap/limonEngine)  
+* [limonEngine - 3D FPS game engine with full dynamic lighting and shadows](https://github.com/enginmanap/limonEngine)
+* [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
