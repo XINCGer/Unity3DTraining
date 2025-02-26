@@ -699,4 +699,5 @@
 * [LitMotion - Lightning-fast and Zero Allocation Tween Library for Unity](https://github.com/AnnulusGames/LitMotion)
 * [whisper.unity](https://github.com/Macoron/whisper.unity)
 * [ClassifiedConsoleWindow](https://github.com/Goatman1996/ClassifiedConsoleWindow)
-* [UnityDropdown](https://github.com/SolidAlloy/UnityDropdown)  
+* [UnityDropdown](https://github.com/SolidAlloy/UnityDropdown)
+* [ObservableCollections](https://github.com/Cysharp/ObservableCollections)  
