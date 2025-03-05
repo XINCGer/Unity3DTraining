@@ -291,4 +291,5 @@
 >* [【厚积薄发】开发微信小程序游戏，有没有类似Debug真机图形的方法](https://mp.weixin.qq.com/s/uImI8Rs5js02w0RQCY9rHw)
 >* [【厚积薄发】OpenGL中Shader LOD失效](https://mp.weixin.qq.com/s/ZJHTXFibbwIscusBqu_ScA)
 >* [【厚积薄发】iOS进程增加内存上限的接口](https://mp.weixin.qq.com/s/ewf7AFKm6zwzayo-SCYVww)
->* [【厚积薄发】关于CanvasRenderer.SyncTransform触发调用的机制](https://mp.weixin.qq.com/s/UVLZu5ZO4d11f7gJxcAVEA)  
+>* [【厚积薄发】关于CanvasRenderer.SyncTransform触发调用的机制](https://mp.weixin.qq.com/s/UVLZu5ZO4d11f7gJxcAVEA)
+>* [【厚积薄发】在Unity转微信小游戏下，如何用Worker实现多线程](https://mp.weixin.qq.com/s/mkRm33hJGfKOuvCOOWqAlg)  
