@@ -55,6 +55,7 @@
 >* [azerothcore-wotlk - Complete Open Source and Modular solution for MMO](https://github.com/azerothcore/azerothcore-wotlk)
 >* [breeze - 一个C++的轻量级的分布式服务器引擎, 架构思想为一切皆service](https://github.com/zsummer/breeze)
 >* [luacluster - MMO game server: Unity includes a 10,000 Player scene](https://github.com/surparallel/luacluster)  
+>* [TrinityCore](https://github.com/TrinityCore/TrinityCore)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
