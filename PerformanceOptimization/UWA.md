@@ -292,4 +292,5 @@
 >* [【厚积薄发】OpenGL中Shader LOD失效](https://mp.weixin.qq.com/s/ZJHTXFibbwIscusBqu_ScA)
 >* [【厚积薄发】iOS进程增加内存上限的接口](https://mp.weixin.qq.com/s/ewf7AFKm6zwzayo-SCYVww)
 >* [【厚积薄发】关于CanvasRenderer.SyncTransform触发调用的机制](https://mp.weixin.qq.com/s/UVLZu5ZO4d11f7gJxcAVEA)
->* [【厚积薄发】在Unity转微信小游戏下，如何用Worker实现多线程](https://mp.weixin.qq.com/s/mkRm33hJGfKOuvCOOWqAlg)  
+>* [【厚积薄发】在Unity转微信小游戏下，如何用Worker实现多线程](https://mp.weixin.qq.com/s/mkRm33hJGfKOuvCOOWqAlg)
+>* [【厚积薄发】InstantiateAsync有什么需要特殊处理的吗](https://mp.weixin.qq.com/s/H_2l6hdrGnPSSWlNs2s6GA?poc_token=HA3KzmejYhTRWpI1eYniDl72GQ6dnVvRF3se0sZC)  
