@@ -701,4 +701,5 @@
 * [ClassifiedConsoleWindow](https://github.com/Goatman1996/ClassifiedConsoleWindow)
 * [UnityDropdown](https://github.com/SolidAlloy/UnityDropdown)
 * [ObservableCollections](https://github.com/Cysharp/ObservableCollections)
-* [UnityTimer](https://github.com/akbiggs/UnityTimer)  
+* [UnityTimer](https://github.com/akbiggs/UnityTimer)
+* [NETworkManager - A powerful tool for managing networks and troubleshoot network problems](https://github.com/BornToBeRoot/NETworkManager)  
