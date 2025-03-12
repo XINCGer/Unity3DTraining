@@ -146,7 +146,8 @@
 >* [netdata-Real-time performance monitoring](https://github.com/netdata/netdata)
 >* [ffmpeg-commander - 🛠️ FFmpeg Command Generator Web UI](https://github.com/alfg/ffmpeg-commander)
 >* [pyroscope](https://github.com/grafana/pyroscope?tab=readme-ov-file)
->* [FileCodeBox](https://github.com/vastsa/FileCodeBox)  
+>* [FileCodeBox](https://github.com/vastsa/FileCodeBox)
+>* [lynx - Empower the Web community and invite more to build across platforms](https://github.com/lynx-family/lynx?tab=readme-ov-file#About-Lynx)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
