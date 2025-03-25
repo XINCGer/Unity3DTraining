@@ -703,4 +703,5 @@
 * [ObservableCollections](https://github.com/Cysharp/ObservableCollections)
 * [UnityTimer](https://github.com/akbiggs/UnityTimer)
 * [NETworkManager - A powerful tool for managing networks and troubleshoot network problems](https://github.com/BornToBeRoot/NETworkManager)
-* [Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)  
+* [Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)
+* [godot-3d-mannequin](https://github.com/gdquest-demos/godot-3d-mannequin)  
