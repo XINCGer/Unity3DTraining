@@ -320,7 +320,8 @@
 >* [utf8.h - single header utf8 string functions for C and C++](https://github.com/sheredom/utf8.h)
 >* [verysleepy - Very Sleepy, a sampling CPU profiler for Windows](https://github.com/VerySleepy/verysleepy)
 >* [cling - The interactive C++ interpreter Cling](https://github.com/vgvassilev/cling)
->* [tlse - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library](https://github.com/eduardsui/tlse)  
+>* [tlse - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library](https://github.com/eduardsui/tlse)
+>* [earcut - Fast, header-only polygon triangulation](https://github.com/mapbox/earcut.hpp)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
