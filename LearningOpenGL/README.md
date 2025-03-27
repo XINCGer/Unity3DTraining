@@ -115,7 +115,8 @@
 * [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)  
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  
 * [Boat-Simulation](https://github.com/corentin-ryr/Boat-Simulation)  
-* [URP-RayTracer](https://github.com/teofilobd/URP-RayTracer)  
+* [URP-RayTracer](https://github.com/teofilobd/URP-RayTracer)
+* [UnityURP-MobileDrawMeshInstancedIndirectExample](https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample)  
 
 
 ### PRB  
