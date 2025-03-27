@@ -155,7 +155,10 @@
 * [mgp - 3D Game engine building from Gameplay3D codebase](https://github.com/chunquedong/mgp)  
 
 ## ECS  
-* [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)  
+* [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)
+
+## 工具  
+*  [rectpack2D - A header-only, very efficient 2D rectangle packing library. Used in Assassin's Creed and Skydio drones. 2 scientific references](https://github.com/TeamHypersomnia/rectpack2D)  
 
 ## 文章  
 * [从零编写游戏引擎教程 Writing a game engine tutorial from scratch](https://github.com/ThisisGame/cpp-game-engine-book)  
