@@ -10,5 +10,6 @@
 >* [Goal Oriented Action Planning for a Smarter AI](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793)  
 >* [GOAP](http://alumni.media.mit.edu/~jorkin/goap.html)  
 
-### mcp  
->* [UnityMCP](https://github.com/Arodoid/UnityMCP)  
+### MCP  
+>* [UnityMCP](https://github.com/Arodoid/UnityMCP)
+>* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
