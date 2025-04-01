@@ -294,4 +294,5 @@
 >* [【厚积薄发】关于CanvasRenderer.SyncTransform触发调用的机制](https://mp.weixin.qq.com/s/UVLZu5ZO4d11f7gJxcAVEA)
 >* [【厚积薄发】在Unity转微信小游戏下，如何用Worker实现多线程](https://mp.weixin.qq.com/s/mkRm33hJGfKOuvCOOWqAlg)
 >* [【厚积薄发】InstantiateAsync有什么需要特殊处理的吗](https://mp.weixin.qq.com/s/H_2l6hdrGnPSSWlNs2s6GA?poc_token=HA3KzmejYhTRWpI1eYniDl72GQ6dnVvRF3se0sZC)
->* [【厚积薄发】如何在纹理图集中对其中某个图块单独进行缩放](https://mp.weixin.qq.com/s/Cv9eFQZFa7lhVi2DUxUQfw)  
+>* [【厚积薄发】如何在纹理图集中对其中某个图块单独进行缩放](https://mp.weixin.qq.com/s/Cv9eFQZFa7lhVi2DUxUQfw)
+>* [【厚积薄发】小游戏中Enable Exceptions的各选项有何区别](https://mp.weixin.qq.com/s/UPpkw52yCNEXO_L8eLdSMQ)  
