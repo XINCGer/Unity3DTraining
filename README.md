@@ -44,7 +44,7 @@
 >* [42.剧情动画与Timeline研究](https://github.com/XINCGer/Unity3DTraining/tree/master/CutsceneTimeline)  
 >* [43.2D原生平台游戏](https://github.com/XINCGer/Unity3DTraining/tree/master/2DPlatformer)  
 >* [44.Lua的相关知识点和总结记录](https://github.com/XINCGer/Unity3DTraining/tree/master/lua)  
->* [45.游戏人工智能](https://github.com/XINCGer/Unity3DTraining/tree/master/AI)  
+>* [45.AI相关](https://github.com/XINCGer/Unity3DTraining/tree/master/AI)  
 >* [46.设备输入](https://github.com/XINCGer/Unity3DTraining/tree/master/InputAndTouch)  
 >* [47.持续集成CI(Continuous Integration)](https://github.com/XINCGer/Unity3DTraining/tree/master/CI)  
 >* [48.电商与后端开发等相关的不错的资料](https://github.com/XINCGer/Unity3DTraining/tree/master/ServerDevlop)  
