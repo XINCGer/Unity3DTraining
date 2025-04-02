@@ -12,4 +12,7 @@
 
 ### MCP  
 >* [UnityMCP](https://github.com/Arodoid/UnityMCP)
->* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
+>* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)
+>
+### agent in IDE  
+>* [cline](https://github.com/cline/cline)  
