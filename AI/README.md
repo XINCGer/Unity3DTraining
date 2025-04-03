@@ -12,8 +12,9 @@
 >* [GOAP](http://alumni.media.mit.edu/~jorkin/goap.html)  
 
 ### MCP  
->* [UnityMCP](https://github.com/Arodoid/UnityMCP)
->* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)
->
+>* [UnityMCP](https://github.com/Arodoid/UnityMCP)  
+>* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
+>* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)  
+
 ### agent in IDE  
 >* [cline](https://github.com/cline/cline)  
