@@ -708,4 +708,5 @@
 * [ReflectionTool-C# Reflection Wrapper Generation & Method Hooking Tools For Unity](https://github.com/kuronekoyang/ReflectionTool/)
 * [Fast-Persistent-Dictionary](https://github.com/jgric2/Fast-Persistent-Dictionary/)
 * [Kcp-CSharp](https://github.com/Molth/Kcp-CSharp)
-* [unity-package -  Unity Plugin – Debug, control, and fine-tune your Unity games directly inside the game view](https://github.com/jahro-console/unity-package)  
+* [unity-package -  Unity Plugin – Debug, control, and fine-tune your Unity games directly inside the game view](https://github.com/jahro-console/unity-package)
+* [H.Pipes - A simple, easy to use, strongly-typed, async wrapper around .NET named pipes](https://github.com/HavenDV/H.Pipes)  
