@@ -712,4 +712,5 @@
 * [H.Pipes - A simple, easy to use, strongly-typed, async wrapper around .NET named pipes](https://github.com/HavenDV/H.Pipes)
 * [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
 * [AppWindowUtility](https://github.com/sator-imaging/AppWindowUtility)
-* [Unity-WinForms](https://github.com/Meragon/Unity-WinForms)  
+* [Unity-WinForms](https://github.com/Meragon/Unity-WinForms)
+* [csv - Fast C# CSV parser](https://github.com/nreco/csv)  
