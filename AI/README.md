@@ -19,3 +19,6 @@
 
 ### agent in IDE  
 >* [cline](https://github.com/cline/cline)  
+
+### stable-diffusion  
+>* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
