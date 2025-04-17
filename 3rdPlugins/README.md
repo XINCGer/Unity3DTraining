@@ -713,4 +713,5 @@
 * [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
 * [AppWindowUtility](https://github.com/sator-imaging/AppWindowUtility)
 * [Unity-WinForms](https://github.com/Meragon/Unity-WinForms)
-* [csv - Fast C# CSV parser](https://github.com/nreco/csv)  
+* [csv - Fast C# CSV parser](https://github.com/nreco/csv)
+* [ParrelSync](https://github.com/VeriorPies/ParrelSync)  
