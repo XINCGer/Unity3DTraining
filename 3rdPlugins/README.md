@@ -716,4 +716,5 @@
 * [csv - Fast C# CSV parser](https://github.com/nreco/csv)
 * [ParrelSync](https://github.com/VeriorPies/ParrelSync)
 * [VYaml - The extra fast, low memory footprint YAML library for C#, focued on .NET and Unity](https://github.com/hadashiA/VYaml)
-* [UniWindowController - Makes your Unity window transparent and allows you to drop files](https://github.com/kirurobo/uniwindowcontroller)  
+* [UniWindowController - Makes your Unity window transparent and allows you to drop files](https://github.com/kirurobo/uniwindowcontroller)
+* [KuroDynamicAtlas-High performance ASTC dynamic atlas for unity](https://github.com/kuronekoyang/KuroDynamicAtlas)  
