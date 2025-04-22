@@ -297,4 +297,5 @@
 >* [【厚积薄发】如何在纹理图集中对其中某个图块单独进行缩放](https://mp.weixin.qq.com/s/Cv9eFQZFa7lhVi2DUxUQfw)
 >* [【厚积薄发】小游戏中Enable Exceptions的各选项有何区别](https://mp.weixin.qq.com/s/UPpkw52yCNEXO_L8eLdSMQ)
 >* [【厚积薄发】如何在运行时获取硬件信息](https://mp.weixin.qq.com/s/qdlyBGwXR2KLxR7MAyPv-Q)
->* [【厚积薄发】FairyGUI图标文字合批失败的原因](https://mp.weixin.qq.com/s/di5TVmzi83feh4NnZgvVfA)  
+>* [【厚积薄发】FairyGUI图标文字合批失败的原因](https://mp.weixin.qq.com/s/di5TVmzi83feh4NnZgvVfA)
+>* [【厚积薄发】粒子系统开启Noise模块在移动端的消耗如何](https://mp.weixin.qq.com/s/Vmj0di_Sw2avTrp-UZEkzA)  
