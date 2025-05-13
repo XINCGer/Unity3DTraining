@@ -719,4 +719,5 @@
 * [UniWindowController - Makes your Unity window transparent and allows you to drop files](https://github.com/kirurobo/uniwindowcontroller)
 * [KuroDynamicAtlas-High performance ASTC dynamic atlas for unity](https://github.com/kuronekoyang/KuroDynamicAtlas)
 * [UnsafeStringBuffer - High performance zero allocation string builder (but unsafe)](https://github.com/kuronekoyang/UnsafeStringBuffer)
-* [UnsafeArrayBuffer - High performance zero allocation array buffer (but unsafe)](https://github.com/kuronekoyang/UnsafeArrayBuffer)  
+* [UnsafeArrayBuffer - High performance zero allocation array buffer (but unsafe)](https://github.com/kuronekoyang/UnsafeArrayBuffer)
+* [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)  
