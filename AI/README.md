@@ -22,3 +22,6 @@
 
 ### stable-diffusion  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
+
+### AI friend  
+>* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)  
