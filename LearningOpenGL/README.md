@@ -89,7 +89,8 @@
 * [MSAA-Visualization](https://github.com/keijiro/MSAA-Visualization)
 * [当我们谈Raytracing时我们在谈些什么](https://mp.weixin.qq.com/s/f3czSYy6QBVNfrzQ3Hwm-g)
 * [Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity)
-* [四种体积光的写法](https://mp.weixin.qq.com/s/dP9-ZzeM37dgyVRataQAWA)  
+* [四种体积光的写法](https://mp.weixin.qq.com/s/dP9-ZzeM37dgyVRataQAWA)
+* [LightGraph：使用最短路径查找在参与介质中实现高效多重散射](https://mp.weixin.qq.com/s/6pHARz5kwhAUKkk4karHIA)  
 
 ### URP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
@@ -125,7 +126,7 @@
 
 ### 水体  
 * [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water)
-* 
+
 ### 水墨画实现  
 * [仿宋代水墨山水画风格3D渲染 Unity实现](https://zhuanlan.zhihu.com/p/602960198)  
 * [Okami-Celestial-Brush](https://github.com/mixandjam/Okami-Celestial-Brush)  
