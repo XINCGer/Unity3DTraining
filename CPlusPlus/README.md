@@ -322,7 +322,8 @@
 >* [cling - The interactive C++ interpreter Cling](https://github.com/vgvassilev/cling)
 >* [tlse - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library](https://github.com/eduardsui/tlse)
 >* [earcut - Fast, header-only polygon triangulation](https://github.com/mapbox/earcut.hpp)
->* [dr_libs](https://github.com/mackron/dr_libs)  
+>* [dr_libs](https://github.com/mackron/dr_libs)
+>* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
