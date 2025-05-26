@@ -300,5 +300,6 @@
 >* [【厚积薄发】FairyGUI图标文字合批失败的原因](https://mp.weixin.qq.com/s/di5TVmzi83feh4NnZgvVfA)
 >* [【厚积薄发】粒子系统开启Noise模块在移动端的消耗如何](https://mp.weixin.qq.com/s/Vmj0di_Sw2avTrp-UZEkzA)
 >* [【厚积薄发】如何用GPU Instancing来优化树木草石重复模型](https://mp.weixin.qq.com/s/s-Q117tU8BLsjpwdWvgGvA)
->* [【厚积薄发】URP相机如何将场景渲染定帧模糊绘制](https://mp.weixin.qq.com/s/5dtJ9vc51dOVcpFxfYV_FQ)
->* [【厚积薄发】项目中Warmup耗时高该如何操作处理](https://mp.weixin.qq.com/s/5XovHITSBAPuHViMtMrW0A)  
+>* [【厚积薄发】URP相机如何将场景渲染定帧模糊绘制](https://mp.weixin.qq.com/s/5dtJ9vc51dOVcpFxfYV_FQ)  
+>* [【厚积薄发】项目中Warmup耗时高该如何操作处理](https://mp.weixin.qq.com/s/5XovHITSBAPuHViMtMrW0A)
+>* [【厚积薄发】怎么实现在微信小游戏接入外部JS传参](https://mp.weixin.qq.com/s/CuTaxTqv5xzzybKx88QEhQ)  
