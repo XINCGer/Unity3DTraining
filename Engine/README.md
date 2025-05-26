@@ -152,7 +152,8 @@
 * [Castor3D - Multi-OS 3D engine](https://github.com/DragonJoker/Castor3D)
 * [limonEngine - 3D FPS game engine with full dynamic lighting and shadows](https://github.com/enginmanap/limonEngine)
 * [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
-* [mgp - 3D Game engine building from Gameplay3D codebase](https://github.com/chunquedong/mgp)  
+* [mgp - 3D Game engine building from Gameplay3D codebase](https://github.com/chunquedong/mgp)
+* [FEngine - 2d格斗游戏引擎&&编辑器](https://github.com/hoyt-tian/FEngine)  
 
 ## ECS  
 * [entt-Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)
