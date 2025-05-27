@@ -721,4 +721,5 @@
 * [UnsafeStringBuffer - High performance zero allocation string builder (but unsafe)](https://github.com/kuronekoyang/UnsafeStringBuffer)
 * [UnsafeArrayBuffer - High performance zero allocation array buffer (but unsafe)](https://github.com/kuronekoyang/UnsafeArrayBuffer)
 * [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)
-* [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation)  
+* [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation)
+* [zlua-An IL2CPP-optimized Lua scripting solution for Unity - faster and more elegant](https://github.com/focus-creative-games/zlua)  
