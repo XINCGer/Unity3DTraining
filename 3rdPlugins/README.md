@@ -726,4 +726,5 @@
 * [unity-iso-tools(Make 2.5D isometric game in Unity easy)](https://github.com/BlackMATov/unity-iso-tools)
 * [dnlib - Reads and writes .NET assemblies and modules](https://github.com/0xd4d/dnlib)
 * [JustDiff - c# xls/xlsx/unity prefab diff view](https://github.com/luxuia/JustDiff)
-* [UniInk-CSharpInterpreter4AOT](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)  
+* [UniInk-CSharpInterpreter4AOT](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)
+* [Jawbone.Sockets - UDP and TCP socket library for game engines](https://github.com/ObviousPiranha/Jawbone.Sockets)  
