@@ -727,4 +727,5 @@
 * [dnlib - Reads and writes .NET assemblies and modules](https://github.com/0xd4d/dnlib)
 * [JustDiff - c# xls/xlsx/unity prefab diff view](https://github.com/luxuia/JustDiff)
 * [UniInk-CSharpInterpreter4AOT](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)
-* [Jawbone.Sockets - UDP and TCP socket library for game engines](https://github.com/ObviousPiranha/Jawbone.Sockets)  
+* [Jawbone.Sockets - UDP and TCP socket library for game engines](https://github.com/ObviousPiranha/Jawbone.Sockets)
+* [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET)  
