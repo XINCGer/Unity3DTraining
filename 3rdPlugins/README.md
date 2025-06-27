@@ -729,4 +729,5 @@
 * [UniInk-CSharpInterpreter4AOT](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)
 * [Jawbone.Sockets - UDP and TCP socket library for game engines](https://github.com/ObviousPiranha/Jawbone.Sockets)
 * [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET)
-* [GodotIK](https://github.com/monxa/GodotIK)  
+* [GodotIK](https://github.com/monxa/GodotIK)
+* [AutoUI](https://github.com/Sunnyliumingsheng/AutoUI)  
