@@ -53,7 +53,8 @@
 * [AssetBundle详解与休闲游戏如何设计Bundle结构](https://blog.csdn.net/lanazyit/article/details/108552429)
 * [Unity Asset Bundles，不可不知的使用技巧和误区](https://mp.weixin.qq.com/s/2wMpO9h7aCcv3gpVBJxQDA)
 * [利用多进程并行化加速Unity资源构建](https://blog.uwa4d.com/archives/USparkle_Multi_process.html)
-* [StreamAssetBundle - Unity AssetBundle 资源加密](https://github.com/shunfy/StreamAssetBundle/)  
+* [StreamAssetBundle - Unity AssetBundle 资源加密](https://github.com/shunfy/StreamAssetBundle/)
+* [YooAsset](https://github.com/tuyoogame/YooAsset/tree/dev)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
