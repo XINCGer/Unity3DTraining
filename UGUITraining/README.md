@@ -51,4 +51,5 @@
 >* [基于UGUI的栈式导航框架，仿自Flutter路由API](https://github.com/Eashiong/StackUI)  
 >* [A smart solution for Safe Area in Unity](https://github.com/su10/AutoScreen-for-Unity2021)  
 >* [Unity Screen Navigator](https://github.com/Haruma-K/UnityScreenNavigator)  
->* [UChart - data chart / data graph for untiy](https://github.com/spr1ngd/UChart)  
+>* [UChart - data chart / data graph for untiy](https://github.com/spr1ngd/UChart)
+>* [unity-bridge-ui-framework](https://github.com/zouhunter/unity-bridge-ui-framework)  
