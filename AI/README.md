@@ -27,4 +27,5 @@
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
 
 ### Prompt  
->* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)  
+>* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)
+>* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)  
