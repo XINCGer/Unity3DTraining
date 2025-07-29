@@ -29,3 +29,6 @@
 ### Prompt  
 >* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)
 >* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)  
+
+### LLM  
+>* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)  
