@@ -17,8 +17,9 @@
 >* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
 >* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)  
 
-### agent in IDE  
->* [cline](https://github.com/cline/cline)  
+### Coding AI Assistant  
+>* [cline](https://github.com/cline/cline)
+>* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)  
 
 ### stable-diffusion  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
