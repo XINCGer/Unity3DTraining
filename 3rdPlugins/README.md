@@ -731,4 +731,5 @@
 * [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET)
 * [GodotIK](https://github.com/monxa/GodotIK)
 * [AutoUI](https://github.com/Sunnyliumingsheng/AutoUI)
-* [ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool)  
+* [ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool)
+* [visualyaml - Unity 的 Yaml 差异工具](https://github.com/RamiShehadeh/visualyaml)  
