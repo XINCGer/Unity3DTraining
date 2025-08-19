@@ -734,4 +734,5 @@
 * [ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool)
 * [visualyaml - Unity 的 Yaml 差异工具](https://github.com/RamiShehadeh/visualyaml)
 * [UnityLibs-libs for unity, memorypool, UIView Code generator, EventSet for event manager, timer wheel, clock, etc](https://github.com/fancyhub/UnityLibs)
-* [MotionMatching-Motion Matching implementation for Unity](https://github.com/JLPM22/MotionMatching)  
+* [MotionMatching-Motion Matching implementation for Unity](https://github.com/JLPM22/MotionMatching)
+* [UnityMaliCompilerBridge](https://github.com/arcsearoc/UnityMaliCompilerBridge)  
