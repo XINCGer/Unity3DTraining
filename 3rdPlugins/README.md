@@ -735,4 +735,5 @@
 * [visualyaml - Unity 的 Yaml 差异工具](https://github.com/RamiShehadeh/visualyaml)
 * [UnityLibs-libs for unity, memorypool, UIView Code generator, EventSet for event manager, timer wheel, clock, etc](https://github.com/fancyhub/UnityLibs)
 * [MotionMatching-Motion Matching implementation for Unity](https://github.com/JLPM22/MotionMatching)
-* [UnityMaliCompilerBridge](https://github.com/arcsearoc/UnityMaliCompilerBridge)  
+* [UnityMaliCompilerBridge](https://github.com/arcsearoc/UnityMaliCompilerBridge)
+* [Unity-UGUIDrawCallAnalyzer](https://github.com/VenusEvans/Unity-UGUIDrawCallAnalyzer?tab=readme-ov-file)  
