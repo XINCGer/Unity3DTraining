@@ -15,7 +15,8 @@
 >* [Awesome-MCP-ZH(MCP 资源精选， MCP指南)](https://github.com/yzfly/Awesome-MCP-ZH)  
 >* [UnityMCP](https://github.com/Arodoid/UnityMCP)  
 >* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
->* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)  
+>* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
+>* [uLoopMCP](https://github.com/hatayama/uLoopMCP/)  
 
 ### Coding AI Assistant  
 >* [cline](https://github.com/cline/cline)
