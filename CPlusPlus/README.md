@@ -324,7 +324,8 @@
 >* [earcut - Fast, header-only polygon triangulation](https://github.com/mapbox/earcut.hpp)
 >* [dr_libs](https://github.com/mackron/dr_libs)
 >* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)
->* [tiny-regex-c](https://github.com/kokke/tiny-regex-c)  
+>* [tiny-regex-c](https://github.com/kokke/tiny-regex-c)
+>* [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
