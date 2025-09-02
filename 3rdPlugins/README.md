@@ -737,4 +737,5 @@
 * [MotionMatching-Motion Matching implementation for Unity](https://github.com/JLPM22/MotionMatching)
 * [UnityMaliCompilerBridge](https://github.com/arcsearoc/UnityMaliCompilerBridge)
 * [Unity-UGUIDrawCallAnalyzer](https://github.com/VenusEvans/Unity-UGUIDrawCallAnalyzer?tab=readme-ov-file)
-* [pdb2mdb](https://github.com/bodong1987/pdb2mdb)  
+* [pdb2mdb](https://github.com/bodong1987/pdb2mdb)
+* [LiteEntitySystem](https://github.com/RevenantX/LiteEntitySystem)  
