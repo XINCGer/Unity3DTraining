@@ -45,7 +45,8 @@
 >* [博主营地 | Unity3D 实用技巧 - 理论知识库（一）](https://mp.weixin.qq.com/s/lfBaUxhXjsZ64CxRrl-27A)  
 >* [三流大学和一流大学学生的简历有什么区别？](https://www.cnblogs.com/aobing/p/13716292.html)  
 >* [中国学历真相：非985、211真的没前途了吗？](https://mp.weixin.qq.com/s/YFvKuquGdD1-GQ4DJkH--Q)
->* [《剑指Offer》，《程序员代码面试指南》，Leetcode等算法题目集合](https://github.com/iwiniwin/Algorithm)  
+>* [《剑指Offer》，《程序员代码面试指南》，Leetcode等算法题目集合](https://github.com/iwiniwin/Algorithm)
+>* [算法（第四版）习题题解 C# 版](https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp)  
 
 ### 职场生存指南  
 >* [程序员找工作面试会遇到哪些坑(校招篇)](https://www.cnblogs.com/smyhvae/p/9587950.html)  
