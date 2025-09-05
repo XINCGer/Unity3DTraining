@@ -27,17 +27,20 @@
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
 
 ### AI friend  
->* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
+>* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)  
 
 ### Prompt  
->* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)
->* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)  
+>* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)  
+>* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
+### Context Engineering  
+>* [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)  
 
 ### LLM  
->* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)
+>* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)  
 
 ### Workflow  
->* [claude-flow](https://github.com/ruvnet/claude-flow)
+>* [claude-flow](https://github.com/ruvnet/claude-flow)  
 
 ### Text-to-Speech  
 >* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)  
