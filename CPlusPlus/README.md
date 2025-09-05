@@ -326,7 +326,8 @@
 >* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)
 >* [tiny-regex-c](https://github.com/kokke/tiny-regex-c)
 >* [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
->* [mold - A Modern Linker 🦠](https://github.com/rui314/mold)  
+>* [mold - A Modern Linker 🦠](https://github.com/rui314/mold)
+>* [chibicc - A small C compiler](https://github.com/rui314/chibicc)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
