@@ -325,7 +325,8 @@
 >* [dr_libs](https://github.com/mackron/dr_libs)
 >* [cppparser - A library to parse C/C++ source as AST](https://github.com/satya-das/cppparser)
 >* [tiny-regex-c](https://github.com/kokke/tiny-regex-c)
->* [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)  
+>* [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
+>* [mold - A Modern Linker 🦠](https://github.com/rui314/mold)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
