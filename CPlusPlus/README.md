@@ -327,7 +327,8 @@
 >* [tiny-regex-c](https://github.com/kokke/tiny-regex-c)
 >* [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
 >* [mold - A Modern Linker 🦠](https://github.com/rui314/mold)
->* [chibicc - A small C compiler](https://github.com/rui314/chibicc)  
+>* [chibicc - A small C compiler](https://github.com/rui314/chibicc)
+>* [fil-c:completely compatible memory safety for C and C++](https://github.com/pizlonator/fil-c)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
