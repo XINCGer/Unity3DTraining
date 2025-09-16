@@ -307,4 +307,5 @@
 >* [【厚积薄发】为什么使用发射Mesh的粒子系统会使Graphics内存暴涨](https://mp.weixin.qq.com/s/y-SPkDxHA4rY9UVXO-HZ9A)
 >* [【厚积薄发】微信小游戏出现对应平台不支持纹理格式的问题](https://mp.weixin.qq.com/s/Aog0hO1SsQu0mdGeWaayyQ)
 >* [【厚积薄发】将FGUI的Shader全部预热后，WebGL平台没有加载成功](https://mp.weixin.qq.com/s/Iiy0Ifm0mFGD07O-HINeHg)
->* [【厚积薄发】虚拟相机的最佳实践参考是什么](https://mp.weixin.qq.com/s/xgoKcbLRytzVVBxiG0mD5w)  
+>* [【厚积薄发】虚拟相机的最佳实践参考是什么](https://mp.weixin.qq.com/s/xgoKcbLRytzVVBxiG0mD5w)
+>* [【厚积薄发】Unity中是否可以禁用GC](https://mp.weixin.qq.com/s/IbFDoDJqC9LbjNw0rjIVFg)  
