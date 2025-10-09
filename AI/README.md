@@ -34,7 +34,8 @@
 >* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 
 ### Context Engineering  
->* [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)  
+>* [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)
+>* [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering)  
 
 ### LLM  
 >* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)  
