@@ -44,4 +44,7 @@
 >* [claude-flow](https://github.com/ruvnet/claude-flow)  
 
 ### Text-to-Speech  
->* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)  
+>* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
+
+### Agent  
+>* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)  
