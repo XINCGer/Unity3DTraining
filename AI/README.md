@@ -23,8 +23,9 @@
 >* [cline](https://github.com/cline/cline)
 >* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)  
 
-### stable-diffusion  
->* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
+### AI creation  
+>* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+>* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)  
