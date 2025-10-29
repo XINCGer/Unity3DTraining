@@ -21,14 +21,16 @@
 
 ### Coding AI Assistant  
 >* [cline](https://github.com/cline/cline)
->* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)  
+>* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)
+>* [XCodeReviewer - 基于大语言模型（LLM）的智能审计工具](https://github.com/lintsinghua/XCodeReviewer)  
 
 ### AI creation  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 >* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)  
 
 ### AI friend  
->* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)  
+>* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
+>* [AstrBot-✨ 一站式 LLM 聊天机器人平台及开发框架](https://github.com/AstrBotDevs/AstrBot)  
 
 ### Prompt  
 >* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)  
@@ -49,6 +51,3 @@
 
 ### Agent  
 >* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-
-### Bot  
->* [AstrBot-✨ 一站式 LLM 聊天机器人平台及开发框架](https://github.com/AstrBotDevs/AstrBot)  
