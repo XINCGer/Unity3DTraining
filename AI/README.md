@@ -48,4 +48,7 @@
 >* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
 
 ### Agent  
->* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)  
+>* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
+### Bot  
+>* [AstrBot-✨ 一站式 LLM 聊天机器人平台及开发框架](https://github.com/AstrBotDevs/AstrBot)  
