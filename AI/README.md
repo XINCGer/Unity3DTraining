@@ -44,7 +44,8 @@
 >* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)  
 
 ### Workflow  
->* [claude-flow](https://github.com/ruvnet/claude-flow)  
+>* [claude-flow](https://github.com/ruvnet/claude-flow)
+>* [C2C - The official code implementation for "Cache-to-Cache: Direct Semantic Communication Between Large Language Models"](https://github.com/thu-nics/C2C)  
 
 ### Text-to-Speech  
 >* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
