@@ -56,6 +56,7 @@
 ### Agent  
 >* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 >* [BettaFish - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架](https://github.com/666ghj/BettaFish)
+>* [🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析](https://github.com/sansan0/TrendRadar)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)  
