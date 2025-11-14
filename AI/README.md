@@ -17,7 +17,10 @@
 >* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
 >* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 >* [uLoopMCP](https://github.com/hatayama/uLoopMCP/)
->* [SharpToolsMCP](https://github.com/kooshi/SharpToolsMCP)  
+>* [SharpToolsMCP](https://github.com/kooshi/SharpToolsMCP)
+
+### RAG  
+>* [🔍大模型应用开发实战一：RAG技术全栈指南](https://github.com/datawhalechina/all-in-rag)  
 
 ### Coding AI Assistant  
 >* [cline](https://github.com/cline/cline)
