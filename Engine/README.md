@@ -171,7 +171,8 @@
 * [游戏引擎开发实录](https://www.zhihu.com/column/c_1346828552935948288)  
 * [手摇虚幻引擎](https://www.zhihu.com/column/c_1358890091050606592)  
 * [次世代游戏引擎中的 I/O（序）：迈向 DirectStorage](https://zhuanlan.zhihu.com/p/605381512)
-* [从零开始手敲次世代游戏引擎](https://zhuanlan.zhihu.com/c_119702958)  
+* [从零开始手敲次世代游戏引擎](https://zhuanlan.zhihu.com/c_119702958)
+* [《恋与深空》首次深度技术分享：如何为玩家创造真实可感世界？](https://mp.weixin.qq.com/s/-v3CgfsqyK61jF2m2Ao7Tw)  
 
 ## games104作业  
 * [作业收集1](https://github.com/1393650770/Games104-Homework)  
