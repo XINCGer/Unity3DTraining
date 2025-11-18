@@ -312,4 +312,5 @@
 >* [【厚积薄发】游戏在高负载场景下，整机功耗控制在多少](https://mp.weixin.qq.com/s/aC1igculAaEbPcR7sJp57Q)
 >* [【厚积薄发】iOS框架内存中占用很高的ttc文件是否正常](https://mp.weixin.qq.com/s/nXEsItBnmvoefDEz0NV0eg)
 >* [【厚积薄发】为什么Android游戏画面在30帧运行时有抖动现象](https://mp.weixin.qq.com/s/VTQoU4883leK8ubuyI0Zdg)
->* [【厚积薄发】有什么指标可以判断手机是否降频](https://mp.weixin.qq.com/s/3pcGjyj3H2OkeZXz8DPAqw)  
+>* [【厚积薄发】有什么指标可以判断手机是否降频](https://mp.weixin.qq.com/s/3pcGjyj3H2OkeZXz8DPAqw)
+>* [【厚积薄发】为何iPad Pro上设置目标帧率为90时无法生效](https://mp.weixin.qq.com/s/r1mR-4S2deoOa50uKv2j2A)  
