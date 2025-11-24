@@ -46,4 +46,5 @@
 >* [ZipUtility-Unreal](https://github.com/getnamo/ZipUtility-Unreal)
 >* [WebView - Efficient UE browser uses CEF open source kernel](https://github.com/aSurgingRiver/WebView)
 >* [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent)
->* [UEViewer - Viewer and exporter for Unreal Engine 1-4 assets](https://github.com/gildor2/UEViewer)  
+>* [UEViewer - Viewer and exporter for Unreal Engine 1-4 assets](https://github.com/gildor2/UEViewer)
+>* [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin)  
