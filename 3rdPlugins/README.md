@@ -743,4 +743,5 @@
 * [ZMFrameWork](https://github.com/ZMteacher/ZMFrameWork)
 * [PoolManager- PoolManager is a lightweight and async-compatible object pooling system for Unity](https://github.com/BatuhanKanbur/PoolManager)
 * [UnityOctree - A dynamic, loose octree implementation for Unity written in C#](https://github.com/Nition/UnityOctree)
-* [centrifuge-csharp -C# client SDK to communicate with Centrifugo and Centrifuge-based server from multiple environments](https://github.com/centrifugal/centrifuge-csharp)  
+* [centrifuge-csharp -C# client SDK to communicate with Centrifugo and Centrifuge-based server from multiple environments](https://github.com/centrifugal/centrifuge-csharp)
+* [UNanite - UNanite is an automatic LOD system intelligence for Unity](https://github.com/treviasxk/UNanite)  
