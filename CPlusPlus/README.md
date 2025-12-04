@@ -330,8 +330,9 @@
 >* [chibicc - A small C compiler](https://github.com/rui314/chibicc)
 >* [fil-c:completely compatible memory safety for C and C++](https://github.com/pizlonator/fil-c)
 >* [openzl - A novel data compression framework](https://github.com/facebook/openzl)
->* [The Algorithms - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes](https://github.com/TheAlgorithms/C)
->* [Clipper2 - Polygon Clipping and Offsetting - C++, C# and Delphi](https://github.com/AngusJohnson/Clipper2)  
+>* [The Algorithms - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes](https://github.com/TheAlgorithms/C)  
+>* [Clipper2 - Polygon Clipping and Offsetting - C++, C# and Delphi](https://github.com/AngusJohnson/Clipper2)
+>* [clice - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence](https://github.com/clice-io/clice)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
