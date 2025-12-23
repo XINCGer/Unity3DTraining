@@ -314,4 +314,5 @@
 >* [【厚积薄发】为什么Android游戏画面在30帧运行时有抖动现象](https://mp.weixin.qq.com/s/VTQoU4883leK8ubuyI0Zdg)
 >* [【厚积薄发】有什么指标可以判断手机是否降频](https://mp.weixin.qq.com/s/3pcGjyj3H2OkeZXz8DPAqw)
 >* [【厚积薄发】为何iPad Pro上设置目标帧率为90时无法生效](https://mp.weixin.qq.com/s/r1mR-4S2deoOa50uKv2j2A)
->* [【厚积薄发】如何解决ProtoBuf反序列化中GC高的问题](https://mp.weixin.qq.com/s/_DgLdd4GFI4IchW0FMGRPw)  
+>* [【厚积薄发】如何解决ProtoBuf反序列化中GC高的问题](https://mp.weixin.qq.com/s/_DgLdd4GFI4IchW0FMGRPw)
+>* [【厚积薄发】参数GPU Write Total Bandwidth的含义是什么，导致其值过高的因素有哪些](https://mp.weixin.qq.com/s/XMar7DCgQi_A7p1JIOSKCQ)  
