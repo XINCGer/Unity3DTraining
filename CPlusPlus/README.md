@@ -332,7 +332,8 @@
 >* [openzl - A novel data compression framework](https://github.com/facebook/openzl)
 >* [The Algorithms - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes](https://github.com/TheAlgorithms/C)  
 >* [Clipper2 - Polygon Clipping and Offsetting - C++, C# and Delphi](https://github.com/AngusJohnson/Clipper2)
->* [clice - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence](https://github.com/clice-io/clice)  
+>* [clice - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence](https://github.com/clice-io/clice)
+>* [miniaudio -Audio playback and capture library written in C, in a single source file](https://github.com/mackron/miniaudio)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
