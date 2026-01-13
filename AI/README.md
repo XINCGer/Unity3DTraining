@@ -25,7 +25,8 @@
 ### Coding AI Assistant  
 >* [cline](https://github.com/cline/cline)
 >* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)
->* [XCodeReviewer - 基于大语言模型（LLM）的智能审计工具](https://github.com/lintsinghua/XCodeReviewer)  
+>* [XCodeReviewer - 基于大语言模型（LLM）的智能审计工具](https://github.com/lintsinghua/XCodeReviewer)
+>* [opencode - The open source coding agent](https://github.com/anomalyco/opencode)  
 
 ### AI creation  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
