@@ -18,6 +18,7 @@
 >* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 >* [uLoopMCP](https://github.com/hatayama/uLoopMCP/)
 >* [SharpToolsMCP](https://github.com/kooshi/SharpToolsMCP)
+>* [mcp-perforce](https://github.com/Cocoon-AI/mcp-perforce)  
 
 ### RAG  
 >* [🔍大模型应用开发实战一：RAG技术全栈指南](https://github.com/datawhalechina/all-in-rag)  
