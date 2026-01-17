@@ -21,7 +21,8 @@
 >* [mcp-perforce](https://github.com/Cocoon-AI/mcp-perforce)
 
 ### Skill  
->* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)  
+>* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)
+>* [awesome-agent-skills - Agent Skills 权威中文指南：快速入门、推荐技能、最新资讯与实战案例](https://github.com/libukai/awesome-agent-skills?tab=readme-ov-file)  
 
 ### RAG  
 >* [🔍大模型应用开发实战一：RAG技术全栈指南](https://github.com/datawhalechina/all-in-rag)  
