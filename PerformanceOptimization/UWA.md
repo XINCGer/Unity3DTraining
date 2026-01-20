@@ -317,4 +317,5 @@
 >* [【厚积薄发】如何解决ProtoBuf反序列化中GC高的问题](https://mp.weixin.qq.com/s/_DgLdd4GFI4IchW0FMGRPw)
 >* [【厚积薄发】参数GPU Write Total Bandwidth的含义是什么，导致其值过高的因素有哪些](https://mp.weixin.qq.com/s/XMar7DCgQi_A7p1JIOSKCQ)
 >* [【厚积薄发】UE是怎么管理纹理的各向异性采样的](https://mp.weixin.qq.com/s/jZUOh-3PjyE0UmSGc_BX0w)
->* [【厚积薄发】如何使Bloom只局部地作用于特效以提高性能](https://mp.weixin.qq.com/s/KaAOs4cVKiC5cWao83CU_Q)  
+>* [【厚积薄发】如何使Bloom只局部地作用于特效以提高性能](https://mp.weixin.qq.com/s/KaAOs4cVKiC5cWao83CU_Q)
+>* [【厚积薄发】.so mmap计算工具内存翻倍现象](https://mp.weixin.qq.com/s/7kDxyvT_5wlkNvXstJJYuQ)  
