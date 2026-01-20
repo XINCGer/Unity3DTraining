@@ -62,7 +62,8 @@
 * [godot-jolt](https://github.com/godot-jolt/godot-jolt)
 * [历时2年，华人团队力作，震撼开源生成式物理引擎Genesis，可模拟世界万物](https://mp.weixin.qq.com/s/ioYK3YV07f9m0Iu-l6tLsg)
 * [Genesis - A generative world for general-purpose robotics & embodied AI learning](https://github.com/Genesis-Embodied-AI/Genesis)
-* [KawaiiPhysics - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5](https://github.com/pafuhana1213/KawaiiPhysics)  
+* [KawaiiPhysics - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5](https://github.com/pafuhana1213/KawaiiPhysics)
+* [RVO2 - Optimal Reciprocal Collision Avoidance (C++)](https://github.com/snape/RVO2)  
 
 ## 渲染  
 * [现代渲染引擎开发-Modern Graphic API](https://mp.weixin.qq.com/s/ZEDfNmyFF5UTpGJDp3Okqw)  
