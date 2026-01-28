@@ -41,7 +41,8 @@
 >* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)
 >* [RedInk - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器](https://github.com/HisMax/RedInk)
 >* [Wan2GP - A fast AI Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP)
->* [json-render (AI → JSON → UI)](https://github.com/vercel-labs/json-render)  
+>* [json-render (AI → JSON → UI)](https://github.com/vercel-labs/json-render)
+>* [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
@@ -72,8 +73,7 @@
 >* [🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析](https://github.com/sansan0/TrendRadar)
 >* [trae-agent Trae Agent is an LLM-based agent for general purpose software engineering tasks](https://github.com/bytedance/trae-agent)
 >* [A2UI - Agent-to-User Interface](https://github.com/google/A2UI?tab=readme-ov-file)
->* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)
->* [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  
+>* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
