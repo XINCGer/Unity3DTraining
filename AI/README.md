@@ -40,7 +40,8 @@
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 >* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)
 >* [RedInk - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器](https://github.com/HisMax/RedInk)
->* [Wan2GP - A fast AI Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP)  
+>* [Wan2GP - A fast AI Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP)
+>* [json-render (AI → JSON → UI)](https://github.com/vercel-labs/json-render)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
