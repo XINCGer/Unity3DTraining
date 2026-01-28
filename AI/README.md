@@ -74,4 +74,7 @@
 >* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)  
 
 ### Service  
->* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)  
+>* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
+
+### Misc  
+>* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)  
