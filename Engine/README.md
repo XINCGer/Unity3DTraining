@@ -22,7 +22,8 @@
 * [Unity Asset Bundles tips and pitfalls](https://blog.unity.com/engine-platform/unity-asset-bundles-tips-pitfalls)
 * [Unity Asset Bundles，不可不知的使用技巧和误区](https://mp.weixin.qq.com/s/2wMpO9h7aCcv3gpVBJxQDA)
 * [团结 AssetBundle 新功能深度解析：加密、依赖分析优化与并行构建提升](https://mp.weixin.qq.com/s/05_Jbh6SmMNK8yId88hgdA)
-* [Unity IL2CPP的GC原理](https://mp.weixin.qq.com/s/iz54xvT4NQV01R2q76ENGw)  
+* [Unity IL2CPP的GC原理](https://mp.weixin.qq.com/s/iz54xvT4NQV01R2q76ENGw)
+* [团结 AssetBundle 新功能深度解析 Ⅱ：多进程并行构建提升](https://mp.weixin.qq.com/s/uL-6AePwRClkV_XB_Mn7Lw)  
 
 ## UnrealEngine分析  
 * [虚幻引擎编译系统总结](https://mp.weixin.qq.com/s/33nGKBrEl2W9Q8vBbd66pw)
