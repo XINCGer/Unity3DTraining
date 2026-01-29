@@ -73,7 +73,8 @@
 >* [🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析](https://github.com/sansan0/TrendRadar)
 >* [trae-agent Trae Agent is an LLM-based agent for general purpose software engineering tasks](https://github.com/bytedance/trae-agent)
 >* [A2UI - Agent-to-User Interface](https://github.com/google/A2UI?tab=readme-ov-file)
->* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)  
+>* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)
+>* [eigent - The Open Source Cowork Desktop to Unlock Your Exceptional Productivity](https://github.com/eigent-ai/eigent)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
