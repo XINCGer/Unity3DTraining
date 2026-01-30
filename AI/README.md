@@ -19,6 +19,7 @@
 >* [uLoopMCP](https://github.com/hatayama/uLoopMCP/)
 >* [SharpToolsMCP](https://github.com/kooshi/SharpToolsMCP)
 >* [mcp-perforce](https://github.com/Cocoon-AI/mcp-perforce)
+>* [genai-toolbox - MCP Toolbox for Databases is an open source MCP server for databases](https://github.com/googleapis/genai-toolbox)  
 
 ### Skill  
 >* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)
