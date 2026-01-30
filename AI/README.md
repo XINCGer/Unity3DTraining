@@ -76,7 +76,8 @@
 >* [A2UI - Agent-to-User Interface](https://github.com/google/A2UI?tab=readme-ov-file)
 >* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)
 >* [eigent - The Open Source Cowork Desktop to Unlock Your Exceptional Productivity](https://github.com/eigent-ai/eigent)
->* [BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)  
+>* [BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
+>* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
