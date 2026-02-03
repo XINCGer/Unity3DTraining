@@ -84,4 +84,5 @@
 
 ### Misc  
 >* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
->* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)  
+>* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
+>* [docutranslate - 文档（小说、论文、字幕）翻译工具](https://github.com/xunbu/docutranslate)  
