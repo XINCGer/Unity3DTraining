@@ -83,4 +83,5 @@
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
 
 ### Misc  
->* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)  
+>* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
+>* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)  
