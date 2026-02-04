@@ -36,7 +36,8 @@
 >* [MonkeyCode - 企业级 AI 编程助手](https://github.com/chaitin/MonkeyCode?tab=readme-ov-file)
 >* [XCodeReviewer - 基于大语言模型（LLM）的智能审计工具](https://github.com/lintsinghua/XCodeReviewer)
 >* [opencode - The open source coding agent](https://github.com/anomalyco/opencode)
->* [cherry-studio](https://github.com/CherryHQ/cherry-studio)  
+>* [cherry-studio](https://github.com/CherryHQ/cherry-studio)
+>* [AionUi - Free, local, open-source 24/7 Cowork and OpenClaw](https://github.com/iOfficeAI/AionUi/tree/main)  
 
 ### AI creation  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
@@ -79,7 +80,8 @@
 >* [daily_stock_analysis - LLM驱动的 A 股智能分析器](https://github.com/ZhuLinsen/daily_stock_analysis)
 >* [eigent - The Open Source Cowork Desktop to Unlock Your Exceptional Productivity](https://github.com/eigent-ai/eigent)
 >* [BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
->* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)  
+>* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
+>* [AionUi - ]()  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
