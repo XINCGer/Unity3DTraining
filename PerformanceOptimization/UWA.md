@@ -319,4 +319,5 @@
 >* [【厚积薄发】UE是怎么管理纹理的各向异性采样的](https://mp.weixin.qq.com/s/jZUOh-3PjyE0UmSGc_BX0w)
 >* [【厚积薄发】如何使Bloom只局部地作用于特效以提高性能](https://mp.weixin.qq.com/s/KaAOs4cVKiC5cWao83CU_Q)
 >* [【厚积薄发】.so mmap计算工具内存翻倍现象](https://mp.weixin.qq.com/s/7kDxyvT_5wlkNvXstJJYuQ)
->* [【厚积薄发】UE的粒子系统开销怎么优化](https://mp.weixin.qq.com/s/cv21rKc6o8yncIfvRL2zHw)  
+>* [【厚积薄发】UE的粒子系统开销怎么优化](https://mp.weixin.qq.com/s/cv21rKc6o8yncIfvRL2zHw)
+>* [【厚积薄发】堆内存对象的Managed Size具体是如何计算的](https://mp.weixin.qq.com/s/_p0T1h0MumAUgTCa3aiw3Q)  
