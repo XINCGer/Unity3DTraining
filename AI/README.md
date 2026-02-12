@@ -63,7 +63,8 @@
 >* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)  
 
 ### LLM  
->* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)  
+>* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)
+>* [HY-Motion-1.0 腾讯混元](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)  
 
 ### Workflow  
 >* [claude-flow](https://github.com/ruvnet/claude-flow)
