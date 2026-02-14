@@ -89,7 +89,8 @@
 >* [camel - The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
 
 ### Document  
->* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)  
+>* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
+>* [使用 Agent 编码的最佳实践](https://cursor.com/cn/blog/agent-best-practices)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
