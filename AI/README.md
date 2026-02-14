@@ -86,7 +86,10 @@
 >* [eigent - The Open Source Cowork Desktop to Unlock Your Exceptional Productivity](https://github.com/eigent-ai/eigent)
 >* [BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
 >* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
->* [camel - The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)  
+>* [camel - The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
+
+### Document  
+>* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
