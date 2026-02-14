@@ -90,7 +90,8 @@
 
 ### Document  
 >* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
->* [使用 Agent 编码的最佳实践](https://cursor.com/cn/blog/agent-best-practices)  
+>* [使用 Agent 编码的最佳实践](https://cursor.com/cn/blog/agent-best-practices)
+>* [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
