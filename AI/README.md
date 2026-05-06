@@ -67,7 +67,8 @@
 >* [JJYB_AI_VideoAutoCut- 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)
 >* [Pixelle-Video AI 全自动短视频引擎](https://github.com/AIDC-AI/Pixelle-Video)
 >* [VideoCaptioner - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手](https://github.com/WEIFENG2333/VideoCaptioner)
->* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance)  
+>* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
+>* [NovelForge - AI辅助长篇小说创作，卡片式创作](https://github.com/RhythmicWave/NovelForge)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
