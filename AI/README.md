@@ -27,7 +27,8 @@
 >* [mcp-go](https://github.com/mark3labs/mcp-go)  
 
 ### Skill  
->* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)
+>* [nuwa-skill 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA](https://github.com/alchaincyf/nuwa-skill)  
+>* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)  
 >* [awesome-agent-skills - Agent Skills 权威中文指南：快速入门、推荐技能、最新资讯与实战案例](https://github.com/libukai/awesome-agent-skills?tab=readme-ov-file)
 >* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 >* [awesome-claude-skills (The awesome collection of Claude Skills and resources)](https://github.com/VoltAgent/awesome-claude-skills)
