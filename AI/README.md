@@ -113,7 +113,8 @@
 >* [BMAD-METHOD - Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
 >* [hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
 >* [camel - The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
->* [agent-framework - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)  
+>* [agent-framework - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
+>* [Locus-The open source Unity Dev Agent](https://github.com/r1n7aro/Locus)  
 
 ### Document  
 >* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
