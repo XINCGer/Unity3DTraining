@@ -54,7 +54,8 @@
 >* [XCodeReviewer - 基于大语言模型（LLM）的智能审计工具](https://github.com/lintsinghua/XCodeReviewer)
 >* [opencode - The open source coding agent](https://github.com/anomalyco/opencode)
 >* [cherry-studio](https://github.com/CherryHQ/cherry-studio)
->* [AionUi - Free, local, open-source 24/7 Cowork and OpenClaw](https://github.com/iOfficeAI/AionUi/tree/main)  
+>* [AionUi - Free, local, open-source 24/7 Cowork and OpenClaw](https://github.com/iOfficeAI/AionUi/tree/main)
+>* [awesome-copilot](https://github.com/github/awesome-copilot)  
 
 ### AIGC  
 >* [ComfyUI](https://github.com/Comfy-Org/ComfyUI)  
