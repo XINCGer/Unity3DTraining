@@ -40,6 +40,7 @@
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
+>* [copilot-cli](https://github.com/github/copilot-cli)  
 
 ### Memory  
 >* [mem0 -Universal memory layer for AI Agents](https://github.com/mem0ai/mem0#)  
