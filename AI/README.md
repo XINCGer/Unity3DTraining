@@ -36,9 +36,7 @@
 >* [playwright-skill - Claude Code Skill for browser automation with Playwright](https://github.com/lackeyjb/playwright-skill)
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
 >* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
->* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
->* [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
->* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance/)  
+>* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
@@ -73,7 +71,10 @@
 >* [Pixelle-Video AI 全自动短视频引擎](https://github.com/AIDC-AI/Pixelle-Video)
 >* [VideoCaptioner - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手](https://github.com/WEIFENG2333/VideoCaptioner)
 >* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
->* [NovelForge - AI辅助长篇小说创作，卡片式创作](https://github.com/RhythmicWave/NovelForge)  
+>* [NovelForge - AI辅助长篇小说创作，卡片式创作](https://github.com/RhythmicWave/NovelForge)
+>* [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)  
+>* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance/)
+>* [awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板](https://github.com/freestylefly/awesome-gpt-image-2)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
@@ -81,7 +82,7 @@
 
 ### Prompt  
 >* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)  
->* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+>* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)  
 
 ### Knowledge  
 >* [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)  
