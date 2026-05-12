@@ -37,7 +37,8 @@
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
 >* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
 >* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
->* [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)  
+>* [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
+>* [awesome-seedance](https://github.com/ZeroLu/awesome-seedance/)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
