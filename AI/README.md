@@ -98,7 +98,8 @@
 ### Workflow  
 >* [claude-flow](https://github.com/ruvnet/claude-flow)
 >* [C2C - The official code implementation for "Cache-to-Cache: Direct Semantic Communication Between Large Language Models"](https://github.com/thu-nics/C2C)
->* [langgraph - Build resilient language agents as graphs](https://github.com/langchain-ai/langgraph)  
+>* [langgraph - Build resilient language agents as graphs](https://github.com/langchain-ai/langgraph)
+>* [langchaingo - LangChain for Go, the easiest way to write LLM-based programs in Go](https://github.com/tmc/langchaingo)  
 
 ### Text-to-Speech  
 >* [Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
