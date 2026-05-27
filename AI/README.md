@@ -126,7 +126,8 @@
 >* [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 >* [Claude Code Doc](https://code.claude.com/docs/zh-CN/overview)
 >* [claude-code-guide (Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user)](https://github.com/zebbern/claude-code-guide)
->* [当AI学会了”做梦”：深扒Claude Code记忆系统](https://zhuanlan.zhihu.com/p/2023422937345135507)  
+>* [当AI学会了”做梦”：深扒Claude Code记忆系统](https://zhuanlan.zhihu.com/p/2023422937345135507)
+>* [seedance-2-0-official-launch](https://seed.bytedance.com/zh/blog/seedance-2-0-official-launch)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
