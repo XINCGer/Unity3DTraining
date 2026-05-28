@@ -234,6 +234,7 @@
 >* [miniob - one mini database, helping developers to learn how database works](https://github.com/oceanbase/miniob)
 >* [SpacetimeDB - Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
 >* [rethinkdb - The open-source database for the realtime web](https://github.com/rethinkdb/rethinkdb)
+>* [sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)  
 
 #### 图床  
 >* [PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新](https://github.com/CooperJiang/PixelPunk)  
