@@ -37,8 +37,7 @@
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
 >* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
 >* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
->* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
->* [awesome-gpt-image-2 GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills](https://github.com/freestylefly/awesome-gpt-image-2)  
+>* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
@@ -83,7 +82,6 @@
 >* [AstrBot-✨ 一站式 LLM 聊天机器人平台及开发框架](https://github.com/AstrBotDevs/AstrBot)  
 
 ### Prompt  
->* [awesome-gpt-image-2 GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills](https://github.com/freestylefly/awesome-gpt-image-2)  
 >* [Quick Prompt ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt)  
 >* [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)  
 
