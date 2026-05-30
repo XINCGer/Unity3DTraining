@@ -36,7 +36,8 @@
 >* [playwright-skill - Claude Code Skill for browser automation with Playwright](https://github.com/lackeyjb/playwright-skill)
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
 >* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
->* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)  
+>* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+>* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
