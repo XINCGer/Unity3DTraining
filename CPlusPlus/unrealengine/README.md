@@ -48,4 +48,5 @@
 >* [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent)
 >* [UEViewer - Viewer and exporter for Unreal Engine 1-4 assets](https://github.com/gildor2/UEViewer)
 >* [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin)
->* [VoxelPluginFreeLegacy](https://github.com/VoxelPlugin/VoxelPluginFreeLegacy)  
+>* [VoxelPluginFreeLegacy](https://github.com/VoxelPlugin/VoxelPluginFreeLegacy)
+>* [cesium-unreal (Bringing the 3D geospatial ecosystem to Unreal Engine)](https://github.com/CesiumGS/cesium-unreal)  
