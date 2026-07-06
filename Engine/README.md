@@ -54,6 +54,7 @@
 * [chrono-High-performance C++ library for multiphysics and multibody dynamics simulations](https://github.com/projectchrono/chrono)  
 * [mujoco-Multi-Joint dynamics with Contact. A general purpose physics simulator](https://github.com/deepmind/mujoco)  
 * [box2d-netstandard](https://github.com/codingben/box2d-netstandard)
+* [box3d-Box3D is a 3D physics engine for games](https://github.com/erincatto/box3d)  
 * [bepuphysics2 - Pure C# 3D real time physics simulation library, now with a higher version number](https://github.com/bepu/bepuphysics2)
 * [The Open Dynamics Engine (ODE)](https://github.com/thomasmarsh/ODE)
 * [IrrPAL - repository for Irrlicht and PAL physics integration](https://github.com/netpipe/IrrPAL)
