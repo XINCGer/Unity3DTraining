@@ -140,4 +140,5 @@
 >* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
 >* [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
 >* [docutranslate - 文档（小说、论文、字幕）翻译工具](https://github.com/xunbu/docutranslate)
->* [easyVoice - 开源文本转语音工具，支持超长文本，多角色配音](https://github.com/cosin2077/easyVoice)  
+>* [easyVoice - 开源文本转语音工具，支持超长文本，多角色配音](https://github.com/cosin2077/easyVoice)
+>* [DeepSpec - a full-stack codebase for training and evaluating speculative decoding algorithms](https://github.com/deepseek-ai/DeepSpec)  
