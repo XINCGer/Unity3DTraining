@@ -122,7 +122,8 @@
 >* [camel - The first and the best multi-agent framework. Finding the Scaling Law of Agents](https://github.com/camel-ai/camel)
 >* [agent-framework - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
 >* [Locus-The open source Unity Dev Agent](https://github.com/r1n7aro/Locus)
->* [gstack - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA](https://github.com/garrytan/gstack)  
+>* [gstack - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA](https://github.com/garrytan/gstack)
+>* [cindy - 心动网络 开源、开箱即用的 AI Agent](https://github.com/makecindy/cindy)  
 
 ### Document  
 >* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
