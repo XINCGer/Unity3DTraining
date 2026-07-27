@@ -37,7 +37,8 @@
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
 >* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
 >* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
->* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)  
+>* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
+>* [awesome-design-md - Curated collection of DESIGN.md analysis by developer focused websites](https://github.com/VoltAgent/awesome-design-md)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
