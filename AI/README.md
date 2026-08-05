@@ -41,6 +41,9 @@
 >* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
 >* [awesome-design-md - Curated collection of DESIGN.md analysis by developer focused websites](https://github.com/VoltAgent/awesome-design-md)  
 
+### SDK  
+>* [openai-dotnet - The official .NET library for the OpenAI API](https://github.com/openai/openai-dotnet)  
+
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
 >* [copilot-cli](https://github.com/github/copilot-cli)  
