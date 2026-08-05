@@ -40,6 +40,7 @@
 >* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 >* [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
 >* [awesome-design-md - Curated collection of DESIGN.md analysis by developer focused websites](https://github.com/VoltAgent/awesome-design-md)  
+>* [human-writing 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用](https://github.com/KKKKhazix/human-writing)  
 
 ### SDK  
 >* [openai-dotnet - The official .NET library for the OpenAI API](https://github.com/openai/openai-dotnet)  
