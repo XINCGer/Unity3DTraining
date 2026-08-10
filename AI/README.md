@@ -43,7 +43,8 @@
 >* [human-writing 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用](https://github.com/KKKKhazix/human-writing)  
 
 ### SDK  
->* [openai-dotnet - The official .NET library for the OpenAI API](https://github.com/openai/openai-dotnet)  
+>* [openai-dotnet - The official .NET library for the OpenAI API](https://github.com/openai/openai-dotnet)
+>* [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
