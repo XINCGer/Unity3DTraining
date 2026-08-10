@@ -140,8 +140,9 @@
 >* [当AI学会了”做梦”：深扒Claude Code记忆系统](https://zhuanlan.zhihu.com/p/2023422937345135507)
 >* [seedance-2-0-official-launch](https://seed.bytedance.com/zh/blog/seedance-2-0-official-launch)  
 
-### Service  
+### Service&Gateway    
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
+>* [bifrost - Fastest enterprise AI gateway (50x faster than LiteLLM) ](https://github.com/maximhq/bifrost)  
 
 ### Misc  
 >* [MinerU - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows](https://github.com/opendatalab/MinerU)
