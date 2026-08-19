@@ -749,4 +749,5 @@
 * [Unity资源缓存池,用来提前实例化防止运行时卡顿](https://github.com/zhimingliang/GameObjectPool)
 * [ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer)
 * [UnityNonConvexMeshColliders - Provides three types of non-convex MeshCollider approximations that work with rigid bodies](https://github.com/JohannHotzel/UnityNonConvexMeshColliders)
-* [UABEANext](https://github.com/nesrak1/UABEANext)  
+* [UABEANext](https://github.com/nesrak1/UABEANext)
+* [scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)  
