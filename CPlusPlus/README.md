@@ -336,7 +336,8 @@
 >* [miniaudio -Audio playback and capture library written in C, in a single source file](https://github.com/mackron/miniaudio)
 >* [deskflow - Share a single keyboard and mouse between multiple computers](https://github.com/deskflow/deskflow)
 >* [watchman - Watches files and records, or triggers actions, when they change](https://github.com/facebook/watchman)
->* [crun - A fast and lightweight fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)  
+>* [crun - A fast and lightweight fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)
+>* [HyperLPR - 高性能中国车牌识别框架](https://github.com/szad670401/HyperLPR)  
 
 ## Shader  
 >* [ShaderLab](https://github.com/BobLChen/ShaderLab/)  
