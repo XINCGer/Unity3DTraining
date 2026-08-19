@@ -104,7 +104,8 @@
 ### LLM  
 >* [LLM-RL-Visualized 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献](https://github.com/changyeyu/LLM-RL-Visualized)
 >* [HY-Motion-1.0 腾讯混元](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)
->* [ACE-Step-1.5 The most powerful local music generation model that outperforms most commercial alternatives](https://github.com/ace-step/ACE-Step-1.5)  
+>* [ACE-Step-1.5 The most powerful local music generation model that outperforms most commercial alternatives](https://github.com/ace-step/ACE-Step-1.5)
+>* [nano-vllm - A lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)  
 
 ### Workflow  
 >* [claude-flow](https://github.com/ruvnet/claude-flow)
